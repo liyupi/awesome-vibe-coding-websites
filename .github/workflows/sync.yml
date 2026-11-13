@@ -1,0 +1,29 @@
+# Regenerates this repository from vibefather.ai once a day (09:00 Beijing time).
+# Everything outside .github/ is generated from the VibeFather catalog — edits to those files are overwritten.
+name: Sync from VibeFather
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - run: node .github/scripts/sync.mjs
+        env:
+          VF_EXPORT_TOKEN: ${{ secrets.VF_EXPORT_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
