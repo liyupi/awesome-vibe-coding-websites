@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/interactive-synth-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/interactive-synth-web-toy/58b0d596-64c6-4ab4-8213-d577a8fe4c23/webp.05d1b4c4e6.webp" width="100%" alt="Interactive Synth Web Toy — Browser Synthesizer with 16-Step Sequencer built by Claude Opus 5.5 and Claude Sonnet 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-synth-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-synth-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This template builds a one-page musical instrument that runs entirely in the browser. There is no landing page in front of it: the first screen is the panel itself, with a wide waveform scope on top, a strip of voice and transport controls in the middle, and a 16-step pattern grid above a 25-key keyboard. Visitors can press a key with a mouse, a finger or their computer keyboard and hear sound right away. Every sound is synthesized live with the Web Audio API, so there are no sample files to license or host, and the finished site is plain static files.
 

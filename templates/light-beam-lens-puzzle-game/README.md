@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/light-beam-lens-puzzle-game/3258c5c0-5ac5-4839-b604-2aacb16b271e/webp.196f14119b.webp" width="100%" alt="Light Beam Lens Puzzle Game — 3D Crystal Cave Light Puzzle Game built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Light Beam Lens Puzzle Game is a complete browser-based 3D logic game for people who prefer thoughtful puzzles to timers and pressure. The first screen is the game itself: a faceted crystal chamber surrounds an isometric board, a live beam responds to every rotation, and a compact control rail keeps the current objective, move count, undo, and restart close at hand. The default world, brand, story fragments, and level names are invented.
 

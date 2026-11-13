@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/webp.fddf416309.webp" width="100%" alt="Open World City Driving Game — Low-Poly Dusk City Driving Game built by Grok 4.7"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Open World City Driving Game is a single-page browser game on a small city grid at dusk. The first screen is the district itself: low-poly blocks, a pocket park, six parked pool cars, and traffic already moving, with a title card beside the view. The player then walks the sidewalks, sits in any club car, and drives with simple arcade steering. Those cars belong to an invented neighborhood car club. The errands are porch deliveries and a friendly lap.
 

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/interactive-lesson-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/4188fe48-fb9e-4033-8327-bb2c87c97d5c/webp.ee063d3ddb.webp" width="100%" alt="Interactive Lesson Slides — Lesson Slide Deck with Quizzes and Live Code built by Claude Opus 5.5 and Claude Sonnet 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-lesson-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-lesson-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Interactive Lesson Slides is a working lesson deck that runs in the browser, not a landing page about one. It opens straight on the deck: an outline on the left, a 16:9 chalk-green slide stage in the center, and a slim control bar below with progress, slide number, drawing tools and a copy-link button. Twelve slides walk through a sample lesson on sorting, and each slide type behaves differently. Multiple-choice questions reveal the answer and a short explanation the moment a learner clicks, and a running score follows them through the outline to the recap. A drag-to-reorder check and a fill-in-the-blank check test recall in other ways. The live code slide pairs an editor with a console that runs JavaScript in a sandboxed iframe with no network access, so errors and endless loops stay contained.
 

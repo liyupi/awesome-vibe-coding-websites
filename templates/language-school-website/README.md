@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/language-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/language-school-website/f265748c-41bd-476d-9137-25355ffe8450/webp.5d7c8e0782.webp" width="100%" alt="Language School Website — Language School Website with Placement Quiz built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/language-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/language-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Language School Website is a warm, content-rich site for independent schools, community language programs, and small teaching studios. It brings the essential enrollment journey into one polished page: visitors can compare courses by language and level, take a ten-question placement quiz, review weekly schedules and prices, meet their teachers, and send an enrollment request. The quiz is more than a decorative modal. It includes scored answer banks, progress tracking, level recommendations, and a direct route back to matching courses.
 

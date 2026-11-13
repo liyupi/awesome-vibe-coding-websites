@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/ef01b8f6-ba7e-42af-b0b8-a2c800eae935/webp.2dd59a2457.webp" width="100%" alt="Interactive Apartment Floor Plan Tour — Explorable 2D and 3D Apartment built by GPT-6.1 Sol"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Turn a floor plan into a place visitors can understand. This apartment tour pairs an architectural drawing with an original furnished model: the walls rise from the plan, furniture comes into view, and the camera settles above the rooms. Visitors can switch between the two views whenever they need to check how a room connects to the rest of the home.
 

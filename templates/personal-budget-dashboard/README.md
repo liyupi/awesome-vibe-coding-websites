@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/personal-budget-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-budget-dashboard/32da5ac6-1443-4006-82fb-157c5b37bb13/webp.1ed714f767.webp" width="100%" alt="Personal Budget Dashboard — Personal Budget App with Charts and Goals built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/personal-budget-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/personal-budget-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Personal Budget Dashboard is a working browser-based budget for people who want a clear monthly plan without connecting a bank account. The default content follows Maya's two-income household through a sample month, with income, everyday transactions, eight category budgets, and a plan that reconciles down to the cent. Overview, Transactions, and Goals share the same state, so adding an expense immediately changes the summary, donut, daily chart, ledger, and progress bars.
 

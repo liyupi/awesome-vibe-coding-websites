@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/interactive-3d-stream-diorama/90bc9ccc-83e1-4d5b-8a38-5a5a30a7103f/webp.a5d6253969.webp" width="100%" alt="Interactive 3D Stream Diorama — Interactive 3D Stream with Dynamic Water built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-3d-stream-diorama?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-3d-stream-diorama?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Interactive 3D Stream Diorama is a single-screen nature study built around a living, procedural landscape. Instead of leading with a large headline or a stock photograph, it puts visitors directly above an asymmetric cutaway stream bank. Water moves between stones, grasses catch the light, and every click or drag across the surface sends out a new ripple. The scene is the product, the explanation, and the main interaction.
 

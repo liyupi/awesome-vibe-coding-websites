@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/night-market-food-festival/41a9fe20-4116-4101-afb8-1377e94718e4/webp.4e5ca81385.webp" width="100%" alt="Night Market Food Festival — Night Market with Vendor Map built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Night Market Food Festival is a neon-night single-page template for an invented street-food market. The first screen is all atmosphere: a lantern-lit stall photograph after dusk under a deep indigo sky, a headline with one amber-glow word, and the market's hours and yard spelled out in chips. From there the page does a festival's real work — helping visitors plan a night and helping cooks apply for a stall.
 

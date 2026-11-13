@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/lo-fi-room-ambience-mixer/7dc34230-9e80-4337-96e3-88603926f8bf/webp.293150202e.webp" width="100%" alt="Lo-fi Room Ambience Mixer — Cozy Lo-fi Room Mixer with Animated Ambience built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Lo-fi Room Ambience Mixer is a single-page focus space built around an original illustrated room rather than a conventional marketing hero. Rain crosses the window, steam curls from a cup, flames light the fireplace, a record turns, and birds move outside. Each detail responds to its own sound slider, making the mix visible as well as audible. A focus timer and locally saved mixes turn the scene into a useful daily ritual.
 

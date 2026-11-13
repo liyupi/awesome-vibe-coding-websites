@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/painter-portfolio-and-print-shop/4679ba66-293e-4438-baa9-8729f597243a/webp.10430ec529.webp" width="100%" alt="Painter Portfolio and Print Shop — Painter Portfolio with Gallery and Print Shop built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Painter Portfolio and Print Shop is a multi-page website for artists who want their work and their store to share the same visual language. It suits painters, mixed-media artists, and illustrators selling originals, archival prints, or commissioned pieces. The default example follows an invented coastal abstract painter, while an alternate set of variables shifts the story to a desert botanical practice without changing the layout.
 

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/stickerbomb/95b6de1a-5ae4-4fff-a146-bf26b7084d23/webp.6e1c105e62.webp" width="100%" alt="Neo-Brutalist Blog and Portfolio — Neo-Brutalist Portfolio and Blog Template with Hard Shadows and Marquee built by Claude Opus 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Stickerbomb is a three-page personal site for someone who both writes and draws: a home page, a blog index and a single post layout, built as plain static HTML with Vite and no framework. It suits illustrators, essayists, zine makers, comics artists and anyone who publishes words and pictures under their own name and wants the site to feel made by hand rather than assembled from a kit.
 

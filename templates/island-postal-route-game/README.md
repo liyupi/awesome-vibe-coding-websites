@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/island-postal-route-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/island-postal-route-game/d8a66cd7-bdcf-44ca-954a-24656d4f99fb/webp.419f1d5670.webp" width="100%" alt="Island Postal Route Game — Low-Poly 3D Island Exploration Game built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/island-postal-route-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/island-postal-route-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Island Postal Route Game is a complete, single-screen browser game for players who prefer a quiet journey to combat or countdowns. An original low-poly courier begins beside a tiny post house, follows branching island paths, and collects wind, river, and mountain stamps. The three discoveries open a timber temple gate, turning a short walk into a clear and satisfying delivery route.
 

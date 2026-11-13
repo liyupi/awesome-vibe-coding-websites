@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/insurance-agency-quote-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/insurance-agency-quote-website/1bdc8876-1a58-4160-8cf5-99dac712ae60/webp.756eee14f5.webp" width="100%" alt="Insurance Agency Quote Website — Insurance Website with Multi-Step Quote Form built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/insurance-agency-quote-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/insurance-agency-quote-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Insurance Agency Quote Website is a three-page site for an independent agency that wants to explain coverage without overwhelming visitors. The homepage pairs a wide neighborhood photograph with immediate home, auto, and life quote entry points, then moves through coverage guidance, a three-step working process, three agent profiles, sample client stories, and a claims checklist. A dedicated quote page turns those paths into a short branching form with validation, editable answers, and a useful final summary. The claims page gives visitors calm first steps, coverage-specific document checklists, a general claims timeline, and direct answers to common questions.
 

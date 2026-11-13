@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/marketplace-shopping-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/marketplace-shopping-app/5014bb9f-827d-4a36-86a9-cef237424383/webp.1d735bb919.webp" width="100%" alt="Marketplace Shopping App — Interactive Marketplace Shopping App built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/marketplace-shopping-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/marketplace-shopping-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Marketplace Shopping App is a dense, mobile-first storefront for an invented multi-seller marketplace. It suits founders, indie makers, and small retail teams who want more than a standard product grid: shoppers can search with suggestion chips, browse categories, follow a flash sale, claim coupons, explore an endless waterfall of products, choose exact variants, and build a cart across several stores.
 

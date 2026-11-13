@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/anime-character-run-cycle-showcase/86bdf988-a1d2-4948-9876-e05d189ef61d/webp.99680035ef.webp" width="100%" alt="Anime Character Run Cycle Showcase — Toon-Shaded Anime Run Cycle Viewer built by Grok 4.7"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This template is a bright studio stage for watching one run cycle. The runner is built only from spheres, capsules and boxes, with a real bone hierarchy and dark toon outlines. Hips and chest twist against each other, the arms oppose the legs, the body rises and drops, and the head stays nearly level. Two short hair locks and a single waist tie follow a step late. Dashes on the plaster lane move at two meters per second, the same speed as the planted shoe, so the foot stays on a mark instead of skating.
 

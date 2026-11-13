@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/music-streaming-app-with-lyrics?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/music-streaming-app-with-lyrics/61089e68-59ef-473b-8b45-62b8846d9dfd/webp.303bfd38e5.webp" width="100%" alt="Music Streaming App with Lyrics — Music Streaming App with Synced Lyrics built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/music-streaming-app-with-lyrics?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/music-streaming-app-with-lyrics?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Music Streaming App with Lyrics is a working, client-side listening experience rather than a static music-dashboard mockup. It opens into an editorial library of invented artists and original cover art, then carries the same playback state through sample charts, an immersive now-playing view, song comments, and a queue drawer. It suits music-product concepts, creator portfolios, design experiments, and developers who want a substantial audio interface without a backend.
 

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/meeting-scheduler-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/meeting-scheduler-booking-page/e5638a86-5e2d-4203-9074-9d5e89ecb0a9/webp.6ed9be8b6e.webp" width="100%" alt="Meeting Scheduler Booking Page — Personal Booking Page with Time Zone Calendar built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/meeting-scheduler-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/meeting-scheduler-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Meeting Scheduler Booking Page is a complete, client-side scheduling flow for an independent consultant, coach, freelancer, or small studio. The page pairs a calm host introduction with a functional booking workspace, so visitors can move from choosing a session to downloading a calendar event without creating an account.
 

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/moving-company-quote-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/moving-company-quote-page/4769861d-18b6-4837-a102-422a3477c892/webp.162e55d00f.webp" width="100%" alt="Moving Company Quote Page — Moving Quote Page with Inventory Calculator built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/moving-company-quote-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/moving-company-quote-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Moving Company Quote Page is a single-page website for a local mover that wants to answer practical questions before asking for contact details. It suits residential movers, apartment specialists, and small relocation teams. Visitors can choose a home size, adjust a room-by-room inventory, enter mileage, and see the recommended truck, crew, labor time, and price range update together. A booking request carries the current estimate into a clear final step. A persistent ledger explains labor, truck, and mileage charges instead of hiding the logic behind a single number.
 

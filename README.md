@@ -10,7 +10,7 @@
 <h1 align="center">Awesome Vibe Coding Websites</h1>
 
 <p align="center">
-  <b>269 original websites built by AI coding agents — each with a live demo, the exact prompt and a DESIGN.md.</b><br>
+  <b>269 original website templates and 552 live demos built by AI coding agents — each with the exact prompt and a DESIGN.md.</b><br>
   Pick one, swap the <code>[VARIABLES]</code>, paste it into Claude Code, Cursor or Codex, and ship your own.
 </p>
 

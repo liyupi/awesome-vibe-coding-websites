@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/webp.e1c9a712d7.webp" width="100%" alt="Liquid Glass Product Page — Liquid Glass Product Landing Page built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Meniscus is a single-page product launch site for a physical object that is meant to be looked at. The default build sells Tide, an invented hand-blown glass room speaker from a small Portland studio, and walks a visitor from first impression to a refundable preorder deposit without leaving the page. It suits hardware founders running a first production batch, design-led device brands, crowdfunding campaigns that want their own page, and studios pitching a product concept to clients.
 

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/webp.8ddca7d1a1.webp" width="100%" alt="Neon Snake 3D Game — Snake Game on a Glowing 3D Grid built by Grok 4.7"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Neon Snake 3D Game is a single-page browser game. The first screen is a dark 16 by 16 grid, with a four-part sea-glass snake already posed and one copper bead ahead of it. A frosted card sits left of that view on a desk, and along the bottom on a phone, leaving the grid visible. Every segment glides from cell to cell together. The camera stays south of the head, so arrow keys stay tied to the screen.
 

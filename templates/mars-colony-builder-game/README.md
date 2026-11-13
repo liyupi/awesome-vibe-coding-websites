@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/5f787637-e0bf-460e-aeb8-9abdb3b13dc7/webp.06930970e1.webp" width="100%" alt="Mars Colony Builder Game — Isometric Mars Colony Strategy Game built by Grok 4.7"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Mars Colony Builder Game is a single-screen strategy game. The default colony is Hearthline, founded by the Amberline Survey in Tallow Crater. The first screen is the basin: an isometric 12 by 12 grid, rust ground, a raised rim, six boulders, one copper habitat, and a dust haze, with dark glass columns over the basin. The help log names Nia Calder, Omar Voss, and Priya Sen.
 

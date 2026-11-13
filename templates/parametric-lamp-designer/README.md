@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/parametric-lamp-designer/3734c37a-222c-45e2-9be5-e3eda4088389/webp.07da5beddd.webp" width="100%" alt="Parametric Lamp Designer — Real-Time 3D Parametric Lamp Studio built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Parametric Lamp Designer is a focused browser workspace for turning a few numerical choices into a luminous, original lighting concept. It suits product designers, makers, creative studios, and anyone who enjoys seeing cause and effect in a beautifully rendered 3D scene. The default Loom & Ember studio presents the Strata Lattice Lamp, while every name, audience line, and piece of interface copy remains editable through a small set of variables.
 

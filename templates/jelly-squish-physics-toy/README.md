@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/jelly-squish-physics-toy/670172d8-dc9f-4e27-83f7-7045f2a9caf1/webp.db08a23285.webp" width="100%" alt="Jelly Squish Physics Toy — Soft-body Dessert Playground built by GPT-6.1 Sol"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/jelly-squish-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/jelly-squish-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Jelly Squish Physics Toy turns a small dessert into a tactile browser playground. A translucent, fluted jelly sits on a ceramic plate in a soft peach studio. It is ready to touch as soon as the page opens. Press into its surface, pull an edge, or let it fall onto the plate and watch the shape ripple back into place. The movement comes from a connected spring mesh, so the point you grab and the surrounding surface respond together.
 

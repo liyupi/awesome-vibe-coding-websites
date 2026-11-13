@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/jet-engine-interactive-explainer/c3f78554-75a3-4b98-a3b3-d3091cea8c27/webp.f2b03a5787.webp" width="100%" alt="Jet Engine Interactive Explainer — Interactive 3D Turbofan Engine Explainer built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Jet Engine Interactive Explainer is a single-page engineering lesson built around an original procedural Three.js turbofan, not a downloaded model or a video. The default case presents Aerofield Lab’s AF-09 high-bypass engine for engineering students. It also fits educators, museum teams, technical creators, and aviation communicators who need to show how air moves through a machine and how each major stage contributes to thrust.
 

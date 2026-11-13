@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/interactive-product-tour-page/cf555c73-30a6-4c58-9e37-1c01a352e7dc/webp.80e6bcd820.webp" width="100%" alt="Interactive Product Tour Page — Interactive SaaS Product Tour with Hotspots built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Interactive Product Tour Page is a single-page SaaS site built around a working, code-drawn product demo rather than a passive screenshot. A split hero introduces the product and places a complete guided workspace beside it. Three chapter tabs lead visitors through nine focused steps, with anchored hotspots, masked spotlights, concise tooltips, progress controls, optional autoplay, and a conversion prompt after every chapter. The interaction works with mouse, touch, and keyboard, and the mobile version moves guidance below the interface so nothing becomes a tiny desktop mockup.
 

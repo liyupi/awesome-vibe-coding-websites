@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/nutritionist-website-with-plate-builder/f3a3eff1-7968-4471-91bd-e609aa347987/webp.99997a257d.webp" width="100%" alt="Nutritionist Website with Plate Builder — Nutritionist Site with Plate Builder built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/nutritionist-website-with-plate-builder?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/nutritionist-website-with-plate-builder?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Nutritionist Website with Plate Builder is a bright one-page site for a nutrition-coaching practice, built around an interactive daily-plate tool. Visitors scan services and program pricing, read a three-step explanation of how coaching runs, then tap food groups to fill a drawn plate ring and watch a friendly balance readout respond — the practice's whole philosophy demonstrated in one interaction. A three-recipe preview, quiet client quotes, an about block, and a discovery-call booking sample complete the page. All copy stays at the food-and-habits level with no medical claims anywhere, and the booking flow is a local-only demonstration.
 

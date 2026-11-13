@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/live-shopping-stream-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/live-shopping-stream-page/26790cec-6201-43f3-9135-9713d6cd85ec/webp.bea368c2a8.webp" width="100%" alt="Live Shopping Stream Page — Interactive Live Shopping Stream built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/live-shopping-stream-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/live-shopping-stream-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Live Shopping Stream Page is an original, fully client-side live-commerce experience for independent shops, creators and retail teams. It presents a fictional host in a warm studio scene, then coordinates product spotlights, audience messages, gift reactions and a limited-time coupon around one clear shopping journey. The experience feels like a live event without requiring video hosting, chat infrastructure, accounts or a payment service.
 

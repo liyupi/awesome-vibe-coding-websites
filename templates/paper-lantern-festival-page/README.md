@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/paper-lantern-festival-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/paper-lantern-festival-page/6e76915f-c856-4ff1-b8d8-20d3d0c08887/webp.f1756c0615.webp" width="100%" alt="Paper Lantern Festival Page — Interactive Lantern Festival with Wishes built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/paper-lantern-festival-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/paper-lantern-festival-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Paper Lantern Festival Page is a single-page interactive ritual built around an illustrated river at night. A visitor writes a wish, watches a sheet of paper fold into a glowing lantern, and releases it into a sky of gentle ambient lights. The personal gallery keeps each released wish on the same device, with controls to launch it again or remove it.
 

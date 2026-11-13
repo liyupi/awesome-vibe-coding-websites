@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/lifestyle-notes-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/lifestyle-notes-community/7098f965-cece-465e-9e97-297c41f3c7f2/webp.ca69c1e9ad.webp" width="100%" alt="Lifestyle Notes Community — Image-First Lifestyle Notes Community built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/lifestyle-notes-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/lifestyle-notes-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Lifestyle Notes Community is a complete, image-first social browsing experience for creators, tastemakers, and community builders. It combines a warm editorial feed, immersive note pages, and a creator profile in one static React build. The default world follows an invented slow-living publication, with concrete notes about morning rituals, reading corners, pottery, food, and balcony gardening. Every view uses fictional people and conversations.
 

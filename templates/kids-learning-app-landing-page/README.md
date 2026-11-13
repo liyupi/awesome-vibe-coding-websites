@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/webp.ee3141a05e.webp" width="100%" alt="Kids Learning App Landing Page — Clay Learning App with Interactive Lessons built by GPT-6.1 Sol and GLM-5.3"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/kids-learning-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/kids-learning-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Build a parent-facing learning app page with a world of soft clay shapes and practical product previews. A lilac canvas carries large bubblegum-pink characters, a sky-blue phone, butter-yellow details, and grass-green learning cards. The color appears in the main objects and section surfaces, giving the page a clear identity before a visitor touches a button. Rounded display type, readable dark text, and hand-shaped shadows keep the mood playful without making the page difficult to scan.
 

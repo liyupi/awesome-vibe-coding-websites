@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/invoice-generator-tool?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/invoice-generator-tool/3a45724d-d60f-400b-9903-4a7008d54d67/webp.cf8885ef76.webp" width="100%" alt="Invoice Generator Tool — Invoice App with Live Preview built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/invoice-generator-tool?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/invoice-generator-tool?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Invoice Generator Tool is a single-page workspace for freelancers and small teams that need a polished invoice without setting up an account. The left column gathers business details, client information, invoice metadata, line items, tax, and discounts. The right column is a live document preview, so every edit appears exactly where it will print. A currency selector handles formatting locally, and the interface makes clear that changing currency never performs an exchange-rate conversion.
 

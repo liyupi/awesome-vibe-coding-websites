@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/neon-hovercar-city-runner/18ae29db-3619-4451-b596-bf475ef1c1e4/webp.8c53edb7bb.webp" width="100%" alt="Neon Hovercar City Runner — Neon Canyon Hovercar Racing Game built by Grok 4.7"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/neon-hovercar-city-runner?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/neon-hovercar-city-runner?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Neon Hovercar City Runner is a one-screen arcade drive. The page opens on a night canyon: a low wedge hovercar sits on wet asphalt between glowing towers. Hover height stays fixed. The car glides, bends across the lane, can push a faster pace, and can spend a surge meter to kick through an arch. Drones cut the frame on contact. Crystals add haul. The course is a fixed 1.5 km and ends at a berth. An empty frame ends the run early. Results list haul, crystals, arches, peak pace, frame left, and time, then offer the same lane again.
 

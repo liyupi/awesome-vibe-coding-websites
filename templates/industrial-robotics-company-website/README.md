@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/industrial-robotics-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/industrial-robotics-company-website/a3172df2-73da-42ed-9fd9-50d7653132a8/webp.cf988e28ce.webp" width="100%" alt="Industrial Robotics Company Website — Industrial Robotics Site with ROI Calculator built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/industrial-robotics-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/industrial-robotics-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This is an industrial robotics site in safety orange, steel grey and near-white, built with React, Tailwind CSS and Motion, for a B2B hardware brand that sells on numbers. The first screen anchors on a robot arm standing in a clean, skylit factory bay, with the headline over the photo's cool greys and mono spec chips — reach, payload, repeatability — pinned beside it. The product section presents three arms as tabbed spec sheets: each tab swaps the table (reach, payload, repeatability, footprint, cycle time, sample price) and a side-profile arm drawn as original SVG geometry — capsule links and sphere joints in cream with orange joint rings, deliberately unlike any real maker's silhouette.
 

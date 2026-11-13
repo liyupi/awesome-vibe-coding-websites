@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/indie-record-label-website/9e1665bf-5972-4167-83d1-8065aa0d01bb/webp.d0dda0aeaa.webp" width="100%" alt="Indie Record Label Website — Record Label with Vinyl Shop built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Indie Record Label Website is a loud, print-textured site for an invented independent label, drawn entirely in code. The first screen anchors on an oversized vinyl record rendered in SVG, spinning slowly beside a heavy poster wordmark printed with hot-coral and deep-violet misregistration, all on an ink-black and cream-paper palette with a generated risograph grain overlay. Covers are the signature: every release sleeve is seeded generative art, two-color geometry in coral and violet that overlaps with multiply blending, so the catalog never repeats and never touches a photograph.
 

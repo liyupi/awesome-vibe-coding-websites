@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/fd13cc6e-9f38-4665-bfa5-7b9d5de395ed/webp.1e70db0b2b.webp" width="100%" alt="Ink Wash Mountain Adventure — Ink-Wash 3D Mountain Action Game built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Ink Wash Mountain Adventure is a complete, single-screen 3D action game for players who enjoy compact, timing-driven challenges. An original traveler climbs a rain-soaked practice trail, meets three mechanical guardian dummies, and learns their attack rhythms through running, dodging, and three-hit combos. The playable mountain is visible immediately; there is no marketing hero, mandatory start screen, or separate tutorial.
 

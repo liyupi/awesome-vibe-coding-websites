@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/movie-rating-community/d8c2b3ba-0102-4aef-8833-dfb297b8ccf1/webp.47f4a07128.webp" width="100%" alt="Movie Rating Community — Movie Reviews and Taste Profile Web App built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Movie Rating Community is a complete, data-rich web app for discovering fictional films and keeping a personal film diary. It combines an editorial home feed, detailed movie pages, short reactions, long-form essays, a ranked community canon, watchlists, and a visual taste profile. Every title, reviewer, rating, and piece of artwork is invented, so the experience feels like a functioning community without depending on a real movie catalog or licensed poster art.
 

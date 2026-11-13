@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personality-quiz-funnel-page/fb03588a-8416-40f4-bf26-f74ef03467b2/webp.e3a8d7ec0e.webp" width="100%" alt="Personality Quiz Funnel Page — Visual Personality Quiz with Results Funnel built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Personality Quiz Funnel Page is a complete client-side quiz experience for creators, coaches, marketers, and small studios that want an engaging way to guide visitors toward a personalized recommendation. It combines an editorial landing page, eight visual multiple-choice questions, a brief calculating sequence, a deterministic archetype result, and an email-gated field guide that unlocks on screen. The static demo never transmits answers or email addresses.
 

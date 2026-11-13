@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/koi-pond-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/koi-pond-web-toy/8efc33b2-f202-41e2-95ec-7e2b006fab13/webp.f61ec1b8a7.webp" width="100%" alt="Koi Pond Web Toy — Interactive Koi Pond Canvas Toy with Seasons built by Claude Opus 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/koi-pond-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/koi-pond-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Koi Pond Web Toy is a single full-screen scene: a garden pond seen from directly above, drawn entirely in code with a small WebGL water shader and Canvas 2D on top. There are no image, video or audio files in the build. Koi swim with a spine-chain body wave, translucent fins and a glide-and-kick rhythm, light caustics crawl across the pond floor, and lily pads, stepping stones and the vermilion rail of a wooden bridge frame the water. The palette is fixed and easy to remember: ink-teal water, vermilion fish, cream type and gold light.
 
