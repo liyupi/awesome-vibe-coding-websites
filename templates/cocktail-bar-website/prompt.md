@@ -1,0 +1,118 @@
+# Cocktail Bar Website
+
+Build this website exactly as described below. Replace the [VARIABLES] with your own values; keep everything else.
+
+## Brief
+A two-page website for [BAR], a cocktail bar in [NEIGHBORHOOD], [CITY] — drinks built on [SPIRITS], open six nights. It must feel like the room after your eyes adjust: an amber-candle hero with the promise and a book CTA, a spirit-grouped menu with honest lines, a bartender-at-work anchor photo, the room in three photographs, four recurring event nights, private hire enquiry and a table booking flow — both client-side. Pages: index.html, visit.html. Everything runs in the browser; nothing is submitted anywhere.
+
+- Audience: After-work drinkers choosing tonight's bar and weekend groups planning ahead: 25–45, phone in hand, allergic to venues that shout. They want the room's vibe, the drinks' credibility, and a table in three taps.
+- Goal: Fill the tables and the hire calendar. Within ten seconds a visitor feels the room and sees 'book a table'; within two minutes they've read the menu and checked the nights.
+- Tone: Low-voice confident, dry wit between the drinks. Real ingredients, real minutes, no 'mixology journey'. One joke at the zero-proof section's expense — reversed.
+
+## Stack
+- Framework: Vite 5 + React 18 + TypeScript
+- Styling: Tailwind CSS 3.4
+- Libraries: react (MIT), react-dom (MIT), motion (motion.dev, import from 'motion/react') (MIT), lucide-react (MIT), tailwindcss (MIT), postcss (MIT), autoprefixer (MIT), vite (MIT), @vitejs/plugin-react (MIT), typescript (Apache-2.0), @fontsource/oswald (OFL-1.1), @fontsource-variable/karla (OFL-1.1)
+- Build: `npm run build` → static files in `dist/`. No backend, no server code, no external APIs.
+- Setup:
+  - Scaffold with npm create vite@latest using the react-ts template. Two real HTML pages at the project root: index.html (entry src/main-home.tsx) and visit.html (entry src/main-visit.tsx).
+  - vite.config.ts: base './', plugins [react()], build { outDir 'dist', sourcemap false, assetsInlineLimit 0, rollupOptions { input { index: resolve(__dirname, 'index.html'), visit: resolve(__dirname, 'visit.html') } } }. Do not copy src/ into dist/.
+  - Tailwind 3.4 through PostCSS, content ['./index.html', './visit.html', './src/**/*.{ts,tsx}']. In tailwind.config.ts add every color under Design to theme.extend.colors with kebab-case keys (noir, coal, candle, amberglow, bone, ash, brass, rule) and fontFamily display ['Oswald', 'Arial Narrow', 'sans-serif'], sans ['Karla Variable', 'system-ui', 'sans-serif']. Set borderRadius DEFAULT to 4px and add maxWidth { container: '1140px' }.
+  - In src/fonts.ts import '@fontsource/oswald/400.css', '@fontsource/oswald/600.css' and '@fontsource-variable/karla'; import src/fonts.ts and src/index.css from both entry files.
+  - File layout: src/content.ts (every string, drink, price, event, hour, room caption and image path, typed), src/lib/brand.ts (barSlug = [BAR] lowercased with every run of non-alphanumeric characters replaced by '-', emailDomain = barSlug without hyphens + '.com', phoneDigits for tel:), src/lib/storage.ts (safe localStorage get/set wrapped in try/catch, keys prefixed with barSlug + ':'), src/lib/useOpenNow.ts (open-now from the hours table and the client clock).
+  - State: src/store/booking.ts is a tiny external store (useSyncExternalStore) holding { kind: 'table' | 'hire', party, day, area, occasion, capacity, name, email, sent } persisted to localStorage key barSlug + ':request'. Both forms write the same store; the confirmation reads from it.
+  - Components in src/components/: Header.tsx, Reveal.tsx (Motion whileInView wrapper), Eyebrow.tsx, Footer.tsx; home: Hero.tsx, MenuBoard.tsx (SpiritGroup.tsx, DrinkRow.tsx), BartenderAnchor.tsx, RoomStrip.tsx (RoomPhoto.tsx), Events.tsx (NightCard.tsx), TrustStrip.tsx; visit: HoursBlock.tsx (OpenNowPill.tsx), TableBooking.tsx (PartyStepper.tsx, DayChips.tsx, AreaPicker.tsx), HireForm.tsx, RequestCard.tsx (shared confirmation). src/pages/Home.tsx and Visit.tsx compose them; both pages render Header and Footer.
+  - Before the first build, download every image listed under Assets into public/images/ with curl -L -o using the exact file names given. The build itself never fetches anything.
+  - public/favicon.svg as described under Assets. Both HTML files: lang en, <meta name='theme-color' content='#12100D'>, <link rel='icon' href='./favicon.svg' type='image/svg+xml'>. Titles: index.html '<title>[BAR] — Cocktails in [NEIGHBORHOOD], [CITY]</title>', visit.html '<title>Book & visit — [BAR]</title>'.
+  - Write ASSETS.md at the project root as described under Assets.
+  - dist/ holds the two HTML files, hashed JS/CSS, the woff2 fonts, favicon.svg and the six images. Keep it under 10 MB.
+
+## Variables
+- [BAR] — Bar name (default: "The Amber Room"). Invented bar name. Used in the wordmark, title, footer, email (hello@ + barSlug without hyphens + .com) and localStorage keys. Never a real bar.
+- [CITY] — City (default: "New Orleans, Louisiana"). Where the bar is. Used in the title, hero eyebrow, directions copy and footer. Real cities fine; the street invented.
+- [NEIGHBORHOOD] — Neighborhood (default: "the Warehouse District"). Lowercase article style ('the Warehouse District', 'Eastside'). Used in the title, hero line and events copy.
+- [SPIRITS] — House spirits (default: "gin, rye and agave"). Three comma-separated base spirits. Drives the menu's three spirit groups (plus the zero-proof group), the hero line and one event night. Keep exactly three.
+- [CREDIT] — keep a small "Template by VibeFather" link to https://vibefather.ai/t/cocktail-bar-website in the footer (default: yes; delete this line to remove it)
+
+The copy under Pages & Sections is written for the default values. If your values differ, rewrite every headline, paragraph, label and image for them — same length, tone and structure. Layout, colors, type and motion stay as described.
+Keep all copy, image paths and links in one content file (for example `src/content.ts`), keyed by section, so the content can be swapped later without touching components.
+
+## Design
+### Colors
+- Noir `#12100D` — Page background on both pages.
+- Coal `#1C1915` — Alternate section background, cards, menu board wells, hover fill.
+- Candle `#262019` — Photo overlays (as rgba(38,32,25,x)), input fills, chips.
+- Amberglow `#E0A458` — The one accent: prices, the book CTA, selected chips, candle dot, focus ring, brass hairlines.
+- Bone `#EDE6D8` — Primary text: headlines, body, drink names.
+- Ash `#9C9184` — Secondary text, captions, eyebrows, unavailable states.
+- Brass `#B08A4F` — Quiet second color: section rules, group labels, small caps details, star fills.
+- Rule `#322C24` — 1px hairlines, card borders, input borders, menu dividers.
+
+### Typography
+- Display: H1, H2, drink names, prices, the wordmark, event nights — Oswald tall condensed, letterspaced: Oswald (OFL), weights 400/600
+- Text and UI: body, eyebrows, buttons, forms, captions; tabular numerals for prices and hours: Karla (OFL), weights 400/600/700
+
+### Layout & motion
+- Spacing: 8px base unit. Container max-width 1140px, centered, side padding 48px desktop, 32px tablet, 20px under 640px. 12-column grid, column gap 24px. Section vertical padding 104px desktop, 76px under 1024px, 60px under 640px — a dark room breathes slowly. Type scale: H1 clamp(48px, 7.5vw, 104px) Oswald 600 uppercase letter-spacing 0.02em, line-height 0.96; H2 clamp(30px, 4vw, 52px) Oswald 600 uppercase; drink names Oswald 400 21px; prices Oswald 600 18px Amberglow tabular; lead Karla 400 17.5px / 1.7 Bone at 88%; body 15.5px / 1.7 (max-width 62ch); eyebrow Karla 700 11px uppercase letter-spacing 0.26em Ash; caption 12.5px Ash. Buttons: height 52px, Karla 700 13.5px uppercase letter-spacing 0.1em. Book CTA: Amberglow fill, Noir text. Secondary: 1px Bone/35% border, Bone text. Inputs: height 50px, Candle fill, 1px Rule border, Bone text, focus Amberglow border. Focus ring everywhere: 2px Amberglow outline with 3px offset.
+- Radius: 4px on cards, buttons, inputs, chips and photos — dark and sharp. 999px only for pills, the candle dot and party-stepper buttons.
+- Motion: Easing: --ease-out cubic-bezier(0.22, 0.61, 0.36, 1) for reveals; --ease-io cubic-bezier(0.65, 0, 0.35, 1) for form swaps and chips. Slow fades like eyes adjusting — 700–900ms, nothing snaps.
+- Motion: Reveal: blocks wrapped in <Reveal> start at opacity 0, translateY(12px) and settle over 800ms --ease-out when 12% visible (Motion whileInView, viewport once). Siblings stagger 80ms.
+- Motion: Hero: the room photo fades from 60% to full over 1600ms while scaling 1.04→1.0; the H1 lines rise 18px with 150ms stagger; a small candle dot pulses once (amber, 2000ms, off under reduced motion).
+- Motion: Menu rows: hover slides a 1px Brass rule from the left and the price brightens Ash→Amberglow; the drink's one-liner indents 2px.
+- Motion: Bartender anchor: the photo's brass frame draws once when scrolled into view; the caption crossfades in last.
+- Motion: Room strip: photos parallax 4% at different rates on scroll (useScroll per frame); captions fade with their frame.
+- Motion: Events: night cards reveal 60ms-staggered; the weekday chip fills Amberglow on hover.
+- Motion: Booking: party stepper pops on count; day chips fill Amberglow; area picker crossfades the mini floor sketch; submitting slides the panel to RequestCard (300ms --ease-io) with a candle-flame stamp (a drawn amber flame) flickering twice before resting.
+- Motion: Links: .link-draw grows a 1px currentColor underline over 300ms on hover and focus-visible.
+- Motion: prefers-reduced-motion: reduce — everything renders at rest; the flame stamp is static; color/border hovers stay. Use CSS @media in index.css plus Motion's useReducedMotion in components.
+- Imagery: Moody real photography, all six made for this template in one consistent style: near-dark rooms lit by candles and one amber lamp, glassware catching light, blank-labeled bottles, deep leather. One anchor photo shows the bartender at work — an AI-generated fictional person (mid-pour, warm concentration), a placeholder a real bar swaps for its own staff photo. No customer faces anywhere, no readable text or logos (bottle labels blank). Every photo uses object-fit cover with the object-position given under Assets, 4px corners, no shadow; photos on Noir get a 1px Rule outline. Captions in Karla 12.5px Ash. Drawn in code: the favicon, the candle dot, the flame stamp, chips, the mini floor sketch and the star fills. Icons: lucide-react only, stroke width 1.75.
+
+## Pages & Sections
+### Home (`index.html`)
+1. **Content file and copy rules** — All copy below is written for the default values ([BAR] = The Amber Room, [CITY] = New Orleans, Louisiana, [NEIGHBORHOOD] = the Warehouse District, [SPIRITS] = gin, rye and agave). Put every string, price and list in src/content.ts and render from it; both pages share one content file. If any variable value differs, rewrite the hero, all twelve drinks, the events, room captions, hire copy and booking copy so they are specific and believable for the new bar, keeping the same structure and counts (4 menu groups × 3 drinks, 4 event nights, 3 room photos, 3 areas, 5 trust/hire facts). All drinks, staff and nights are invented. Facts: address '912 Tchoupitoulas Lane, [CITY]' invented; phone (504) 555-0186; hours Tue–Thu 17:00–01:00, Fri–Sat 17:00–02:00, Sun 16:00–23:00, Mon closed; walk-ins always; tables held 15 minutes; no minimum spend; card accepted; hire capacities: booths 12, back bar 24, whole room 60. Menu (group · drink · line · price): Gin: 'Garden Distraction' 'elderflower, cucumber, a whisper of dill — the porch, distilled' $15; 'Last Ferry' 'gin, dry vermouth, olive brine, taken seriously' $14; 'Juniper & Smoke' 'gin, lapsang syrup, lemon — campfire in a coupe' $16. Rye: 'Warehouse Sour' 'rye, honey, lemon, a float of malbec — our postcard' $15; 'Second Thoughts' 'rye, amaro, bitters — for decisions already improving' $16; 'Barrel Standard' 'rye, demerara, orange bitters — the house handshake' $14. Agave: 'Cloud Cover' 'blanco tequila, coconut, lime, sea salt — a beach in the dark' $15; 'Smoke Signal' 'mezcal, grapefruit, chili — answers on a ten-second delay' $16; 'Sundown Express' 'reposado, vermouth, burnt orange — the last one, twice' $15. Zero-proof: ' designated Driver' → 'Designated Driver' 'seedlip, tonic, grapefruit — zero proof, full effort' $10; 'Open Secret' 'roasted barley, chicory, orange peel — the sober pour regulars fight over' $10; 'Static' 'sparkling water, verjus, thyme — quiet, and proud of it' $9. Events (night · name · line): 'Wednesday · Vinyl Midweek' 'records on the turntable, no playlist, requests at the bar''s discretion'; 'Thursday · Educated Guess' 'a blind tasting flight, five pours, bragging rights'; 'Friday · Late Set' 'a trio plays two sets from nine; talking over them is discouraged politely'; 'Sunday · Slow Close' 'one bartender, the classics only, last call at ten'.
+   Layout: n/a
+   Motion: n/a
+2. **Header (all pages)** — Left: the wordmark '[BAR]' (Oswald 600 20px uppercase letter-spacing 0.14em) linking ./index.html. Right nav (Karla 600 13px uppercase letter-spacing 0.08em): 'Menu' → ./index.html#menu, 'The room' → ./index.html#room, 'Nights' → ./index.html#nights, 'Visit' → ./visit.html; and a small Amberglow 'Book a table' → ./visit.html#book. Under 760px: wordmark + book button.
+   Layout: Sticky top, height 68px, Noir/88% blur, Rule border.
+3. **Hero** — Full-bleed hero-room.webp (92svh, min 620px). Eyebrow (Bone at 70%): 'COCKTAILS · [NEIGHBORHOOD] · [CITY]'. H1 two lines: 'AFTER YOUR EYES' / '*ADJUST.*' Lead (Bone at 80%, max-width 500px): 'A basement room, forty candles, and drinks built on [SPIRITS] — no shouty playlists, no minimum spend, no dress code with opinions.' Primary 'Book a table' → ./visit.html#book and secondary-on-photo 'Read the menu' → #menu. Bottom strip inside the hero on Coal/70%: 'Tue–Sun from 5pm' · 'Walk-ins welcome' · 'Tables held 15 min'.
+   Layout: Photo object-position 50% 60%; overlay gradient Noir 0.5→0.15→0.92; content anchored bottom-left 120px up.
+4. **Drinks menu** — Section id='menu'. Eyebrow 'THE DRINKS' and H2 'TWELVE, CHOSEN SLOWLY.' Two columns: left, the MenuBoard — four SpiritGroups (GIN / RYE / AGAVE / ZERO-PROOF labels in Oswald 600 13px letterspaced Brass) each with three DrinkRows (name + one-liner + price); right, the BartenderAnchor: bartender-pour.webp (3:4, brass frame) with caption 'Marius, mid-pour — a fictional bartender' and a note under: 'Tell him a flavor you like; he''ll bring you something with a name by the second round.' A caption line under the board: 'Prices include the ice negotiations. Zero-proof listed with the same respect.'
+   Layout: Noir background. Board 7 cols with Rule hairline dividers between groups (24px gaps); anchor 4 cols offset 1 sticky top 96px. Under 1024px: stacked, anchor after the board at aspect 3:2.
+5. **The room** — Section id='room'. Eyebrow 'THE ROOM' and H2 'THREE PLACES TO SIT.' RoomStrip photos with parallax: room-booths.webp 'The booths — leather, low light, decisions' (4:3); room-backbar.webp 'The back bar — forty bottles, no logos we answer to' (4:3); room-terrace.webp 'The terrace — one string bulb and the river smell' (4:3). Each with a small Brass index ('01', '02', '03').
+   Layout: Coal background. Three columns 20px gap; captions under each in Karla 12.5px Ash with the Brass index; photos 4px radius, 1px Rule outline.
+6. **Nights and trust** — Section id='nights'. Eyebrow 'MOST WEEKS' and H2 'FOUR NIGHTS, REPEATING.' NightCards: weekday chip (Oswald 600) + name + one-liner from the roster. Under, TrustStrip on Coal: three items with Amberglow checks — 'Walk-ins welcome, always'; 'No minimum spend, no bottle politics'; 'Card, cash and split bills without sighs'. A closing line: 'Sundays we close early; the candles have families.'
+   Layout: Noir background. 2x2 grid 20px gap cards on Coal Rule-bordered; trust strip a hairline-bounded row of three; closing line centered 40px below.
+7. **Footer** — Noir with a Rule top border. Three columns: 1) wordmark + '[BAR]' over 'Cocktails · [NEIGHBORHOOD] · [CITY]'. 2) 'Find us': '912 Tchoupitoulas Lane, [CITY]', (504) 555-0186 tel:, hello@ + emailDomain. 3) 'Hours': Tue–Thu 5pm–1am, Fri–Sat 5pm–2am, Sun 4pm–11pm, Mon closed. Bottom line: '© [BAR]. The ice is clear; the jokes are not.'
+   Layout: Vertical padding 64px, 3 columns, bottom line 32px below a Bone/10% rule. Under 768px stacked.
+
+### Visit (`visit.html`)
+1. **Masthead and hours** — Solid header. Eyebrow 'BOOK & VISIT', H1 'COME DOWN.' Lead: 'Tables for two to eight, private hire for twelve to sixty, and a door policy that stops at ''be decent''.' HoursBlock: OpenNowPill ('Open · kitchen of ice until 1am' style from the hours table) and the week's hours with today's row on Amberglow; note 'Tables held 15 minutes; the candle clock is generous but finite.'
+   Layout: Noir background, vertical padding 136px top + 48px, bottom hairline; hours block max-width 640px with Rule dividers.
+2. **Table booking** — Section id='book'. Eyebrow 'A TABLE' and H2 'THREE TAPS AND A BOOTH.' The TableBooking panel on Coal: PartyStepper 2–8; DayChips (next 7 open days, weekday-named; Monday disabled 'we rest'); AreaPicker with a mini floor sketch (drawn SVG: three zones) — 'Booths (leather, low)' / 'Back bar (watch the work)' / 'Terrace (weather permitting)'; name + email; primary 'Request the table' with caption 'Saved in this browser — the real bar confirms by text. Nothing is sent here.'
+   Layout: Coal section; panel max-width 620px, 28px padding, Rule border, 4px radius; sketch beside the picker 5 cols; under 760px stacked.
+3. **Private hire and confirmation** — Eyebrow 'THE WHOLE ROOM' and H2 'RENT THE DARK.' HireForm: capacity select ('Booths · up to 12' / 'Back bar · up to 24' / 'The whole room · up to 60'); occasion input (placeholder 'Birthday, launch, music video — we''ve hosted two of three'); date-free window chips ('This month' / 'Next month' / 'Just exploring'); name + email; secondary 'Send the enquiry'. The shared RequestCard (either form): a candle-flame stamp flickering twice then resting, 'Request received.' (Oswald 28px), the echo ('Table for 4 · Friday · Booths' or 'Hire · the whole room · this month'), 'We reply within a day — usually with a better idea than you asked for.' and 'Change my request' returning pre-filled. Persisted in localStorage.
+   Layout: Noir background; hire panel 6 cols, RequestCard shared confirmation below both forms (crossfade 300ms); under 1024px stacked.
+4. **Getting here** — Three quiet lines with icons: MapPin '912 Tchoupitoulas Lane — the stairs next to the flower shop, follow the amber bulb'; TrainFront 'Two streetcar stops from the Quarter, then a short walk that builds anticipation'; Car 'Street parking after 7pm; the lot behind the brewery is kinder'. Closing line centered: 'Knock once. If Marius knocks back, it''s the right door.'
+   Layout: Coal band; rows hairline-divided max-width 720px; closing line 48px below.
+
+## Assets
+- image: Template photos made for this design (free to redistribute with the template). Download each with curl -L -o into public/images/: https://media.vibefather.ai/assets/886249a6-bf32-4601-8683-a27771ad5375/hero-room.webp → public/images/hero-room.webp (Hero; object-position 50% 60%; alt 'A dark cocktail bar room lit by candles and one amber lamp'); https://media.vibefather.ai/assets/886249a6-bf32-4601-8683-a27771ad5375/bartender-pour.webp → public/images/bartender-pour.webp (Menu anchor; alt 'Marius mid-pour, a fictional bartender'); https://media.vibefather.ai/assets/886249a6-bf32-4601-8683-a27771ad5375/room-booths.webp → public/images/room-booths.webp (Room 1; alt 'Deep leather booths in candlelight'); https://media.vibefather.ai/assets/886249a6-bf32-4601-8683-a27771ad5375/room-backbar.webp → public/images/room-backbar.webp (Room 2; alt 'A back bar of blank-labeled bottles under amber light'); https://media.vibefather.ai/assets/886249a6-bf32-4601-8683-a27771ad5375/room-terrace.webp → public/images/room-terrace.webp (Room 3; alt 'A small terrace with one string bulb'); https://media.vibefather.ai/assets/886249a6-bf32-4601-8683-a27771ad5375/glassware.webp → public/images/glassware.webp (Menu board side detail, optional small strip; alt 'Coupe and rocks glasses catching amber light'). Six files in total.
+- image: Write ASSETS.md at the project root with a table: path, source URL, author, license — one row for each photo (source 'media.vibefather.ai, made for this template', author 'VibeFather', license 'Distributed with the template'), plus rows for @fontsource/oswald and @fontsource-variable/karla (OFL-1.1) and lucide-react (ISC). Never replace photos with stock sites or images with customer faces, readable labels or branding — the bartender portrait is an AI-generated fictional person per the portrait rules.
+- icon: lucide-react only: Martini, Wine, GlassWater, Music, FlaskConical, MapPin, TrainFront, Car, Clock, Check, Plus, Minus, ArrowRight. Stroke width 1.75, 16–24px, color inherits. The candle dot, flame stamp, mini floor sketch, Brass indexes and favicon are drawn SVG. public/favicon.svg: viewBox 0 0 32 32, a 32x32 rect rx 5 filled #12100D with a 1px #B08A4F border, an Amberglow (#E0A458) candle-flame glyph over a short Bone wick line. No other logo: the bar name is always set as type.
+- font: Install @fontsource/oswald and @fontsource-variable/karla and import them in src/fonts.ts as listed in Setup. Vite bundles the woff2 files into dist/.
+- image: Drawn in code: the candle dot, flame stamp, mini floor sketch, Brass indexes, chips and the favicon. No other bitmaps beyond the six photos; no illustrations; no map tiles.
+
+## Don'ts
+- No backend, no form submission, no fetch to any API: both forms save in the browser only (localStorage) and say so; tel: links are built from the phone digits.
+- Every internal link points to a file name (./index.html, ./index.html#menu, ./index.html#room, ./index.html#nights, ./visit.html, ./visit.html#book) — never to a bare directory.
+- Self-host everything: fonts through Fontsource, icons as npm packages or inline SVG, images downloaded into public/images/. No CDN <script> or <link> tags, no Google Fonts, no analytics.
+- Production build: minified, no source maps, no src/ copied into dist/, single command npm run build, output in dist/ under 10 MB.
+- No real bars, spirit brands or their bottles; bottle labels in photos stay blank; the bartender portrait is an AI-generated fictional person, not any real individual; no customer faces anywhere; no readable signage.
+- No dates or years anywhere; events are weekday-named recurring nights; day chips show weekday names without calendar dates; the site never shows today's date.
+- Never mention VibeFather or any other brand inside the site except the optional credit footer link; all copy is invented US English.
+- Respect prefers-reduced-motion: no pulses, flickers, parallax or staggered fades; everything renders at rest; color/border hovers stay.
+- The site must work at 1440x900 desktop and 390x844 mobile with zero console errors; steppers, chips, pickers and both forms work with keyboard only and visible Amberglow focus rings.
+- Keep copy low-voice and concrete: no lorem, no 'mixology journey'; every drink, price and night lives in src/content.ts.
+
+---
+— Prompt by VibeFather · https://vibefather.ai/t/cocktail-bar-website · CC BY-NC 4.0 (non-commercial; commercial use needs a VibeFather Pro license) · Request removal: https://vibefather.ai/takedown

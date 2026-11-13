@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "gemini-4-carbon",
+    "name": "Gemini 4 Carbon",
+    "vendor": "Google",
+    "sites": 15,
+    "templates": 15,
+    "tools": [
+      "Cursor"
+    ],
+    "url": "https://vibefather.ai/models/gemini-4-carbon"
+  },
+  {
+    "slug": "kimi-k3-1-pro",
+    "name": "Kimi K3.1 Pro",
+    "vendor": "Moonshot AI",
+    "sites": 86,
+    "templates": 86,
+    "tools": [
+      "Kimi Code"
+    ],
+    "url": "https://vibefather.ai/models/kimi-k3-1-pro"
+  },
+  {
+    "slug": "gpt-6-1-sol",
+    "name": "GPT-6.1 Sol",
+    "vendor": "OpenAI",
+    "sites": 20,
+    "templates": 15,
+    "tools": [
+      "Codex"
+    ],
+    "url": "https://vibefather.ai/models/gpt-6-1-sol"
+  },
+  {
+    "slug": "claude-opus-5-5",
+    "name": "Claude Opus 5.5",
+    "vendor": "Anthropic",
+    "sites": 67,
+    "templates": 53,
+    "tools": [
+      "Claude Code",
+      "Cursor"
+    ],
+    "url": "https://vibefather.ai/models/claude-opus-5-5"
+  },
+  {
+    "slug": "grok-4-7",
+    "name": "Grok 4.7",
+    "vendor": "xAI",
+    "sites": 20,
+    "templates": 10,
+    "tools": [
+      "Grok Build"
+    ],
+    "url": "https://vibefather.ai/models/grok-4-7"
+  },
+  {
+    "slug": "claude-sonnet-5-5",
+    "name": "Claude Sonnet 5.5",
+    "vendor": "Anthropic",
+    "sites": 36,
+    "templates": 36,
+    "tools": [
+      "Claude Code",
+      "Cursor"
+    ],
+    "url": "https://vibefather.ai/models/claude-sonnet-5-5"
+  },
+  {
+    "slug": "deepseek-v4-1-flash",
+    "name": "DeepSeek V4.1 Flash",
+    "vendor": "DeepSeek",
+    "sites": 179,
+    "templates": 179,
+    "tools": [
+      "DeepSeek Harness"
+    ],
+    "url": "https://vibefather.ai/models/deepseek-v4-1-flash"
+  },
+  {
+    "slug": "glm-5-3",
+    "name": "GLM-5.3",
+    "vendor": "Zhipu AI",
+    "sites": 129,
+    "templates": 129,
+    "tools": [
+      "ZCode"
+    ],
+    "url": "https://vibefather.ai/models/glm-5-3"
+  }
+]
