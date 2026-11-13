@@ -55,9 +55,13 @@ if (run("git", "status", "--porcelain")) {
   console.log("no changes");
 }
 
-// First sync: one launch release. Afterwards: one release per model that wasn't there yesterday
-const wanted = before.models ? newModels.map((m) => manifest.releases[m.slug]).filter(Boolean) : [manifest.launch];
+// Releases start once the repository is public: first a launch release, then one per model that wasn't there yesterday
+if (JSON.parse(run("gh", "repo", "view", "--json", "visibility")).visibility !== "PUBLIC") {
+  console.log("private repository: no releases yet");
+  process.exit(0);
+}
 const existing = new Set(JSON.parse(run("gh", "release", "list", "--limit", "200", "--json", "tagName")).map((r) => r.tagName));
+const wanted = existing.has("launch") ? newModels.map((m) => manifest.releases[m.slug]).filter(Boolean) : [manifest.launch];
 for (const r of wanted) {
   if (existing.has(r.tag)) continue;
   const notes = path.join(os.tmpdir(), `${r.tag}.md`);
