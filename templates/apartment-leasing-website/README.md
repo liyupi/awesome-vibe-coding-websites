@@ -18,7 +18,7 @@ Six generated architectural images create one consistent property shoot. Brand, 
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Real Estate](../../types/real-estate.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add apartment-le
 The Courtyard apartment residences case was built by Kimi K3.1 Pro in Kimi Code; the Waterfront loft residences case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Apartment Leasing Website template use?
-Apartment Leasing Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Apartment Leasing Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Apartment Leasing Website template free to use?
 Apartment Leasing Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

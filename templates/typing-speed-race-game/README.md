@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/typing-speed-race-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/typing-speed-race-game/deae1ec5-aea3-4056-97c0-d7bc34dd0998/webp.228966e72f.webp" width="100%" alt="Typing Speed Race Game — Typing Race with Ghost Cars and Live WPM built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/typing-speed-race-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/typing-speed-race-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Typing Speed Race Game is a single-page browser game that turns typing practice into a visible race. A cyan player car and an amber ghost move along a code-drawn night circuit as the visitor types. The typing console shows character-level correctness, a live caret, WPM, accuracy, and elapsed time. Easy, Medium, and Hard modes supply different passages and ghost speeds, so the same page works for a first practice session or a serious attempt at a personal record.
 

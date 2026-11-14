@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/webinar-registration-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/webinar-registration-page/5634dad1-ed5e-429a-a8a1-3192fd12801c/webp.d069dfb1ae.webp" width="100%" alt="Webinar Registration Page — Webinar Page with Countdown built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/webinar-registration-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/webinar-registration-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page site that fills one webinar: a hero with a live number-flip countdown to [DATE], the title and a registration CTA; a 'what you'll learn' grid of four outcome cards; a broadcast-rundown agenda with times and tags; three speaker cards with AI-generated fictional portraits; a registration section with a short form, a time-zone selector that converts the start time live via Intl (no network), and add-to-calendar buttons that build .ics files in the browser; a four-question FAQ; and a quiet footer. The default content promotes an invented session by an invented team, but the structure suits any webinar, workshop or live class. The look is calm broadcast blue: deep navy ground, cool slate text, one live cyan accent, speaker-forward and precise. All copy lives in one content file; swapping the variables rewrites the page. Speakers are AI-generated fictional people, varied in age and ethnicity; no real platforms, companies or logos anywhere.
 
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add webinar-registration-pa
 The B2B skills webinar case was built by GLM-5.3 in ZCode; the Design systems webinar case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Webinar Registration Page template use?
-Webinar Registration Page is a single-page site built with Tailwind CSS, Motion and React, with micro-interactions and countdown. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Webinar Registration Page is a single-page site built with React, Motion and Tailwind CSS, with micro-interactions and countdown. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Webinar Registration Page template for a client or a business?
 The Webinar Registration Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

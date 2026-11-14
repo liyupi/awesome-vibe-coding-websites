@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/youth-sports-club-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/youth-sports-club-website/e837e683-cb50-43bb-b397-bd16866fe566/webp.67774b0c1c.webp" width="100%" alt="Youth Sports Club Website — Youth Sports Club Website with League Tables built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/youth-sports-club-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/youth-sports-club-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Youth Sports Club Website is a complete multi-page site for a community soccer club that needs to look energetic to players and dependable to parents. The home page leads with a wide match-day photograph, four age-group squads, upcoming fixtures, recent scores, and three coach profiles. A separate match center adds team and result filters plus a league table that can be sorted by every performance column. Registration brings fees and signup together: visitors choose one or two players, kit quantities, and a payment rhythm while the total updates in the browser. The parent page covers arrival, pickup, kit, weather, touchline conduct, and safeguarding in plain language.
 
@@ -88,7 +88,7 @@ Copy the prompt from this page or run npx vibefather add youth-sports-club-websi
 The Community soccer club case was built by Kimi K3.1 Pro in Kimi Code; the Competitive soccer club case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Youth Sports Club Website template use?
-Youth Sports Club Website is a 4-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Youth Sports Club Website is a 4-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Youth Sports Club Website template for a client or a business?
 The Youth Sports Club Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

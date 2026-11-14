@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/sea-salt-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/9eeebc23-a058-4546-a448-b29ab1146a1e/webp.8b61a03319.webp" width="100%" alt="Sea Salt Brand Website — Tidal WebGL Artisan Food Store built by GPT-6.1 Sol"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sea-salt-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sea-salt-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This sea salt brand website starts with a surface you can disturb. Move a pointer or a finger across the opening scene and the water breaks into small ripples over a submerged wordmark. As the page moves, the waterline falls, exposing clay and clusters of salt. The material becomes the introduction to a fictional coastal producer, rather than a decorative background behind a sales pitch.
 

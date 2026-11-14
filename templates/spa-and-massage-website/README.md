@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/spa-and-massage-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/spa-and-massage-website/69a6c319-1d03-4112-afaf-fe35aacd96a0/webp.c145b3203e.webp" width="100%" alt="Spa and Massage Website — Calm Spa Website with Treatment Booking built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/spa-and-massage-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/spa-and-massage-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A two-page website for an independent day spa: a home page with treatments, durations and prices, three therapist profiles, curated packages, an interactive gift-card preview and a first-visit FAQ, plus a dedicated booking page. The default content follows an invented neighborhood spa in Portland, but the structure suits massage studios, wellness rooms and solo practitioners. Change the brand, city, street and treatment specialties, then rewrite the content in one file to fit the new business. The visual direction is quiet and tactile rather than clinical: warm porcelain, pale sage and deep spruce, generous editorial spacing, fine rules, a tall arched hero photograph and softly rounded cards. Cormorant Garamond headlines contrast with Manrope body copy, both self-hosted. Six coordinated photographs supply an empty treatment room, folded linens and botanical details, three fictional therapist portraits and a gift-card still life. The booking flow moves through treatment, therapist, date and time, and confirmation. Package selections, staff schedules, service durations and occupied slots all affect the available choices. A reference card persists in localStorage, while gift-card selections also stay on the device; no payment or form data leaves the browser. Small details make the site useful before a first appointment: arrival guidance, pressure preferences, accessibility notes, cancellation terms and opening hours. Gentle reveals, accordions, step transitions and responsive sticky summaries add polish without disturbing the calm. On smaller screens, treatment cards and time slots retain generous tap targets, while reduced-motion preferences replace transitions with immediate, readable state changes. The layout adapts from a spacious desktop composition to a thumb-friendly mobile booking experience.
 
@@ -12,7 +12,7 @@ A two-page website for an independent day spa: a home page with treatments, dura
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
+| Style | [Minimal](../../styles/minimal.md), [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add spa-and-massage-website
 The Neighborhood spa in Portland case was built by Kimi K3.1 Pro in Kimi Code; the Coastal spa in Monterey case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Spa and Massage Website template use?
-Spa and Massage Website is a 2-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Spa and Massage Website is a 2-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Spa and Massage Website template for a client or a business?
 The Spa and Massage Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

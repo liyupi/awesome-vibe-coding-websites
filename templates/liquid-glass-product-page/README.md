@@ -18,7 +18,7 @@ To adapt it, change the brand, product name, what the product is, the starting p
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md), [Editorial](../../styles/editorial.md) |
+| Style | [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Cursor Effects, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -98,7 +98,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add liquid-glass
 The Glass room speaker case was built by Claude Opus 5.5 in Cursor; the Cold brew tower case was built by Claude Sonnet 5.5 in Cursor; the Glass room speaker case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Liquid Glass Product Page template use?
-Liquid Glass Product Page is a single-page site built with Tailwind CSS, Motion and React, with scroll animation, cursor effects and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Liquid Glass Product Page is a single-page site built with React, Motion and Tailwind CSS, with scroll animation, cursor effects and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Liquid Glass Product Page template free to use?
 Liquid Glass Product Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

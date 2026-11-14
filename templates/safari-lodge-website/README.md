@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/safari-lodge-website/14085ac1-2add-4057-b03b-83a7c24e18ca/webp.097dbe18fd.webp" width="100%" alt="Safari Lodge Website — Golden-Hour Safari Lodge with Suites Gallery built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page site for a high-end safari lodge, built like a film: charcoal ground, ochre and olive accents, warm grain over everything, and full-bleed landscape photography shot at first and last light. The first screen is a golden-hour savanna with the lodge glowing on a river bend, a refined serif headline over the haze, and a stay price set quietly beneath the buttons. From there the page tells one stay, end to end: an editorial strip on how the lodge behaves as a guest in its own conservancy; a suites gallery of canvas tents at dawn, dusk and lantern light; a day-at-the-lodge timeline that walks down the page — dawn drive, brunch on the deck, siesta, sundowners, night drive — with a rail that fills like the sun crossing the sky. Experience cards cover drives, walking safaris, birding mornings and a community visit, priced as sample data and honest about promising light rather than sightings. A seasonal rates table compares green, shoulder and dry season per suite, drawn in code with hairlines instead of card chrome, and the inquiry form collects season, nights, party size and a note, saving to local storage only and saying so. Fraunces carries the display voice over Work Sans; motion is slow and restrained — hero parallax, 700ms reveals, the filling timeline rail — all honoring prefers-reduced-motion. Swap lodge, conservancy, suite count and starting rate in one content file; the second demo case turns the same layout into a photography-first safari lodge to prove the design holds.
 
@@ -12,7 +12,7 @@ A single-page site for a high-end safari lodge, built like a film: charcoal grou
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Parallax, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add safari-lodge
 The Safari lodge case was built by GLM-5.3 in ZCode; the Photo safari lodge case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Safari Lodge Website template use?
-Safari Lodge Website is a single-page site built with Tailwind CSS, Motion and React, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Safari Lodge Website is a single-page site built with React, Motion and Tailwind CSS, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Safari Lodge Website template free to use?
 Safari Lodge Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

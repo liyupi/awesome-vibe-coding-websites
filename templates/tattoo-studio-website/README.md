@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/tattoo-studio-website/8bc5b95a-327b-4abf-b934-5fe27ac4bc5b/webp.fb6a940d44.webp" width="100%" alt="Tattoo Studio Website — Dark Tattoo Studio Site with SVG Flash built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Tattoo Studio Website is a dark, editorial multi-page site for an independent tattoo practice that needs to show artistic range and make its booking process easy to understand. It suits resident-artist studios, small collectives, and solo tattooists who want more than a generic image gallery. The homepage pairs a cinematic studio photograph with large serif type, then moves through artist introductions, original flash, a four-step consultation process, practical visit information, and aftercare. Artist pages combine professional portraits with style tags, personal approaches, session minimums, and selected vector artwork. A filterable flash library uses original SVG drawings rather than copied tattoo imagery, with size, placement, pricing, and a direct path into the consultation form. The form collects the details a studio actually needs: artist preference, custom or flash work, placement, approximate size, color, budget, availability, and contact information. It validates each step, saves a draft locally, and clearly explains that the static demo does not transmit requests. Dedicated deposit, rescheduling, aftercare, and FAQ content answers common concerns without hiding important policies. The visual direction uses ink-black surfaces, warm bone typography, oxblood accents, thin rules, and restrained Motion transitions. Cormorant Garamond and Manrope are self-hosted through Fontsource. All business copy, artists, designs, and sample details live in one content file. Responsive layouts, accessible dialogs, reduced-motion support, and explicit file-based navigation keep the finished static site practical to deploy and maintain. Five variables change the brand, city, studio focus, audience, and booking deposit while preserving the layout, making the template straightforward to adapt to another tattoo practice or a closely related appointment-led creative studio.
 
@@ -12,7 +12,7 @@ Tattoo Studio Website is a dark, editorial multi-page site for an independent ta
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Agency](../../types/agency.md), [Portfolio](../../types/portfolio.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Page Transitions, Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 3.4 + Motion + Lucide |
 | Pages | 6 |
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add tattoo-studio-website, 
 The Independent tattoo studio case was built by Kimi K3.1 Pro in Kimi Code; the Botanical tattoo studio case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Tattoo Studio Website template use?
-Tattoo Studio Website is a 6-page site built with Tailwind CSS, Motion and React, with page transitions, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Tattoo Studio Website is a 6-page site built with React, Motion and Tailwind CSS, with page transitions, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Tattoo Studio Website template for a client or a business?
 The Tattoo Studio Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

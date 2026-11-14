@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add auto-repair-shop-websit
 The Three-bay family garage case was built by GLM-5.3 in ZCode; the Mobile mechanic service case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Auto Repair Shop Website template use?
-Auto Repair Shop Website is a 2-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Auto Repair Shop Website is a 2-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Auto Repair Shop Website template for a client or a business?
 The Auto Repair Shop Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

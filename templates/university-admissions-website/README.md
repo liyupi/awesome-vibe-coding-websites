@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/university-admissions-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/university-admissions-website/379c9e84-9204-4956-bf7c-4d6e8d0429b0/webp.609bc14595.webp" width="100%" alt="University Admissions Website — Admissions Site with Program Finder built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/university-admissions-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/university-admissions-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 University Admissions Website is a confident one-page recruiting site for a fictional university, built around two working tools: a program finder and a cost-and-aid estimator. The finder filters eleven invented programs by level, area, and format with a live results count and a shortlist you can toggle; the estimator turns two sliders — family contribution and living arrangement — into a clearly labeled sample net price with a stacked cost bar. A campus-life photo strip, an apply-review-decide timeline with round deadline labels, and a visit-day sign-up saved in the browser complete the page.
 
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add university-admissions-w
 The Stonewater University case was built by GLM-5.3 in ZCode; the Music conservatory admissions case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the University Admissions Website template use?
-University Admissions Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+University Admissions Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the University Admissions Website template for a client or a business?
 The University Admissions Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

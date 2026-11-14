@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/0bb729a5-85a9-4861-8f86-26b62ca59552/webp.bbe1902d95.webp" width="100%" alt="Travel Agency Tour Packages Website — Tour Operator Site with Itineraries built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/travel-agency-tour-packages-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/travel-agency-tour-packages-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A three-page website for a small-group tour operator: a home page with the promise and featured trips, a tour listing with working filters for region, length, price band and style, and a tour detail page with a day-by-day itinerary accordion, a drawn route map, inclusions and exclusions, and a booking request form that confirms client-side. The default content follows an invented operator running trips across Norway, Scotland and the Alps, but the structure suits any destination set: change the brand, destinations, founding year and group maximum and every tour, filter and itinerary still reads true. The listing keeps a live count as filters combine; the detail page opens from the listing's query and shows the first tour when opened directly, never an error. The look is wide-open travel editorial: off-white paper, deep sea-blue ink, one coral accent, Lora headlines over Public Sans, big landscape photography and stamp-and-ticket motifs drawn in SVG. Photography shows fjords, highlands, passes, villages and harbors — no faces anywhere. To adapt it, swap the variables and rewrite the copy in one content file; tours, days, prices and departures all read from it.
 
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add travel-agenc
 The Nordic and Highland tours case was built by GLM-5.3 in ZCode; the Iberian and Moroccan tours case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Travel Agency Tour Packages Website template use?
-Travel Agency Tour Packages Website is a 3-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Travel Agency Tour Packages Website is a 3-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Travel Agency Tour Packages Website template free to use?
 Travel Agency Tour Packages Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

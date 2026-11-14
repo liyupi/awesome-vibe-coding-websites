@@ -91,10 +91,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/independent-pharmacy-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/independent-pharmacy-website/bb59ef30-eaff-4778-a623-6b46f2e37cc3/shot_desktop.096dcc375a.webp" width="100%" alt="Independent Pharmacy Website website template — live demo built by GLM-5.3"></a><br>
+<a href="https://vibefather.ai/templates/independent-pharmacy-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/independent-pharmacy-website/bb59ef30-eaff-4778-a623-6b46f2e37cc3/shot_desktop.096dcc375a.webp" width="100%" alt="Independent Pharmacy Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/independent-pharmacy-website">Independent Pharmacy Website</a></b><br>
 <sub>A fresh green-and-tangerine pharmacy site with a seconds-long refill request, transfer steps and a delivery checker.</sub><br>
-<sub>GLM-5.3 · <a href="https://vibefather.ai/templates/independent-pharmacy-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/independent-pharmacy-website/prompt.md">Prompt</a></sub>
+<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/independent-pharmacy-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/independent-pharmacy-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/funeral-home-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/funeral-home-website/3db516b3-9735-4218-be9d-5c5e36108cf7/shot_desktop.947bd932b2.webp" width="100%" alt="Funeral Home Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
@@ -147,10 +147,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp" width="100%" alt="Used Car Dealership Website website template — live demo built by GLM-5.3"></a><br>
+<a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp" width="100%" alt="Used Car Dealership Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/used-car-dealership-website">Used Car Dealership Website</a></b> <sup>PRO</sup><br>
 <sub>A modern graphite-and-yellow dealership site with real inventory filters, a payment calculator and three-car compare.</sub><br>
-<sub>GLM-5.3 · <a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/used-car-dealership-website/prompt.md">Prompt</a></sub>
+<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/used-car-dealership-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/koi-pond-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/koi-pond-web-toy/8efc33b2-f202-41e2-95ec-7e2b006fab13/shot_desktop.a3b20c2211.webp" width="100%" alt="Koi Pond Web Toy website template — live demo built by Claude Opus 5.5"></a><br>

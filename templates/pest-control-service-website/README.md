@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/pest-control-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pest-control-service-website/940513cd-b5c4-44eb-8fe4-02dbbf053142/webp.6a1be102e1.webp" width="100%" alt="Pest Control Service Website — Pest Control Site with Identifier Quiz built by GLM-5.3 and Kimi K3.1 Pro"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/pest-control-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/pest-control-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Pest Control Service Website is a single-page site for a local pest control company, in fresh green, deep ink and amber with rounded friendly type — designed to solve problems at 8 a.m., not sell fear at 2 a.m. The signature tool is the pest identifier quiz: three plain questions (what you saw, where, when) branch through a visible logic table to the likely pest, a confidence note and a recommended plan tier, with code-drawn pest icons instead of gross photos. Around it: services from ants to exclusion, a plan comparison with what re-treatment coverage actually means, an honest pet-and-kid safety section (drying times, tamper-resistant bait stations, product classes explained), a seasonal pest calendar, a concrete re-treat-free guarantee, and a free inspection booking that can attach the quiz result. It suits pest control companies, lawn-care-plus-pest hybrids and wildlife removal services. Five variables swap company name, town, entomologist-founder, phone and years; every price, plan and review is invented sample data.
 
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add pest-control-service-we
 The Pest control, Briarfield case was built by GLM-5.3 in ZCode; the Pest control, Milton Falls case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Pest Control Service Website template use?
-Pest Control Service Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Pest Control Service Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Pest Control Service Website template for a client or a business?
 The Pest Control Service Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

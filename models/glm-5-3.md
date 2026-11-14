@@ -4,7 +4,7 @@
 
 [See them live on VibeFather →](https://vibefather.ai/models/glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model)
 
-**Compare GLM-5.3 with:** [Kimi K3.1 Pro](../compare/glm-5-3-vs-kimi-k3-1-pro.md) <sub>16</sub> · [GPT-6.1 Sol](../compare/glm-5-3-vs-gpt-6-1-sol.md) <sub>10</sub> · [DeepSeek V4.1 Flash](../compare/deepseek-v4-1-flash-vs-glm-5-3.md) <sub>94</sub>
+**Compare GLM-5.3 with:** [Kimi K3.1 Pro](../compare/glm-5-3-vs-kimi-k3-1-pro.md) <sub>20</sub> · [GPT-6.1 Sol](../compare/glm-5-3-vs-gpt-6-1-sol.md) <sub>10</sub> · [DeepSeek V4.1 Flash](../compare/deepseek-v4-1-flash-vs-glm-5-3.md) <sub>94</sub>
 
 <table>
 <tr>

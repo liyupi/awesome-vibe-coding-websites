@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/techno-club-night-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/webp.ec95ea6ff2.webp" width="100%" alt="Techno Club Night Event Page — Acid club night with original audio built by GPT-6.1 Sol and GLM-5.3"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/techno-club-night-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/techno-club-night-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Acid green, electric violet, and chrome give this club night page the presence of a printed rave poster. The opening composition combines large warped lettering with a detailed abstract sound sculpture, rather than placing a headline on an empty dark background. Its colors remain bold across the lineup, venue guide, ticket tiers, and door policy, with solid readable panels wherever visitors need practical information.
 

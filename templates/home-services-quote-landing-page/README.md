@@ -79,7 +79,7 @@ Copy the prompt from this page or run npx vibefather add home-services-quote-lan
 The Plumbing crew in Columbus case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Home Services Quote Landing Page template use?
-Home Services Quote Landing Page is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Home Services Quote Landing Page is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Home Services Quote Landing Page template for a client or a business?
 The Home Services Quote Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

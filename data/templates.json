@@ -393,8 +393,8 @@
     ],
     "styles": [
       "aurora",
-      "minimal",
-      "glass"
+      "glass",
+      "minimal"
     ],
     "effects": [
       "generative",
@@ -571,8 +571,8 @@
     ],
     "styles": [
       "playful",
-      "minimal",
-      "glass"
+      "glass",
+      "minimal"
     ],
     "effects": [
       "drag",
@@ -651,8 +651,8 @@
       "restaurant"
     ],
     "styles": [
-      "editorial",
       "luxury",
+      "editorial",
       "dark"
     ],
     "effects": [
@@ -997,8 +997,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
       "glass",
+      "minimal",
       "editorial"
     ],
     "effects": [
@@ -1202,8 +1202,8 @@
       "landing-page"
     ],
     "styles": [
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -1260,6 +1260,13 @@
         "tool": "ZCode",
         "url": "https://vibefather.ai/templates/independent-pharmacy-website",
         "image": "https://media.vibefather.ai/t/independent-pharmacy-website/bb59ef30-eaff-4778-a623-6b46f2e37cc3/shot_desktop.096dcc375a.webp"
+      },
+      {
+        "label": "Pharmacy, Cedar Hollow",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/independent-pharmacy-website?case=909d7848-11d0-4674-b133-5ac578564eb3",
+        "image": "https://media.vibefather.ai/t/independent-pharmacy-website/909d7848-11d0-4674-b133-5ac578564eb3/shot_desktop.373b4eb913.webp"
       }
     ]
   },
@@ -1369,6 +1376,13 @@
         "tool": "ZCode",
         "url": "https://vibefather.ai/templates/martial-arts-dojo-website",
         "image": "https://media.vibefather.ai/t/martial-arts-dojo-website/43189e21-937a-40dc-a178-ea658034cd26/shot_desktop.203ae16b17.webp"
+      },
+      {
+        "label": "Grappling academy, Southbank",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/martial-arts-dojo-website?case=b41d8ff0-1a7d-4c34-b297-f8d9db0226dc",
+        "image": "https://media.vibefather.ai/t/martial-arts-dojo-website/b41d8ff0-1a7d-4c34-b297-f8d9db0226dc/shot_desktop.ffa1c04d02.webp"
       }
     ]
   },
@@ -1439,6 +1453,13 @@
         "tool": "ZCode",
         "url": "https://vibefather.ai/templates/craft-brewery-taproom-website",
         "image": "https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/shot_desktop.cb7bf16b09.webp"
+      },
+      {
+        "label": "Brewery taproom, Forgemont",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/craft-brewery-taproom-website?case=49ae9980-725e-42eb-9992-4c8f6383b7bc",
+        "image": "https://media.vibefather.ai/t/craft-brewery-taproom-website/49ae9980-725e-42eb-9992-4c8f6383b7bc/shot_desktop.35e4b64ed7.webp"
       }
     ]
   },
@@ -1746,6 +1767,13 @@
         "tool": "ZCode",
         "url": "https://vibefather.ai/templates/used-car-dealership-website",
         "image": "https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp"
+      },
+      {
+        "label": "Fleet and family dealer, Port Aldan",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/used-car-dealership-website?case=f2c404c2-e781-4f23-bd55-88cd87dd31ad",
+        "image": "https://media.vibefather.ai/t/used-car-dealership-website/f2c404c2-e781-4f23-bd55-88cd87dd31ad/shot_desktop.2b84274732.webp"
       }
     ]
   },
@@ -2636,8 +2664,8 @@
       "restaurant"
     ],
     "styles": [
-      "editorial",
       "luxury",
+      "editorial",
       "dark"
     ],
     "effects": [
@@ -2947,8 +2975,8 @@
       "toy"
     ],
     "styles": [
-      "editorial",
       "luxury",
+      "editorial",
       "dark"
     ],
     "effects": [
@@ -3067,8 +3095,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -3184,8 +3212,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -3224,8 +3252,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -3305,8 +3333,8 @@
     ],
     "styles": [
       "minimal",
-      "editorial",
-      "bento"
+      "bento",
+      "editorial"
     ],
     "effects": [
       "page-transitions",
@@ -3544,8 +3572,8 @@
       "game"
     ],
     "styles": [
-      "minimal",
       "glass",
+      "minimal",
       "dark"
     ],
     "effects": [
@@ -4633,8 +4661,8 @@
       "toy"
     ],
     "styles": [
-      "minimal",
-      "glass"
+      "glass",
+      "minimal"
     ],
     "effects": [
       "drag",
@@ -4987,8 +5015,8 @@
       "app"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -5381,8 +5409,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
       "swiss",
+      "minimal",
       "editorial"
     ],
     "effects": [
@@ -5662,8 +5690,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
       "swiss",
+      "minimal",
       "luxury"
     ],
     "effects": [
@@ -5703,8 +5731,8 @@
     ],
     "styles": [
       "minimal",
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "parallax",
@@ -5942,8 +5970,8 @@
       "landing-page"
     ],
     "styles": [
-      "editorial",
       "luxury",
+      "editorial",
       "dark"
     ],
     "effects": [
@@ -6226,8 +6254,8 @@
       "portfolio"
     ],
     "styles": [
-      "editorial",
       "luxury",
+      "editorial",
       "dark"
     ],
     "effects": [
@@ -6464,8 +6492,8 @@
       "hotel"
     ],
     "styles": [
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -6662,8 +6690,8 @@
       "app"
     ],
     "styles": [
-      "minimal",
       "swiss",
+      "minimal",
       "editorial"
     ],
     "effects": [
@@ -6780,8 +6808,8 @@
     ],
     "styles": [
       "minimal",
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -6862,8 +6890,8 @@
     ],
     "styles": [
       "minimal",
-      "editorial",
-      "bento"
+      "bento",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -6903,8 +6931,8 @@
     ],
     "styles": [
       "minimal",
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -6982,8 +7010,8 @@
       "landing-page"
     ],
     "styles": [
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -7061,8 +7089,8 @@
     ],
     "styles": [
       "minimal",
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -7101,8 +7129,8 @@
       "portfolio"
     ],
     "styles": [
-      "editorial",
       "luxury",
+      "editorial",
       "dark"
     ],
     "effects": [
@@ -7301,8 +7329,8 @@
       "saas"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -7614,8 +7642,8 @@
       "app"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -7653,8 +7681,8 @@
       "saas"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -7692,8 +7720,8 @@
       "saas"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -7770,8 +7798,8 @@
       "app-showcase"
     ],
     "styles": [
-      "minimal",
       "glass",
+      "minimal",
       "dark"
     ],
     "effects": [
@@ -8132,8 +8160,8 @@
       "landing-page"
     ],
     "styles": [
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -8171,8 +8199,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -8930,8 +8958,8 @@
       "portfolio"
     ],
     "styles": [
-      "minimal",
       "swiss",
+      "minimal",
       "editorial"
     ],
     "effects": [
@@ -8970,8 +8998,8 @@
       "portfolio"
     ],
     "styles": [
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "drag",
@@ -9390,8 +9418,8 @@
       "pricing"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -9429,8 +9457,8 @@
     ],
     "styles": [
       "minimal",
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -9657,8 +9685,8 @@
       "landing-page"
     ],
     "styles": [
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "marquee",
@@ -9911,8 +9939,8 @@
       "saas"
     ],
     "styles": [
-      "minimal",
       "glass",
+      "minimal",
       "dark"
     ],
     "effects": [
@@ -9958,8 +9986,8 @@
       "ecommerce"
     ],
     "styles": [
-      "editorial",
-      "luxury"
+      "luxury",
+      "editorial"
     ],
     "effects": [
       "parallax",
@@ -10491,8 +10519,8 @@
       "portfolio"
     ],
     "styles": [
-      "minimal",
-      "swiss"
+      "swiss",
+      "minimal"
     ],
     "effects": [
       "text-animation",

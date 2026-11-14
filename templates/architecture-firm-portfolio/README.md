@@ -12,7 +12,7 @@ A four-page website for an architecture practice: a home page with one large her
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md) |
-| Style | [Minimal](../../styles/minimal.md), [Swiss](../../styles/swiss.md), [Editorial](../../styles/editorial.md) |
+| Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add architecture
 The Seven-person architecture practice case was built by GLM-5.3 in ZCode; the Landscape architecture practice case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Architecture Firm Portfolio template use?
-Architecture Firm Portfolio is a 4-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Architecture Firm Portfolio is a 4-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Architecture Firm Portfolio template free to use?
 Architecture Firm Portfolio is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

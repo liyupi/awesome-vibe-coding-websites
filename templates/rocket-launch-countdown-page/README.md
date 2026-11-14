@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/rocket-launch-countdown-page/4e7310b0-872d-4c1b-a07a-b2e0679d7e6d/webp.5d154e214c.webp" width="100%" alt="Rocket Launch Countdown Page — Live Countdown and 3D Launch Sim built by Grok 4.7"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/rocket-launch-countdown-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/rocket-launch-countdown-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Rocket Launch Countdown Page is a single-page event site for a fictional flight. The first screen is a night pad drawn in WebGL: a two-stage rocket and an open tower on a concrete square, lit by warm sodium lamps against a near-black sky. Condensed numerals count down to a date you set. Dragging the canvas orbits the vehicle, and a slow idle spin stops at the first touch.
 
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add rocket-launc
 The Coastal satellite launch case was built by Grok 4.7 in Grok Build; the Crop imaging launch case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Rocket Launch Countdown Page template use?
-Rocket Launch Countdown Page is a single-page site built with Tailwind CSS, Three.js and React, with drag & physics and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Rocket Launch Countdown Page is a single-page site built with React, Three.js and Tailwind CSS, with drag & physics and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Rocket Launch Countdown Page template free to use?
 Rocket Launch Countdown Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

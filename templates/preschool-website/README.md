@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/preschool-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/preschool-website/da545f0a-cfec-4343-8bb1-f6cc5427c11f/webp.dbda147902.webp" width="100%" alt="Preschool Website — Preschool Site with Tour Booking built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/preschool-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/preschool-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page website for a preschool: the school's promise over a bright classroom photograph with a tour-booking CTA; three programs by age (toddlers, preschool, pre-K) with daily rhythms and ratios; a horizontal day-in-the-life timeline from arrival to pickup; three teacher profiles with AI-generated portraits (fictional people users swap for their own staff photos); a transparent tuition table by days per week; a parent FAQ answering the real questions (potty training, naps, food, separation, screen time); and a tour-booking form with day chips and a child-age select confirming client-side. The default content follows an invented neighborhood preschool, but the structure suits any early-childhood school. The look is playful calm: warm white and soft sky, a crayon-orange accent, rounded storybook headlines over a friendly sans, empty-classroom photography (never children's faces) and a drawn day-timeline. To adapt it, swap the variables and rewrite the copy in one content file.
 
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add preschool-website, repl
 The Neighborhood preschool case was built by GLM-5.3 in ZCode; the Bilingual preschool case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Preschool Website template use?
-Preschool Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Preschool Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Preschool Website template for a client or a business?
 The Preschool Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

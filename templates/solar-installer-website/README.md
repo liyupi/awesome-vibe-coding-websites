@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/solar-installer-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/solar-installer-website/ee5e4442-edc9-45db-a261-d437dd3a7339/webp.a638b36074.webp" width="100%" alt="Solar Installer Website — Solar Site with Savings Calculator built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/solar-installer-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/solar-installer-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page website for a residential solar installer: the promise over sunlit rooftop panels with the savings calculator above the fold — a monthly-bill slider and roof-size select computing system size, yearly savings and payback years as clearly-labeled sample math; five how-it-works steps from assessment to switch-on; three financing options compared plainly (loan, lease, cash); a six-roof project gallery with sizes and first-year output (sample); a free assessment form (address, bill band, roof age, contact) confirming client-side; a trust strip of warranties and certified installers; and an FAQ answering the real questions — winter, hail, moving home, and payback honesty. The default content follows an invented two-crew installer, but the structure suits any residential solar or energy company: change the company, city and rate assumptions and every number, step and gallery line still reads true. The look is sunlit modern: warm white and sky, deep navy ink, one solar-amber accent, Manrope display over Public Sans, big sky-and-panel photography. All savings figures carry a sample-data caption with stated assumptions. To adapt it, swap the variables and rewrite the copy in one content file.
 
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add solar-installer-website
 The Residential solar installer case was built by GLM-5.3 in ZCode; the Commercial solar installer case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Solar Installer Website template use?
-Solar Installer Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Solar Installer Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Solar Installer Website template for a client or a business?
 The Solar Installer Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/ski-resort-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ski-resort-website/937241b1-4372-4b55-aaaa-e53b2168f7f3/webp.cd9e4d105f.webp" width="100%" alt="Ski Resort Website — Ski Resort Website with Interactive Trail Map built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ski-resort-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ski-resort-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Ski Resort Website is a four-page site for a fictional mountain resort, built around the decisions a visitor makes before a ski trip. The homepage pairs a panoramic alpine photograph with a clearly labeled sample conditions report, then moves into an original interactive SVG trail map. Difficulty filters, selectable trails, lift status, and route details make the map useful rather than decorative. Dedicated tickets and rentals, lessons, and lodging pages continue the same planning journey with working client-side calculators and request states.
 
@@ -18,7 +18,7 @@ The defaults describe Alderpeak Resort in invented Juniper Valley, Colorado. Fiv
 |---|---|
 | Category | [Restaurants, Hotels & Travel](../../README.md#restaurants-hotels--travel) |
 | Site type | [Hotel](../../types/hotel.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
@@ -91,7 +91,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add ski-resort-w
 The Alpine ski resort case was built by Kimi K3.1 Pro in Kimi Code; the Family mountain resort case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Ski Resort Website template use?
-Ski Resort Website is a 4-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Ski Resort Website is a 4-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Ski Resort Website template free to use?
 Ski Resort Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

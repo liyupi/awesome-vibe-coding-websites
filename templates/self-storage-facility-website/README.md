@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/self-storage-facility-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/self-storage-facility-website/6263ed32-6c77-475a-8a14-30a8a9890546/webp.e9aba95fe5.webp" width="100%" alt="Self Storage Facility Website — Self Storage Site with Size Guide built by GLM-5.3 and Kimi K3.1 Pro"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/self-storage-facility-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/self-storage-facility-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Self Storage Facility Website is a single-page site for a storage facility, in bold royal blue and sunflower on white — warehouse-clean instead of chain-link beige. The signature tool is the size guide: pick what you're storing (studio, 1-bedroom, 2-bedroom home, garage or business stock) and an SVG unit draws itself to scale with furniture and box outlines inside, the recommended size badge and a plain fit verdict. Around it: a unit grid filterable by size, climate control, drive-up access and price with live counts; a three-step reserve-a-unit flow with relative move-in timing and no payment, ending in a held-reservation code; concrete security and access facts; a supplies-shop teaser with a reserved-guest discount; a drawn location map with directions; and reviews. It suits storage facilities of any size, and adapts to RV/boat storage or mailbox shops by re-pointing the unit table. Five variables swap facility name, town, manager, phone and years; every unit, price and review is invented sample data.
 
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add self-storage-facility-w
 The Self storage, Lakemont case was built by GLM-5.3 in ZCode; the Climate storage, Pinecrest case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Self Storage Facility Website template use?
-Self Storage Facility Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Self Storage Facility Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Self Storage Facility Website template for a client or a business?
 The Self Storage Facility Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

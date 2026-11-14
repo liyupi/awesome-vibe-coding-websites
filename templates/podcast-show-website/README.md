@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/podcast-show-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/podcast-show-website/07c2ec35-2ca8-48ad-9b41-8794965ac301/webp.7c64b8bec2.webp" width="100%" alt="Podcast Show Website — Editorial Podcast Website with Audio Player built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/podcast-show-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/podcast-show-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Podcast Show Website is a complete home for an interview or storytelling show, built around listening rather than a generic blog feed. The latest episode leads with a wide studio photograph, concise show positioning, and a custom player with play, seek, skip, speed, and volume controls. A bundled original audio preview makes every control work without an external service.
 
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add podcast-show-website, r
 The Everyday object stories case was built by Kimi K3.1 Pro in Kimi Code; the Neighborhood climate stories case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Podcast Show Website template use?
-Podcast Show Website is a 4-page site built with Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Podcast Show Website is a 4-page site built with React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Podcast Show Website template for a client or a business?
 The Podcast Show Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -97,7 +97,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add boutique-hot
 The Coastal boutique hotel case was built by Claude Opus 5.5 in Cursor; the Island sauna retreat case was built by Claude Sonnet 5.5 in Cursor; the Coastal boutique hotel case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Boutique Hotel Website template use?
-Boutique Hotel Website is a 3-page site built with Tailwind CSS, Motion and React, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Boutique Hotel Website is a 3-page site built with React, Motion and Tailwind CSS, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Boutique Hotel Website template free to use?
 Boutique Hotel Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

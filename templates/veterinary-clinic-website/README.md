@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/veterinary-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/veterinary-clinic-website/d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc/webp.13c785c66f.webp" width="100%" alt="Veterinary Clinic Website — Vet Clinic Site with Booking built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/veterinary-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/veterinary-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A two-page website for a veterinary clinic: a home page with warm animal photography, an unmissable-but-calm emergency band, six services in plain words, three vet profiles with AI-generated working portraits (fictional people users swap for their own staff photos), specialties and bedside-manner quotes, and four evergreen care tips; and a visit page with hours and an open-now indicator, a drawn mini-map, detailed out-of-hours guidance and a new-patient form (pet name, species, age, reason, owner contact) that confirms client-side and saves in the browser. The default content follows an invented clinic in Asheville, but the structure suits any small animal practice: change the name, city, phone and founding year and every section still reads true. The look is friendly clinical calm: warm white with a deep teal primary and a honey accent, Comfortaa's rounded display over Albert Sans, cards with soft corners, paw and heart details drawn in SVG. Photography shows animals and hands-off clinic spaces — no human faces — and care tips stay evergreen with no medical advice. To adapt it, swap the variables and rewrite the copy in one content file; services, vets, tips and hours all read from it.
 
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add veterinary-clinic-websi
 The Small animal clinic case was built by GLM-5.3 in ZCode; the Animal hospital in Savannah case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Veterinary Clinic Website template use?
-Veterinary Clinic Website is a 2-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Veterinary Clinic Website is a 2-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Veterinary Clinic Website template for a client or a business?
 The Veterinary Clinic Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

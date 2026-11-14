@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/space-dogfight-arcade-game/7041fb7e-09fa-4573-91c8-4fb8666e18d7/webp.99dfd0f3e2.webp" width="100%" alt="Space Dogfight Arcade Game — Low-Poly Asteroid Dogfight Arcade built by Grok 4.7"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/space-dogfight-arcade-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/space-dogfight-arcade-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Space Dogfight Arcade Game is a single-page browser flight game in a closed asteroid field. The first screen is the field itself: a low-poly fighter already sits in a third-person chase view, with a dark glass card beside it naming the squadron, the sector, and the controls. Launching starts the patrol. The player steers, fires pale ice bolts, holds a lock until one homing missile leaves, boosts on a visible cooldown, and rolls for a short shield shimmer. Drones arrive in numbered waves that add a few craft and a little speed, with a pause between waves. At zero shields the run ends, and the retry card shows the wave reached.
 
@@ -16,7 +16,7 @@ Developers and indie hackers can change six variables: squadron, call sign, sect
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
-| Style | [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md), [Dark](../../styles/dark.md) |
+| Style | [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + TypeScript + three.js + Tailwind CSS 3.4 + three |
 | Pages | 1 |
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add space-dogfight-arcade-g
 The Cinder Patrol squadron case was built by Grok 4.7 in Grok Build; the Saltglass Wing patrol case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Space Dogfight Arcade Game template use?
-Space Dogfight Arcade Game is a single-page site built with Tailwind CSS, Plain HTML and Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Space Dogfight Arcade Game is a single-page site built with Plain HTML, Three.js and Tailwind CSS, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Space Dogfight Arcade Game template for a client or a business?
 The Space Dogfight Arcade Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

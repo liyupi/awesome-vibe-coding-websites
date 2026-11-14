@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/quirky-gadget-product-launch-page/2c3de2d4-f352-42fc-9ddd-ac0a2e75995c/webp.8728ee4eed.webp" width="100%" alt="Quirky Gadget Product Launch Page — Memphis Gadget Page with Draggable 3D built by GPT-6.1 Sol and GLM-5.3"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/quirky-gadget-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/quirky-gadget-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A pocket gadget deserves a launch page with something to play with. This design turns an original manual object into a colorful product story, starting with a real 3D model visitors can rotate by dragging. Red and yellow fill the opening screen, a cobalt disk frames the object, and mint shapes punctuate a consistent Memphis vocabulary of dots, squiggles, outlines, and hard shadows. Rounded display lettering gives the page a friendly voice while clear body text keeps the details readable.
 
@@ -90,7 +90,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add quirky-gadge
 The Pocket celebration gadget case was built by GPT-6.1 Sol in Codex; the Pocket decision helper case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Quirky Gadget Product Launch Page template use?
-Quirky Gadget Product Launch Page is a single-page site built with Three.js and React, with drag & physics, scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Quirky Gadget Product Launch Page is a single-page site built with React and Three.js, with drag & physics, scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Quirky Gadget Product Launch Page template free to use?
 Quirky Gadget Product Launch Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

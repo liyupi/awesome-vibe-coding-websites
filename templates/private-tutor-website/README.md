@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/private-tutor-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/private-tutor-website/ee8ccfb1-719e-4bd6-a57b-f9175932b310/webp.4bf9e3b364.webp" width="100%" alt="Private Tutor Website — Private Tutor Website with Booking Calendar built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/private-tutor-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/private-tutor-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Private Tutor Website is a warm, credible one-person tutoring site for independent teachers who want their first impression to feel as thoughtful as their lessons. It gives families and adult learners one clear path through subjects and levels, the teaching process, sample progress, prices, availability, and a free introductory-call request. The experience is personal without relying on inflated claims: the tutor is visible, practical details are specific, and every sample outcome is labeled as illustrative.
 
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add private-tutor-website, 
 The Math and physics tutor case was built by Kimi K3.1 Pro in Kimi Code; the Writing and study tutor case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Private Tutor Website template use?
-Private Tutor Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Private Tutor Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Private Tutor Website template for a client or a business?
 The Private Tutor Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/retro-roller-rink-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/retro-roller-rink-website/0caf2525-f9d6-41e4-a6f1-f7356df0fa14/webp.6217ec5fc7.webp" width="100%" alt="Retro Roller Rink Website — Groovy rink schedule and party planner built by GPT-6.1 Sol and GLM-5.3"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/retro-roller-rink-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/retro-roller-rink-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This roller rink website brings the warmth of a neighborhood leisure venue into a bold orange and mustard layout. Large curved stripes, rounded display lettering, chocolate rules, and small disco highlights establish a recognizable visual language. The first screen includes a substantial photograph of a polished wooden rink, so visitors see the place before they read through its details. The same photographic treatment carries through skate rentals, party seating, a family skating scene, and the snack counter.
 

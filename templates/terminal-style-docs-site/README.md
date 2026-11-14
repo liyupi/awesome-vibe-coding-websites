@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/225a18de-afff-4c97-a66b-41f58f071275/webp.fbe56211f5.webp" width="100%" alt="Terminal-Style Docs Site — Dark Terminal-Style Documentation Site with Amber Accent and Keyboard Search built by Claude Opus 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Amberterm is a three-page documentation template for an open-source command-line tool. It has a Getting started page, a Commands reference and a Configuration page. All three share one app shell: a fixed top bar, a left sidebar laid out like a file tree, and a right-hand "on this page" outline that highlights the heading you are reading. The background is near-black and a single amber accent marks links, the active page, focus rings and the blinking block caret. Headings, navigation and code use a monospace face. Longer explanations use a plain sans-serif so they stay easy to read.
 
@@ -89,7 +89,7 @@ Copy the prompt from this page or run npx vibefather add terminal-style-docs-sit
 The Task runner CLI case was built by Claude Opus 5.5 in Cursor; the Database migration CLI case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Terminal-Style Docs Site template use?
-Terminal-Style Docs Site is a 4-page site built with Tailwind CSS and React, with text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Terminal-Style Docs Site is a 4-page site built with React and Tailwind CSS, with text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Terminal-Style Docs Site template for a client or a business?
 The Terminal-Style Docs Site prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

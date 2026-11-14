@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/sales-crm-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/sales-crm-dashboard/1e2e9d16-d5f8-40d9-b40a-990a16dc2746/webp.443576a644.webp" width="100%" alt="Sales CRM Dashboard — Sales CRM App with Kanban built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sales-crm-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sales-crm-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page CRM app: an app shell with a left nav and a top bar; a pipeline kanban with five stages and drag-and-drop deal cards (company, value, owner, age) plus a keyboard move alternative; a contacts table with sortable columns, text search and owner/status filters; a deal detail drawer with an activity timeline and inline-editable fields; and an insights view with a revenue-by-month bar chart, stage distribution and top deals — every chart hand-rolled in SVG. About forty invented companies and deals are seeded deterministically on first load and persist to localStorage, with a Reset demo data button; every change — a stage move, a note, an edited value — survives reload. The look is dense productive SaaS: a near-white canvas, cool gray chrome, one deep indigo accent, 13px UI type with tabular numerals, subtle panel elevation. The build uses no drag library (pointer events) and no chart library — everything hand-rolled. To adapt it, swap the variables and rewrite the copy in one content file; stages, seed data, owners and chart labels all read from it.
 
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add sales-crm-da
 The B2B sales team CRM case was built by GLM-5.3 in ZCode; the Agency pipeline CRM case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Sales CRM Dashboard template use?
-Sales CRM Dashboard is a single-page site built with Tailwind CSS, Motion and React, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Sales CRM Dashboard is a single-page site built with React, Motion and Tailwind CSS, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Sales CRM Dashboard template free to use?
 Sales CRM Dashboard is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

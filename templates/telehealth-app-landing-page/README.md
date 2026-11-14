@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/telehealth-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/telehealth-app-landing-page/80b138a2-184e-4fd5-a569-ba362357267a/webp.111482288a.webp" width="100%" alt="Telehealth App Landing Page — Telehealth App Landing Page with CSS Phone UI built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/telehealth-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/telehealth-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Telehealth App Landing Page is a calm, product-led page for a fictional virtual-care service. It suits healthcare founders, product teams, and marketers who need to explain a mobile care experience without relying on stock photography or unsupported medical promises. Two detailed CSS phone mockups anchor the first screen: visitors can choose a visit reason and time, then explore a video-visit interface with local controls. The layout continues through common visit topics, a three-step care journey, clearly labeled sample pricing for self-pay and insurance, privacy practices, FAQs, and platform download actions.
 
@@ -88,7 +88,7 @@ Copy the prompt from this page or run npx vibefather add telehealth-app-landing-
 The Everyday virtual care case was built by Kimi K3.1 Pro in Kimi Code; the Virtual pet care case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Telehealth App Landing Page template use?
-Telehealth App Landing Page is a single-page site built with Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Telehealth App Landing Page is a single-page site built with React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Telehealth App Landing Page template for a client or a business?
 The Telehealth App Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add coastal-real
 The Coastal estate agency case was built by Claude Opus 5.5 in Cursor; the Lakeside village agency case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Coastal Real Estate Agency Website template use?
-Coastal Real Estate Agency Website is a 3-page site built with Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Coastal Real Estate Agency Website is a 3-page site built with React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Coastal Real Estate Agency Website template free to use?
 Coastal Real Estate Agency Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

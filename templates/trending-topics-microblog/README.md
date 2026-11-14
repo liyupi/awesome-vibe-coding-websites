@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/trending-topics-microblog/5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07/webp.48fc47239c.webp" width="100%" alt="Trending Topics Microblog — Social Microblog with Live Trending Rankings built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Trending Topics Microblog is a static React app for communities that want the rhythm of a social feed without setting up accounts, a database, or an activity service. It combines a compact short-post timeline, an animated trend ranking, a focused topic view, and a composer with a live character count and local image preview. It suits indie hackers prototyping a community product, creators gathering a niche audience, educators running a discussion prototype, and designers testing dense social interfaces.
 
@@ -18,7 +18,7 @@ To adapt it, change the brand, community topic, audience, featured trend, and co
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Blog](../../types/blog.md), [Dashboard](../../types/dashboard.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Bento Grid](../../styles/bento.md) |
+| Style | [Minimal](../../styles/minimal.md), [Bento Grid](../../styles/bento.md), [Editorial](../../styles/editorial.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 3 |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add trending-topics-microbl
 The Urban nature community case was built by Kimi K3.1 Pro in Kimi Code; the Tabletop game makers case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Trending Topics Microblog template use?
-Trending Topics Microblog is a 3-page site built with Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Trending Topics Microblog is a 3-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Trending Topics Microblog template for a client or a business?
 The Trending Topics Microblog prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

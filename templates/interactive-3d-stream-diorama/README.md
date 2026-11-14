@@ -18,7 +18,7 @@ All terrain, stones, grasses, water, textures, and audio are generated locally w
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md) |
+| Style | [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md) |
 | Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + GLSL shaders + three + lucide |
 | Pages | 1 |

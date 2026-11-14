@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add infinite-canvas-moodboa
 The Coastal hotel rebrand case was built by Claude Opus 5.5 in Claude Code; the Film production design case was built by Claude Sonnet 5.5 in Claude Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Infinite Canvas Moodboard template use?
-Infinite Canvas Moodboard is a single-page site built with Tailwind CSS, GSAP and React, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Infinite Canvas Moodboard is a single-page site built with GSAP, React and Tailwind CSS, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Infinite Canvas Moodboard template for a client or a business?
 The Infinite Canvas Moodboard prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

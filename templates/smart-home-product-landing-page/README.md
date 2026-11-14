@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/5c94e6b7-19e6-4f67-b5e6-48f138178ef7/webp.94b497e62a.webp" width="100%" alt="Smart Home Product Landing Page — Smart Home Landing with Cutaway House built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This is a warm, soft-light landing page for a smart home starter brand, built with React, Tailwind CSS and Motion, and drawn entirely in code — there is not one photograph in it. The first screen sells with an interactive cutaway house: a hand-built SVG of a two-story home with an attached garage. Click or tab a room — living, kitchen, bedroom or garage — and it highlights in calm teal while the card beside it lists the devices inside and the one automation that room runs. The lineup section pairs six device cards with a second, simplified house map: hover a card and its dots pulse where that device lives. Two CSS phone mockups show the app, and the second phone plays the signature scene — Leaving Home — checking off four devices in sequence, with a replay chip. A facts strip, three sample-priced bundles, an FAQ and a reserve-your-kit email band finish the page.
 
@@ -88,7 +88,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add smart-home-p
 The Smart home starter kit case was built by GLM-5.3 in ZCode; the Renters security kit case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Smart Home Product Landing Page template use?
-Smart Home Product Landing Page is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Smart Home Product Landing Page is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Smart Home Product Landing Page template free to use?
 Smart Home Product Landing Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

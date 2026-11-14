@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b/webp.0873e3851c.webp" width="100%" alt="Sorting Algorithms Visualizer — Interactive Sorting Visualizer with Race Mode built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This template is a working sorting lab, not a page about one. The first screen is the tool itself: a large bar stage drawn on canvas, with play, pause, single-step and scrubbing controls attached directly beneath it. Five algorithms are included: bubble, insertion, merge, quick and heap sort. Each one first produces a complete list of compare, swap, write and mark-final steps, so playback is fully deterministic. You can step backward as easily as forward, and the same seed always gives the same run.
 
@@ -98,7 +98,7 @@ Copy the prompt from this page or run npx vibefather add sorting-algorithms-visu
 The Sorting numbered cards case was built by Claude Opus 5.5 in Claude Code; the School library shelf case was built by Claude Sonnet 5.5 in Claude Code; the Sorting index tiles case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Sorting Algorithms Visualizer template use?
-Sorting Algorithms Visualizer is a single-page site built with Tailwind CSS and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Sorting Algorithms Visualizer is a single-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Sorting Algorithms Visualizer template for a client or a business?
 The Sorting Algorithms Visualizer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

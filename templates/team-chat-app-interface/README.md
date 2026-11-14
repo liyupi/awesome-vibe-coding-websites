@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/team-chat-app-interface/6f8ba19b-242c-4263-8f67-b6780b46fe38/webp.21445bff5d.webp" width="100%" alt="Team Chat App Interface — Team Chat UI with Channels and Dark Mode built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Team Chat App Interface is a working, client-side messaging workspace rather than a static dashboard mockup. It opens directly into a busy project channel, with a channel sidebar, a readable conversation, and a member directory sharing the first screen. The layout suits design tools, productivity products, collaboration apps, and portfolio pieces that need to demonstrate believable UI state.
 
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add team-chat-app-interface
 The Design studio workspace case was built by Kimi K3.1 Pro in Kimi Code; the Bakery team workspace case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Team Chat App Interface template use?
-Team Chat App Interface is a single-page site built with Tailwind CSS and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Team Chat App Interface is a single-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Team Chat App Interface template for a client or a business?
 The Team Chat App Interface prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

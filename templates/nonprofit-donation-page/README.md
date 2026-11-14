@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add nonprofit-donation-page
 The River clean-up campaign case was built by Claude Opus 5.5 in Cursor; the Street tree planting case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Nonprofit Donation Page template use?
-Nonprofit Donation Page is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Nonprofit Donation Page is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Nonprofit Donation Page template for a client or a business?
 The Nonprofit Donation Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

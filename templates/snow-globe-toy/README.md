@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/snow-globe-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/snow-globe-toy/36e48929-b683-4720-90d8-71800c61ef66/webp.7086a7a446.webp" width="100%" alt="Snow Globe Toy — Interactive 3D Snow Globe with Physics built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/snow-globe-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/snow-globe-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Snow Globe Toy is a single-page interactive keepsake built around a procedural Three.js miniature. Visitors drag the globe in quick arcs, press a shake button, or explicitly enable phone tilt to stir the snow. Each flake slows, drifts downward, and settles onto the tiny landscape. The scene selector switches among a warm cabin, a rocky lighthouse, and an original city without replacing the globe or reloading the page.
 
@@ -18,7 +18,7 @@ This template suits creators, designers, educators, and developers who want a sm
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md) |
+| Style | [Playful](../../styles/playful.md), [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md) |
 | Effects | Drag & Physics, Generative / Canvas, 3D / WebGL |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + three + lucide-react |
 | Pages | 1 |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add snow-globe-toy, replace
 The Fireside winter keepsake case was built by Kimi K3.1 Pro in Kimi Code; the Storybook snow wishes case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Snow Globe Toy template use?
-Snow Globe Toy is a single-page site built with Three.js and React, with drag & physics, generative / canvas and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Snow Globe Toy is a single-page site built with React and Three.js, with drag & physics, generative / canvas and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Snow Globe Toy template for a client or a business?
 The Snow Globe Toy prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add parametric-lamp-designe
 The Strata lamp study case was built by Kimi K3.1 Pro in Kimi Code; the Orbit lamp study case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Parametric Lamp Designer template use?
-Parametric Lamp Designer is a single-page site built with Three.js and React, with drag & physics, generative / canvas and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Parametric Lamp Designer is a single-page site built with React and Three.js, with drag & physics, generative / canvas and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Parametric Lamp Designer template for a client or a business?
 The Parametric Lamp Designer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

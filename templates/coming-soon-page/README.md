@@ -83,7 +83,7 @@ Copy the prompt from this page or run npx vibefather add coming-soon-page, repla
 The Software product pre-launch case was built by GLM-5.3 in ZCode; the Coffee subscription pre-launch case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Coming Soon Page template use?
-Coming Soon Page is a single-page site built with Tailwind CSS, Motion and React, with micro-interactions and countdown. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Coming Soon Page is a single-page site built with React, Motion and Tailwind CSS, with micro-interactions and countdown. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Coming Soon Page template for a client or a business?
 The Coming Soon Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

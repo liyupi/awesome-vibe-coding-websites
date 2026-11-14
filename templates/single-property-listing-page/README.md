@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/single-property-listing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/single-property-listing-page/1c450602-4ae5-433b-a46f-6cffc55c8d2b/webp.0b800c1736.webp" width="100%" alt="Single Property Listing Page — Property Listing with Interactive Floor Plan built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/single-property-listing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/single-property-listing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Single Property Listing Page is a focused website for presenting one home with the depth buyers need before they book a visit. It suits independent agents, boutique brokerages, property marketers, and owners who want a dedicated listing rather than another card in a search grid.
 
@@ -18,7 +18,7 @@ Warm limestone colors, high-contrast serif headlines, and precise spacing create
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Real Estate](../../types/real-estate.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
+| Style | [Minimal](../../styles/minimal.md), [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add single-property-listing
 The Modern courtyard home case was built by Kimi K3.1 Pro in Kimi Code; the Coastal contemporary home case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Single Property Listing Page template use?
-Single Property Listing Page is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Single Property Listing Page is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Single Property Listing Page template for a client or a business?
 The Single Property Listing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/boxing-and-strength-gym-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/boxing-and-strength-gym-website/334702f0-0981-4390-9b1a-60e47104f5c3/webp.fa13e32140.webp" width="100%" alt="Boxing and Strength Gym Website — Boxing Gym Website with Class Timetable built by Claude Opus 5.5 and Claude Sonnet 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/boxing-and-strength-gym-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/boxing-and-strength-gym-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A two-page website for a small boxing and strength gym that wants to look like a real place with sweat on the floor. The home page opens on a full-bleed photo of heavy bags in a warehouse gym with a huge condensed headline, then moves through six class types with intensity meters, a strip of today's sessions, membership pricing, coaches, member results, a free-trial booking form and a beginner FAQ. The second page is the full weekly timetable: 34 sessions in a days-by-times grid on desktop and day tabs on mobile, filterable by class type and level, with a slide-in drawer for every class showing the coach, capacity, what to bring and a button that books it as a trial.
 
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add boxing-and-strength-gym
 The Boxing and strength gym case was built by Claude Opus 5.5 in Cursor; the Muay Thai gym case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Boxing and Strength Gym Website template use?
-Boxing and Strength Gym Website is a 2-page site built with Tailwind CSS, Motion and React, with text animation, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Boxing and Strength Gym Website is a 2-page site built with React, Motion and Tailwind CSS, with text animation, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Boxing and Strength Gym Website template for a client or a business?
 The Boxing and Strength Gym Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

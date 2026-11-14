@@ -12,7 +12,7 @@ A three-page website for a small family winery that sells its wines online and p
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Parallax, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 3 |
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add family-winery-and-viney
 The Willamette Pinot Noir estate case was built by Claude Opus 5.5 in Cursor; the Sierra foothills Zinfandel estate case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Family Winery and Vineyard Website template use?
-Family Winery and Vineyard Website is a 3-page site built with Tailwind CSS, Motion and React, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Family Winery and Vineyard Website is a 3-page site built with React, Motion and Tailwind CSS, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Family Winery and Vineyard Website template for a client or a business?
 The Family Winery and Vineyard Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

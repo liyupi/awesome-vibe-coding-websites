@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/virtual-pet-companion/a2c27a78-f8c4-45bc-b368-d5668767ab28/webp.0112927fb9.webp" width="100%" alt="Virtual Pet Companion — Pixel-Art Virtual Pet with Mini-Games built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Virtual Pet Companion is a playable browser toy built around an original pixel-art pet and its miniature habitat. Feeding, playing, cleaning, and resting produce immediate sprite reactions while hunger, mood, cleanliness, and energy change with elapsed real time. Two short mini-games award coins, and a working wardrobe turns those winnings into wearable accessories. The pet, currency, high scores, outfits, and settings persist locally, so returning visitors can continue caring for the same companion.
 
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add virtual-pet-companion, 
 The Moss bunny companion case was built by Kimi K3.1 Pro in Kimi Code; the Star cat companion case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Virtual Pet Companion template use?
-Virtual Pet Companion is a 3-page site built with Tailwind CSS and React, with generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Virtual Pet Companion is a 3-page site built with React and Tailwind CSS, with generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Virtual Pet Companion template for a client or a business?
 The Virtual Pet Companion prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/vacation-rental-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/vacation-rental-booking-page/b9852515-6c37-4f2d-b416-19ea62ce047e/webp.d97d9b98f0.webp" width="100%" alt="Vacation Rental Booking Page — Cabin Rental Page with Calendar built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/vacation-rental-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/vacation-rental-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page website for one vacation rental: a dusk hero of the cabin with the sleeps-and-rate line, a gallery with lightbox, amenities in plain groups, a two-month availability calendar that shows the nightly price on every day and strikes through booked ranges, a price breakdown that recalculates live as dates and guests change, house rules in a calm voice, an area guide with a hand-drawn mini-map, and a booking request form that ends in a client-side confirmation with a reference number. The default content follows an invented cabin in the Catskills that sleeps eight, but the structure suits any single property — cabin, cottage, lake house, A-frame: change the name, region, sleep count and base rate and every section, including the calendar math, still holds. Nightly rates show weekday and weekend pricing with a weekly discount, cleaning and service fees itemize, and the whole booking flow lives in the browser. The palette is timber brown and moss green over warm cream; Bitter sets a hand-cut slab-serif headline voice, Work Sans the body, both self-hosted. To adapt it, swap the variables and rewrite the copy in one content file; rates, fees, rules and guide spots all read from it.
 
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add vacation-rental-booking
 The Cabin in the Catskills case was built by GLM-5.3 in ZCode; the House in the Blue Ridge case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Vacation Rental Booking Page template use?
-Vacation Rental Booking Page is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Vacation Rental Booking Page is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Vacation Rental Booking Page template for a client or a business?
 The Vacation Rental Booking Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

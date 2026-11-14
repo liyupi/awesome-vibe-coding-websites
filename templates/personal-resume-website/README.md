@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/personal-resume-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-resume-website/45bc3866-5fe3-47bd-b9fd-7eae07434fb6/webp.eb867febac.webp" width="100%" alt="Personal Resume Website — One-Page Resume Site with PDF built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/personal-resume-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/personal-resume-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page resume site: a masthead with the name, title, contact links and a Download PDF button; a summary that reads like a person; an experience timeline with a rail, year spans and two achievement bullets each; skills grouped and leveled in plain words instead of logo walls; three projects with what/why/why-it-mattered lines; compact education and certification rows; and a screen-only availability footer. The differentiating feature is the dedicated print stylesheet: one A4 page, real margins, links expanded as URLs, motion gone and sections reflowed — so the browser's print dialog produces a designed PDF, and the Download PDF button simply calls it. The default content follows an invented staff backend engineer in Berlin, but the page suits any profession: change the name, role, field and base city and every line still reads true. The look is clean editorial: white paper, ink text, one cobalt accent, Source Serif 4 headings over Sora, and Spline Sans Mono year spans. A professional AI-generated portrait anchors the masthead (a placeholder users swap for their own photo), and the print stylesheet places it in the header. To adapt it, swap the variables and rewrite the copy in one content file.
 
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add personal-resume-website
 The Backend engineer resume case was built by GLM-5.3 in ZCode; the Product designer resume case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Personal Resume Website template use?
-Personal Resume Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Personal Resume Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Personal Resume Website template for a client or a business?
 The Personal Resume Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

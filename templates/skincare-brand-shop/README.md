@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/skincare-brand-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/skincare-brand-shop/f60d66f0-1c9c-4964-8571-27f17655d736/webp.df4aa1197c.webp" width="100%" alt="Skincare Brand Shop — Skincare Shop with Routine Quiz built by GLM-5.3"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/skincare-brand-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/skincare-brand-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page website for a skincare brand: the clinical-warm promise over a texture close-up with a routine-builder CTA; a four-question quiz (skin type, main concern, routine time, scent preference) that assembles a recommended three-step routine with live prices; six products with key actives; a product detail view with full ingredient list, how-to-use steps and a texture photo; two bundles with per-item savings; an ingredient glossary strip explaining five actives in plain words; and a cart drawer with quantity steppers and a client-side checkout stub. The default content follows an invented minimal skincare line, but the structure suits any small cosmetics or personal-care brand: change the name, products and actives and every section still reads true. The look is apothecary clean: bone and clay tones, deep olive ink, one blush accent, high-contrast serif headlines over a soft sans, generous whitespace and drawn botanical accents. Photography shows bottles, droppers and texture close-ups — no faces or skin close-ups, cosmetic language only, no medical claims. To adapt it, swap the variables and rewrite the copy in one content file.
 
@@ -79,7 +79,7 @@ Copy the prompt from this page or run npx vibefather add skincare-brand-shop, re
 The Minimal skincare line case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Skincare Brand Shop template use?
-Skincare Brand Shop is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Skincare Brand Shop is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Skincare Brand Shop template for a client or a business?
 The Skincare Brand Shop prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

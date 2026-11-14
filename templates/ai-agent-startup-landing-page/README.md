@@ -16,7 +16,7 @@ To adapt it, change the brand, the one-line product, the audience and the list o
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Landing Page](../../types/landing-page.md), [SaaS](../../types/saas.md) |
-| Style | [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md), [Dark](../../styles/dark.md) |
+| Style | [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + gsap + lenis + lucide-react |
 | Pages | 1 |
@@ -95,7 +95,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add ai-agent-sta
 The Support ops agents case was built by Claude Opus 5.5 in Claude Code; the Finance close agents case was built by Claude Sonnet 5.5 in Claude Code; the Support ops agents case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the AI Agent Startup Landing Page template use?
-AI Agent Startup Landing Page is a single-page site built with Tailwind CSS, GSAP and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+AI Agent Startup Landing Page is a single-page site built with GSAP, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the AI Agent Startup Landing Page template free to use?
 AI Agent Startup Landing Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add habit-tracke
 The Habit tracker app case was built by Claude Opus 5.5 in Cursor; the Plant-care reminder app case was built by Claude Opus 5.5 in Cursor; the Habit tracker app case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Habit Tracker App Landing Page template use?
-Habit Tracker App Landing Page is a single-page site built with Tailwind CSS, Motion and React, with marquee, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Habit Tracker App Landing Page is a single-page site built with React, Motion and Tailwind CSS, with marquee, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Habit Tracker App Landing Page template free to use?
 Habit Tracker App Landing Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

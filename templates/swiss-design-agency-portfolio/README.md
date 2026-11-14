@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/gridline/2d68caf9-8ad0-44b7-8c9d-36f9c0b45125/webp.43f6d0e5d2.webp" width="100%" alt="Swiss Design Agency Portfolio — Swiss Style Design Agency Portfolio Template with 12-Column Grid and Case Study Page built by Claude Opus 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Gridline is a two-page portfolio template for a small design studio, built in the International Typographic Style. It has a home page with a numbered project index and a case-study page that reads its content from the URL, so six projects share one detail template. Every element sits on a 12-column grid. You can show that grid at any time with a header toggle or the G key, which helps when you adapt the layout.
 
@@ -18,7 +18,7 @@ To adapt it, change the brand, city, discipline, featured project and contact em
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Agency](../../types/agency.md), [Portfolio](../../types/portfolio.md) |
-| Style | [Minimal](../../styles/minimal.md), [Swiss](../../styles/swiss.md) |
+| Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md) |
 | Effects | Text Animation, Page Transitions, Scroll Animation |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + motion |
 | Pages | 2 |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add swiss-design-agency-por
 The Graphic design studio case was built by Claude Opus 5.5 in Cursor; the Architecture practice case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Swiss Design Agency Portfolio template use?
-Swiss Design Agency Portfolio is a 2-page site built with Tailwind CSS, Motion and Plain HTML, with text animation, page transitions and scroll animation. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Swiss Design Agency Portfolio is a 2-page site built with Motion, Plain HTML and Tailwind CSS, with text animation, page transitions and scroll animation. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Swiss Design Agency Portfolio template for a client or a business?
 The Swiss Design Agency Portfolio prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

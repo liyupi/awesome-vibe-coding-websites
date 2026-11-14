@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/yacht-charter-website/4193f25b-2a96-4a84-afca-87848d4bb6ae/webp.65d51273f5.webp" width="100%" alt="Yacht Charter Website — Yacht Charter with Deck Plans built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A two-page site for a crewed yacht charter house, dressed like a chart table: deep navy ground, white panels, hairline brass, and deck-gray mono labels for everything measurable. The first screen is a yacht at anchor in brilliant Mediterranean light — white hull, deep azure water — under a crisp sans headline and a mono label naming the waters. The fleet grid is the working deck: four yachts on white cards with mono spec lines (meters, guests, cabins, type), filtered by type, guest count and cabin count, and the grid visibly re-sorts with a layout animation when a filter lands. Each card links to a query-routed detail page that opens on the flagship when entered bare: photo strip, a mono specification table, and a deck plan drawn in SVG — hull, cabins, salon, cockpit and swim platform labeled with brass leader lines — plus the sample weekly rate and a jump to the quote form. Back on the home page, two sample itineraries plot on an illustrated route map: invented anchorages, a dotted brass route, numbered stops that swap when you toggle seven nights against a long weekend. The quote request — yacht, season, guests, notes — saves locally with an honest note that nothing is sent. Photography stays in one sea-light grade: bright midday clarity, salt haze, yachts, teak and coastline, crew only distant. Swap brand, waters, port and entry rate in one content file; the second demo case turns the same house into a day-charter catamaran fleet.
 
@@ -12,7 +12,7 @@ A two-page site for a crewed yacht charter house, dressed like a chart table: de
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Swiss](../../styles/swiss.md), [Luxury](../../styles/luxury.md) |
+| Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md), [Luxury](../../styles/luxury.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add yacht-charte
 The Yacht charter case was built by GLM-5.3 in ZCode; the Day-charter catamaran fleet case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Yacht Charter Website template use?
-Yacht Charter Website is a 2-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Yacht Charter Website is a 2-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Yacht Charter Website template free to use?
 Yacht Charter Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

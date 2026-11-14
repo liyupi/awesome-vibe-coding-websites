@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/template-library-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/lumen-index/6d74b1e8-61ef-4995-9312-cc976ab35452/webp.8898148594.webp" width="100%" alt="Template Library Landing Page — Dark Template Library Landing Page built by Claude Opus 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/template-library-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/template-library-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Lumen Index is a single-page landing template for a library or marketplace of website templates, prompts or developer resources. The hero opens on a headline about vibe-coding templates. Below it is a wall of browser-frame cards in four rows that scroll sideways in alternating directions. Each card is a small invented website drawn in CSS and SVG: a ceramics shop, a fintech dashboard, a Swiss-style portfolio, a docs site, a pixel game. There are no screenshots or bitmaps, and the whole build stays small and sharp at any size.
 
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add template-library-landin
 The Website template library case was built by Claude Opus 5.5 in Cursor; the Icon and illustration library case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Template Library Landing Page template use?
-Template Library Landing Page is a single-page site built with Tailwind CSS, Motion and React, with marquee and scroll animation. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Template Library Landing Page is a single-page site built with React, Motion and Tailwind CSS, with marquee and scroll animation. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Template Library Landing Page template for a client or a business?
 The Template Library Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

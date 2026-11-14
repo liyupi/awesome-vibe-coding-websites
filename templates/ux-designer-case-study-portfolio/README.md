@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ux-designer-case-study-portfolio/d98c9cd5-3c35-49ef-b8f1-e7259817ea29/webp.4bf3c1eb59.webp" width="100%" alt="UX Designer Case Study Portfolio — UX Case Study Portfolio with Process built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ux-designer-case-study-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ux-designer-case-study-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This portfolio is built for designers whose strongest work needs more explanation than a gallery card can provide. It pairs a concise project index with substantial case-study pages, giving each project room for the problem, research, decisions, wireframes, interface changes, and outcomes. The structure suits independent UX and product designers, researchers moving into design, and job seekers who want hiring managers to understand how they think.
 
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add ux-designer-
 The Healthcare UX portfolio case was built by Kimi K3.1 Pro in Kimi Code; the Climate UX portfolio case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the UX Designer Case Study Portfolio template use?
-UX Designer Case Study Portfolio is a 4-page site built with Tailwind CSS, Motion and React, with drag & physics, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+UX Designer Case Study Portfolio is a 4-page site built with React, Motion and Tailwind CSS, with drag & physics, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the UX Designer Case Study Portfolio template free to use?
 UX Designer Case Study Portfolio is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

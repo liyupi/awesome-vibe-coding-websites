@@ -91,7 +91,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add annual-repor
 The Cold chain freight company case was built by Claude Opus 5.5 in Claude Code; the Clean water nonprofit case was built by Claude Sonnet 5.5 in Claude Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Annual Report Data Story template use?
-Annual Report Data Story is a single-page site built with Tailwind CSS, GSAP and Plain HTML, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Annual Report Data Story is a single-page site built with GSAP, Plain HTML and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Annual Report Data Story template free to use?
 Annual Report Data Story is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

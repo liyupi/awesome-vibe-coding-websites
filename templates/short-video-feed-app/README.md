@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/short-video-feed-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/short-video-feed-app/aded2cec-2ac0-4992-92e8-e943c5cb7adf/webp.58c09f0c5c.webp" width="100%" alt="Short Video Feed App — Vertical Video Feed with Snap Navigation built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/short-video-feed-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/short-video-feed-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Short Video Feed App is an original, fully client-side motion-story experience for creators, studios and publishers who want a more focused way to present short visual work. Instead of real video files or a media backend, six locally hosted photographs become cinematic scenes with slow pans, timed captions and optional browser-generated sound. The result is quick to ship as a static site while still feeling alive and immersive.
 
@@ -90,7 +90,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add short-video-
 The Slow craft stories case was built by Kimi K3.1 Pro in Kimi Code; the Weekend maker journal case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Short Video Feed App template use?
-Short Video Feed App is a 3-page site built with Tailwind CSS, Motion and React, with parallax, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Short Video Feed App is a 3-page site built with React, Motion and Tailwind CSS, with parallax, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Short Video Feed App template free to use?
 Short Video Feed App is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

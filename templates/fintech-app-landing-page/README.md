@@ -12,7 +12,7 @@ A single-page site that launches one mobile banking app: a hero anchored by a 3D
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Landing Page](../../types/landing-page.md), App Showcase |
-| Style | [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md), [Dark](../../styles/dark.md) |
+| Style | [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -83,7 +83,7 @@ Copy the prompt from this page or run npx vibefather add fintech-app-landing-pag
 The Everyday banking app case was built by GLM-5.3 in ZCode; the Couples budgeting app case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Fintech App Landing Page template use?
-Fintech App Landing Page is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Fintech App Landing Page is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Fintech App Landing Page template for a client or a business?
 The Fintech App Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

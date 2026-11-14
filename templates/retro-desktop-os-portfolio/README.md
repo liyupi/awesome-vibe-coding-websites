@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/webp.32946bf4dc.webp" width="100%" alt="Retro Desktop OS Portfolio — Retro Desktop OS Portfolio Template with Draggable Windows and Start Menu built by Claude Opus 5.5 and Gemini 4 Carbon"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Pixelshell is a portfolio template built as a fictional desktop operating system from the late nineties. It is made for motion designers who want visitors to play with the site before they read it. A short typed boot log gives way to a teal-gray desktop with a column of pixel icons, a taskbar with a live clock, and cream windows with chunky warm-gray bevels. You drag windows by their title bars. Clicking a window brings it to the front and dims the others. Windows minimize to the taskbar and maximize on a double-click. The start menu has About, Work, Showreel, Contact, a wallpaper switcher and a shut-down item that ends on a goodbye screen.
 
@@ -98,7 +98,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add retro-deskto
 The Motion designer portfolio case was built by Claude Opus 5.5 in Cursor; the Illustrator portfolio case was built by Claude Opus 5.5 in Cursor; the Motion designer portfolio case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Retro Desktop OS Portfolio template use?
-Retro Desktop OS Portfolio is a single-page site built with Tailwind CSS, Motion and React, with drag & physics, text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Retro Desktop OS Portfolio is a single-page site built with React, Motion and Tailwind CSS, with drag & physics, text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Retro Desktop OS Portfolio template free to use?
 Retro Desktop OS Portfolio is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

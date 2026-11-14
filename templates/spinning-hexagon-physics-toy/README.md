@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/webp.ed339f15d8.webp" width="100%" alt="Spinning Hexagon Physics Toy — Neon Canvas Physics Toy built by GPT-6.1 Sol and GLM-5.3"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This interactive physics toy turns a simple rotating hexagon into a small, colorful playground. Twenty glossy numbered balls tumble, collide and spin against a moving boundary. Gravity, friction, rotation and ball count can all be changed while the scene runs, so visitors can discover how each setting changes the motion. A shake button adds a fresh burst of energy, and slow motion makes the smaller contacts easier to follow.
 

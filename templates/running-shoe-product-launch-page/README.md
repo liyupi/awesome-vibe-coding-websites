@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/webp.98deae2283.webp" width="100%" alt="Running Shoe Product Launch Page — Electric shoe launch with original 3D built by GPT-6.1 Sol and GLM-5.3"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 An oversized electric-blue and volt-yellow composition gives this running shoe launch a clear identity before a visitor scrolls. The centerpiece is an original procedural shoe model with a squared toe, a sculpted two-arch sole, an exposed lace bridge, and small oval ventilation details. It rotates through side, front, heel, and top views as the page moves. Dedicated angle buttons provide the same views without requiring a mouse gesture or scroll effect.
 

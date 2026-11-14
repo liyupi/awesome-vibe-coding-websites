@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/webp.70af1c03c2.webp" width="100%" alt="Risograph Indie Magazine Website — Fluorescent print culture magazine built by GPT-6.1 Sol and GLM-5.3"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/risograph-indie-magazine-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/risograph-indie-magazine-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A magazine should feel as considered as the object a reader carries home. This website opens with a large, code-drawn issue cover, fluorescent pink and process blue plates, visible halftones, and a small yellow paper tab. The colors overlap into purple while the reading surfaces stay clean and legible. A compact masthead, oversized issue theme, and practical reading links give the opening screen the rhythm of a culture publication rather than a product launch.
 

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/sushi-omakase-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/sushi-omakase-restaurant-website/d7a34626-11e3-4939-b7a6-4095c4af279e/webp.a84bf43b3a.webp" width="100%" alt="Sushi Omakase Restaurant Website — Dark Omakase Restaurant Site with Scroll Menu built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sushi-omakase-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sushi-omakase-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page site for a high-end sushi counter, built around one idea: luxury that stays quiet. The page opens on a full-bleed macro photograph of nigiri on dark lacquered cedar, lit by a single warm lamp, with the headline set into the shadow. Below it come the house philosophy, the season's eight courses, the chef's story, an interactive counter-seat reservation, and the practical details of finding the door. The seasonal menu is the centerpiece: each course reveals itself as you scroll, one dish at a time, while a thin progress rail fills amber as the meal moves forward. The reservation section replaces a booking form with a diagram of the eight-seat counter: pick a date from the next seven days, choose the 17:30 or 20:00 seating, and click a seat; a quiet inline confirmation closes the loop. Everything ships as static files with no backend, so the picker is pure interface. Design-wise the template commits to lacquer black, charred surfaces, cedar hairlines and one muted amber accent, with Cormorant Garamond display type over Karla text. Motion is deliberately slow: smooth scrolling, gentle parallax on the photography, and 750ms reveals that honor prefers-reduced-motion. There are no white cards, no pill buttons and no gradients; structure comes from hairlines, whitespace and type on the lacquer ground. It suits any tasting-counter business: sushi, kaiseki, tempura, a wine or whisky flight bar, a cupping room. Swap brand, chef, price and seat count in one content file, replace the six photographs with your own shoot, and the design holds; the second demo case rebuilds the same layout as a coffee cupping counter to prove it.
 
@@ -12,7 +12,7 @@ A single-page site for a high-end sushi counter, built around one idea: luxury t
 |---|---|
 | Category | [Restaurants, Hotels & Travel](../../README.md#restaurants-hotels--travel) |
 | Site type | [Restaurant](../../types/restaurant.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Parallax, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lenis + lucide-react |
 | Pages | 1 |
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add sushi-omakase-restauran
 The Omakase counter case was built by GLM-5.3 in ZCode; the Coffee cupping room case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Sushi Omakase Restaurant Website template use?
-Sushi Omakase Restaurant Website is a single-page site built with Tailwind CSS, React and Lenis, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Sushi Omakase Restaurant Website is a single-page site built with React, Tailwind CSS and Lenis, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Sushi Omakase Restaurant Website template for a client or a business?
 The Sushi Omakase Restaurant Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add fashion-look
 The Fashion lookbook case was built by GLM-5.3 in ZCode; the Tailoring capsule label case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Fashion Lookbook Website template use?
-Fashion Lookbook Website is a single-page site built with Tailwind CSS, Motion and React, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Fashion Lookbook Website is a single-page site built with React, Motion and Tailwind CSS, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Fashion Lookbook Website template free to use?
 Fashion Lookbook Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

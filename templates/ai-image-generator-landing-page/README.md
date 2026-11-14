@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/ai-image-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/ad255b62-71d1-4921-9d6b-f983931801d8/webp.96cc6a24bf.webp" width="100%" alt="AI Image Generator Landing Page — Dark AI Image App Landing with Prompt Hero built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ai-image-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ai-image-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This is a dark, cinematic landing page for an AI image generator, built with React, Tailwind CSS and Motion. The first screen does the selling: a glass prompt box types an example prompt letter by letter, a Generate button fills a progress bar, and the large image beside it dissolves into a matching picture through a small hand-written WebGL shader. Five prompt and image pairs loop, and visitors can jump between them with the thumbnail strip. Below the hero, the page follows the order people expect from a generative product: a strip of product facts, three how-it-works cards with small interface mocks, a feature bento, a before and after slider with three finishing modes, a masonry gallery, credit-based pricing, an FAQ and a sign-up band over a blurred collage of results.
 
@@ -95,7 +95,7 @@ Copy the prompt from this page or run npx vibefather add ai-image-generator-land
 The AI image generator app case was built by Claude Opus 5.5 in Claude Code; the Concept art generator case was built by Claude Sonnet 5.5 in Claude Code; the AI image generator app case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the AI Image Generator Landing Page template use?
-AI Image Generator Landing Page is a single-page site built with Tailwind CSS, Motion and React, with drag & physics, text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+AI Image Generator Landing Page is a single-page site built with React, Motion and Tailwind CSS, with drag & physics, text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the AI Image Generator Landing Page template for a client or a business?
 The AI Image Generator Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

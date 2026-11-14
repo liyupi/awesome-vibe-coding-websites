@@ -2,7 +2,7 @@
 
 > A screen-print label-art brewery site with a filterable tap list and a flight builder that pours in code.
 
-<a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/webp.0efe73f628.webp" width="100%" alt="Craft Brewery Taproom Website — Brewery Site with Flight Builder built by GLM-5.3"></a>
+<a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/webp.0efe73f628.webp" width="100%" alt="Craft Brewery Taproom Website — Brewery Site with Flight Builder built by GLM-5.3 and Kimi K3.1 Pro"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Craft Brewery Taproom Website is a single-page site for a small brewery and tapr
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ Craft Brewery Taproom Website is a single-page site for a small brewery and tapr
 <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?case=5185e329-f3da-4dd2-ad6f-242f896e66ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/shot_desktop.cb7bf16b09.webp" width="100%" alt="Craft Brewery Taproom Website — Brewery taproom, Millrace, built by GLM-5.3 in ZCode"></a><br>
 <b>Brewery taproom, Millrace</b><br>
 <sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?case=5185e329-f3da-4dd2-ad6f-242f896e66ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/craft-brewery-taproom-website?case=49ae9980-725e-42eb-9992-4c8f6383b7bc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/49ae9980-725e-42eb-9992-4c8f6383b7bc/shot_desktop.35e4b64ed7.webp" width="100%" alt="Craft Brewery Taproom Website — Brewery taproom, Forgemont, built by Kimi K3.1 Pro in Kimi Code"></a><br>
+<b>Brewery taproom, Forgemont</b><br>
+<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?case=49ae9980-725e-42eb-9992-4c8f6383b7bc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -51,35 +56,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A small cidery: set [BRAND] and [CITY] to your press house, rewrite the twelve taps as ciders with sweetness and apple variety in the tasting notes, and keep the flight builder for four-cider samplers.
-- A neighborhood taproom with no kitchen: keep the food-truck weekly rhythm as the main draw, swap the tours booking for a table hold, and trim merch to glassware and stickers.
-- A homebrew club or nano brewery: set [FOUNDER] to the club lead, use the events section for meeting nights and bottle shares, and replace the tours with a brew-day signup.
+- A small cidery: set BRAND and CITY to your orchard taproom, rewrite the twelve beers as ciders with their own styles and swatch colors, and keep the flight builder and tours booking.
+- A neighborhood taproom with rotating guest taps: replace the invented beer list with your current pours, update the food-truck rhythm to your real weekly schedule, and point PHONE at the bar line.
+- A brewery that runs tours and tastings: fill the tour booking slots with your real times and party sizes, name FOUNDER as your head brewer, and set EXPERIENCE to your years brewing.
+- A meadery or wine taproom: re-point the filter families to dry, sweet and sparkling, swap the merch grid for your bottles and glasses, and keep the age gate and flight paddle as they are.
 
 ## FAQ
 
-### How does the flight builder on the Craft Brewery Taproom Website work?
-Each beer in the tap list has an Add to flight toggle, and the Craft Brewery Taproom Website lets you pick up to four. A code-drawn walnut paddle fills left to right in your selection order, each taster glass filling with that beer's swatch color, and a summary card lists names, styles and the pour total. A fifth pick shakes the paddle and shows a short nudge. The selection is saved in the browser, and there is a house flight preset if you want four chosen for you.
+### How does the flight builder on the Craft Brewery Taproom Website template work?
+The Craft Brewery Taproom Website template lets a visitor pick any four beers from the tap list, and a code-drawn wooden paddle fills with color-coded tasters in the order they were chosen. A summary card lists each beer's name, style and ABV with the sample pour total. A fifth pick shakes the paddle, and the selection is saved in the browser so it survives a reload.
 
-### How do I change the twelve beers, food trucks and events to my own brewery's?
-Every beer, food truck and event on the Craft Brewery Taproom Website is invented sample data, and all of it lives in one content file the AI agent can rewrite. Give your agent your real tap list with style, ABV, IBU, tasting note and a swatch color per beer, plus your truck schedule and event names, and ask it to replace the samples in the same structure. The five variables swap brand name, town, head brewer, phone and years brewing.
+### How do I change the invented beers, food trucks and events to my own brewery's real ones?
+All sample content in the Craft Brewery Taproom Website template sits in one content file, so you replace the twelve invented beers, food trucks, events, tour slots and merch items there. Each beer needs a name, style, family, ABV, IBU, tasting note and swatch color so the filters and flight paddle keep working. Trucks and bands are invented in the demo and should be swapped for your real schedule.
 
-### Can I use the Craft Brewery Taproom Website template for a cidery or a wine taproom instead of a brewery?
-Yes. The Craft Brewery Taproom Website is built for breweries, cideries and taprooms, and the tap list, flight builder and food-truck rhythm all carry over. Ask your AI agent to re-point the twelve beers to ciders or wines, keeping the same fields, and adjust the style family filters so they match your categories. The label-art palette and code-drawn hop cones can be redrawn as apples or grapes if you want the art to match.
+### What do the five variables in the Craft Brewery Taproom Website template control?
+The Craft Brewery Taproom Website template uses five variables: BRAND sets the brewery name and the hop-cone logomark, CITY places the taproom in the hero, hours and footer, FOUNDER names the head brewer in the hero and tour copy, PHONE builds the taproom phone link, and EXPERIENCE states the years brewing. Every other headline is written for the default values and should be rewritten when yours differ.
 
-### What does the age gate on the Craft Brewery Taproom Website do for returning visitors?
-The age gate on the Craft Brewery Taproom Website shows once, as a full-screen cream overlay with a drawn hop cone and two buttons. Choosing the come-in option stores a flag in the browser and fades the overlay out, and returning visitors skip the gate entirely. Choosing the not-yet option swaps to a friendly panel pointing at the food trucks and root-beer floats. The gate never blocks scrolling once it is cleared.
+### Can I turn the Craft Brewery Taproom Website template into a cidery or meadery site?
+Yes. The Craft Brewery Taproom Website template is built for breweries, cideries and taprooms, and the tap list fields carry over directly: swap beer styles for cider or mead styles, keep the family and strength filters, and set each swatch color to the drink's real tone. The flight builder, food-truck rhythm, tours booking and age gate all work the same way for a cidery.
 
-### What should I change first after adding the Craft Brewery Taproom Website template?
-Set the five variables first: brewery name, town, head brewer, phone and years brewing. The Craft Brewery Taproom Website rewrites dependent copy from them and derives the phone link and saved browser data from the brand, so no default-brand remnants remain. Then replace the twelve sample beers with your tap list, swap the invented food trucks and events for your real weekly rhythm, and check the tours booking party sizes and slots match what you actually offer.
+### How does the age gate behave for returning visitors on the Craft Brewery Taproom Website template?
+The Craft Brewery Taproom Website template shows a full-screen cream age gate on the first visit only, with a code-drawn hop cone and two choices. Confirming stores the answer in the browser and fades the gate out, so returning visitors go straight to the page. Choosing not yet swaps in a friendly panel pointing to food trucks and root-beer floats instead of blocking the site.
 
 ### How do I build a craft brewery taproom website with AI?
-Copy the prompt from this page or run npx vibefather add craft-brewery-taproom-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add craft-brewery-taproom-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Craft Brewery Taproom Website demo?
-The Brewery taproom, Millrace case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added.
+The Brewery taproom, Millrace case was built by GLM-5.3 in ZCode; the Brewery taproom, Forgemont case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Craft Brewery Taproom Website template use?
-Craft Brewery Taproom Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Craft Brewery Taproom Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Craft Brewery Taproom Website template for a client or a business?
 The Craft Brewery Taproom Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pizza-ordering-website/88827dac-ff0f-41b0-8fed-61e03c69adc1/webp.ad7cbdb8ec.webp" width="100%" alt="Pizza Ordering Website — Pizzeria Website with Live Pizza Builder built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Pizza Ordering Website is a complete, single-page storefront for an independent pizzeria that wants customers to browse, customize, and schedule an order without leaving the page. It suits neighborhood pizza shops, ghost kitchens, small restaurant groups, and developers building a polished hospitality demo. The default content follows Juniper & Crust, an invented wood-fired pizzeria, with named dishes, ingredient lists, prices, opening hours, a street address, and service details.
 
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add pizza-ordering-website,
 The Neighborhood pizzeria case was built by Kimi K3.1 Pro in Kimi Code; the Late-night pizza shop case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Pizza Ordering Website template use?
-Pizza Ordering Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Pizza Ordering Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Pizza Ordering Website template for a client or a business?
 The Pizza Ordering Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

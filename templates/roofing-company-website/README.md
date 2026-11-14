@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/roofing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/roofing-company-website/fdccef11-0f1f-4aa1-81e0-331e289a53f3/webp.658fb47d37.webp" width="100%" alt="Roofing Company Website — Roofing Contractor Site with Cost Estimator built by GLM-5.3 and Kimi K3.1 Pro"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/roofing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/roofing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Roofing Company Website is a single-page site for a residential roofing contractor, built around one signature tool: a roof cost estimator that turns home footprint, roof pitch, material and tear-off into a realistic price range and days-on-site figure, with the rate math shown on screen. Around it sit the things homeowners actually look for — a storm damage checklist that grades what you saw, a materials comparison table with sample per-square rates, a draggable before-and-after reroof slider, a license and warranty block with specific numbers, and a service-area map drawn in code. The look is trade-confidence, not blue-corporate: slate charcoal ground, safety orange signals, sky-blue data accents and a bold condensed display face, with golden-hour photography of finished roofs. The page ends in an inspection request form that completes inline and stays in the browser. It suits any contractor or trades business that quotes jobs — roofers, but also siding, windows or solar installers happy to re-point the estimator's rate table. Swap the brand, city, owner, phone and experience years through five variables; every rate, town and review is sample data in one content file, ready to be replaced with the real numbers.
 
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add roofing-company-website
 The Residential roofer, Harlow Springs case was built by GLM-5.3 in ZCode; the Commercial roofer, Vesper Bay case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Roofing Company Website template use?
-Roofing Company Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Roofing Company Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Roofing Company Website template for a client or a business?
 The Roofing Company Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -91,7 +91,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add interactive-
 The Overland travel writer case was built by Claude Opus 5.5 in Cursor; the Pacific sailing journal case was built by Claude Sonnet 5.5 in Cursor; the Overland travel writer case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Interactive 3D Globe Travel Journal template use?
-Interactive 3D Globe Travel Journal is a single-page site built with Tailwind CSS, GSAP and Three.js, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Interactive 3D Globe Travel Journal is a single-page site built with GSAP, Three.js and Tailwind CSS, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Interactive 3D Globe Travel Journal template free to use?
 Interactive 3D Globe Travel Journal is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

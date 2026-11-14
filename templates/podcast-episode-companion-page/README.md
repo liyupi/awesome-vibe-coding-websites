@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/fieldnotes/f1f0a8ca-cd60-4325-b8c3-3f31f77d2061/webp.a0dbda5a1c.webp" width="100%" alt="Podcast Episode Companion Page — Illustrated Episode Companion with Data Viz built by Claude Opus 5.5 and Claude Sonnet 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Fieldnotes is a single-page reading companion for one long podcast episode or book. It breaks the story into five chapters, opens each with a watercolor painting, and carries the numbers in eleven hand-drawn exhibits: bar and line charts with handwritten annotations, a 10×10 unit chart you can switch between storage methods, a rotating order card, a thickness gauge and a two-line chart with a year scrubber that marks the moment a rival becomes cheaper. Archival public-domain photographs sit in the text as taped scrapbook prints, pull quotes carry the hosts' voices with timestamps, and each chapter ends with a lesson card the reader can save to a notes drawer and copy as text.
 
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add podcast-episode-compani
 The Ice company history case was built by Claude Opus 5.5 in Cursor; the Street lighting history case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Podcast Episode Companion Page template use?
-Podcast Episode Companion Page is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Podcast Episode Companion Page is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Podcast Episode Companion Page template for a client or a business?
 The Podcast Episode Companion Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

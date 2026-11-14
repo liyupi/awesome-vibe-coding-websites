@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/senior-living-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/senior-living-community-website/91be7b81-1b02-4f44-b97a-abd716b1aa1c/webp.caef090428.webp" width="100%" alt="Senior Living Community Website — Accessible Senior Living Community Website built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/senior-living-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/senior-living-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Senior Living Community Website is a single-page site for a residential community that needs to feel reassuring without hiding practical details. It suits independent living, assisted living, and memory care providers, as well as small operators building a first family-facing website. Visitors can enlarge the text, compare care levels, browse an ordinary day through photographs, review sample menus, switch between floor plans, and save a tour request. The experience gives older adults and their family members the same clear path rather than treating accessibility as a separate mode.
 
@@ -89,7 +89,7 @@ Copy the prompt from this page or run npx vibefather add senior-living-community
 The Full-service senior living case was built by Kimi K3.1 Pro in Kimi Code; the Memory care community case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Senior Living Community Website template use?
-Senior Living Community Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Senior Living Community Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Senior Living Community Website template for a client or a business?
 The Senior Living Community Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

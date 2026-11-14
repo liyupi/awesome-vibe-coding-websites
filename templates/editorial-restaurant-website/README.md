@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/editorial-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/larder/f00ec6bf-1927-4e03-af39-033d97a6118e/webp.46b8f7204d.webp" width="100%" alt="Editorial Restaurant Website — Editorial Restaurant Website Template with Serif Typography and Parallax Image Strips built by Claude Opus 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/editorial-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/editorial-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Larder is a three-page website template for a small restaurant whose cooking follows the season. It has a home page, a menu page with prices and a visit page with opening hours and a drawn street map. It suits small-plates dining rooms, wine bars, bakeries, cafés and any place whose menu changes often and whose bookings come in by phone or email rather than through a booking widget.
 
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add editorial-restaurant-we
 The Small-plates restaurant case was built by Claude Opus 5.5 in Cursor; the Wood-fired bakery case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Editorial Restaurant Website template use?
-Editorial Restaurant Website is a 3-page site built with Tailwind CSS and Plain HTML, with parallax, text animation and scroll animation. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Editorial Restaurant Website is a 3-page site built with Plain HTML and Tailwind CSS, with parallax, text animation and scroll animation. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Editorial Restaurant Website template for a client or a business?
 The Editorial Restaurant Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

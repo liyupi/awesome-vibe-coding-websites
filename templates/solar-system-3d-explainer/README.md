@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/webp.1457bd9164.webp" width="100%" alt="Solar System 3D Explainer — 3D Solar System Explainer with Scroll Tour built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This template is a full-screen 3D explainer of the Solar System that runs in the browser with no server. The scene is the first thing a visitor sees: the Sun, eight planets with surfaces drawn entirely in code, thin orbit lines and a quiet starfield, with a slim instrument bar along the bottom and one warm solar accent on deep-space black.
 
@@ -97,7 +97,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add solar-system
 The The Solar System case was built by Claude Opus 5.5 in Claude Code; the A red dwarf's seven planets case was built by Claude Sonnet 5.5 in Claude Code; the The Solar System case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Solar System 3D Explainer template use?
-Solar System 3D Explainer is a single-page site built with Tailwind CSS, GSAP and Three.js, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Solar System 3D Explainer is a single-page site built with GSAP, Three.js and Tailwind CSS, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Solar System 3D Explainer template free to use?
 Solar System 3D Explainer is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

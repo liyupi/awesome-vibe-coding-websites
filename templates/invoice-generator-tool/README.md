@@ -18,7 +18,7 @@ Adapt the generator’s brand, sample issuer, client, location, service type, an
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [App](../../types/app.md) |
-| Style | [Minimal](../../styles/minimal.md), [Swiss](../../styles/swiss.md), [Editorial](../../styles/editorial.md) |
+| Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4.1 + lucide-react |
 | Pages | 1 |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add invoice-generator-tool,
 The Design studio invoice case was built by Kimi K3.1 Pro in Kimi Code; the Bicycle repair invoice case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Invoice Generator Tool template use?
-Invoice Generator Tool is a single-page site built with Tailwind CSS and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Invoice Generator Tool is a single-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Invoice Generator Tool template for a client or a business?
 The Invoice Generator Tool prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

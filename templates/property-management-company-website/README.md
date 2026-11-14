@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/property-management-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="undefined" width="100%" alt="Property Management Company Website — Property Management Site with Income Tool built by GLM-5.3 and Kimi K3.1 Pro"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/property-management-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/property-management-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Property Management Company Website is a single-page site for a residential property management firm, in warm brick, ink navy and sand — a brownstone-office feel instead of corporate landlord blue. The page is built around two clear paths. Owners get services, a fully transparent fee structure (leasing, management, renewal, lease-out guarantee) and a rental income estimator: rent, vacancy weeks, management fee and maintenance reserve produce gross annual, each deduction and net monthly with every line visible. Tenants get a filterable available-rentals grid, four apply steps, and a maintenance request flow with category and urgency that saves to a local 'my requests' list with sample statuses — portal-lite without a login. Owner testimonials carry real-feeling numbers (days-to-lease, collection rate), a drawn service-area map shows towns and unit counts, and a free rental analysis form closes the owner path. Five variables swap firm name, town, broker, phone and years; all fees, listings and people are invented sample data.
 
@@ -85,7 +85,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add property-man
 The Rental management, Ellsworth case was built by GLM-5.3 in ZCode; the Condo management, Port Bay case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Property Management Company Website template use?
-Property Management Company Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Property Management Company Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Property Management Company Website template free to use?
 Property Management Company Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

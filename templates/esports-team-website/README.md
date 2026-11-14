@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add esports-team-website, r
 The Tactical arena team case was built by Kimi K3.1 Pro in Kimi Code; the Survival arena team case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Esports Team Website template use?
-Esports Team Website is a 5-page site built with Tailwind CSS, Motion and React, with marquee, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Esports Team Website is a 5-page site built with React, Motion and Tailwind CSS, with marquee, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Esports Team Website template for a client or a business?
 The Esports Team Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

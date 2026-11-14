@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/b2acc2a0-84ad-4fc3-a6d3-85fe9f297357/webp.75499cd7ed.webp" width="100%" alt="Isometric 3D Room Portfolio — Interactive 3D Room Developer Portfolio built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/isometric-3d-room-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/isometric-3d-room-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page developer portfolio staged as a cozy isometric 3D room floating on a soft pastel gradient. The room is the whole first screen, and every object in it is a way in: the bookshelf opens About, the desk monitor opens Projects, the guitar in the corner opens Music and the little wall mailbox opens Contact. Hover an object and it lifts, brightens and shows a small floating label; click it and the camera glides in on it while a side panel slides open. Close the panel and the camera eases back home. A desk lamp doubles as a light switch: click it, or the sun and moon toggle in the corner, and the room crossfades to a deep blue night where the lamp throws warm light, the monitor glows and a strand of fairy lights twinkles along the wall.
 
@@ -96,7 +96,7 @@ Copy the prompt from this page or run npx vibefather add isometric-3d-room-portf
 The Creative front-end developer case was built by Claude Opus 5.5 in Claude Code; the Indie game developer case was built by Claude Sonnet 5.5 in Cursor; the Creative front-end developer case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Isometric 3D Room Portfolio template use?
-Isometric 3D Room Portfolio is a single-page site built with Tailwind CSS, Three.js and React, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Isometric 3D Room Portfolio is a single-page site built with React, Three.js and Tailwind CSS, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Isometric 3D Room Portfolio template for a client or a business?
 The Isometric 3D Room Portfolio prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

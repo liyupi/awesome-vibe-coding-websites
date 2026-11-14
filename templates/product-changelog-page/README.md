@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/webp.f9a0d22a9a.webp" width="100%" alt="Product Changelog Page — Changelog Page with Tag Filters built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page changelog for one product: a sticky slim header with the wordmark and the newest version chip; a filter bar of type chips (feature / improvement / fix / breaking) with live counts that dim entries out rather than reflowing them; and a hairline timeline of nine release entries — each with a mono version chip, an entry title, tag chips, a two-line summary and bulleted changes, an anchor (#v2-4-1) with a copy-link affordance on hover, and occasional small code-drawn accents (a keyboard-shortcut note, a before/after line). A subscribe panel (client-side, honest) and a drawn-generic RSS-style feed chip close the page above the footer. The default logs an invented productivity tool, but the structure suits any app or library. The look is release notes: warm white ground, ink text, mono version chips, hairline rules, one violet accent. Entries order by version only — no dates anywhere. Everything runs locally.
 
@@ -12,7 +12,7 @@ A single-page changelog for one product: a sticky slim header with the wordmark 
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Docs](../../types/docs.md), [SaaS](../../types/saas.md) |
-| Style | [Minimal](../../styles/minimal.md), [Swiss](../../styles/swiss.md) |
+| Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -82,7 +82,7 @@ Copy the prompt from this page or run npx vibefather add product-changelog-page,
 The Productivity app changelog case was built by GLM-5.3 in ZCode; the Developer library changelog case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Product Changelog Page template use?
-Product Changelog Page is a single-page site built with Tailwind CSS, Motion and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Product Changelog Page is a single-page site built with React, Motion and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Product Changelog Page template for a client or a business?
 The Product Changelog Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/physical-therapy-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/physical-therapy-clinic-website/10e85994-8098-4395-b849-3b14128055fe/webp.773d15c652.webp" width="100%" alt="Physical Therapy Clinic Website — Physical Therapy with Booking built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/physical-therapy-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/physical-therapy-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A two-page website for a physical therapy clinic: a home page with the move-better promise over a bright treatment room, eight common conditions in plain words (never diagnosis language), a three-step approach, three therapist profiles with AI-generated working portraits (fictional people users swap for their own staff photos), an insurance block answering networks and self-pay honestly, and an outcomes note kept experiential; and a new-patient page with an intake form (condition select, history checkboxes, contact) confirming client-side, hours with an open-now indicator and a getting-here note. The default content follows an invented clinic, but the structure suits any outpatient PT or rehab practice. The look is clinical warm: white and light slate with a calm teal primary and one coral tick, rounded friendly headlines over a humanist sans, treatment-room photography and gentle reveals. Outcomes are described as typical journeys with sample labels — never guarantees or cure claims. To adapt it, swap the variables and rewrite the copy in one content file.
 
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add physical-therapy-clinic
 The Outpatient PT clinic case was built by GLM-5.3 in ZCode; the Sports rehab clinic case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Physical Therapy Clinic Website template use?
-Physical Therapy Clinic Website is a 2-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Physical Therapy Clinic Website is a 2-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Physical Therapy Clinic Website template for a client or a business?
 The Physical Therapy Clinic Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

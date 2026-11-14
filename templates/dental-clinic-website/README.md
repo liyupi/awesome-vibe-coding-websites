@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/dental-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/dental-clinic-website/51604e9b-9cd3-431d-bce2-e9793afc1733/webp.c12022c38d.webp" width="100%" alt="Dental Clinic Website — Dental Clinic Website with Booking Form built by Claude Opus 5.5 and Claude Sonnet 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/dental-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/dental-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Brightwell is a two-page website for a local health practice that wants to look like a place people already trust. The default build is Wrenfield Dental, an invented family and cosmetic dental clinic in the invented town of Calder Springs. The home page carries the full story: a dismissible emergency banner, a hero with a live open-now card and the next free slot, a reassurance strip, an $89 new-patient offer, six treatment cards with price ranges, a photo gallery of the clinic interior, the team, reviews, insurance and payment plans, a booking section with opening hours and a drawn map, and an FAQ about pain and cost. The second page lists sixteen treatments by category, each with a price range, duration, insurance note and a short what-to-expect list, followed by a clear aligner feature and a payment plan calculator.
 
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add dental-clinic-website, 
 The Family dental clinic case was built by Claude Opus 5.5 in Cursor; the Neighborhood vet clinic case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Dental Clinic Website template use?
-Dental Clinic Website is a 2-page site built with Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Dental Clinic Website is a 2-page site built with React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Dental Clinic Website template for a client or a business?
 The Dental Clinic Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -18,7 +18,7 @@ Variables cover the brand, invitation line, audience, deck name, and reflection 
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Vanilla CSS with custom properties + lucide-react |
 | Pages | 1 |

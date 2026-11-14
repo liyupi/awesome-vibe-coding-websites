@@ -98,7 +98,7 @@ Copy the prompt from this page or run npx vibefather add home-energy-dashboard, 
 The Home energy monitor case was built by Claude Opus 5.5 in Cursor; the Bakery kitchen energy case was built by Claude Opus 5.5 in Cursor; the Household energy monitor case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Home Energy Dashboard template use?
-Home Energy Dashboard is a single-page site built with Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Home Energy Dashboard is a single-page site built with React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Home Energy Dashboard template for a client or a business?
 The Home Energy Dashboard prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

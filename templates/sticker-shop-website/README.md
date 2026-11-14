@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/webp.af50f8ff00.webp" width="100%" alt="Sticker Shop Website — Rainbow sticker shop with local cart built by GPT-6.1 Sol and GLM-5.3"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A sticker shop should make its products feel easy to pick up and hard to confuse with anything else. This page uses cherry red and lemon yellow in large blocks, with saturated original die-cut artwork and crisp white borders. A substantial product photograph anchors the opening, while a few code-drawn stickers sit around it as physical-looking objects with small shadows and careful tilts. The same visual language continues through the shop grid, custom pack desk, cart, and sample review wall.
 

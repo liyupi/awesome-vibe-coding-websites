@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/03c4ac56-fdda-4ae0-9105-2d2ba4e5e717/webp.2d812ce256.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game — First-Person Arena Wave Shooter built by Grok 4.7"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Sci-Fi Arena Wave Survival Game is a one-page browser game played in first person inside a closed industrial yard. Crates, low walls, and a gantry are built from boxes under four sodium lamps. The opening screen is a glass title card over that live view, with one hovering drone in sight and a short control legend. The start click begins the round and asks for pointer lock. If the browser or a sandboxed frame refuses the lock, the refusal is caught and looking switches to dragging the view and the arrow keys.
 
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add sci-fi-arena-wave-survi
 The Sodium yard range case was built by Grok 4.7 in Grok Build; the Brick kiln range case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Sci-Fi Arena Wave Survival Game template use?
-Sci-Fi Arena Wave Survival Game is a single-page site built with Tailwind CSS and Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Sci-Fi Arena Wave Survival Game is a single-page site built with Three.js and Tailwind CSS, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Sci-Fi Arena Wave Survival Game template for a client or a business?
 The Sci-Fi Arena Wave Survival Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/5c2491c8-a860-4985-b5b5-31f489c773e3/webp.ab5184fa07.webp" width="100%" alt="Product Launch Keynote Slides — Black Keynote Slides with Morph Transitions built by Claude Opus 5.5 and Claude Sonnet 5.5"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Product Launch Keynote Slides is a 14-slide presentation site that runs in a browser tab and paces a launch the way a big-stage event does: an opening tease, the reveal, three feature beats, the numbers, price and date, then a single closing word. Every slide sits on true black with one idea, oversized type and a spotlit product. It suits founders, product marketers and small teams who are announcing something tangible and want to present from a link instead of exporting a deck from a slide tool.
 
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add product-laun
 The Portable home battery case was built by Claude Opus 5.5 in Claude Code; the Whole-room air purifier case was built by Claude Sonnet 5.5 in Claude Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Product Launch Keynote Slides template use?
-Product Launch Keynote Slides is a single-page site built with Tailwind CSS, Motion and React, with text animation, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Product Launch Keynote Slides is a single-page site built with React, Motion and Tailwind CSS, with text animation, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Product Launch Keynote Slides template free to use?
 Product Launch Keynote Slides is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

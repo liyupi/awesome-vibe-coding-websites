@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/startup-waitlist-landing-page/04a22c24-520c-4205-a49d-3da0206f5a85/webp.908ebaa468.webp" width="100%" alt="Startup Waitlist Landing Page — Waitlist Page with Referral Counter built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A single-page waitlist for a product about to launch: an oversized headline over a quietly generative code-drawn background, an email capture with inline validation, and — the hook — a confirmation that shows your queue position with a copyable referral link that visibly skips you ahead when shared (an honest client-side mock). Below sit three benefit cards with one concrete line each, a beta user's quote with a small sample-data stats row, and five FAQ answers covering launch timing and referral mechanics. The default content waits for an invented pairing product for solo developers, but the page suits any early launch: change the brand, the one-line description, the launch season and the queue figure and everything still reads true. The look is bold minimal: a near-black canvas, one electric lime accent, an oversized variable grotesque headline, an IBM Plex Mono queue number and referral link, and a dot-field background generated in canvas that drifts behind the type. Nothing is submitted anywhere — the spot, position and referrals live in the browser. To adapt it, swap the variables and rewrite the copy in one content file.
 
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add startup-waitlist-landin
 The Dev pairing tool waitlist case was built by GLM-5.3 in ZCode; the Code review tool waitlist case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Startup Waitlist Landing Page template use?
-Startup Waitlist Landing Page is a single-page site built with Tailwind CSS, Motion and React, with generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Startup Waitlist Landing Page is a single-page site built with React, Motion and Tailwind CSS, with generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Startup Waitlist Landing Page template for a client or a business?
 The Startup Waitlist Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

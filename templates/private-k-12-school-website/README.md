@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/private-k-12-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/private-k-12-school-website/656a8501-c697-48d6-8801-9ad021d3196e/webp.ec33072b3b.webp" width="100%" alt="Private K-12 School Website — Private School Site with Aid Estimator built by GLM-5.3 and Kimi K3.1 Pro"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/private-k-12-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/private-k-12-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Private K-12 School Website is a single-page site for an independent day school, in school red, navy and chalk white with a confident crest-free wordmark — institutional tradition with modern grid discipline. The page answers what parents actually navigate: three divisions (lower, middle, upper) each with a six-stop day-in-the-life timeline told in concrete details; admissions as a five-step rhythm with seasonal deadline anchors; a tuition-and-aid estimator (division, household size, income band → estimated tuition after sample aid, every factor visible and labeled illustrative); athletics and arts as living program grids; campus tour booking; and a news feed that reads maintained. Photography shows classrooms, a library, labs and fields with people far away or from behind — sunlit, orderly, alive. It suits private day schools, charter networks and faith-independent academies. Five variables swap school name, town, head of school, phone and age; every stat, staff name and event is invented sample data.
 
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add private-k-12-school-web
 The K-12 school, Windmere case was built by GLM-5.3 in ZCode; the K-12 school, Kestrel Falls case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Private K-12 School Website template use?
-Private K-12 School Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Private K-12 School Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Private K-12 School Website template for a client or a business?
 The Private K-12 School Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

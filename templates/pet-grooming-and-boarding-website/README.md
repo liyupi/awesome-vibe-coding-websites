@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/pet-grooming-and-boarding-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pet-grooming-and-boarding-website/e45d8739-cc6f-404e-8056-9887a37ccfac/webp.f2351a2b55.webp" width="100%" alt="Pet Grooming and Boarding Website — Pet Grooming Site with Stay Calculator built by GLM-5.3 and Kimi K3.1 Pro"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/pet-grooming-and-boarding-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/pet-grooming-and-boarding-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 Pet Grooming and Boarding Website is a single-page site for a pet salon and boarding house, in bubblegum pink, sky blue and sunshine on white — cheerful but composed, with photography of freshly groomed, anatomically right dogs and cats carrying the color. Two working tools serve the questions every owner asks: a grooming price picker (pet type, size, coat type → visible price and duration from one table) and a boarding stay calculator (nights, suite tier, add-ons like group playtime or a going-home bath → total with line items). A day-in-the-life schedule strip sells the boarding day better than claims, vaccination requirements sit up front as a tidy checklist, and a pet profile form saved in the browser makes rebooking one tap. Booking completes inline with the profile attached. It suits groomers, boarding kennels, doggy daycares and cat-only salons. Five variables swap business name, town, owner, phone and years; every price, suite and review is invented sample data.
 
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add pet-grooming-and-boardi
 The Grooming salon, Maplewood case was built by GLM-5.3 in ZCode; the Cat lounge, Fairview case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Pet Grooming and Boarding Website template use?
-Pet Grooming and Boarding Website is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Pet Grooming and Boarding Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Pet Grooming and Boarding Website template for a client or a business?
 The Pet Grooming and Boarding Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -1,10 +1,10 @@
 # Websites built with Kimi K3.1 Pro
 
-> 86 live websites built by Kimi K3.1 Pro (Moonshot AI) from published VibeFather prompts, ran in Kimi Code. Every one used the prompt in its template folder with nothing added.
+> 90 live websites built by Kimi K3.1 Pro (Moonshot AI) from published VibeFather prompts, ran in Kimi Code. Every one used the prompt in its template folder with nothing added.
 
 [See them live on VibeFather →](https://vibefather.ai/models/kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model)
 
-**Compare Kimi K3.1 Pro with:** [DeepSeek V4.1 Flash](../compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro.md) <sub>70</sub> · [GLM-5.3](../compare/glm-5-3-vs-kimi-k3-1-pro.md) <sub>16</sub>
+**Compare Kimi K3.1 Pro with:** [DeepSeek V4.1 Flash](../compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro.md) <sub>70</sub> · [GLM-5.3](../compare/glm-5-3-vs-kimi-k3-1-pro.md) <sub>20</sub>
 
 <table>
 <tr>
@@ -50,16 +50,28 @@
 <sub>Bridal salon, Windham Bay · Kimi Code · <a href="https://vibefather.ai/templates/bridal-boutique-website?case=8c1a3a7f-2bc8-4233-8fb0-d922de9c297f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/funeral-home-website?case=6ed6358e-3795-434b-b8bb-a478baf153d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/funeral-home-website/6ed6358e-3795-434b-b8bb-a478baf153d7/shot_desktop.aa1642cd74.webp" width="100%" alt="Funeral Home Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
-<b><a href="../templates/funeral-home-website">Funeral Home Website</a></b><br>
-<sub>Memorial chapel, Elmgate · Kimi Code · <a href="https://vibefather.ai/templates/funeral-home-website?case=6ed6358e-3795-434b-b8bb-a478baf153d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/independent-pharmacy-website?case=909d7848-11d0-4674-b133-5ac578564eb3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/independent-pharmacy-website/909d7848-11d0-4674-b133-5ac578564eb3/shot_desktop.373b4eb913.webp" width="100%" alt="Independent Pharmacy Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
+<b><a href="../templates/independent-pharmacy-website">Independent Pharmacy Website</a></b><br>
+<sub>Pharmacy, Cedar Hollow · Kimi Code · <a href="https://vibefather.ai/templates/independent-pharmacy-website?case=909d7848-11d0-4674-b133-5ac578564eb3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/funeral-home-website?case=6ed6358e-3795-434b-b8bb-a478baf153d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/funeral-home-website/6ed6358e-3795-434b-b8bb-a478baf153d7/shot_desktop.aa1642cd74.webp" width="100%" alt="Funeral Home Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
+<b><a href="../templates/funeral-home-website">Funeral Home Website</a></b><br>
+<sub>Memorial chapel, Elmgate · Kimi Code · <a href="https://vibefather.ai/templates/funeral-home-website?case=6ed6358e-3795-434b-b8bb-a478baf153d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-lessons-school-website?case=65401d9a-cd56-45d1-a20f-66a2857ba154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/music-lessons-school-website/65401d9a-cd56-45d1-a20f-66a2857ba154/shot_desktop.a3cbd38306.webp" width="100%" alt="Music Lessons School Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b><a href="../templates/music-lessons-school-website">Music Lessons School Website</a></b><br>
 <sub>Music academy, Foxhollow · Kimi Code · <a href="https://vibefather.ai/templates/music-lessons-school-website?case=65401d9a-cd56-45d1-a20f-66a2857ba154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/martial-arts-dojo-website?case=b41d8ff0-1a7d-4c34-b297-f8d9db0226dc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/martial-arts-dojo-website/b41d8ff0-1a7d-4c34-b297-f8d9db0226dc/shot_desktop.ffa1c04d02.webp" width="100%" alt="Martial Arts Dojo Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
+<b><a href="../templates/martial-arts-dojo-website">Martial Arts Dojo Website</a></b><br>
+<sub>Grappling academy, Southbank · Kimi Code · <a href="https://vibefather.ai/templates/martial-arts-dojo-website?case=b41d8ff0-1a7d-4c34-b297-f8d9db0226dc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pet-grooming-and-boarding-website?case=58ee5dab-a826-42e1-8a77-28937ee0b9c2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/pet-grooming-and-boarding-website/58ee5dab-a826-42e1-8a77-28937ee0b9c2/shot_desktop.96222c22a5.webp" width="100%" alt="Pet Grooming and Boarding Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
@@ -69,45 +81,57 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/craft-brewery-taproom-website?case=49ae9980-725e-42eb-9992-4c8f6383b7bc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/49ae9980-725e-42eb-9992-4c8f6383b7bc/shot_desktop.35e4b64ed7.webp" width="100%" alt="Craft Brewery Taproom Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
+<b><a href="../templates/craft-brewery-taproom-website">Craft Brewery Taproom Website</a></b><br>
+<sub>Brewery taproom, Forgemont · Kimi Code · <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?case=49ae9980-725e-42eb-9992-4c8f6383b7bc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/property-management-company-website?case=06d7c381-bb30-4394-896a-4650155bc521&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/property-management-company-website/06d7c381-bb30-4394-896a-4650155bc521/shot_desktop.c182e51ef4.webp" width="100%" alt="Property Management Company Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b><a href="../templates/property-management-company-website">Property Management Company Website</a></b> <sup>PRO</sup><br>
 <sub>Condo management, Port Bay · Kimi Code · <a href="https://vibefather.ai/templates/property-management-company-website?case=06d7c381-bb30-4394-896a-4650155bc521&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=81d6151f-d12a-400b-ac55-33b92e86832a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/81d6151f-d12a-400b-ac55-33b92e86832a/shot_desktop.0570749bda.webp" width="100%" alt="Car Wash and Detailing Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b><a href="../templates/car-wash-and-detailing-website">Car Wash and Detailing Website</a></b><br>
 <sub>Fleet wash, Dockside Junction · Kimi Code · <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=81d6151f-d12a-400b-ac55-33b92e86832a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pest-control-service-website?case=1672ca85-e1d3-4aca-8cfd-6dc033713bf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/pest-control-service-website/1672ca85-e1d3-4aca-8cfd-6dc033713bf7/shot_desktop.7299a32818.webp" width="100%" alt="Pest Control Service Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b><a href="../templates/pest-control-service-website">Pest Control Service Website</a></b><br>
 <sub>Pest control, Milton Falls · Kimi Code · <a href="https://vibefather.ai/templates/pest-control-service-website?case=1672ca85-e1d3-4aca-8cfd-6dc033713bf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/self-storage-facility-website?case=abb7b5cc-f968-46d9-b62c-8eec1e8bd3d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/self-storage-facility-website/abb7b5cc-f968-46d9-b62c-8eec1e8bd3d8/shot_desktop.ce6d05aade.webp" width="100%" alt="Self Storage Facility Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b><a href="../templates/self-storage-facility-website">Self Storage Facility Website</a></b><br>
 <sub>Climate storage, Pinecrest · Kimi Code · <a href="https://vibefather.ai/templates/self-storage-facility-website?case=abb7b5cc-f968-46d9-b62c-8eec1e8bd3d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=f20265aa-e228-4b03-baed-1be140e39a8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/f20265aa-e228-4b03-baed-1be140e39a8a/shot_desktop.c23c241173.webp" width="100%" alt="Industrial Manufacturing Company Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b><a href="../templates/industrial-manufacturing-company-website">Industrial Manufacturing Company Website</a></b> <sup>PRO</sup><br>
 <sub>Fabrication shop, Ridgeway · Kimi Code · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=f20265aa-e228-4b03-baed-1be140e39a8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/community-bank-website?case=ac2ee925-bbee-4bdc-b82d-73a3aac1d46e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/community-bank-website/ac2ee925-bbee-4bdc-b82d-73a3aac1d46e/shot_desktop.8879d3dfa1.webp" width="100%" alt="Community Bank Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b><a href="../templates/community-bank-website">Community Bank Website</a></b> <sup>PRO</sup><br>
 <sub>Community bank, Harmony Grove · Kimi Code · <a href="https://vibefather.ai/templates/community-bank-website?case=ac2ee925-bbee-4bdc-b82d-73a3aac1d46e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/family-medical-clinic-website?case=1d7d72a6-48a2-4117-b3a4-c3b1452bdfeb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/family-medical-clinic-website/1d7d72a6-48a2-4117-b3a4-c3b1452bdfeb/shot_desktop.6b33acc310.webp" width="100%" alt="Family Medical Clinic Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b><a href="../templates/family-medical-clinic-website">Family Medical Clinic Website</a></b><br>
 <sub>Family practice, Northport · Kimi Code · <a href="https://vibefather.ai/templates/family-medical-clinic-website?case=1d7d72a6-48a2-4117-b3a4-c3b1452bdfeb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/used-car-dealership-website?case=f2c404c2-e781-4f23-bd55-88cd87dd31ad&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/used-car-dealership-website/f2c404c2-e781-4f23-bd55-88cd87dd31ad/shot_desktop.2b84274732.webp" width="100%" alt="Used Car Dealership Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
+<b><a href="../templates/used-car-dealership-website">Used Car Dealership Website</a></b> <sup>PRO</sup><br>
+<sub>Fleet and family dealer, Port Aldan · Kimi Code · <a href="https://vibefather.ai/templates/used-car-dealership-website?case=f2c404c2-e781-4f23-bd55-88cd87dd31ad&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/landscaping-and-lawn-care-website?case=889cc2f9-852e-471e-b8e4-29766d492634&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/landscaping-and-lawn-care-website/889cc2f9-852e-471e-b8e4-29766d492634/shot_desktop.6846615f8c.webp" width="100%" alt="Landscaping and Lawn Care Website built by Kimi K3.1 Pro in Kimi Code"></a><br>
@@ -127,36 +151,16 @@
 <sub>Commercial roofer, Vesper Bay · Kimi Code · <a href="https://vibefather.ai/templates/roofing-company-website?case=9c05f4e9-0093-4132-a823-835f3af3e7e2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/typing-speed-race-game?case=deae1ec5-aea3-4056-97c0-d7bc34dd0998&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/typing-speed-race-game/deae1ec5-aea3-4056-97c0-d7bc34dd0998/shot_desktop.fddeee1ac1.webp" width="100%" alt="Typing Speed Race Game built by Kimi K3.1 Pro in Kimi Code"></a><br>
-<b><a href="../templates/typing-speed-race-game">Typing Speed Race Game</a></b><br>
-<sub>Night drive · Kimi Code · <a href="https://vibefather.ai/templates/typing-speed-race-game?case=deae1ec5-aea3-4056-97c0-d7bc34dd0998&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/paper-lantern-festival-page?case=6e76915f-c856-4ff1-b8d8-20d3d0c08887&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/paper-lantern-festival-page/6e76915f-c856-4ff1-b8d8-20d3d0c08887/shot_desktop.fe859837ab.webp" width="100%" alt="Paper Lantern Festival Page built by Kimi K3.1 Pro in Kimi Code"></a><br>
-<b><a href="../templates/paper-lantern-festival-page">Paper Lantern Festival Page</a></b><br>
-<sub>Stillwater wish festival · Kimi Code · <a href="https://vibefather.ai/templates/paper-lantern-festival-page?case=6e76915f-c856-4ff1-b8d8-20d3d0c08887&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/constellation-story-map?case=474c16c5-a9cf-4409-9d3e-befcbae59603&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/constellation-story-map/474c16c5-a9cf-4409-9d3e-befcbae59603/shot_desktop.69d41d47e7.webp" width="100%" alt="Constellation Story Map built by Kimi K3.1 Pro in Kimi Code"></a><br>
-<b><a href="../templates/constellation-story-map">Constellation Story Map</a></b><br>
-<sub>Lantern Sky Myths · Kimi Code · <a href="https://vibefather.ai/templates/constellation-story-map?case=474c16c5-a9cf-4409-9d3e-befcbae59603&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/daily-tarot-reading-page?case=fec5a5dc-3797-419f-a4d0-15fa9cf849df&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/daily-tarot-reading-page/fec5a5dc-3797-419f-a4d0-15fa9cf849df/shot_desktop.a405c56e1b.webp" width="100%" alt="Daily Tarot Reading Page built by Kimi K3.1 Pro in Kimi Code"></a><br>
-<b><a href="../templates/daily-tarot-reading-page">Daily Tarot Reading Page</a></b><br>
-<sub>Night Field Deck · Kimi Code · <a href="https://vibefather.ai/templates/daily-tarot-reading-page?case=fec5a5dc-3797-419f-a4d0-15fa9cf849df&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
 </table>
 
 ### More
 
 | Template | Content | Tool | |
 |---|---|---|---|
+| [Typing Speed Race Game](../templates/typing-speed-race-game) | Night drive | Kimi Code | [Live demo](https://vibefather.ai/templates/typing-speed-race-game?case=deae1ec5-aea3-4056-97c0-d7bc34dd0998&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Paper Lantern Festival Page](../templates/paper-lantern-festival-page) | Stillwater wish festival | Kimi Code | [Live demo](https://vibefather.ai/templates/paper-lantern-festival-page?case=6e76915f-c856-4ff1-b8d8-20d3d0c08887&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Constellation Story Map](../templates/constellation-story-map) | Lantern Sky Myths | Kimi Code | [Live demo](https://vibefather.ai/templates/constellation-story-map?case=474c16c5-a9cf-4409-9d3e-befcbae59603&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Daily Tarot Reading Page](../templates/daily-tarot-reading-page) | Night Field Deck | Kimi Code | [Live demo](https://vibefather.ai/templates/daily-tarot-reading-page?case=fec5a5dc-3797-419f-a4d0-15fa9cf849df&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Cozy Isometric Farm Game](../templates/cozy-isometric-farm-game) | Valley kitchen garden | Kimi Code | [Live demo](https://vibefather.ai/templates/cozy-isometric-farm-game?case=b7da2b77-755c-4009-88b1-d0c437cc2de6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Flower Anatomy 3D Explainer](../templates/flower-anatomy-3d-explainer) | Oriental lily anatomy | Kimi Code | [Live demo](https://vibefather.ai/templates/flower-anatomy-3d-explainer?case=01637441-c72d-419e-b271-3244e088a0ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Trending Topics Microblog](../templates/trending-topics-microblog) | Urban nature community | Kimi Code | [Live demo](https://vibefather.ai/templates/trending-topics-microblog?case=5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
