@@ -12,7 +12,7 @@ A single-page site for a high-end sushi counter, built around one idea: luxury t
 |---|---|
 | Category | [Restaurants, Hotels & Travel](../../README.md#restaurants-hotels--travel) |
 | Site type | [Restaurant](../../types/restaurant.md) |
-| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Parallax, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lenis + lucide-react |
 | Pages | 1 |

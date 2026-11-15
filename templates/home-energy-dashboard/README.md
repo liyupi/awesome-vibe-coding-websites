@@ -18,7 +18,7 @@ To adapt it, change the five variables for brand, site, operator, currency and f
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Dashboard](../../types/dashboard.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |

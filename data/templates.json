@@ -48,12 +48,12 @@
       "explainer"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
-      "drag",
       "scroll-animation",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + vanilla TypeScript + Plain CSS",
@@ -89,8 +89,8 @@
       "landing-page"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "parallax",
@@ -214,9 +214,9 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
+      "dark",
       "luxury",
-      "dark"
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -300,8 +300,8 @@
       "y2k"
     ],
     "effects": [
-      "drag",
       "marquee",
+      "drag",
       "3d"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18 + three@0.169.0 + @react-three/fiber@8.17.10",
@@ -344,8 +344,8 @@
       "blog"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -530,8 +530,8 @@
     ],
     "styles": [
       "brutalist",
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -575,8 +575,8 @@
       "minimal"
     ],
     "effects": [
-      "drag",
       "generative",
+      "drag",
       "3d"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Vanilla CSS + three + lucide-react",
@@ -651,9 +651,9 @@
       "restaurant"
     ],
     "styles": [
+      "dark",
       "luxury",
-      "editorial",
-      "dark"
+      "editorial"
     ],
     "effects": [
       "parallax",
@@ -693,8 +693,8 @@
     ],
     "styles": [
       "aurora",
-      "minimal",
-      "luxury"
+      "luxury",
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -733,8 +733,8 @@
       "explainer"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "drag",
@@ -812,8 +812,8 @@
       "personal"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "text-animation",
@@ -859,13 +859,13 @@
       "portfolio"
     ],
     "styles": [
-      "minimal",
+      "dark",
       "editorial",
-      "dark"
+      "minimal"
     ],
     "effects": [
-      "drag",
       "cursor",
+      "drag",
       "3d"
     ],
     "stack": "Vite 5 + TypeScript + three.js + Plain CSS, custom properties + three",
@@ -907,8 +907,8 @@
       "hotel"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -998,8 +998,8 @@
     ],
     "styles": [
       "glass",
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -1083,8 +1083,8 @@
       "explainer"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -1114,6 +1114,104 @@
     ]
   },
   {
+    "slug": "saas-app-dashboard-starter",
+    "title": "SaaS App Dashboard Starter",
+    "tagline": "A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.",
+    "category": "saas-ai-apps",
+    "access": "pro",
+    "types": [
+      "dashboard",
+      "saas"
+    ],
+    "styles": [
+      "dark",
+      "minimal"
+    ],
+    "effects": [
+      "page-transitions",
+      "micro-interactions"
+    ],
+    "stack": "Vite + React + TypeScript + Vanilla CSS + lucide-react",
+    "pages": 11,
+    "url": "https://vibefather.ai/templates/saas-app-dashboard-starter",
+    "prompt": "templates/saas-app-dashboard-starter/prompt.md",
+    "design": "templates/saas-app-dashboard-starter/DESIGN.md",
+    "demos": [
+      {
+        "label": "Subscription product analytics",
+        "model": "gpt-6-astra",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/saas-app-dashboard-starter",
+        "image": "https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp"
+      }
+    ]
+  },
+  {
+    "slug": "ai-tools-directory-website",
+    "title": "AI Tools Directory Website",
+    "tagline": "A lime-and-lilac directory with 64 fictional tools, live filters, saved picks and useful comparisons.",
+    "category": "saas-ai-apps",
+    "access": "free",
+    "types": [
+      "directory",
+      "web-app"
+    ],
+    "styles": [
+      "dark",
+      "editorial",
+      "bento"
+    ],
+    "effects": [
+      "micro-interactions"
+    ],
+    "stack": "Vite + React + TypeScript + Tailwind CSS 3.4 + lucide-react",
+    "pages": 8,
+    "url": "https://vibefather.ai/templates/ai-tools-directory-website",
+    "prompt": "templates/ai-tools-directory-website/prompt.md",
+    "design": "templates/ai-tools-directory-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Independent AI tools",
+        "model": "gpt-6-astra",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/ai-tools-directory-website",
+        "image": "https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp"
+      }
+    ]
+  },
+  {
+    "slug": "ai-chat-app-interface",
+    "title": "AI Chat App Interface",
+    "tagline": "A warm AI workspace with streaming replies, useful history, editable profiles, and local attachments.",
+    "category": "saas-ai-apps",
+    "access": "pro",
+    "types": [
+      "web-app"
+    ],
+    "styles": [
+      "editorial",
+      "minimal"
+    ],
+    "effects": [
+      "text-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite + React + TypeScript + Tailwind CSS 4 + CSS variables + @tailwindcss/vite + react-markdown + remark-gfm",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/ai-chat-app-interface",
+    "prompt": "templates/ai-chat-app-interface/prompt.md",
+    "design": "templates/ai-chat-app-interface/DESIGN.md",
+    "demos": [
+      {
+        "label": "Product studio assistant",
+        "model": "gpt-6-astra",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/ai-chat-app-interface",
+        "image": "https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp"
+      }
+    ]
+  },
+  {
     "slug": "private-k-12-school-website",
     "title": "Private K-12 School Website",
     "tagline": "A bright red-and-navy school site with day-in-the-life timelines per division and a tuition-and-aid estimator that shows its math.",
@@ -1123,8 +1221,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -1280,8 +1378,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -1318,8 +1416,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -1474,8 +1572,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -1669,8 +1767,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -1903,12 +2001,12 @@
       "toy"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
-      "drag",
       "generative",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + TypeScript, no UI framework + Vanilla CSS + lucide-static",
@@ -1981,8 +2079,8 @@
       "dark"
     ],
     "effects": [
-      "drag",
       "scroll-animation",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
@@ -2017,8 +2115,8 @@
       "explainer"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -2227,8 +2325,8 @@
       "playful"
     ],
     "effects": [
-      "drag",
       "scroll-animation",
+      "drag",
       "3d"
     ],
     "stack": "Vite + React + TypeScript + Vanilla CSS + three",
@@ -2383,12 +2481,12 @@
       "slides"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
-      "text-animation",
       "page-transitions",
+      "text-animation",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + motion + lucide-react",
@@ -2507,8 +2605,8 @@
       "memphis"
     ],
     "effects": [
-      "drag",
       "scroll-animation",
+      "drag",
       "3d"
     ],
     "stack": "Vite 6 + React 19 + TypeScript 5 + Vanilla CSS + three@0.170.0",
@@ -2623,8 +2721,8 @@
     ],
     "styles": [
       "playful",
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "parallax",
@@ -2664,9 +2762,9 @@
       "restaurant"
     ],
     "styles": [
+      "dark",
       "luxury",
-      "editorial",
-      "dark"
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -2744,8 +2842,8 @@
       "blog"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -2935,12 +3033,12 @@
     ],
     "styles": [
       "playful",
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
-      "drag",
       "generative",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 6 + React 18 + TypeScript + Vanilla CSS with custom properties + lucide-react",
@@ -2975,9 +3073,9 @@
       "toy"
     ],
     "styles": [
+      "dark",
       "luxury",
-      "editorial",
-      "dark"
+      "editorial"
     ],
     "effects": [
       "3d",
@@ -3055,8 +3153,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -3172,8 +3270,8 @@
       "explainer"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "drag",
@@ -3328,13 +3426,13 @@
     "category": "saas-ai-apps",
     "access": "free",
     "types": [
-      "blog",
-      "dashboard"
+      "dashboard",
+      "blog"
     ],
     "styles": [
-      "minimal",
+      "editorial",
       "bento",
-      "editorial"
+      "minimal"
     ],
     "effects": [
       "page-transitions",
@@ -3373,8 +3471,8 @@
     ],
     "styles": [
       "retro",
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "page-transitions",
@@ -3455,8 +3553,8 @@
       "dark"
     ],
     "effects": [
-      "drag",
       "generative",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Vanilla CSS + lucide-react",
@@ -3492,12 +3590,12 @@
       "toy"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
-      "drag",
       "generative",
+      "drag",
       "3d"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Vanilla CSS + three + lucide-react",
@@ -3573,8 +3671,8 @@
     ],
     "styles": [
       "glass",
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "3d",
@@ -3689,8 +3787,8 @@
     ],
     "styles": [
       "hand-drawn",
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "generative",
@@ -3846,12 +3944,12 @@
       "app"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
-      "text-animation",
       "page-transitions",
+      "text-animation",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
@@ -3887,8 +3985,8 @@
       "app"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "page-transitions",
@@ -3971,8 +4069,8 @@
       "editorial"
     ],
     "effects": [
-      "drag",
       "page-transitions",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + codemirror + @codemirror/view + @codemirror/state",
@@ -4007,8 +4105,8 @@
       "explainer"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -4055,8 +4153,8 @@
       "toy"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -4256,8 +4354,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "drag",
@@ -4297,8 +4395,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -4377,8 +4475,8 @@
       "toy"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "generative",
@@ -4459,8 +4557,8 @@
     ],
     "styles": [
       "playful",
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "parallax",
@@ -4580,8 +4678,8 @@
     ],
     "styles": [
       "swiss",
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -4701,12 +4799,12 @@
       "community"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
-      "drag",
       "page-transitions",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + Tailwind + Motion + lucide-react",
@@ -4741,8 +4839,8 @@
       "web-app"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "parallax",
@@ -4824,8 +4922,8 @@
       "dark"
     ],
     "effects": [
-      "generative",
       "page-transitions",
+      "generative",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react",
@@ -4898,8 +4996,8 @@
       "ecommerce"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -5133,8 +5231,8 @@
       "ecommerce"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -5290,8 +5388,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "drag",
@@ -5410,8 +5508,8 @@
     ],
     "styles": [
       "swiss",
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -5450,9 +5548,9 @@
       "saas"
     ],
     "styles": [
-      "minimal",
+      "dark",
       "terminal",
-      "dark"
+      "minimal"
     ],
     "effects": [
       "generative",
@@ -5492,9 +5590,9 @@
       "saas"
     ],
     "styles": [
-      "minimal",
+      "dark",
       "editorial",
-      "dark"
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -5574,8 +5672,8 @@
       "app"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -5613,8 +5711,8 @@
       "app"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -5691,8 +5789,8 @@
     ],
     "styles": [
       "swiss",
-      "minimal",
-      "luxury"
+      "luxury",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -5730,9 +5828,9 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
       "luxury",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -5850,8 +5948,8 @@
       "restaurant"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -5930,9 +6028,9 @@
       "saas"
     ],
     "styles": [
-      "minimal",
+      "dark",
       "terminal",
-      "dark"
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -5970,9 +6068,9 @@
       "landing-page"
     ],
     "styles": [
+      "dark",
       "luxury",
-      "editorial",
-      "dark"
+      "editorial"
     ],
     "effects": [
       "parallax",
@@ -6012,8 +6110,8 @@
       "directory"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6053,8 +6151,8 @@
     ],
     "styles": [
       "brutalist",
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "marquee",
@@ -6174,8 +6272,8 @@
       "ecommerce"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6214,8 +6312,8 @@
       "personal"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6254,9 +6352,9 @@
       "portfolio"
     ],
     "styles": [
+      "dark",
       "luxury",
-      "editorial",
-      "dark"
+      "editorial"
     ],
     "effects": [
       "page-transitions",
@@ -6296,8 +6394,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6335,8 +6433,8 @@
       "agency"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6414,8 +6512,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6531,8 +6629,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6570,8 +6668,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6650,8 +6748,8 @@
     ],
     "styles": [
       "playful",
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "text-animation",
@@ -6691,8 +6789,8 @@
     ],
     "styles": [
       "swiss",
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -6807,9 +6905,9 @@
       "ecommerce"
     ],
     "styles": [
-      "minimal",
       "luxury",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6848,12 +6946,12 @@
       "personal"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
-      "drag",
       "scroll-animation",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
@@ -6889,9 +6987,9 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
+      "editorial",
       "bento",
-      "editorial"
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6930,9 +7028,9 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
       "luxury",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -6970,8 +7068,8 @@
       "blog"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -7049,8 +7147,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -7088,9 +7186,9 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
       "luxury",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -7129,9 +7227,9 @@
       "portfolio"
     ],
     "styles": [
+      "dark",
       "luxury",
-      "editorial",
-      "dark"
+      "editorial"
     ],
     "effects": [
       "page-transitions",
@@ -7170,8 +7268,8 @@
       "ecommerce"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "page-transitions",
@@ -7250,12 +7348,12 @@
       "landing-page"
     ],
     "styles": [
-      "terminal",
-      "dark"
+      "dark",
+      "terminal"
     ],
     "effects": [
-      "micro-interactions",
-      "countdown"
+      "countdown",
+      "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
     "pages": 1,
@@ -7371,8 +7469,8 @@
       "dark"
     ],
     "effects": [
-      "micro-interactions",
-      "countdown"
+      "countdown",
+      "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
     "pages": 1,
@@ -7561,8 +7659,8 @@
       "directory"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -7637,8 +7735,8 @@
     "category": "saas-ai-apps",
     "access": "free",
     "types": [
-      "ecommerce",
       "dashboard",
+      "ecommerce",
       "app"
     ],
     "styles": [
@@ -7758,8 +7856,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -7799,8 +7897,8 @@
     ],
     "styles": [
       "glass",
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -7838,12 +7936,12 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
-      "micro-interactions",
-      "countdown"
+      "countdown",
+      "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
     "pages": 1,
@@ -7877,8 +7975,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -7916,8 +8014,8 @@
       "ecommerce"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -7987,8 +8085,8 @@
       "ecommerce"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -8019,8 +8117,8 @@
       "explainer"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -8070,8 +8168,8 @@
       "playful"
     ],
     "effects": [
-      "drag",
       "marquee",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + lucide",
@@ -8277,8 +8375,8 @@
       "event"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -8394,8 +8492,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -8433,8 +8531,8 @@
       "personal"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -8472,8 +8570,8 @@
       "landing-page"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -8511,8 +8609,8 @@
       "explainer"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "text-animation",
@@ -8560,12 +8658,12 @@
     ],
     "styles": [
       "glass",
-      "bento",
-      "dark"
+      "dark",
+      "bento"
     ],
     "effects": [
-      "drag",
       "text-animation",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
@@ -8647,8 +8745,8 @@
       "personal"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -8686,8 +8784,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -8725,8 +8823,8 @@
       "personal"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "scroll-animation",
@@ -8764,8 +8862,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -8842,8 +8940,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -8959,8 +9057,8 @@
     ],
     "styles": [
       "swiss",
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -9002,8 +9100,8 @@
       "editorial"
     ],
     "effects": [
-      "drag",
       "scroll-animation",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
@@ -9224,8 +9322,8 @@
       "portfolio"
     ],
     "styles": [
-      "minimal",
-      "terminal"
+      "terminal",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -9262,8 +9360,8 @@
       "personal"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -9301,8 +9399,8 @@
       "docs"
     ],
     "styles": [
-      "minimal",
-      "terminal"
+      "terminal",
+      "minimal"
     ],
     "effects": [
       "micro-interactions"
@@ -9339,8 +9437,8 @@
       "personal"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -9379,8 +9477,8 @@
     ],
     "styles": [
       "brutalist",
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "generative",
@@ -9456,9 +9554,9 @@
       "ecommerce"
     ],
     "styles": [
-      "minimal",
       "luxury",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -9496,8 +9594,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -9535,9 +9633,9 @@
       "portfolio"
     ],
     "styles": [
-      "minimal",
+      "dark",
       "editorial",
-      "dark"
+      "minimal"
     ],
     "effects": [
       "page-transitions",
@@ -9576,8 +9674,8 @@
       "event"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -9646,8 +9744,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -9718,9 +9816,9 @@
       "slides"
     ],
     "styles": [
-      "minimal",
+      "dark",
       "editorial",
-      "dark"
+      "minimal"
     ],
     "effects": [
       "page-transitions",
@@ -9765,8 +9863,8 @@
       "explainer"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -9815,8 +9913,8 @@
       "minimal"
     ],
     "effects": [
-      "drag",
       "scroll-animation",
+      "drag",
       "3d"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18 + three@0.169.0 + @react-three/fiber@8.17",
@@ -9851,9 +9949,9 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
+      "dark",
       "terminal",
-      "dark"
+      "minimal"
     ],
     "effects": [
       "text-animation",
@@ -9940,8 +10038,8 @@
     ],
     "styles": [
       "glass",
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -10026,8 +10124,8 @@
       "real-estate"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -10065,8 +10163,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -10105,8 +10203,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -10144,8 +10242,8 @@
       "explainer"
     ],
     "styles": [
-      "editorial",
-      "dark"
+      "dark",
+      "editorial"
     ],
     "effects": [
       "generative",
@@ -10224,8 +10322,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -10393,8 +10491,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -10432,8 +10530,8 @@
       "dashboard"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -10478,9 +10576,9 @@
       "docs"
     ],
     "styles": [
-      "minimal",
+      "dark",
       "terminal",
-      "dark"
+      "minimal"
     ],
     "effects": [
       "text-animation",
@@ -10523,8 +10621,8 @@
       "minimal"
     ],
     "effects": [
-      "text-animation",
       "page-transitions",
+      "text-animation",
       "scroll-animation"
     ],
     "stack": "Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + motion",
@@ -10559,8 +10657,8 @@
       "restaurant"
     ],
     "styles": [
-      "minimal",
-      "editorial"
+      "editorial",
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -10600,8 +10698,8 @@
       "saas"
     ],
     "styles": [
-      "minimal",
-      "bento"
+      "bento",
+      "minimal"
     ],
     "effects": [
       "scroll-animation",
@@ -10652,8 +10750,8 @@
       "pixel"
     ],
     "effects": [
-      "drag",
       "text-animation",
+      "drag",
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion",
@@ -10695,8 +10793,8 @@
       "landing-page"
     ],
     "styles": [
-      "minimal",
-      "dark"
+      "dark",
+      "minimal"
     ],
     "effects": [
       "text-animation",
@@ -10737,8 +10835,8 @@
     ],
     "styles": [
       "retro",
-      "pixel",
-      "dark"
+      "dark",
+      "pixel"
     ],
     "effects": [
       "text-animation",

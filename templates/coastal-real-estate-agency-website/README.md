@@ -12,7 +12,7 @@ This is a three-page website for a small estate agency that sells homes in one s
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Real Estate](../../types/real-estate.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 3 |

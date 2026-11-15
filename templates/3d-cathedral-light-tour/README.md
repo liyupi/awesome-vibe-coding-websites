@@ -18,7 +18,7 @@ Every column, arch, vault rib, glass panel, and light shape is generated in code
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript + Vanilla CSS + three + lucide |
 | Pages | 1 |

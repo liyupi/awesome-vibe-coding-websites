@@ -16,7 +16,7 @@ Below the hero are a scrolling ticker of game titles, a grid of cartridge-shaped
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Landing Page](../../types/landing-page.md), [Browser Game](../../types/game.md) |
-| Style | [Retro](../../styles/retro.md), [Pixel Art](../../styles/pixel.md), [Dark](../../styles/dark.md) |
+| Style | [Retro](../../styles/retro.md), [Dark](../../styles/dark.md), [Pixel Art](../../styles/pixel.md) |
 | Effects | Text Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Hand-written vanilla CSS |
 | Pages | 1 |

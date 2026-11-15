@@ -19,7 +19,7 @@ A visible countdown is explicitly a browser-only demonstration. It starts from a
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
 | Style | [Brutalist](../../styles/brutalist.md), [Playful](../../styles/playful.md) |
-| Effects | Drag & Physics, Scroll Animation, 3D / WebGL |
+| Effects | Scroll Animation, Drag & Physics, 3D / WebGL |
 | Stack | Vite + React + TypeScript + Vanilla CSS + three |
 | Pages | 1 |
 | Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
@@ -90,7 +90,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add running-shoe
 The Everyday road runner case was built by GPT-6.1 Sol in Codex; the City training shoe case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Running Shoe Product Launch Page template use?
-Running Shoe Product Launch Page is a single-page site built with React, with drag & physics, scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Running Shoe Product Launch Page is a single-page site built with React, with scroll animation, drag & physics and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Running Shoe Product Launch Page template free to use?
 Running Shoe Product Launch Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

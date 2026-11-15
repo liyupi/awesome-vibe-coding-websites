@@ -12,7 +12,7 @@ This is a four-page portfolio for a motion designer, type animator or title desi
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md), [Personal Site](../../types/personal.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Text Animation, Scroll Animation, Cursor Effects |
 | Stack | Vite 5 + vanilla TypeScript, multi-page + Tailwind CSS 3.4 + gsap + lenis + lucide |
 | Pages | 4 |
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add kinetic-typo
 The Motion designer case was built by Claude Opus 5.5 in Claude Code; the Film title designer case was built by Claude Sonnet 5.5 in Claude Code; the Motion designer case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Kinetic Typography Portfolio template use?
-Kinetic Typography Portfolio is a 4-page site built with GSAP, Plain HTML and Tailwind CSS, with text animation, scroll animation and cursor effects. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Kinetic Typography Portfolio is a 4-page site built with GSAP, Tailwind CSS and Plain HTML, with text animation, scroll animation and cursor effects. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Kinetic Typography Portfolio template free to use?
 Kinetic Typography Portfolio is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

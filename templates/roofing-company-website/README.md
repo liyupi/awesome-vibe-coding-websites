@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add roofing-company-website
 The Residential roofer, Harlow Springs case was built by GLM-5.3 in ZCode; the Commercial roofer, Vesper Bay case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Roofing Company Website template use?
-Roofing Company Website is a single-page site built with React, Motion and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Roofing Company Website is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Roofing Company Website template for a client or a business?
 The Roofing Company Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

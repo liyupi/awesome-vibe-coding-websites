@@ -2,7 +2,7 @@
 
 > Dark backgrounds with careful contrast, usually one accent color and subtle borders instead of shadows.
 
-86 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/dark?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
+88 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/dark?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
 
 <table>
 <tr>
@@ -105,6 +105,20 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
+<sub>A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/saas-app-dashboard-starter/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp" width="100%" alt="AI Tools Directory Website website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/ai-tools-directory-website">AI Tools Directory Website</a></b><br>
+<sub>A lime-and-lilac directory with 64 fictional tools, live filters, saved picks and useful comparisons.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ai-tools-directory-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/martial-arts-dojo-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/martial-arts-dojo-website/43189e21-937a-40dc-a178-ea658034cd26/shot_desktop.203ae16b17.webp" width="100%" alt="Martial Arts Dojo Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/martial-arts-dojo-website">Martial Arts Dojo Website</a></b><br>
 <sub>A disciplined black-and-crimson dojo site with an animating belt path, day-filterable schedule and family pricing.</sub><br>
@@ -159,26 +173,14 @@
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/generative-art-studio-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/15acfef5-dfae-4eae-846f-b3f9fd1188b5/shot_desktop.613ab5367e.webp" width="100%" alt="AI Music Generator Landing Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> <sup>PRO</sup><br>
-<sub>Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ai-music-generator-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/5c2491c8-a860-4985-b5b5-31f489c773e3/shot_desktop.6a045106d7.webp" width="100%" alt="Product Launch Keynote Slides website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
-<b><a href="../templates/product-launch-keynote-slides">Product Launch Keynote Slides</a></b> <sup>PRO</sup><br>
-<sub>A 14-slide launch keynote on true black, where the product and key numbers glide from slide to slide.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/product-launch-keynote-slides/prompt.md">Prompt</a></sub>
-</td>
-</tr>
 </table>
 
 ### More
 
 | Template | What it is | Built with | |
 |---|---|---|---|
+| [AI Music Generator Landing Page](../templates/ai-music-generator-landing-page) <sup>PRO</sup> | Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow. | GPT-6.1 Sol, GLM-5.3 | [Live demo](https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/ai-music-generator-landing-page/prompt.md) |
+| [Product Launch Keynote Slides](../templates/product-launch-keynote-slides) <sup>PRO</sup> | A 14-slide launch keynote on true black, where the product and key numbers glide from slide to slide. | Claude Opus 5.5, Claude Sonnet 5.5 | [Live demo](https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/product-launch-keynote-slides/prompt.md) |
 | [Typing Speed Race Game](../templates/typing-speed-race-game) | Race a ghost car with every keystroke, track live WPM, and beat your personal best. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/typing-speed-race-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/typing-speed-race-game/prompt.md) |
 | [Spinning Hexagon Physics Toy](../templates/spinning-hexagon-physics-toy) | A neon-pop physics playground with twenty candy-colored balls, moving walls and hands-on controls. | GPT-6.1 Sol, GLM-5.3 | [Live demo](https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/spinning-hexagon-physics-toy/prompt.md) |
 | [Paper Lantern Festival Page](../templates/paper-lantern-festival-page) | Write a private wish, fold a glowing paper lantern, and release it above an illustrated midnight river. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/paper-lantern-festival-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/paper-lantern-festival-page/prompt.md) |

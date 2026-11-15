@@ -19,7 +19,7 @@ To adapt it, change the brand, city, discipline, featured project and contact em
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Agency](../../types/agency.md), [Portfolio](../../types/portfolio.md) |
 | Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md) |
-| Effects | Text Animation, Page Transitions, Scroll Animation |
+| Effects | Page Transitions, Text Animation, Scroll Animation |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + motion |
 | Pages | 2 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add swiss-design-agency-por
 The Graphic design studio case was built by Claude Opus 5.5 in Cursor; the Architecture practice case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Swiss Design Agency Portfolio template use?
-Swiss Design Agency Portfolio is a 2-page site built with Motion, Plain HTML and Tailwind CSS, with text animation, page transitions and scroll animation. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Swiss Design Agency Portfolio is a 2-page site built with Tailwind CSS, Motion and Plain HTML, with page transitions, text animation and scroll animation. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Swiss Design Agency Portfolio template for a client or a business?
 The Swiss Design Agency Portfolio prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

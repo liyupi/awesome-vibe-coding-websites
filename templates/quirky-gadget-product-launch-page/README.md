@@ -17,7 +17,7 @@ Change the maker name, product name, headline, audience, ritual, and concept pri
 | Category | [Landing Pages & Product Launches](../../README.md#landing-pages--product-launches) |
 | Site type | [Landing Page](../../types/landing-page.md) |
 | Style | [Playful](../../styles/playful.md), Memphis |
-| Effects | Drag & Physics, Scroll Animation, 3D / WebGL |
+| Effects | Scroll Animation, Drag & Physics, 3D / WebGL |
 | Stack | Vite 6 + React 19 + TypeScript 5 + Vanilla CSS + three@0.170.0 |
 | Pages | 1 |
 | Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
@@ -90,7 +90,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add quirky-gadge
 The Pocket celebration gadget case was built by GPT-6.1 Sol in Codex; the Pocket decision helper case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Quirky Gadget Product Launch Page template use?
-Quirky Gadget Product Launch Page is a single-page site built with React and Three.js, with drag & physics, scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Quirky Gadget Product Launch Page is a single-page site built with React and Three.js, with scroll animation, drag & physics and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Quirky Gadget Product Launch Page template free to use?
 Quirky Gadget Product Launch Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

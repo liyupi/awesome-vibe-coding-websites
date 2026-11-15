@@ -2,7 +2,7 @@
 
 > Magazine-like layouts with expressive serif or display type, asymmetric grids and big imagery.
 
-131 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/editorial?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
+133 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/editorial?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
 
 <table>
 <tr>
@@ -91,6 +91,20 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp" width="100%" alt="AI Tools Directory Website website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/ai-tools-directory-website">AI Tools Directory Website</a></b><br>
+<sub>A lime-and-lilac directory with 64 fictional tools, live filters, saved picks and useful comparisons.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ai-tools-directory-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/ai-chat-app-interface">AI Chat App Interface</a></b> <sup>PRO</sup><br>
+<sub>A warm AI workspace with streaming replies, useful history, editable profiles, and local attachments.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ai-chat-app-interface/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/private-k-12-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/private-k-12-school-website/656a8501-c697-48d6-8801-9ad021d3196e/shot_desktop.96f80f5a2f.webp" width="100%" alt="Private K-12 School Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/private-k-12-school-website">Private K-12 School Website</a></b><br>
 <sub>A bright red-and-navy school site with day-in-the-life timelines per division and a tuition-and-aid estimator that shows its math.</sub><br>
@@ -159,26 +173,14 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/personal-chef-service-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/product-review-blog/cbad1a43-b5c3-4df8-91ae-d070c2fe83a3/shot_desktop.a6466e9ebc.webp" width="100%" alt="Product Review Blog website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/product-review-blog">Product Review Blog</a></b><br>
-<sub>Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/product-review-blog/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/university-admissions-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/university-admissions-website/379c9e84-9204-4956-bf7c-4d6e8d0429b0/shot_desktop.73d448dd7b.webp" width="100%" alt="University Admissions Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/university-admissions-website">University Admissions Website</a></b><br>
-<sub>A confident admissions site with a program finder, cost estimator, and visit-day sign-up.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/university-admissions-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/university-admissions-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
 </table>
 
 ### More
 
 | Template | What it is | Built with | |
 |---|---|---|---|
+| [Product Review Blog](../templates/product-review-blog) | Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/product-review-blog/prompt.md) |
+| [University Admissions Website](../templates/university-admissions-website) | A confident admissions site with a program finder, cost estimator, and visit-day sign-up. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/university-admissions-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/university-admissions-website/prompt.md) |
 | [Constellation Story Map](../templates/constellation-story-map) | Drag through an illustrated night, trace old myths, and connect a constellation of your own. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/constellation-story-map/prompt.md) |
 | [Daily Tarot Reading Page](../templates/daily-tarot-reading-page) | Shuffle an original deck, reveal a daily reading, and save a shareable card. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/daily-tarot-reading-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/daily-tarot-reading-page/prompt.md) |
 | [Flower Anatomy 3D Explainer](../templates/flower-anatomy-3d-explainer) | Explore a living 3D flower, reveal each part, follow pollen, and test what you learned. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/flower-anatomy-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/flower-anatomy-3d-explainer/prompt.md) |

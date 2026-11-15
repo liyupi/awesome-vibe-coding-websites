@@ -18,7 +18,7 @@ The default content follows an independent design studio coordinating a notebook
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [App](../../types/app.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |

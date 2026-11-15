@@ -18,7 +18,7 @@ Brand, positioning, location, audience, specialty, and contact email are variabl
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Agency](../../types/agency.md), [Portfolio](../../types/portfolio.md) |
-| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Page Transitions, Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4 + motion + lucide-react |
 | Pages | 5 |
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add video-produc
 The Commercial film studio case was built by Kimi K3.1 Pro in Kimi Code; the Event film collective case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Video Production Company Website template use?
-Video Production Company Website is a 5-page site built with React, Motion and Tailwind CSS, with page transitions, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Video Production Company Website is a 5-page site built with React, Tailwind CSS and Motion, with page transitions, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Video Production Company Website template free to use?
 Video Production Company Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

@@ -13,7 +13,7 @@ This template is a single-page launch site for a limited clothing release, and i
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
 | Style | [Retro](../../styles/retro.md), [Dark](../../styles/dark.md), Y2k |
-| Effects | Drag & Physics, Marquee, 3D / WebGL |
+| Effects | Marquee, Drag & Physics, 3D / WebGL |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18 + three@0.169.0 + @react-three/fiber@8.17.10 |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add y2k-chrome-fashion-drop
 The Streetwear label capsule case was built by Claude Opus 5.5 in Claude Code; the Indie game studio merch case was built by Claude Sonnet 5.5 in Claude Code; the Streetwear label capsule case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Y2K Chrome Fashion Drop Page template use?
-Y2K Chrome Fashion Drop Page is a single-page site built with React, Three.js and Tailwind CSS, with drag & physics, marquee and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Y2K Chrome Fashion Drop Page is a single-page site built with React, Tailwind CSS and Three.js, with marquee, drag & physics and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Y2K Chrome Fashion Drop Page template for a client or a business?
 The Y2K Chrome Fashion Drop Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

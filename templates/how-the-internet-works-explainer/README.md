@@ -12,7 +12,7 @@ This is a long-form scrollytelling explainer that follows a single web request f
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + gsap + lucide |
 | Pages | 1 |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add how-the-internet-works-
 The Loading a web page case was built by Claude Opus 5.5 in Claude Code; the School computing lesson case was built by Claude Sonnet 5.5 in Cursor; the Loading a web page case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the How the Internet Works Explainer template use?
-How the Internet Works Explainer is a single-page site built with GSAP, Plain HTML and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+How the Internet Works Explainer is a single-page site built with GSAP, Tailwind CSS and Plain HTML, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the How the Internet Works Explainer template for a client or a business?
 The How the Internet Works Explainer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

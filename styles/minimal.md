@@ -2,7 +2,7 @@
 
 > Few colors, lots of space and strict typography. The content does the work.
 
-136 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/minimal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
+138 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/minimal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
 
 <table>
 <tr>
@@ -83,6 +83,20 @@
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/liquid-glass-product-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
+<sub>A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/saas-app-dashboard-starter/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/ai-chat-app-interface">AI Chat App Interface</a></b> <sup>PRO</sup><br>
+<sub>A warm AI workspace with streaming replies, useful history, editable profiles, and local attachments.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ai-chat-app-interface/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/private-k-12-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/private-k-12-school-website/656a8501-c697-48d6-8801-9ad021d3196e/shot_desktop.96f80f5a2f.webp" width="100%" alt="Private K-12 School Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/private-k-12-school-website">Private K-12 School Website</a></b><br>
 <sub>A bright red-and-navy school site with day-in-the-life timelines per division and a tuition-and-aid estimator that shows its math.</sub><br>
@@ -159,26 +173,14 @@
 <sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/koi-pond-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/koi-pond-web-toy/prompt.md">Prompt</a></sub>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/5c2491c8-a860-4985-b5b5-31f489c773e3/shot_desktop.6a045106d7.webp" width="100%" alt="Product Launch Keynote Slides website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
-<b><a href="../templates/product-launch-keynote-slides">Product Launch Keynote Slides</a></b> <sup>PRO</sup><br>
-<sub>A 14-slide launch keynote on true black, where the product and key numbers glide from slide to slide.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/product-launch-keynote-slides/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/product-review-blog/cbad1a43-b5c3-4df8-91ae-d070c2fe83a3/shot_desktop.a6466e9ebc.webp" width="100%" alt="Product Review Blog website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/product-review-blog">Product Review Blog</a></b><br>
-<sub>Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/product-review-blog/prompt.md">Prompt</a></sub>
-</td>
-</tr>
 </table>
 
 ### More
 
 | Template | What it is | Built with | |
 |---|---|---|---|
+| [Product Launch Keynote Slides](../templates/product-launch-keynote-slides) <sup>PRO</sup> | A 14-slide launch keynote on true black, where the product and key numbers glide from slide to slide. | Claude Opus 5.5, Claude Sonnet 5.5 | [Live demo](https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/product-launch-keynote-slides/prompt.md) |
+| [Product Review Blog](../templates/product-review-blog) | Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/product-review-blog/prompt.md) |
 | [Driving School Website](../templates/driving-school-website) | Clear, friendly driving school site with lesson packages, coach profiles, and a practice quiz. | GLM-5.3 | [Live demo](https://vibefather.ai/templates/driving-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/driving-school-website/prompt.md) |
 | [Nutritionist Website with Plate Builder](../templates/nutritionist-website-with-plate-builder) | Fresh, practical nutrition coaching with a build-a-plate tool that turns good intentions into dinner. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/nutritionist-website-with-plate-builder?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/nutritionist-website-with-plate-builder/prompt.md) |
 | [Space Tech Startup Website](../templates/space-tech-startup-website) <sup>PRO</sup> | Deep-space startup site with an animated orbit diagram, ticking telemetry and a launch manifest rail. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/space-tech-startup-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/space-tech-startup-website/prompt.md) |

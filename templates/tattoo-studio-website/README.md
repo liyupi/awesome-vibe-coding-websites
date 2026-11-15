@@ -12,7 +12,7 @@ Tattoo Studio Website is a dark, editorial multi-page site for an independent ta
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Agency](../../types/agency.md), [Portfolio](../../types/portfolio.md) |
-| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Page Transitions, Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 3.4 + Motion + Lucide |
 | Pages | 6 |
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add tattoo-studio-website, 
 The Independent tattoo studio case was built by Kimi K3.1 Pro in Kimi Code; the Botanical tattoo studio case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Tattoo Studio Website template use?
-Tattoo Studio Website is a 6-page site built with React, Motion and Tailwind CSS, with page transitions, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Tattoo Studio Website is a 6-page site built with React, Tailwind CSS and Motion, with page transitions, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Tattoo Studio Website template for a client or a business?
 The Tattoo Studio Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

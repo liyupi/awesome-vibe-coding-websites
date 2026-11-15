@@ -18,7 +18,7 @@ This template suits creators, community builders, and developers prototyping a r
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Dashboard](../../types/dashboard.md) |
-| Style | [Retro](../../styles/retro.md), [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Style | [Retro](../../styles/retro.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Page Transitions, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + hand-built SVG + lucide-react |
 | Pages | 6 |

@@ -18,7 +18,7 @@ Change the creator name, niche, audience, location, and hero tagline through fiv
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Personal Site](../../types/personal.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Bento Grid](../../styles/bento.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Bento Grid](../../styles/bento.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + Tailwind + lucide-react |
 | Pages | 1 |

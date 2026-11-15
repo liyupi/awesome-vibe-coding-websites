@@ -56,6 +56,17 @@
     "url": "https://vibefather.ai/models/grok-4-7"
   },
   {
+    "slug": "gpt-6-astra",
+    "name": "GPT-6 Astra",
+    "vendor": "OpenAI",
+    "sites": 3,
+    "templates": 3,
+    "tools": [
+      "Codex"
+    ],
+    "url": "https://vibefather.ai/models/gpt-6-astra"
+  },
+  {
     "slug": "claude-sonnet-5-5",
     "name": "Claude Sonnet 5.5",
     "vendor": "Anthropic",

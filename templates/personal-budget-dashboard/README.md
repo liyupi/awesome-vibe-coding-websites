@@ -18,7 +18,7 @@ Change the product name, owner, budget context, currency, and sample month throu
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Dashboard](../../types/dashboard.md), [App](../../types/app.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4.1 + motion + lucide-react |
 | Pages | 3 |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add personal-budget-dashboa
 The Two-income household case was built by Kimi K3.1 Pro in Kimi Code; the Freelance illustration budget case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Personal Budget Dashboard template use?
-Personal Budget Dashboard is a 3-page site built with React, Motion and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Personal Budget Dashboard is a 3-page site built with React, Tailwind CSS and Motion, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Personal Budget Dashboard template for a client or a business?
 The Personal Budget Dashboard prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

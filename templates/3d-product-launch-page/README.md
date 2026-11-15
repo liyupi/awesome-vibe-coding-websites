@@ -18,7 +18,7 @@ To adapt the page, change the brand, product name, product type, price, ship win
 |---|---|
 | Category | [Landing Pages & Product Launches](../../README.md#landing-pages--product-launches) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Text Animation, Scroll Animation, 3D / WebGL |
 | Stack | Vite 5 + TypeScript + three.js + Vanilla CSS + three + gsap + lenis |
 | Pages | 1 |

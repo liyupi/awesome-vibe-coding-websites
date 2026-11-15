@@ -16,7 +16,7 @@ The template is designed for adaptation through three variables: brand, specimen
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + Three.js + lucide-react |
 | Pages | 3 |

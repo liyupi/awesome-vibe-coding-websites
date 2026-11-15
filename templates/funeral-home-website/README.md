@@ -12,7 +12,7 @@ Funeral Home Website is a single-page site for a family funeral home, in soft sa
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add funeral-home-website, r
 The Funeral home, Ashton Mill case was built by GLM-5.3 in ZCode; the Memorial chapel, Elmgate case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Funeral Home Website template use?
-Funeral Home Website is a single-page site built with React, Motion and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Funeral Home Website is a single-page site built with React, Tailwind CSS and Motion, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Funeral Home Website template for a client or a business?
 The Funeral Home Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

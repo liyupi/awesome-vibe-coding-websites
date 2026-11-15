@@ -12,7 +12,7 @@ A single-page waitlist for a product about to launch: an oversized headline over
 |---|---|
 | Category | [Landing Pages & Product Launches](../../README.md#landing-pages--product-launches) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Brutalist](../../styles/brutalist.md), [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Style | [Brutalist](../../styles/brutalist.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add startup-waitlist-landin
 The Dev pairing tool waitlist case was built by GLM-5.3 in ZCode; the Code review tool waitlist case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Startup Waitlist Landing Page template use?
-Startup Waitlist Landing Page is a single-page site built with React, Motion and Tailwind CSS, with generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Startup Waitlist Landing Page is a single-page site built with React, Tailwind CSS and Motion, with generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Startup Waitlist Landing Page template for a client or a business?
 The Startup Waitlist Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

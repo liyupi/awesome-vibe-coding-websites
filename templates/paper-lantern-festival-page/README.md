@@ -18,7 +18,7 @@ The build uses Vite, React, TypeScript, vanilla CSS, and locally bundled fonts a
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Parallax, Generative / Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Vanilla CSS with custom properties + lucide-react |
 | Pages | 1 |

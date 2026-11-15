@@ -18,7 +18,7 @@ Use this prompt for an experimental personal site, a playful break page, or a sm
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |

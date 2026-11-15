@@ -18,7 +18,7 @@ To adapt it, change the brand, the audience, what the bars represent and the eve
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Interactive Toy](../../types/toy.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
