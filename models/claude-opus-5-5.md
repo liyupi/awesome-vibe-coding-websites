@@ -4,7 +4,7 @@
 
 [See them live on VibeFather →](https://vibefather.ai/models/claude-opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model)
 
-**Compare Claude Opus 5.5 with:** [Gemini 4 Carbon](../compare/claude-opus-5-5-vs-gemini-4-carbon.md) <sub>15</sub> · [Claude Sonnet 5.5](../compare/claude-opus-5-5-vs-claude-sonnet-5-5.md) <sub>35</sub> · [DeepSeek V4.1 Flash](../compare/claude-opus-5-5-vs-deepseek-v4-1-flash.md) <sub>13</sub>
+**Compare Claude Opus 5.5 with:** [Gemini 4 Carbon](../compare/claude-opus-5-5-vs-gemini-4-carbon.md) <sub>15</sub> · [Claude Sonnet 5.5](../compare/claude-opus-5-5-vs-claude-sonnet-5-5.md) <sub>35</sub> · [DeepSeek V4.1 Flash](../compare/claude-opus-5-5-vs-deepseek-v4-1-flash.md) <sub>13</sub> · [GPT-6 Astra](../compare/claude-opus-5-5-vs-gpt-6-astra.md) <sub>1</sub>
 
 <table>
 <tr>

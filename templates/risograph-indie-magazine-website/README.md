@@ -18,7 +18,7 @@ All artwork is made in SVG and CSS, so there are no external photographs to lice
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Blog](../../types/blog.md) |
-| Style | [Retro](../../styles/retro.md), [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md) |
+| Style | [Retro](../../styles/retro.md), [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 2 |

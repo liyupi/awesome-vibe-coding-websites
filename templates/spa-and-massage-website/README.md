@@ -12,7 +12,7 @@ A two-page website for an independent day spa: a home page with treatments, dura
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add spa-and-massage-website
 The Neighborhood spa in Portland case was built by Kimi K3.1 Pro in Kimi Code; the Coastal spa in Monterey case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Spa and Massage Website template use?
-Spa and Massage Website is a 2-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Spa and Massage Website is a 2-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Spa and Massage Website template for a client or a business?
 The Spa and Massage Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

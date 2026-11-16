@@ -13,7 +13,7 @@ This is a one-page landing site for a design tool where the first screen is some
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Landing Page](../../types/landing-page.md), [SaaS](../../types/saas.md) |
 | Style | [Brutalist](../../styles/brutalist.md), [Playful](../../styles/playful.md) |
-| Effects | Marquee, Drag & Physics, Micro-interactions |
+| Effects | Drag & Physics, Marquee, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + lucide |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add physics-playground-land
 The Collaborative design canvas case was built by Claude Opus 5.5 in Claude Code; the Beat-making app case was built by Claude Sonnet 5.5 in Cursor; the Collaborative design canvas case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Physics Playground Landing Page template use?
-Physics Playground Landing Page is a single-page site built with Tailwind CSS and Plain HTML, with marquee, drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Physics Playground Landing Page is a single-page site built with Tailwind CSS and Plain HTML, with drag & physics, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Physics Playground Landing Page template for a client or a business?
 The Physics Playground Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

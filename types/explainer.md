@@ -91,10 +91,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/shot_desktop.72d6d6d017.webp" width="100%" alt="Solar System 3D Explainer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a><br>
+<a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/shot_desktop.72d6d6d017.webp" width="100%" alt="Solar System 3D Explainer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a><br>
 <b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> <sup>PRO</sup><br>
 <sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/solar-system-3d-explainer/prompt.md">Prompt</a></sub>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · GPT-6 Astra · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/solar-system-3d-explainer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b/shot_desktop.4ffd6302fd.webp" width="100%" alt="Sorting Algorithms Visualizer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a><br>

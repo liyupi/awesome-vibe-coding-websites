@@ -12,7 +12,7 @@ A single-page travel journal built around a dotted 3D globe that follows the rea
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Personal Site](../../types/personal.md), [Blog](../../types/blog.md) |
-| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + three + gsap + lenis |
 | Pages | 1 |

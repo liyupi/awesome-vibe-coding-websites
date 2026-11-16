@@ -89,7 +89,7 @@ Copy the prompt from this page or run npx vibefather add terminal-style-docs-sit
 The Task runner CLI case was built by Claude Opus 5.5 in Cursor; the Database migration CLI case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Terminal-Style Docs Site template use?
-Terminal-Style Docs Site is a 4-page site built with React and Tailwind CSS, with text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Terminal-Style Docs Site is a 4-page site built with Tailwind CSS and React, with text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Terminal-Style Docs Site template for a client or a business?
 The Terminal-Style Docs Site prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

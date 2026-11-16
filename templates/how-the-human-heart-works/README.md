@@ -12,7 +12,7 @@ This template is a single-page science explainer built around one working diagra
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Plain CSS + gsap + lucide |
 | Pages | 1 |

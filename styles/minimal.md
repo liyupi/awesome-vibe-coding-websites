@@ -2,7 +2,7 @@
 
 > Few colors, lots of space and strict typography. The content does the work.
 
-138 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/minimal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
+139 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/minimal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
 
 <table>
 <tr>
@@ -83,94 +83,94 @@
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/liquid-glass-product-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/shot_desktop.161ce28382.webp" width="100%" alt="Resume Builder Web App website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/resume-builder-web-app">Resume Builder Web App</a></b><br>
+<sub>Edit your experience beside the printed page, check its reading order, and save a copy to take with you.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/resume-builder-web-app/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter website template — live demo built by GPT-6 Astra"></a><br>
 <b><a href="../templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
 <sub>A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.</sub><br>
 <sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/saas-app-dashboard-starter/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface website template — live demo built by GPT-6 Astra"></a><br>
 <b><a href="../templates/ai-chat-app-interface">AI Chat App Interface</a></b> <sup>PRO</sup><br>
 <sub>A warm AI workspace with streaming replies, useful history, editable profiles, and local attachments.</sub><br>
 <sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ai-chat-app-interface/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/private-k-12-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/private-k-12-school-website/656a8501-c697-48d6-8801-9ad021d3196e/shot_desktop.96f80f5a2f.webp" width="100%" alt="Private K-12 School Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/private-k-12-school-website">Private K-12 School Website</a></b><br>
 <sub>A bright red-and-navy school site with day-in-the-life timelines per division and a tuition-and-aid estimator that shows its math.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/private-k-12-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/private-k-12-school-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/independent-pharmacy-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/independent-pharmacy-website/bb59ef30-eaff-4778-a623-6b46f2e37cc3/shot_desktop.096dcc375a.webp" width="100%" alt="Independent Pharmacy Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/independent-pharmacy-website">Independent Pharmacy Website</a></b><br>
 <sub>A fresh green-and-tangerine pharmacy site with a seconds-long refill request, transfer steps and a delivery checker.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/independent-pharmacy-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/independent-pharmacy-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/funeral-home-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/funeral-home-website/3db516b3-9735-4218-be9d-5c5e36108cf7/shot_desktop.947bd932b2.webp" width="100%" alt="Funeral Home Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/funeral-home-website">Funeral Home Website</a></b><br>
 <sub>A gentle, dignified funeral home site with transparent pricing, a pre-planning checklist and a local guestbook.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/funeral-home-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/funeral-home-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-lessons-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/music-lessons-school-website/aa2e31cb-14b9-4c73-bf9e-58f055853b56/shot_desktop.468a769b5c.webp" width="100%" alt="Music Lessons School Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/music-lessons-school-website">Music Lessons School Website</a></b><br>
 <sub>A warm plum-and-brass music school site with a lesson finder that matches teachers, and a practice tracker that sticks.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/music-lessons-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/music-lessons-school-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <b><a href="../templates/property-management-company-website">Property Management Company Website</a></b> <sup>PRO</sup><br>
 <sub>A two-path property management site: owners get a transparent fee table and income estimator, tenants get listings and a maintenance list.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/property-management-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/property-management-company-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pest-control-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/pest-control-service-website/940513cd-b5c4-44eb-8fe4-02dbbf053142/shot_desktop.bc68d67199.webp" width="100%" alt="Pest Control Service Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/pest-control-service-website">Pest Control Service Website</a></b><br>
 <sub>A calm, reassuring pest control site with an identifier quiz that tells you what you're dealing with.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/pest-control-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/pest-control-service-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/16080d09-ae32-4fdc-846e-ad95636eb935/shot_desktop.5d6f995d8e.webp" width="100%" alt="Industrial Manufacturing Company Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/industrial-manufacturing-company-website">Industrial Manufacturing Company Website</a></b> <sup>PRO</sup><br>
 <sub>A precision machine-shop site with spec-sheet capabilities, an equipment table and an RFQ flow that estimates lead time.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/industrial-manufacturing-company-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/community-bank-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/community-bank-website/1f2eee1f-c1e8-45ff-ba09-585fdd3538d5/shot_desktop.3ce9173a76.webp" width="100%" alt="Community Bank Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/community-bank-website">Community Bank Website</a></b> <sup>PRO</sup><br>
 <sub>A quiet-authority community bank site with a loan calculator and a CD ladder builder that does the math on screen.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/community-bank-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/community-bank-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/family-medical-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/family-medical-clinic-website/6afea008-4e7d-4a0f-90bd-397eb60b87ae/shot_desktop.da0ef08c26.webp" width="100%" alt="Family Medical Clinic Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/family-medical-clinic-website">Family Medical Clinic Website</a></b><br>
 <sub>A warm, calm family clinic site with a filterable provider directory and same-day appointment requests.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/family-medical-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/family-medical-clinic-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp" width="100%" alt="Used Car Dealership Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/used-car-dealership-website">Used Car Dealership Website</a></b> <sup>PRO</sup><br>
 <sub>A modern graphite-and-yellow dealership site with real inventory filters, a payment calculator and three-car compare.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/used-car-dealership-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/koi-pond-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/koi-pond-web-toy/8efc33b2-f202-41e2-95ec-7e2b006fab13/shot_desktop.a3b20c2211.webp" width="100%" alt="Koi Pond Web Toy website template — live demo built by Claude Opus 5.5"></a><br>
-<b><a href="../templates/koi-pond-web-toy">Koi Pond Web Toy</a></b><br>
-<sub>A code-drawn koi pond with four seasons, night mode, touch ripples and a 25-minute focus timer.</sub><br>
-<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/koi-pond-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/koi-pond-web-toy/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>
@@ -179,6 +179,7 @@
 
 | Template | What it is | Built with | |
 |---|---|---|---|
+| [Koi Pond Web Toy](../templates/koi-pond-web-toy) | A code-drawn koi pond with four seasons, night mode, touch ripples and a 25-minute focus timer. | Claude Opus 5.5 | [Live demo](https://vibefather.ai/templates/koi-pond-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/koi-pond-web-toy/prompt.md) |
 | [Product Launch Keynote Slides](../templates/product-launch-keynote-slides) <sup>PRO</sup> | A 14-slide launch keynote on true black, where the product and key numbers glide from slide to slide. | Claude Opus 5.5, Claude Sonnet 5.5 | [Live demo](https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/product-launch-keynote-slides/prompt.md) |
 | [Product Review Blog](../templates/product-review-blog) | Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/product-review-blog/prompt.md) |
 | [Driving School Website](../templates/driving-school-website) | Clear, friendly driving school site with lesson packages, coach profiles, and a practice quiz. | GLM-5.3 | [Live demo](https://vibefather.ai/templates/driving-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/driving-school-website/prompt.md) |
@@ -195,7 +196,7 @@
 | [Space Dogfight Arcade Game](../templates/space-dogfight-arcade-game) | Steer a low-poly fighter, lock drones, and last as long as the shield holds. | Grok 4.7 | [Live demo](https://vibefather.ai/templates/space-dogfight-arcade-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/space-dogfight-arcade-game/prompt.md) |
 | [Ink Wash Mountain Adventure](../templates/ink-wash-mountain-adventure) <sup>PRO</sup> | Run a painted mountain pass, outwit three guardians, and master a precise dodge-and-combo trial. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/ink-wash-mountain-adventure/prompt.md) |
 | [Q&A Community Website](../templates/q-a-community-website) | A readable knowledge community with thoughtful answers, useful voting, topic following, and a working editor. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/q-a-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/q-a-community-website/prompt.md) |
-| [Solar System 3D Explainer](../templates/solar-system-3d-explainer) <sup>PRO</sup> | Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark. | Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon | [Live demo](https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/solar-system-3d-explainer/prompt.md) |
+| [Solar System 3D Explainer](../templates/solar-system-3d-explainer) <sup>PRO</sup> | Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark. | Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon, GPT-6 Astra | [Live demo](https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/solar-system-3d-explainer/prompt.md) |
 | [Sorting Algorithms Visualizer](../templates/sorting-algorithms-visualizer) | Step through five sorting algorithms on a live bar stage, then race any two on the same array. | Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon | [Live demo](https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/sorting-algorithms-visualizer/prompt.md) |
 | [Interactive Apartment Floor Plan Tour](../templates/interactive-apartment-floor-plan-tour) <sup>PRO</sup> | Move from a measured floor plan to a furnished apartment, one room at a time. | GPT-6.1 Sol | [Live demo](https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/interactive-apartment-floor-plan-tour/prompt.md) |
 | [Sea Salt Brand Website](../templates/sea-salt-brand-website) <sup>PRO</sup> | A tidal water surface opens a tactile salt shop, harvest story and marsh visit. | GPT-6.1 Sol | [Live demo](https://vibefather.ai/templates/sea-salt-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/sea-salt-brand-website/prompt.md) |

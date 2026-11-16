@@ -18,7 +18,7 @@ The template suits indie makers, small editorial teams and founders planning a f
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Directory](../../types/directory.md), [Web App](../../types/web-app.md) |
-| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md), [Bento Grid](../../styles/bento.md) |
+| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Bento Grid](../../styles/bento.md) |
 | Effects | Micro-interactions |
 | Stack | Vite + React + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 8 |
@@ -86,7 +86,7 @@ Copy the prompt from this page or run npx vibefather add ai-tools-directory-webs
 The Independent AI tools case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the AI Tools Directory Website template use?
-AI Tools Directory Website is a 8-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+AI Tools Directory Website is a 8-page site built with Tailwind CSS and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the AI Tools Directory Website template for a client or a business?
 The AI Tools Directory Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

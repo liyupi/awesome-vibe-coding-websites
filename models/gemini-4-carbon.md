@@ -4,7 +4,7 @@
 
 [See them live on VibeFather →](https://vibefather.ai/models/gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model)
 
-**Compare Gemini 4 Carbon with:** [Claude Opus 5.5](../compare/claude-opus-5-5-vs-gemini-4-carbon.md) <sub>15</sub> · [Claude Sonnet 5.5](../compare/claude-sonnet-5-5-vs-gemini-4-carbon.md) <sub>8</sub>
+**Compare Gemini 4 Carbon with:** [Claude Opus 5.5](../compare/claude-opus-5-5-vs-gemini-4-carbon.md) <sub>15</sub> · [Claude Sonnet 5.5](../compare/claude-sonnet-5-5-vs-gemini-4-carbon.md) <sub>8</sub> · [GPT-6 Astra](../compare/gemini-4-carbon-vs-gpt-6-astra.md) <sub>1</sub>
 
 <table>
 <tr>

@@ -83,7 +83,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add api-referenc
 The Expenses API reference case was built by GLM-5.3 in ZCode; the Forms API reference case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the API Reference Docs Site template use?
-API Reference Docs Site is a single-page site built with React, Tailwind CSS and Motion, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+API Reference Docs Site is a single-page site built with Tailwind CSS, Motion and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the API Reference Docs Site template free to use?
 API Reference Docs Site is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

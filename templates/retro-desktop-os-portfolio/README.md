@@ -98,7 +98,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add retro-deskto
 The Motion designer portfolio case was built by Claude Opus 5.5 in Cursor; the Illustrator portfolio case was built by Claude Opus 5.5 in Cursor; the Motion designer portfolio case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Retro Desktop OS Portfolio template use?
-Retro Desktop OS Portfolio is a single-page site built with React, Tailwind CSS and Motion, with text animation, drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Retro Desktop OS Portfolio is a single-page site built with Tailwind CSS, Motion and React, with text animation, drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Retro Desktop OS Portfolio template free to use?
 Retro Desktop OS Portfolio is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

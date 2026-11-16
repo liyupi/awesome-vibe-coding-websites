@@ -19,7 +19,7 @@ About and contact pages complete the portfolio with a fictional studio portrait,
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md), [Personal Site](../../types/personal.md) |
 | Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
-| Effects | Scroll Animation, Drag & Physics, Micro-interactions |
+| Effects | Drag & Physics, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add ux-designer-
 The Healthcare UX portfolio case was built by Kimi K3.1 Pro in Kimi Code; the Climate UX portfolio case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the UX Designer Case Study Portfolio template use?
-UX Designer Case Study Portfolio is a 4-page site built with React, Tailwind CSS and Motion, with scroll animation, drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+UX Designer Case Study Portfolio is a 4-page site built with Tailwind CSS, Motion and React, with drag & physics, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the UX Designer Case Study Portfolio template free to use?
 UX Designer Case Study Portfolio is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

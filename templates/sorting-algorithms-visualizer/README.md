@@ -98,7 +98,7 @@ Copy the prompt from this page or run npx vibefather add sorting-algorithms-visu
 The Sorting numbered cards case was built by Claude Opus 5.5 in Claude Code; the School library shelf case was built by Claude Sonnet 5.5 in Claude Code; the Sorting index tiles case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Sorting Algorithms Visualizer template use?
-Sorting Algorithms Visualizer is a single-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Sorting Algorithms Visualizer is a single-page site built with Tailwind CSS and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Sorting Algorithms Visualizer template for a client or a business?
 The Sorting Algorithms Visualizer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

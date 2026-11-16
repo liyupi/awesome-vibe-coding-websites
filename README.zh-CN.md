@@ -2,7 +2,7 @@
   <a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=hero">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://media.vibefather.ai/readme/hero-dark.9495a003fe.webp">
-      <img src="https://media.vibefather.ai/readme/hero-light.d5c8b60773.webp" width="100%" alt="A wall of live websites built by AI coding agents — 272 templates on VibeFather">
+      <img src="https://media.vibefather.ai/readme/hero-light.d5c8b60773.webp" width="100%" alt="A wall of live websites built by AI coding agents — 274 templates on VibeFather">
     </picture>
   </a>
 </p>
@@ -10,27 +10,27 @@
 <h1 align="center">Awesome Vibe Coding Websites</h1>
 
 <p align="center">
-  <b>272 个原创网站模板、559 个在线 Demo，全部由 AI 编程工具生成，每个都配原版提示词和 DESIGN.md。</b><br>
+  <b>274 个原创网站模板、562 个在线 Demo，全部由 AI 编程工具生成，每个都配原版提示词和 DESIGN.md。</b><br>
   挑一个，替换 <code>[变量]</code>，粘贴到 Claude Code、Cursor 或 Codex，做出你自己的网站。
 </p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <a href="https://vibefather.ai/templates?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvibefather.ai%2Fapi%2Fv1%2Fbadge%3Fm%3Dtemplates&style=flat-square" alt="272 templates"></a>
-  <a href="https://vibefather.ai/templates?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvibefather.ai%2Fapi%2Fv1%2Fbadge%3Fm%3Dsites&style=flat-square" alt="559 live demos"></a>
+  <a href="https://vibefather.ai/templates?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvibefather.ai%2Fapi%2Fv1%2Fbadge%3Fm%3Dtemplates&style=flat-square" alt="274 templates"></a>
+  <a href="https://vibefather.ai/templates?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvibefather.ai%2Fapi%2Fv1%2Fbadge%3Fm%3Dsites&style=flat-square" alt="562 live demos"></a>
   <a href="https://vibefather.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvibefather.ai%2Fapi%2Fv1%2Fbadge%3Fm%3Dmodels&style=flat-square" alt="9 AI models"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/prompts-CC_BY--NC_4.0-111?style=flat-square" alt="CC BY-NC 4.0"></a>
 </p>
 
 <p align="center">
-  <a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-top-cta"><b>▶ 浏览全部 559 个在线 Demo</b></a> &nbsp;·&nbsp; <a href="README.md">English</a> &nbsp;·&nbsp; <a href="#怎么用">怎么用</a>
+  <a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-top-cta"><b>▶ 浏览全部 562 个在线 Demo</b></a> &nbsp;·&nbsp; <a href="README.md">English</a> &nbsp;·&nbsp; <a href="#怎么用">怎么用</a>
 </p>
 
-**Awesome Vibe Coding Websites** 是一个免费开放的 vibe coding 网站模板库：272 个原创模板、559 个在线 Demo，由 9 个 AI 模型生成（Gemini 4 Carbon、Kimi K3.1 Pro、GPT-6.1 Sol、Claude Opus 5.5、Grok 4.7、GPT-6 Astra、Claude Sonnet 5.5、DeepSeek V4.1 Flash、GLM-5.3）。每个模板都附上生成 Demo 时用的原版提示词和 DESIGN.md，复制到 Claude Code、Cursor、Codex 等任意 AI 编程工具里，就能做出同款网站：落地页、SaaS 官网、作品集、电商、数据看板、3D 场景、网页游戏都有。全部 Demo 可以在 [VibeFather](https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-intro) 上在线预览。
+**Awesome Vibe Coding Websites** 是一个免费开放的 vibe coding 网站模板库：274 个原创模板、562 个在线 Demo，由 9 个 AI 模型生成（Gemini 4 Carbon、Kimi K3.1 Pro、GPT-6.1 Sol、Claude Opus 5.5、Grok 4.7、GPT-6 Astra、Claude Sonnet 5.5、DeepSeek V4.1 Flash、GLM-5.3）。每个模板都附上生成 Demo 时用的原版提示词和 DESIGN.md，复制到 Claude Code、Cursor、Codex 等任意 AI 编程工具里，就能做出同款网站：落地页、SaaS 官网、作品集、电商、数据看板、3D 场景、网页游戏都有。全部 Demo 可以在 [VibeFather](https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-intro) 上在线预览。
 
 每份提示词都有中文参考译文（`prompt.zh-CN.md`），方便阅读理解；Demo 由英文原版生成，复制到 AI 工具时请用英文原版 `prompt.md`。
 
-**分类：** [落地页与产品发布](#落地页与产品发布) <sub>13</sub> · [SaaS、AI 与应用](#saasai-与应用) <sub>46</sub> · [游戏、3D 与互动玩具](#游戏3d-与互动玩具) <sub>37</sub> · [交互讲解与演示](#交互讲解与演示) <sub>22</sub> · [作品集、工作室与博客](#作品集工作室与博客) <sub>33</sub> · [电商与产品页](#电商与产品页) <sub>30</sub> · [本地商家与专业服务](#本地商家与专业服务) <sub>65</sub> · [餐饮、酒店与旅行](#餐饮酒店与旅行) <sub>12</sub> · [活动与社群](#活动与社群) <sub>10</sub> · [更多落地页](#更多落地页) <sub>4</sub>
+**分类：** [落地页与产品发布](#落地页与产品发布) <sub>13</sub> · [SaaS、AI 与应用](#saasai-与应用) <sub>48</sub> · [游戏、3D 与互动玩具](#游戏3d-与互动玩具) <sub>37</sub> · [交互讲解与演示](#交互讲解与演示) <sub>22</sub> · [作品集、工作室与博客](#作品集工作室与博客) <sub>33</sub> · [电商与产品页](#电商与产品页) <sub>30</sub> · [本地商家与专业服务](#本地商家与专业服务) <sub>65</sub> · [餐饮、酒店与旅行](#餐饮酒店与旅行) <sub>12</sub> · [活动与社群](#活动与社群) <sub>10</sub> · [更多落地页](#更多落地页) <sub>4</sub>
 
 ## 同一份提示词，两个模型
 
@@ -49,9 +49,9 @@
 <sub>Claude Sonnet 5.5 <i>vs</i> Gemini 4 Carbon · <a href="compare/claude-sonnet-5-5-vs-gemini-4-carbon.md">全部 8 组</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare-strip"><img src="https://media.vibefather.ai/t/3d-flower-garden-toy/336c2b24-c257-42e0-83bf-0371a80455cc/shot_desktop.be6303142d.webp" width="49%" alt="3D Flower Garden Toy built by DeepSeek V4.1 Flash"> <img src="https://media.vibefather.ai/t/3d-flower-garden-toy/e399ce80-c391-421e-bfba-9cfb8e44f580/shot_desktop.f2752e65f1.webp" width="49%" alt="3D Flower Garden Toy built by Kimi K3.1 Pro"></a><br>
-<b>3D Flower Garden Toy</b><br>
-<sub>DeepSeek V4.1 Flash <i>vs</i> Kimi K3.1 Pro · <a href="compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro.md">全部 70 组</a></sub>
+<a href="https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare-strip"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/90fb5510-12de-4417-8ec4-9cb119db17d9/shot_desktop.90dc4ecc64.webp" width="49%" alt="Solar System 3D Explainer built by Gemini 4 Carbon"> <img src="https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp" width="49%" alt="Solar System 3D Explainer built by GPT-6 Astra"></a><br>
+<b>Solar System 3D Explainer</b><br>
+<sub>Gemini 4 Carbon <i>vs</i> GPT-6 Astra · <a href="compare/gemini-4-carbon-vs-gpt-6-astra.md">全部 1 组</a></sub>
 </td>
 </tr>
 </table>
@@ -109,7 +109,7 @@
 
 ### SaaS、AI 与应用
 
-<sub>46 个模板 · Software marketing sites, app landings, dashboards and docs.</sub>
+<sub>48 个模板 · Software marketing sites, app landings, dashboards and docs.</sub>
 
 <table>
 <tr>
@@ -128,22 +128,24 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/webp.9c92615049.webp" width="100%" alt="SaaS App Dashboard Starter website template — live demo built by GPT-6 Astra"></a><br>
-<b><a href="templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
-<sub>A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.</sub><br>
-<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps">在线 Demo</a> · <a href="templates/saas-app-dashboard-starter/prompt.md">提示词</a></sub>
+<a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/webp.46c368918b.webp" width="100%" alt="Social Media Content Calendar website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="templates/social-media-content-calendar">Social Media Content Calendar</a></b> <sup>PRO</sup><br>
+<sub>Plan four weeks of posts, try four formats, and move a draft from its first idea to the calendar.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps">在线 Demo</a> · <a href="templates/social-media-content-calendar/prompt.md">提示词</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/webp.f960c508e6.webp" width="100%" alt="AI Tools Directory Website website template — live demo built by GPT-6 Astra"></a><br>
-<b><a href="templates/ai-tools-directory-website">AI Tools Directory Website</a></b><br>
-<sub>A lime-and-lilac directory with 64 fictional tools, live filters, saved picks and useful comparisons.</sub><br>
-<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps">在线 Demo</a> · <a href="templates/ai-tools-directory-website/prompt.md">提示词</a></sub>
+<a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/webp.f57c8a46e5.webp" width="100%" alt="Resume Builder Web App website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="templates/resume-builder-web-app">Resume Builder Web App</a></b><br>
+<sub>Edit your experience beside the printed page, check its reading order, and save a copy to take with you.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps">在线 Demo</a> · <a href="templates/resume-builder-web-app/prompt.md">提示词</a></sub>
 </td>
 </tr>
 </table>
 
 | 模板 | 简介 | 模型 | |
 |---|---|---|---|
+| [SaaS App Dashboard Starter](templates/saas-app-dashboard-starter) <sup>PRO</sup> | A working analytics app with onboarding, account tables, team settings, keys, and local billing flows. | GPT-6 Astra | [在线 Demo](https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps) · [提示词](templates/saas-app-dashboard-starter/prompt.md) |
+| [AI Tools Directory Website](templates/ai-tools-directory-website) | A lime-and-lilac directory with 64 fictional tools, live filters, saved picks and useful comparisons. | GPT-6 Astra | [在线 Demo](https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps) · [提示词](templates/ai-tools-directory-website/prompt.md) |
 | [AI Chat App Interface](templates/ai-chat-app-interface) <sup>PRO</sup> | A warm AI workspace with streaming replies, useful history, editable profiles, and local attachments. | GPT-6 Astra | [在线 Demo](https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps) · [提示词](templates/ai-chat-app-interface/prompt.md) |
 | [AI Music Generator Landing Page](templates/ai-music-generator-landing-page) <sup>PRO</sup> | Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow. | GPT-6.1 Sol, GLM-5.3 | [在线 Demo](https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps) · [提示词](templates/ai-music-generator-landing-page/prompt.zh-CN.md) |
 | [Kids Learning App Landing Page](templates/kids-learning-app-landing-page) | A bright clay learning app page with playful lessons, age-aware paths, and a useful parent view. | GPT-6.1 Sol, GLM-5.3 | [在线 Demo](https://vibefather.ai/templates/kids-learning-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-saas-ai-apps) · [提示词](templates/kids-learning-app-landing-page/prompt.zh-CN.md) |
@@ -306,7 +308,7 @@
 | [Jet Engine Interactive Explainer](templates/jet-engine-interactive-explainer) <sup>PRO</sup> | A scroll-driven 3D turbofan with cutaways, relative rotor speeds, live airflow, and a working throttle. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [在线 Demo](https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-explainers-slides) · [提示词](templates/jet-engine-interactive-explainer/prompt.zh-CN.md) |
 | [Annual Report Data Story](templates/annual-report-data-story) <sup>PRO</sup> | A scrolling annual report with count-up numbers, charts that draw themselves and a dot-grid office map. | Claude Opus 5.5, Claude Sonnet 5.5 | [在线 Demo](https://vibefather.ai/templates/annual-report-data-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-explainers-slides) · [提示词](templates/annual-report-data-story/prompt.zh-CN.md) |
 | [Interactive Lesson Slides](templates/interactive-lesson-slides) | A working lesson deck with instant quizzes, a live code slide, drawing tools and a link to every slide. | Claude Opus 5.5, Claude Sonnet 5.5 | [在线 Demo](https://vibefather.ai/templates/interactive-lesson-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-explainers-slides) · [提示词](templates/interactive-lesson-slides/prompt.zh-CN.md) |
-| [Solar System 3D Explainer](templates/solar-system-3d-explainer) <sup>PRO</sup> | Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark. | Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon | [在线 Demo](https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-explainers-slides) · [提示词](templates/solar-system-3d-explainer/prompt.zh-CN.md) |
+| [Solar System 3D Explainer](templates/solar-system-3d-explainer) <sup>PRO</sup> | Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark. | Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon, GPT-6 Astra | [在线 Demo](https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-explainers-slides) · [提示词](templates/solar-system-3d-explainer/prompt.zh-CN.md) |
 | [Interactive Apartment Floor Plan Tour](templates/interactive-apartment-floor-plan-tour) <sup>PRO</sup> | Move from a measured floor plan to a furnished apartment, one room at a time. | GPT-6.1 Sol | [在线 Demo](https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-explainers-slides) · [提示词](templates/interactive-apartment-floor-plan-tour/prompt.zh-CN.md) |
 | [3D Exploded View Product Showcase](templates/3d-exploded-view-product-showcase) <sup>PRO</sup> | A scroll-driven mechanical assembly with labeled parts, cutaway controls, and reversible playback. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [在线 Demo](https://vibefather.ai/templates/3d-exploded-view-product-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-explainers-slides) · [提示词](templates/3d-exploded-view-product-showcase/prompt.zh-CN.md) |
 | [Conference Talk Slide Deck](templates/conference-talk-slide-deck) | Stage-black slide website with keyboard navigation, code slides with hand-rolled highlighting, an overview grid and a print handout. | GLM-5.3, DeepSeek V4.1 Flash | [在线 Demo](https://vibefather.ai/templates/conference-talk-slide-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-explainers-slides) · [提示词](templates/conference-talk-slide-deck/prompt.zh-CN.md) |
@@ -691,13 +693,13 @@
 
 ## 更多浏览方式
 
-**按网站类型:** [Landing Page](types/landing-page.md) <sub>127</sub> · [E-commerce](types/ecommerce.md) <sub>32</sub> · [Interactive Explainer](types/explainer.md) <sub>23</sub> · [Interactive Toy](types/toy.md) <sub>20</sub> · [Browser Game](types/game.md) <sub>18</sub> · [Portfolio](types/portfolio.md) <sub>16</sub> · [Personal Site](types/personal.md) <sub>15</sub> · [SaaS](types/saas.md) <sub>14</sub> · [App](types/app.md) <sub>11</sub> · [Dashboard](types/dashboard.md) <sub>10</sub> · [Agency](types/agency.md) <sub>9</sub> · [Blog](types/blog.md) <sub>9</sub> · [Event](types/event.md) <sub>9</sub> · [Restaurant](types/restaurant.md) <sub>9</sub> · [App Landing](types/app-landing.md) <sub>7</sub> · [Docs](types/docs.md) <sub>5</sub> · [Real Estate](types/real-estate.md) <sub>4</sub> · [Directory](types/directory.md) <sub>3</sub> · [Hotel](types/hotel.md) <sub>3</sub> · [Slide Deck](types/slides.md) <sub>3</sub> · [Web App](types/web-app.md) <sub>3</sub>
+**按网站类型:** [Landing Page](types/landing-page.md) <sub>127</sub> · [E-commerce](types/ecommerce.md) <sub>32</sub> · [Interactive Explainer](types/explainer.md) <sub>23</sub> · [Interactive Toy](types/toy.md) <sub>20</sub> · [Browser Game](types/game.md) <sub>18</sub> · [Portfolio](types/portfolio.md) <sub>16</sub> · [Personal Site](types/personal.md) <sub>15</sub> · [SaaS](types/saas.md) <sub>14</sub> · [App](types/app.md) <sub>11</sub> · [Dashboard](types/dashboard.md) <sub>11</sub> · [Agency](types/agency.md) <sub>9</sub> · [Blog](types/blog.md) <sub>9</sub> · [Event](types/event.md) <sub>9</sub> · [Restaurant](types/restaurant.md) <sub>9</sub> · [App Landing](types/app-landing.md) <sub>7</sub> · [Docs](types/docs.md) <sub>5</sub> · [Web App](types/web-app.md) <sub>5</sub> · [Real Estate](types/real-estate.md) <sub>4</sub> · [Directory](types/directory.md) <sub>3</sub> · [Hotel](types/hotel.md) <sub>3</sub> · [Slide Deck](types/slides.md) <sub>3</sub>
 
-**按风格:** [Minimal](styles/minimal.md) <sub>138</sub> · [Editorial](styles/editorial.md) <sub>133</sub> · [Dark](styles/dark.md) <sub>88</sub> · [Playful](styles/playful.md) <sub>76</sub> · [Swiss](styles/swiss.md) <sub>26</sub> · [Luxury](styles/luxury.md) <sub>21</sub> · [Retro](styles/retro.md) <sub>16</sub> · [Brutalist](styles/brutalist.md) <sub>13</sub> · [Glass](styles/glass.md) <sub>13</sub> · [Hand-drawn](styles/hand-drawn.md) <sub>12</sub> · [Aurora](styles/aurora.md) <sub>8</sub> · [Bento Grid](styles/bento.md) <sub>7</sub> · [Bold](styles/bold.md) <sub>7</sub> · [Terminal](styles/terminal.md) <sub>7</sub> · [Pixel Art](styles/pixel.md) <sub>3</sub> · [Warm](styles/warm.md) <sub>3</sub> · [Industrial](styles/industrial.md) <sub>2</sub>
+**按风格:** [Minimal](styles/minimal.md) <sub>139</sub> · [Editorial](styles/editorial.md) <sub>135</sub> · [Dark](styles/dark.md) <sub>88</sub> · [Playful](styles/playful.md) <sub>77</sub> · [Swiss](styles/swiss.md) <sub>26</sub> · [Luxury](styles/luxury.md) <sub>21</sub> · [Retro](styles/retro.md) <sub>16</sub> · [Brutalist](styles/brutalist.md) <sub>13</sub> · [Glass](styles/glass.md) <sub>13</sub> · [Hand-drawn](styles/hand-drawn.md) <sub>12</sub> · [Aurora](styles/aurora.md) <sub>8</sub> · [Bento Grid](styles/bento.md) <sub>7</sub> · [Bold](styles/bold.md) <sub>7</sub> · [Terminal](styles/terminal.md) <sub>7</sub> · [Pixel Art](styles/pixel.md) <sub>3</sub> · [Warm](styles/warm.md) <sub>3</sub> · [Industrial](styles/industrial.md) <sub>2</sub>
 
-**按 AI 模型:** [Gemini 4 Carbon](models/gemini-4-carbon.md) <sub>15</sub> · [Kimi K3.1 Pro](models/kimi-k3-1-pro.md) <sub>90</sub> · [GPT-6.1 Sol](models/gpt-6-1-sol.md) <sub>20</sub> · [Claude Opus 5.5](models/claude-opus-5-5.md) <sub>67</sub> · [Grok 4.7](models/grok-4-7.md) <sub>20</sub> · [GPT-6 Astra](models/gpt-6-astra.md) <sub>3</sub> · [Claude Sonnet 5.5](models/claude-sonnet-5-5.md) <sub>36</sub> · [DeepSeek V4.1 Flash](models/deepseek-v4-1-flash.md) <sub>179</sub> · [GLM-5.3](models/glm-5-3.md) <sub>129</sub>
+**按 AI 模型:** [Gemini 4 Carbon](models/gemini-4-carbon.md) <sub>15</sub> · [Kimi K3.1 Pro](models/kimi-k3-1-pro.md) <sub>90</sub> · [GPT-6.1 Sol](models/gpt-6-1-sol.md) <sub>20</sub> · [Claude Opus 5.5](models/claude-opus-5-5.md) <sub>67</sub> · [Grok 4.7](models/grok-4-7.md) <sub>20</sub> · [GPT-6 Astra](models/gpt-6-astra.md) <sub>6</sub> · [Claude Sonnet 5.5](models/claude-sonnet-5-5.md) <sub>36</sub> · [DeepSeek V4.1 Flash](models/deepseek-v4-1-flash.md) <sub>179</sub> · [GLM-5.3](models/glm-5-3.md) <sub>129</sub>
 
-**模型对比:** [Claude Opus 5.5 vs Gemini 4 Carbon](compare/claude-opus-5-5-vs-gemini-4-carbon.md) <sub>15</sub> · [Claude Sonnet 5.5 vs Gemini 4 Carbon](compare/claude-sonnet-5-5-vs-gemini-4-carbon.md) <sub>8</sub> · [DeepSeek V4.1 Flash vs Kimi K3.1 Pro](compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro.md) <sub>70</sub> · [GLM-5.3 vs Kimi K3.1 Pro](compare/glm-5-3-vs-kimi-k3-1-pro.md) <sub>20</sub> · [GLM-5.3 vs GPT-6.1 Sol](compare/glm-5-3-vs-gpt-6-1-sol.md) <sub>10</sub> · [Claude Opus 5.5 vs Claude Sonnet 5.5](compare/claude-opus-5-5-vs-claude-sonnet-5-5.md) <sub>35</sub> · [Claude Opus 5.5 vs DeepSeek V4.1 Flash](compare/claude-opus-5-5-vs-deepseek-v4-1-flash.md) <sub>13</sub> · [Claude Sonnet 5.5 vs DeepSeek V4.1 Flash](compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash.md) <sub>14</sub> · [DeepSeek V4.1 Flash vs GLM-5.3](compare/deepseek-v4-1-flash-vs-glm-5-3.md) <sub>94</sub>
+**模型对比:** [Claude Opus 5.5 vs Gemini 4 Carbon](compare/claude-opus-5-5-vs-gemini-4-carbon.md) <sub>15</sub> · [Claude Sonnet 5.5 vs Gemini 4 Carbon](compare/claude-sonnet-5-5-vs-gemini-4-carbon.md) <sub>8</sub> · [Gemini 4 Carbon vs GPT-6 Astra](compare/gemini-4-carbon-vs-gpt-6-astra.md) <sub>1</sub> · [DeepSeek V4.1 Flash vs Kimi K3.1 Pro](compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro.md) <sub>70</sub> · [GLM-5.3 vs Kimi K3.1 Pro](compare/glm-5-3-vs-kimi-k3-1-pro.md) <sub>20</sub> · [GLM-5.3 vs GPT-6.1 Sol](compare/glm-5-3-vs-gpt-6-1-sol.md) <sub>10</sub> · [Claude Opus 5.5 vs Claude Sonnet 5.5](compare/claude-opus-5-5-vs-claude-sonnet-5-5.md) <sub>35</sub> · [Claude Opus 5.5 vs DeepSeek V4.1 Flash](compare/claude-opus-5-5-vs-deepseek-v4-1-flash.md) <sub>13</sub> · [Claude Opus 5.5 vs GPT-6 Astra](compare/claude-opus-5-5-vs-gpt-6-astra.md) <sub>1</sub> · [Claude Sonnet 5.5 vs GPT-6 Astra](compare/claude-sonnet-5-5-vs-gpt-6-astra.md) <sub>1</sub> · [Claude Sonnet 5.5 vs DeepSeek V4.1 Flash](compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash.md) <sub>14</sub> · [DeepSeek V4.1 Flash vs GLM-5.3](compare/deepseek-v4-1-flash-vs-glm-5-3.md) <sub>94</sub>
 
 ## 怎么用
 
@@ -718,13 +720,13 @@
 用大白话描述你想要的软件，让 AI 编程工具来写代码。这里的提示词就是为此写的：每份都定好了技术栈、页面、区块、文案、配色、字体和动效，AI 能直接做出完整、精致的网站，而不是一个泛泛的初稿。
 
 ### 这些网站是哪些 AI 模型做的？
-Gemini 4 Carbon（15 个）、Kimi K3.1 Pro（90 个）、GPT-6.1 Sol（20 个）、Claude Opus 5.5（67 个）、Grok 4.7（20 个）、GPT-6 Astra（3 个）、Claude Sonnet 5.5（36 个）、DeepSeek V4.1 Flash（179 个）、GLM-5.3（129 个）。每个在线 Demo 都标明了生成它的模型和工具，另有 9 个对比页，并排展示两个模型用同一份提示词的作品。
+Gemini 4 Carbon（15 个）、Kimi K3.1 Pro（90 个）、GPT-6.1 Sol（20 个）、Claude Opus 5.5（67 个）、Grok 4.7（20 个）、GPT-6 Astra（6 个）、Claude Sonnet 5.5（36 个）、DeepSeek V4.1 Flash（179 个）、GLM-5.3（129 个）。每个在线 Demo 都标明了生成它的模型和工具，另有 12 个对比页，并排展示两个模型用同一份提示词的作品。
 
 ### 提示词免费吗？
-272 个模板里有 205 个的提示词可以免费阅读，用于个人和非商业项目（CC BY-NC 4.0），所有 DESIGN.md 都免费。67 个 Pro 模板在这里公开 Brief、技术栈和变量；完整提示词、每个 Demo 的源码和商用授权包含在 [VibeFather Pro](https://vibefather.ai/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-faq) 里。
+274 个模板里有 206 个的提示词可以免费阅读，用于个人和非商业项目（CC BY-NC 4.0），所有 DESIGN.md 都免费。68 个 Pro 模板在这里公开 Brief、技术栈和变量；完整提示词、每个 Demo 的源码和商用授权包含在 [VibeFather Pro](https://vibefather.ai/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-faq) 里。
 
 ## 授权
 
 提示词、DESIGN.md 和文字采用 [CC BY-NC 4.0](LICENSE)，个人和非商业用途免费。商用、接单和全部 Demo 源码请购买 [VibeFather Pro](https://vibefather.ai/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-license)。Demo 预览仅供浏览。
 
-<p align="center"><a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-bottom-cta"><b>▶ 在 VibeFather 上看全部 559 个在线 Demo</b></a></p>
+<p align="center"><a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-bottom-cta"><b>▶ 在 VibeFather 上看全部 562 个在线 Demo</b></a></p>

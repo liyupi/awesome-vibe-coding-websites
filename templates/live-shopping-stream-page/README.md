@@ -18,7 +18,7 @@ Change the brand, show title, host, audience, accent and currency to adapt the c
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [E-commerce](../../types/ecommerce.md), [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
 | Effects | Parallax, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4 + motion + lucide-react |
 | Pages | 1 |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add live-shopping-stream-pa
 The Cozy home edit case was built by Kimi K3.1 Pro in Kimi Code; the Calm workspace edit case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Live Shopping Stream Page template use?
-Live Shopping Stream Page is a single-page site built with React, Tailwind CSS and Motion, with parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Live Shopping Stream Page is a single-page site built with Tailwind CSS, Motion and React, with parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Live Shopping Stream Page template for a client or a business?
 The Live Shopping Stream Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

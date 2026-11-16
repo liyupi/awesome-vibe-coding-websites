@@ -59,8 +59,8 @@
     "slug": "gpt-6-astra",
     "name": "GPT-6 Astra",
     "vendor": "OpenAI",
-    "sites": 3,
-    "templates": 3,
+    "sites": 6,
+    "templates": 6,
     "tools": [
       "Codex"
     ],

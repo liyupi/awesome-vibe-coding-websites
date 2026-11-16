@@ -2,7 +2,7 @@
 
 > Magazine-like layouts with expressive serif or display type, asymmetric grids and big imagery.
 
-133 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/editorial?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
+135 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/editorial?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
 
 <table>
 <tr>
@@ -91,6 +91,20 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/shot_desktop.b83af4015f.webp" width="100%" alt="Social Media Content Calendar website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/social-media-content-calendar">Social Media Content Calendar</a></b> <sup>PRO</sup><br>
+<sub>Plan four weeks of posts, try four formats, and move a draft from its first idea to the calendar.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/social-media-content-calendar/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/shot_desktop.161ce28382.webp" width="100%" alt="Resume Builder Web App website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/resume-builder-web-app">Resume Builder Web App</a></b><br>
+<sub>Edit your experience beside the printed page, check its reading order, and save a copy to take with you.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/resume-builder-web-app/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp" width="100%" alt="AI Tools Directory Website website template — live demo built by GPT-6 Astra"></a><br>
 <b><a href="../templates/ai-tools-directory-website">AI Tools Directory Website</a></b><br>
 <sub>A lime-and-lilac directory with 64 fictional tools, live filters, saved picks and useful comparisons.</sub><br>
@@ -159,26 +173,14 @@
 <sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/risograph-indie-magazine-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/paper-lantern-festival-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/paper-lantern-festival-page/6e76915f-c856-4ff1-b8d8-20d3d0c08887/shot_desktop.fe859837ab.webp" width="100%" alt="Paper Lantern Festival Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/paper-lantern-festival-page">Paper Lantern Festival Page</a></b><br>
-<sub>Write a private wish, fold a glowing paper lantern, and release it above an illustrated midnight river.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/paper-lantern-festival-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/paper-lantern-festival-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/personal-chef-service-website">Personal Chef Service Website</a></b><br>
-<sub>Moody personal-chef site with tasting-menu cards and a per-guest pricing calculator built in.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/personal-chef-service-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
 </table>
 
 ### More
 
 | Template | What it is | Built with | |
 |---|---|---|---|
+| [Paper Lantern Festival Page](../templates/paper-lantern-festival-page) | Write a private wish, fold a glowing paper lantern, and release it above an illustrated midnight river. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/paper-lantern-festival-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/paper-lantern-festival-page/prompt.md) |
+| [Personal Chef Service Website](../templates/personal-chef-service-website) | Moody personal-chef site with tasting-menu cards and a per-guest pricing calculator built in. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/personal-chef-service-website/prompt.md) |
 | [Product Review Blog](../templates/product-review-blog) | Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/product-review-blog/prompt.md) |
 | [University Admissions Website](../templates/university-admissions-website) | A confident admissions site with a program finder, cost estimator, and visit-day sign-up. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/university-admissions-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/university-admissions-website/prompt.md) |
 | [Constellation Story Map](../templates/constellation-story-map) | Drag through an illustrated night, trace old myths, and connect a constellation of your own. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/constellation-story-map/prompt.md) |

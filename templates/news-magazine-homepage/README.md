@@ -11,7 +11,7 @@ A two-page news magazine for an invented city paper: a masthead era front page (
 | | |
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
-| Style | [Swiss](../../styles/swiss.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Swiss](../../styles/swiss.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
@@ -82,7 +82,7 @@ Copy the prompt from this page or run npx vibefather add news-magazine-homepage,
 The City weekly paper case was built by GLM-5.3 in ZCode; the Coastal town paper case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the News Magazine Homepage template use?
-News Magazine Homepage is a 2-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+News Magazine Homepage is a 2-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the News Magazine Homepage template for a client or a business?
 The News Magazine Homepage prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.
