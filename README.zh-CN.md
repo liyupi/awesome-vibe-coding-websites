@@ -10,23 +10,23 @@
 <h1 align="center">Awesome Vibe Coding Websites</h1>
 
 <p align="center">
-  <b>274 个原创网站模板、562 个在线 Demo，全部由 AI 编程工具生成，每个都配原版提示词和 DESIGN.md。</b><br>
+  <b>274 个原创网站模板、564 个在线 Demo，全部由 AI 编程工具生成，每个都配原版提示词和 DESIGN.md。</b><br>
   挑一个，替换 <code>[变量]</code>，粘贴到 Claude Code、Cursor 或 Codex，做出你自己的网站。
 </p>
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
   <a href="https://vibefather.ai/templates?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvibefather.ai%2Fapi%2Fv1%2Fbadge%3Fm%3Dtemplates&style=flat-square" alt="274 templates"></a>
-  <a href="https://vibefather.ai/templates?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvibefather.ai%2Fapi%2Fv1%2Fbadge%3Fm%3Dsites&style=flat-square" alt="562 live demos"></a>
+  <a href="https://vibefather.ai/templates?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvibefather.ai%2Fapi%2Fv1%2Fbadge%3Fm%3Dsites&style=flat-square" alt="564 live demos"></a>
   <a href="https://vibefather.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=badge"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fvibefather.ai%2Fapi%2Fv1%2Fbadge%3Fm%3Dmodels&style=flat-square" alt="9 AI models"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/prompts-CC_BY--NC_4.0-111?style=flat-square" alt="CC BY-NC 4.0"></a>
 </p>
 
 <p align="center">
-  <a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-top-cta"><b>▶ 浏览全部 562 个在线 Demo</b></a> &nbsp;·&nbsp; <a href="README.md">English</a> &nbsp;·&nbsp; <a href="#怎么用">怎么用</a>
+  <a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-top-cta"><b>▶ 浏览全部 564 个在线 Demo</b></a> &nbsp;·&nbsp; <a href="README.md">English</a> &nbsp;·&nbsp; <a href="#怎么用">怎么用</a>
 </p>
 
-**Awesome Vibe Coding Websites** 是一个免费开放的 vibe coding 网站模板库：274 个原创模板、562 个在线 Demo，由 9 个 AI 模型生成（Gemini 4 Carbon、Kimi K3.1 Pro、GPT-6.1 Sol、Claude Opus 5.5、Grok 4.7、GPT-6 Astra、Claude Sonnet 5.5、DeepSeek V4.1 Flash、GLM-5.3）。每个模板都附上生成 Demo 时用的原版提示词和 DESIGN.md，复制到 Claude Code、Cursor、Codex 等任意 AI 编程工具里，就能做出同款网站：落地页、SaaS 官网、作品集、电商、数据看板、3D 场景、网页游戏都有。全部 Demo 可以在 [VibeFather](https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-intro) 上在线预览。
+**Awesome Vibe Coding Websites** 是一个免费开放的 vibe coding 网站模板库：274 个原创模板、564 个在线 Demo，由 9 个 AI 模型生成（Gemini 4 Carbon、Kimi K3.1 Pro、GPT-6.1 Sol、Claude Opus 5.5、Grok 4.7、GPT-6 Astra、Claude Sonnet 5.5、DeepSeek V4.1 Flash、GLM-5.3）。每个模板都附上生成 Demo 时用的原版提示词和 DESIGN.md，复制到 Claude Code、Cursor、Codex 等任意 AI 编程工具里，就能做出同款网站：落地页、SaaS 官网、作品集、电商、数据看板、3D 场景、网页游戏都有。全部 Demo 可以在 [VibeFather](https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-intro) 上在线预览。
 
 每份提示词都有中文参考译文（`prompt.zh-CN.md`），方便阅读理解；Demo 由英文原版生成，复制到 AI 工具时请用英文原版 `prompt.md`。
 
@@ -49,9 +49,9 @@
 <sub>Claude Sonnet 5.5 <i>vs</i> Gemini 4 Carbon · <a href="compare/claude-sonnet-5-5-vs-gemini-4-carbon.md">全部 8 组</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare-strip"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/90fb5510-12de-4417-8ec4-9cb119db17d9/shot_desktop.90dc4ecc64.webp" width="49%" alt="Solar System 3D Explainer built by Gemini 4 Carbon"> <img src="https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp" width="49%" alt="Solar System 3D Explainer built by GPT-6 Astra"></a><br>
-<b>Solar System 3D Explainer</b><br>
-<sub>Gemini 4 Carbon <i>vs</i> GPT-6 Astra · <a href="compare/gemini-4-carbon-vs-gpt-6-astra.md">全部 1 组</a></sub>
+<a href="https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare-strip"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/89dc8bdc-f96b-411d-a68c-a0e7a4d82a34/shot_desktop.597a69b55f.webp" width="49%" alt="Liquid Glass Product Page built by Gemini 4 Carbon"> <img src="https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp" width="49%" alt="Liquid Glass Product Page built by GPT-6 Astra"></a><br>
+<b>Liquid Glass Product Page</b><br>
+<sub>Gemini 4 Carbon <i>vs</i> GPT-6 Astra · <a href="compare/gemini-4-carbon-vs-gpt-6-astra.md">全部 3 组</a></sub>
 </td>
 </tr>
 </table>
@@ -387,7 +387,7 @@
 | [Wedding Photographer Portfolio](templates/wedding-photographer-portfolio) <sup>PRO</sup> | Cinematic four-page photographer portfolio with story galleries, a couple-in-silhouette frame, a lightbox, packages and inquiry. | GLM-5.3, DeepSeek V4.1 Flash | [在线 Demo](https://vibefather.ai/templates/wedding-photographer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-portfolios-blogs) · [提示词](templates/wedding-photographer-portfolio/prompt.zh-CN.md) |
 | [Neo-Brutalist Blog and Portfolio](templates/neo-brutalist-blog-and-portfolio) | A neo-brutalist home and blog for a writer-illustrator: thick borders, hard shadows and one loud orange. | Claude Opus 5.5 | [在线 Demo](https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-portfolios-blogs) · [提示词](templates/neo-brutalist-blog-and-portfolio/prompt.zh-CN.md) |
 | [Swiss Design Agency Portfolio](templates/swiss-design-agency-portfolio) | Swiss-style agency portfolio on a strict 12-column grid, with morphing case-study page transitions. | Claude Opus 5.5 | [在线 Demo](https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-portfolios-blogs) · [提示词](templates/swiss-design-agency-portfolio/prompt.zh-CN.md) |
-| [Retro Desktop OS Portfolio](templates/retro-desktop-os-portfolio) <sup>PRO</sup> | A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews. | Claude Opus 5.5, Gemini 4 Carbon | [在线 Demo](https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-portfolios-blogs) · [提示词](templates/retro-desktop-os-portfolio/prompt.zh-CN.md) |
+| [Retro Desktop OS Portfolio](templates/retro-desktop-os-portfolio) <sup>PRO</sup> | A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews. | Claude Opus 5.5, Gemini 4 Carbon, GPT-6 Astra | [在线 Demo](https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-portfolios-blogs) · [提示词](templates/retro-desktop-os-portfolio/prompt.zh-CN.md) |
 
 <p align="right"><sub><a href="#awesome-vibe-coding-websites">↑ 回到顶部</a></sub></p>
 
@@ -412,10 +412,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-ecommerce"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/webp.e1c9a712d7.webp" width="100%" alt="Liquid Glass Product Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a><br>
+<a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-ecommerce"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/webp.e1c9a712d7.webp" width="100%" alt="Liquid Glass Product Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a><br>
 <b><a href="templates/liquid-glass-product-page">Liquid Glass Product Page</a></b> <sup>PRO</sup><br>
 <sub>A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-ecommerce">在线 Demo</a> · <a href="templates/liquid-glass-product-page/prompt.zh-CN.md">提示词</a></sub>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · GPT-6 Astra · <a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-ecommerce">在线 Demo</a> · <a href="templates/liquid-glass-product-page/prompt.zh-CN.md">提示词</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bridal-boutique-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-ecommerce"><img src="https://media.vibefather.ai/t/bridal-boutique-website/9025942f-90fc-445a-b6a9-7487dc7bf9c7/webp.716cb8bf2f.webp" width="100%" alt="Bridal Boutique Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
@@ -697,9 +697,9 @@
 
 **按风格:** [Minimal](styles/minimal.md) <sub>139</sub> · [Editorial](styles/editorial.md) <sub>135</sub> · [Dark](styles/dark.md) <sub>88</sub> · [Playful](styles/playful.md) <sub>77</sub> · [Swiss](styles/swiss.md) <sub>26</sub> · [Luxury](styles/luxury.md) <sub>21</sub> · [Retro](styles/retro.md) <sub>16</sub> · [Brutalist](styles/brutalist.md) <sub>13</sub> · [Glass](styles/glass.md) <sub>13</sub> · [Hand-drawn](styles/hand-drawn.md) <sub>12</sub> · [Aurora](styles/aurora.md) <sub>8</sub> · [Bento Grid](styles/bento.md) <sub>7</sub> · [Bold](styles/bold.md) <sub>7</sub> · [Terminal](styles/terminal.md) <sub>7</sub> · [Pixel Art](styles/pixel.md) <sub>3</sub> · [Warm](styles/warm.md) <sub>3</sub> · [Industrial](styles/industrial.md) <sub>2</sub>
 
-**按 AI 模型:** [Gemini 4 Carbon](models/gemini-4-carbon.md) <sub>15</sub> · [Kimi K3.1 Pro](models/kimi-k3-1-pro.md) <sub>90</sub> · [GPT-6.1 Sol](models/gpt-6-1-sol.md) <sub>20</sub> · [Claude Opus 5.5](models/claude-opus-5-5.md) <sub>67</sub> · [Grok 4.7](models/grok-4-7.md) <sub>20</sub> · [GPT-6 Astra](models/gpt-6-astra.md) <sub>6</sub> · [Claude Sonnet 5.5](models/claude-sonnet-5-5.md) <sub>36</sub> · [DeepSeek V4.1 Flash](models/deepseek-v4-1-flash.md) <sub>179</sub> · [GLM-5.3](models/glm-5-3.md) <sub>129</sub>
+**按 AI 模型:** [Gemini 4 Carbon](models/gemini-4-carbon.md) <sub>15</sub> · [Kimi K3.1 Pro](models/kimi-k3-1-pro.md) <sub>90</sub> · [GPT-6.1 Sol](models/gpt-6-1-sol.md) <sub>20</sub> · [Claude Opus 5.5](models/claude-opus-5-5.md) <sub>67</sub> · [Grok 4.7](models/grok-4-7.md) <sub>20</sub> · [GPT-6 Astra](models/gpt-6-astra.md) <sub>8</sub> · [Claude Sonnet 5.5](models/claude-sonnet-5-5.md) <sub>36</sub> · [DeepSeek V4.1 Flash](models/deepseek-v4-1-flash.md) <sub>179</sub> · [GLM-5.3](models/glm-5-3.md) <sub>129</sub>
 
-**模型对比:** [Claude Opus 5.5 vs Gemini 4 Carbon](compare/claude-opus-5-5-vs-gemini-4-carbon.md) <sub>15</sub> · [Claude Sonnet 5.5 vs Gemini 4 Carbon](compare/claude-sonnet-5-5-vs-gemini-4-carbon.md) <sub>8</sub> · [Gemini 4 Carbon vs GPT-6 Astra](compare/gemini-4-carbon-vs-gpt-6-astra.md) <sub>1</sub> · [DeepSeek V4.1 Flash vs Kimi K3.1 Pro](compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro.md) <sub>70</sub> · [GLM-5.3 vs Kimi K3.1 Pro](compare/glm-5-3-vs-kimi-k3-1-pro.md) <sub>20</sub> · [GLM-5.3 vs GPT-6.1 Sol](compare/glm-5-3-vs-gpt-6-1-sol.md) <sub>10</sub> · [Claude Opus 5.5 vs Claude Sonnet 5.5](compare/claude-opus-5-5-vs-claude-sonnet-5-5.md) <sub>35</sub> · [Claude Opus 5.5 vs DeepSeek V4.1 Flash](compare/claude-opus-5-5-vs-deepseek-v4-1-flash.md) <sub>13</sub> · [Claude Opus 5.5 vs GPT-6 Astra](compare/claude-opus-5-5-vs-gpt-6-astra.md) <sub>1</sub> · [Claude Sonnet 5.5 vs GPT-6 Astra](compare/claude-sonnet-5-5-vs-gpt-6-astra.md) <sub>1</sub> · [Claude Sonnet 5.5 vs DeepSeek V4.1 Flash](compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash.md) <sub>14</sub> · [DeepSeek V4.1 Flash vs GLM-5.3](compare/deepseek-v4-1-flash-vs-glm-5-3.md) <sub>94</sub>
+**模型对比:** [Claude Opus 5.5 vs Gemini 4 Carbon](compare/claude-opus-5-5-vs-gemini-4-carbon.md) <sub>15</sub> · [Claude Sonnet 5.5 vs Gemini 4 Carbon](compare/claude-sonnet-5-5-vs-gemini-4-carbon.md) <sub>8</sub> · [Gemini 4 Carbon vs GPT-6 Astra](compare/gemini-4-carbon-vs-gpt-6-astra.md) <sub>3</sub> · [DeepSeek V4.1 Flash vs Kimi K3.1 Pro](compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro.md) <sub>70</sub> · [GLM-5.3 vs Kimi K3.1 Pro](compare/glm-5-3-vs-kimi-k3-1-pro.md) <sub>20</sub> · [GLM-5.3 vs GPT-6.1 Sol](compare/glm-5-3-vs-gpt-6-1-sol.md) <sub>10</sub> · [Claude Opus 5.5 vs Claude Sonnet 5.5](compare/claude-opus-5-5-vs-claude-sonnet-5-5.md) <sub>35</sub> · [Claude Opus 5.5 vs DeepSeek V4.1 Flash](compare/claude-opus-5-5-vs-deepseek-v4-1-flash.md) <sub>13</sub> · [Claude Opus 5.5 vs GPT-6 Astra](compare/claude-opus-5-5-vs-gpt-6-astra.md) <sub>3</sub> · [Claude Sonnet 5.5 vs GPT-6 Astra](compare/claude-sonnet-5-5-vs-gpt-6-astra.md) <sub>2</sub> · [Claude Sonnet 5.5 vs DeepSeek V4.1 Flash](compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash.md) <sub>14</sub> · [DeepSeek V4.1 Flash vs GLM-5.3](compare/deepseek-v4-1-flash-vs-glm-5-3.md) <sub>94</sub>
 
 ## 怎么用
 
@@ -720,7 +720,7 @@
 用大白话描述你想要的软件，让 AI 编程工具来写代码。这里的提示词就是为此写的：每份都定好了技术栈、页面、区块、文案、配色、字体和动效，AI 能直接做出完整、精致的网站，而不是一个泛泛的初稿。
 
 ### 这些网站是哪些 AI 模型做的？
-Gemini 4 Carbon（15 个）、Kimi K3.1 Pro（90 个）、GPT-6.1 Sol（20 个）、Claude Opus 5.5（67 个）、Grok 4.7（20 个）、GPT-6 Astra（6 个）、Claude Sonnet 5.5（36 个）、DeepSeek V4.1 Flash（179 个）、GLM-5.3（129 个）。每个在线 Demo 都标明了生成它的模型和工具，另有 12 个对比页，并排展示两个模型用同一份提示词的作品。
+Gemini 4 Carbon（15 个）、Kimi K3.1 Pro（90 个）、GPT-6.1 Sol（20 个）、Claude Opus 5.5（67 个）、Grok 4.7（20 个）、GPT-6 Astra（8 个）、Claude Sonnet 5.5（36 个）、DeepSeek V4.1 Flash（179 个）、GLM-5.3（129 个）。每个在线 Demo 都标明了生成它的模型和工具，另有 12 个对比页，并排展示两个模型用同一份提示词的作品。
 
 ### 提示词免费吗？
 274 个模板里有 206 个的提示词可以免费阅读，用于个人和非商业项目（CC BY-NC 4.0），所有 DESIGN.md 都免费。68 个 Pro 模板在这里公开 Brief、技术栈和变量；完整提示词、每个 Demo 的源码和商用授权包含在 [VibeFather Pro](https://vibefather.ai/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-faq) 里。
@@ -729,4 +729,4 @@ Gemini 4 Carbon（15 个）、Kimi K3.1 Pro（90 个）、GPT-6.1 Sol（20 个�
 
 提示词、DESIGN.md 和文字采用 [CC BY-NC 4.0](LICENSE)，个人和非商业用途免费。商用、接单和全部 Demo 源码请购买 [VibeFather Pro](https://vibefather.ai/pricing?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-license)。Demo 预览仅供浏览。
 
-<p align="center"><a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-bottom-cta"><b>▶ 在 VibeFather 上看全部 562 个在线 Demo</b></a></p>
+<p align="center"><a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-bottom-cta"><b>▶ 在 VibeFather 上看全部 564 个在线 Demo</b></a></p>

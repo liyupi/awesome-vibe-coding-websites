@@ -1032,6 +1032,13 @@
         "tool": "Cursor",
         "url": "https://vibefather.ai/templates/liquid-glass-product-page?case=89dc8bdc-f96b-411d-a68c-a0e7a4d82a34",
         "image": "https://media.vibefather.ai/t/liquid-glass-product-page/89dc8bdc-f96b-411d-a68c-a0e7a4d82a34/shot_desktop.597a69b55f.webp"
+      },
+      {
+        "label": "Glass room speaker",
+        "model": "gpt-6-astra",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/liquid-glass-product-page?case=cc1b4850-ba96-4073-aa05-ec1ebefa21fe",
+        "image": "https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp"
       }
     ]
   },
@@ -10852,6 +10859,13 @@
         "tool": "Cursor",
         "url": "https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285",
         "image": "https://media.vibefather.ai/t/retro-desktop-os-portfolio/cea14c66-27cc-4cc6-a3bf-dde741843285/shot_desktop.0790dbc0a8.webp"
+      },
+      {
+        "label": "Motion designer portfolio",
+        "model": "gpt-6-astra",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650",
+        "image": "https://media.vibefather.ai/t/retro-desktop-os-portfolio/eec64383-7a25-4814-b3e8-a20916f5b650/shot_desktop.f97fcc04d9.webp"
       }
     ]
   },

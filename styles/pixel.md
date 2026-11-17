@@ -13,10 +13,10 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/virtual-pet-companion/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/shot_desktop.3c97e7dcfd.webp" width="100%" alt="Retro Desktop OS Portfolio website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/shot_desktop.3c97e7dcfd.webp" width="100%" alt="Retro Desktop OS Portfolio website template — live demo built by Claude Opus 5.5, Gemini 4 Carbon and GPT-6 Astra"></a><br>
 <b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
 <sub>A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews.</sub><br>
-<sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/retro-desktop-os-portfolio/prompt.md">Prompt</a></sub>
+<sub>Claude Opus 5.5 · Gemini 4 Carbon · GPT-6 Astra · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/retro-desktop-os-portfolio/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

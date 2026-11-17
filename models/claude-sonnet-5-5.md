@@ -4,7 +4,7 @@
 
 [See them live on VibeFather →](https://vibefather.ai/models/claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model)
 
-**Compare Claude Sonnet 5.5 with:** [Gemini 4 Carbon](../compare/claude-sonnet-5-5-vs-gemini-4-carbon.md) <sub>8</sub> · [Claude Opus 5.5](../compare/claude-opus-5-5-vs-claude-sonnet-5-5.md) <sub>35</sub> · [GPT-6 Astra](../compare/claude-sonnet-5-5-vs-gpt-6-astra.md) <sub>1</sub> · [DeepSeek V4.1 Flash](../compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash.md) <sub>14</sub>
+**Compare Claude Sonnet 5.5 with:** [Gemini 4 Carbon](../compare/claude-sonnet-5-5-vs-gemini-4-carbon.md) <sub>8</sub> · [Claude Opus 5.5](../compare/claude-opus-5-5-vs-claude-sonnet-5-5.md) <sub>35</sub> · [GPT-6 Astra](../compare/claude-sonnet-5-5-vs-gpt-6-astra.md) <sub>2</sub> · [DeepSeek V4.1 Flash](../compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash.md) <sub>14</sub>
 
 <table>
 <tr>
