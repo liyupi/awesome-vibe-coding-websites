@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/webp.e709e34afd.webp" width="100%" alt="AI Chat App Interface — AI Chat UI with Local History built by GPT-6 Astra"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 AI Chat App Interface is a complete assistant workspace for developers and small teams building an AI product. It opens on a useful, finished conversation with a readable code sample, a comparison table, and a working composer. A deep plum sidebar gives the interface a strong frame, while warm off-white surfaces and coral controls keep the main conversation inviting. The dark theme carries the same palette into a quieter plum-black workspace.
 

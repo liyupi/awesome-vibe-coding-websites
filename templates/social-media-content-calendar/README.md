@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/webp.46c368918b.webp" width="100%" alt="Social Media Content Calendar — Colorful Post Planner with Live Previews built by GPT-6 Astra"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A tape dispenser sits under the studio lights, the caption has a first draft, and someone still has to decide when the post goes out. This calendar puts those decisions in one place. It opens on four weeks of content for a small stationery maker, with a photograph of the next scheduled post and a grid of ideas, drafts and finished pieces. Pink, blue and yellow tickets distinguish the campaigns. The weekly view gives each post a place within the day.
 

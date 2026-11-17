@@ -13,38 +13,24 @@
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/webgl-gradient-saas-landing-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter website template — live demo built by GPT-6 Astra"></a><br>
-<b><a href="../templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
-<sub>A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.</sub><br>
-<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/saas-app-dashboard-starter/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-product-tour-page/cf555c73-30a6-4c58-9e37-1c01a352e7dc/shot_desktop.edf943e7fa.webp" width="100%" alt="Interactive Product Tour Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/interactive-product-tour-page">Interactive Product Tour Page</a></b> <sup>PRO</sup><br>
+<sub>A guided SaaS tour with chapter tabs, interactive hotspots, autoplay, and a polished code-drawn app.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-product-tour-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/15acfef5-dfae-4eae-846f-b3f9fd1188b5/shot_desktop.613ab5367e.webp" width="100%" alt="AI Music Generator Landing Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> <sup>PRO</sup><br>
-<sub>Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-music-generator-landing-page/prompt.md">Prompt</a></sub>
-</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/cybersecurity-saas-landing-page/26d457ce-90e7-418d-847a-7d3a67be9d7d/shot_desktop.a9208b3cfb.webp" width="100%" alt="Cybersecurity SaaS Landing Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/cybersecurity-saas-landing-page">Cybersecurity SaaS Landing Page</a></b><br>
 <sub>A dark security landing page with an animated threat map, product tabs, trust controls, and a demo form.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/cybersecurity-saas-landing-page/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-product-tour-page/cf555c73-30a6-4c58-9e37-1c01a352e7dc/shot_desktop.edf943e7fa.webp" width="100%" alt="Interactive Product Tour Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/interactive-product-tour-page">Interactive Product Tour Page</a></b> <sup>PRO</sup><br>
-<sub>A guided SaaS tour with chapter tabs, interactive hotspots, autoplay, and a polished code-drawn app.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-product-tour-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-chat-app-interface/6f8ba19b-242c-4263-8f67-b6780b46fe38/shot_desktop.831034aedc.webp" width="100%" alt="Team Chat App Interface website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/team-chat-app-interface">Team Chat App Interface</a></b><br>
-<sub>A polished team chat workspace with channels, threads, reactions, mentions, emoji, and dark and light themes.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-chat-app-interface/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/ai-image-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/ad255b62-71d1-4921-9d6b-f983931801d8/shot_desktop.3dbef1625c.webp" width="100%" alt="AI Image Generator Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/ai-image-generator-landing-page">AI Image Generator Landing Page</a></b><br>
+<sub>A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ai-image-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-image-generator-landing-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -55,10 +41,38 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ev-charging-network-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ev-charging-network-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/shot_desktop.dbeb32fdaa.webp" width="100%" alt="Product Changelog Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/product-changelog-page">Product Changelog Page</a></b><br>
-<sub>Release-notes page with a version timeline, type filters with live counts, copyable version anchors and a drawn feed chip.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-changelog-page/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/physics-playground-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/9126a881-09a8-4bb2-adbf-a16a6d5d143d/shot_desktop.fe52f830a1.webp" width="100%" alt="Physics Playground Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b><br>
+<sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/physics-playground-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/physics-playground-landing-page/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/15acfef5-dfae-4eae-846f-b3f9fd1188b5/shot_desktop.613ab5367e.webp" width="100%" alt="AI Music Generator Landing Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
+<b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> <sup>PRO</sup><br>
+<sub>Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow.</sub><br>
+<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-music-generator-landing-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter website template — live demo built by GPT-6 Astra"></a><br>
+<b><a href="../templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
+<sub>A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.</sub><br>
+<sub>GPT-6 Astra · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/saas-app-dashboard-starter/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/731bb682-2ef1-44aa-966c-83d9eb71690b/shot_desktop.d069d29e32.webp" width="100%" alt="AI Agent Startup Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/ai-agent-startup-landing-page">AI Agent Startup Landing Page</a></b> <sup>PRO</sup><br>
+<sub>A dark agent-platform landing page where task cards travel a live node graph and steps pin on scroll.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-agent-startup-landing-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-chat-app-interface/6f8ba19b-242c-4263-8f67-b6780b46fe38/shot_desktop.831034aedc.webp" width="100%" alt="Team Chat App Interface website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/team-chat-app-interface">Team Chat App Interface</a></b><br>
+<sub>A polished team chat workspace with channels, threads, reactions, mentions, emoji, and dark and light themes.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-chat-app-interface/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -77,30 +91,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/physics-playground-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/9126a881-09a8-4bb2-adbf-a16a6d5d143d/shot_desktop.fe52f830a1.webp" width="100%" alt="Physics Playground Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b><br>
-<sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/physics-playground-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/physics-playground-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ai-image-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/ad255b62-71d1-4921-9d6b-f983931801d8/shot_desktop.3dbef1625c.webp" width="100%" alt="AI Image Generator Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/ai-image-generator-landing-page">AI Image Generator Landing Page</a></b><br>
-<sub>A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ai-image-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-image-generator-landing-page/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/731bb682-2ef1-44aa-966c-83d9eb71690b/shot_desktop.d069d29e32.webp" width="100%" alt="AI Agent Startup Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/ai-agent-startup-landing-page">AI Agent Startup Landing Page</a></b> <sup>PRO</sup><br>
-<sub>A dark agent-platform landing page where task cards travel a live node graph and steps pin on scroll.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-agent-startup-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/oatmeal/338c0197-e778-41ef-b62b-8633e8214053/shot_desktop.1081a0920f.webp" width="100%" alt="Bento Grid SaaS Landing Page website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
 <b><a href="../templates/bento-grid-saas-landing-page">Bento Grid SaaS Landing Page</a></b><br>
 <sub>A warm cream bento SaaS homepage with live tiles, a working command palette and a yearly pricing switch.</sub><br>
 <sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/bento-grid-saas-landing-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/shot_desktop.dbeb32fdaa.webp" width="100%" alt="Product Changelog Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/product-changelog-page">Product Changelog Page</a></b><br>
+<sub>Release-notes page with a version timeline, type filters with live counts, copyable version anchors and a drawn feed chip.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-changelog-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

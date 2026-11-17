@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/webp.9c92615049.webp" width="100%" alt="SaaS App Dashboard Starter — Cobalt Analytics Dashboard and App Shell built by GPT-6 Astra"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 This dashboard starter covers the screens a subscription product needs after someone signs in. It opens inside a fictional analytics workspace, with a populated overview, comparison charts, account health, and useful next actions. Founders and developers can explore the complete flow before connecting their own services.
 

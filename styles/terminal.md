@@ -21,16 +21,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/hackathon-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/hackathon-event-page/d79a64fd-16da-4b5b-b8da-2a19963e97c9/shot_desktop.fb4a3323e5.webp" width="100%" alt="Hackathon Event Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/hackathon-event-page">Hackathon Event Page</a></b><br>
-<sub>Overnight-energy hackathon page with a live countdown, prize tracks, a 36-hour schedule, judges, sponsor tiles and registration.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/hackathon-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/hackathon-event-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/minimal-developer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/minimal-developer-portfolio">Minimal Developer Portfolio</a></b><br>
 <sub>Minimal one-page developer portfolio with a portrait, a night-desk shot, projects, writing and open source — light and dark.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/minimal-developer-portfolio/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/225a18de-afff-4c97-a66b-41f58f071275/shot_desktop.a39fe3d8d6.webp" width="100%" alt="Terminal-Style Docs Site website template — live demo built by Claude Opus 5.5"></a><br>
+<b><a href="../templates/terminal-style-docs-site">Terminal-Style Docs Site</a></b><br>
+<sub>A dark, monospace docs site for a command-line tool, with an amber accent, copyable commands and / search.</sub><br>
+<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/terminal-style-docs-site/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -49,10 +49,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/225a18de-afff-4c97-a66b-41f58f071275/shot_desktop.a39fe3d8d6.webp" width="100%" alt="Terminal-Style Docs Site website template — live demo built by Claude Opus 5.5"></a><br>
-<b><a href="../templates/terminal-style-docs-site">Terminal-Style Docs Site</a></b><br>
-<sub>A dark, monospace docs site for a command-line tool, with an amber accent, copyable commands and / search.</sub><br>
-<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/terminal-style-docs-site/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/hackathon-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/hackathon-event-page/d79a64fd-16da-4b5b-b8da-2a19963e97c9/shot_desktop.fb4a3323e5.webp" width="100%" alt="Hackathon Event Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/hackathon-event-page">Hackathon Event Page</a></b><br>
+<sub>Overnight-energy hackathon page with a live countdown, prize tracks, a 36-hour schedule, judges, sponsor tiles and registration.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/hackathon-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/hackathon-event-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

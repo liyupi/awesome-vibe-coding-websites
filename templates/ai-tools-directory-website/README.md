@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/webp.f960c508e6.webp" width="100%" alt="AI Tools Directory Website — Dark AI Directory with Search and Compare built by GPT-6 Astra"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 AI Tools Directory Website is a complete discovery interface for an independent directory publisher. The default site, Sprigstack, presents 64 fictional tools across writing, design, coding, audio, video, research, automation and productivity. Visitors can search by purpose, narrow the catalog by pricing and platform, save a shortlist and compare up to three tools without leaving the site.
 

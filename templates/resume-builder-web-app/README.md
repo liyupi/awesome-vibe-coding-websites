@@ -4,7 +4,7 @@
 
 <a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/webp.f57c8a46e5.webp" width="100%" alt="Resume Builder Web App — Live Resume Editor with Print Preview built by GPT-6 Astra"></a>
 
-**[▶ Live demo on VibeFather](https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [DESIGN.md](DESIGN.md)
+**[▶ Live demo on VibeFather](https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
 A resume can look finished until one extra bullet pushes an education entry onto a second page. This workspace puts the editor and the actual sheet of paper side by side. The opening sample belongs to an exhibit designer who turns museum research into rooms people can explore. Expand Experience and change the number of listening stations in one of her installations. The same sentence changes on the sheet as you type.
 

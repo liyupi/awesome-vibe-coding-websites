@@ -6,13 +6,6 @@
 
 <table>
 <tr>
-<td colspan="2"><b><a href="../templates/liquid-glass-product-page">Liquid Glass Product Page</a></b> — <sub>A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/shot_desktop.c241f4a425.webp" width="100%" alt="Liquid Glass Product Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp" width="100%" alt="Liquid Glass Product Page built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> — <sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub></td>
 </tr>
 <tr>
@@ -20,10 +13,17 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp" width="100%" alt="Solar System 3D Explainer built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/liquid-glass-product-page">Liquid Glass Product Page</a></b> — <sub>A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/shot_desktop.c241f4a425.webp" width="100%" alt="Liquid Glass Product Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp" width="100%" alt="Liquid Glass Product Page built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> — <sub>A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pixelshell/9657e87b-0045-46e5-bb73-b372a125a55f/shot_desktop.69a73d9c91.webp" width="100%" alt="Retro Desktop OS Portfolio built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/shot_desktop.3c97e7dcfd.webp" width="100%" alt="Retro Desktop OS Portfolio built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/eec64383-7a25-4814-b3e8-a20916f5b650/shot_desktop.f97fcc04d9.webp" width="100%" alt="Retro Desktop OS Portfolio built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
 </tr>
 </table>
