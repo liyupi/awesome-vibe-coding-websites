@@ -28,7 +28,7 @@
 
 **Awesome Vibe Coding Websites** 是一个免费开放的 vibe coding 网站模板库：274 个原创模板、564 个在线 Demo，由 9 个 AI 模型生成（Gemini 4 Carbon、Kimi K3.1 Pro、GPT-6.1 Sol、Claude Opus 5.5、Grok 4.7、GPT-6 Astra、Claude Sonnet 5.5、DeepSeek V4.1 Flash、GLM-5.3）。每个模板都附上生成 Demo 时用的原版提示词和 DESIGN.md，复制到 Claude Code、Cursor、Codex 等任意 AI 编程工具里，就能做出同款网站：落地页、SaaS 官网、作品集、电商、数据看板、3D 场景、网页游戏都有。全部 Demo 可以在 [VibeFather](https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=zh-intro) 上在线预览。
 
-它写给开发者、设计师、独立开发者，以及所有用 AI 做网站的人：可以按网站类型、风格或 AI 模型浏览，并排对比 Gemini 4 Carbon、Kimi K3.1 Pro、GPT-6.1 Sol 等模型对同一份前端提示词的发挥，再从一份已经验证过的提示词开始你的下一个项目。这些网站用的都是真实的前端技术栈（React、Tailwind CSS、Motion、Three.js、Plain HTML、GSAP），上线前都在桌面端和手机端检查过。
+它写给开发者、设计师、独立开发者，以及所有用 AI 做网站的人：可以按网站类型、风格或 AI 模型浏览，并排对比 Claude、GPT、Gemini 等模型对同一份前端提示词的发挥，再从一份已经验证过的提示词开始你的下一个项目。这些网站用的都是真实的前端技术栈（React、Tailwind CSS、Motion、Three.js、Plain HTML、GSAP），上线前都在桌面端和手机端检查过。
 
 每份提示词都有中文参考译文（`prompt.zh-CN.md`），方便阅读理解；Demo 由英文原版生成，复制到 AI 工具时请用英文原版 `prompt.md`。
 
