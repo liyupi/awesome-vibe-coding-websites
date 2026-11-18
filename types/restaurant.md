@@ -49,16 +49,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/food-truck-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/food-truck-website/f0a156d0-f605-45dd-acea-b1437bee0527/shot_desktop.5a2ebd7b37.webp" width="100%" alt="Food Truck Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/food-truck-website">Food Truck Website</a></b><br>
-<sub>A sunlit food truck site with a weekly location map, today's menu, and a simple catering request.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/food-truck-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/food-truck-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/restaurant-qr-menu-page/81b4d688-f331-4fe9-8a4a-be11630d5e58/shot_desktop.059ff1a105.webp" width="100%" alt="Restaurant QR Menu Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/restaurant-qr-menu-page">Restaurant QR Menu Page</a></b><br>
 <sub>A warm mobile-first QR menu with allergen filters, a server tally and call-waiter.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/restaurant-qr-menu-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/food-truck-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/food-truck-website/f0a156d0-f605-45dd-acea-b1437bee0527/shot_desktop.5a2ebd7b37.webp" width="100%" alt="Food Truck Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/food-truck-website">Food Truck Website</a></b><br>
+<sub>A sunlit food truck site with a weekly location map, today's menu, and a simple catering request.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/food-truck-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/food-truck-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

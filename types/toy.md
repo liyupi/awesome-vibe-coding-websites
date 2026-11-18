@@ -35,16 +35,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b><br>
-<sub>A neon-pop physics playground with twenty candy-colored balls, moving walls and hands-on controls.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/spinning-hexagon-physics-toy/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b/shot_desktop.4ffd6302fd.webp" width="100%" alt="Sorting Algorithms Visualizer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a><br>
 <b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b><br>
 <sub>Step through five sorting algorithms on a live bar stage, then race any two on the same array.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sorting-algorithms-visualizer/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
+<b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b><br>
+<sub>A neon-pop physics playground with twenty candy-colored balls, moving walls and hands-on controls.</sub><br>
+<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/spinning-hexagon-physics-toy/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -63,10 +63,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/parametric-lamp-designer/3734c37a-222c-45e2-9be5-e3eda4088389/shot_desktop.f889e6f941.webp" width="100%" alt="Parametric Lamp Designer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/parametric-lamp-designer">Parametric Lamp Designer</a></b><br>
-<sub>Shape a glowing lattice lamp with live 3D controls, curated presets, and a downloadable spec sheet.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/parametric-lamp-designer/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/daily-tarot-reading-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/daily-tarot-reading-page/fec5a5dc-3797-419f-a4d0-15fa9cf849df/shot_desktop.a405c56e1b.webp" width="100%" alt="Daily Tarot Reading Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/daily-tarot-reading-page">Daily Tarot Reading Page</a></b><br>
+<sub>Shuffle an original deck, reveal a daily reading, and save a shareable card.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/daily-tarot-reading-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/daily-tarot-reading-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/anime-character-run-cycle-showcase/86bdf988-a1d2-4948-9876-e05d189ef61d/shot_desktop.badaff9ae8.webp" width="100%" alt="Anime Character Run Cycle Showcase website template — live demo built by Grok 4.7"></a><br>
@@ -77,24 +77,38 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/parametric-lamp-designer/3734c37a-222c-45e2-9be5-e3eda4088389/shot_desktop.f889e6f941.webp" width="100%" alt="Parametric Lamp Designer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/parametric-lamp-designer">Parametric Lamp Designer</a></b><br>
+<sub>Shape a glowing lattice lamp with live 3D controls, curated presets, and a downloadable spec sheet.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/parametric-lamp-designer/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/3d-wooden-fish-tapping-toy/5d8266b1-5c65-4c30-aa4c-ab28fb7afde8/shot_desktop.fa5300e80e.webp" width="100%" alt="3D Wooden Fish Tapping Toy website template — live demo built by GPT-6.1 Sol"></a><br>
 <b><a href="../templates/3d-wooden-fish-tapping-toy">3D Wooden Fish Tapping Toy</a></b><br>
 <sub>Tap a sculpted wooden fish and settle into a small, resonant ritual.</sub><br>
 <sub>GPT-6.1 Sol · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/3d-wooden-fish-tapping-toy/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/constellation-story-map/474c16c5-a9cf-4409-9d3e-befcbae59603/shot_desktop.69d41d47e7.webp" width="100%" alt="Constellation Story Map website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/constellation-story-map">Constellation Story Map</a></b><br>
 <sub>Drag through an illustrated night, trace old myths, and connect a constellation of your own.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/constellation-story-map/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-3d-stream-diorama/90bc9ccc-83e1-4d5b-8a38-5a5a30a7103f/shot_desktop.fe90e1314d.webp" width="100%" alt="Interactive 3D Stream Diorama website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/interactive-3d-stream-diorama">Interactive 3D Stream Diorama</a></b><br>
 <sub>Orbit a living stream, shape its ripples, and shift the light from day to night.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-3d-stream-diorama/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personality-quiz-funnel-page/fb03588a-8416-40f4-bf26-f74ef03467b2/shot_desktop.e8d5202413.webp" width="100%" alt="Personality Quiz Funnel Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/personality-quiz-funnel-page">Personality Quiz Funnel Page</a></b><br>
+<sub>An editorial eight-question quiz with personal results and an email-gated report finale.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personality-quiz-funnel-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/live-shopping-stream-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/live-shopping-stream-page/26790cec-6201-43f3-9135-9713d6cd85ec/shot_desktop.5c8627191f.webp" width="100%" alt="Live Shopping Stream Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
@@ -119,30 +133,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/daily-tarot-reading-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/daily-tarot-reading-page/fec5a5dc-3797-419f-a4d0-15fa9cf849df/shot_desktop.a405c56e1b.webp" width="100%" alt="Daily Tarot Reading Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/daily-tarot-reading-page">Daily Tarot Reading Page</a></b><br>
-<sub>Shuffle an original deck, reveal a daily reading, and save a shareable card.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/daily-tarot-reading-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/daily-tarot-reading-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/jelly-squish-physics-toy/670172d8-dc9f-4e27-83f7-7045f2a9caf1/shot_desktop.6b708df451.webp" width="100%" alt="Jelly Squish Physics Toy website template — live demo built by GPT-6.1 Sol"></a><br>
 <b><a href="../templates/jelly-squish-physics-toy">Jelly Squish Physics Toy</a></b><br>
 <sub>Poke, pull, and drop a glossy jelly with springy physics and a soft little squelch.</sub><br>
 <sub>GPT-6.1 Sol · <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/jelly-squish-physics-toy/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/lo-fi-room-ambience-mixer/7dc34230-9e80-4337-96e3-88603926f8bf/shot_desktop.a1f2d94a10.webp" width="100%" alt="Lo-fi Room Ambience Mixer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/lo-fi-room-ambience-mixer">Lo-fi Room Ambience Mixer</a></b><br>
 <sub>Mix rain, fire, café murmur, vinyl, and birds in a cozy room that responds to every slider.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/lo-fi-room-ambience-mixer/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personality-quiz-funnel-page/fb03588a-8416-40f4-bf26-f74ef03467b2/shot_desktop.e8d5202413.webp" width="100%" alt="Personality Quiz Funnel Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/personality-quiz-funnel-page">Personality Quiz Funnel Page</a></b><br>
-<sub>An editorial eight-question quiz with personal results and an email-gated report finale.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personality-quiz-funnel-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

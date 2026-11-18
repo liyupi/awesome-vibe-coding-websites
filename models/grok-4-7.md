@@ -7,18 +7,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/71faaa0e-9240-4b3c-a04d-6251a8fcac21/shot_desktop.85efa231e1.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/sci-fi-arena-wave-survival-game">Sci-Fi Arena Wave Survival Game</a></b><br>
-<sub>Brick kiln range · Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=03c4ac56-fdda-4ae0-9105-2d2ba4e5e717&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/03c4ac56-fdda-4ae0-9105-2d2ba4e5e717/shot_desktop.864294ab4c.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/sci-fi-arena-wave-survival-game">Sci-Fi Arena Wave Survival Game</a></b><br>
-<sub>Sodium yard range · Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=03c4ac56-fdda-4ae0-9105-2d2ba4e5e717&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=4e7310b0-872d-4c1b-a07a-b2e0679d7e6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/rocket-launch-countdown-page/4e7310b0-872d-4c1b-a07a-b2e0679d7e6d/shot_desktop.1bcce69d0a.webp" width="100%" alt="Rocket Launch Countdown Page built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/rocket-launch-countdown-page">Rocket Launch Countdown Page</a></b> <sup>PRO</sup><br>
 <sub>Coastal satellite launch · Grok Build · <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=4e7310b0-872d-4c1b-a07a-b2e0679d7e6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
@@ -27,6 +15,18 @@
 <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=fa814c6f-3008-470a-a981-fa281b5da08f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/rocket-launch-countdown-page/fa814c6f-3008-470a-a981-fa281b5da08f/shot_desktop.7fb326ae9f.webp" width="100%" alt="Rocket Launch Countdown Page built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/rocket-launch-countdown-page">Rocket Launch Countdown Page</a></b> <sup>PRO</sup><br>
 <sub>Crop imaging launch · Grok Build · <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=fa814c6f-3008-470a-a981-fa281b5da08f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/71faaa0e-9240-4b3c-a04d-6251a8fcac21/shot_desktop.85efa231e1.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/sci-fi-arena-wave-survival-game">Sci-Fi Arena Wave Survival Game</a></b><br>
+<sub>Brick kiln range · Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=03c4ac56-fdda-4ae0-9105-2d2ba4e5e717&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/03c4ac56-fdda-4ae0-9105-2d2ba4e5e717/shot_desktop.864294ab4c.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/sci-fi-arena-wave-survival-game">Sci-Fi Arena Wave Survival Game</a></b><br>
+<sub>Sodium yard range · Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=03c4ac56-fdda-4ae0-9105-2d2ba4e5e717&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -43,18 +43,6 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/78a80404-72e7-4bfe-97cf-4cef2f809eb8/shot_desktop.32e27456f4.webp" width="100%" alt="Dusk Track Racing Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/dusk-track-racing-game">Dusk Track Racing Game</a></b><br>
-<sub>Wickpenny dusk heat · Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/63b071cd-e5d6-42c5-ac76-8a9ecd270853/shot_desktop.2328ff1986.webp" width="100%" alt="Dusk Track Racing Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/dusk-track-racing-game">Dusk Track Racing Game</a></b><br>
-<sub>Bramble wick heat · Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=18ae29db-3619-4451-b596-bf475ef1c1e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-hovercar-city-runner/18ae29db-3619-4451-b596-bf475ef1c1e4/shot_desktop.a0e4a1578d.webp" width="100%" alt="Neon Hovercar City Runner built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/neon-hovercar-city-runner">Neon Hovercar City Runner</a></b> <sup>PRO</sup><br>
 <sub>Amberwharf courier run · Grok Build · <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=18ae29db-3619-4451-b596-bf475ef1c1e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
@@ -63,6 +51,18 @@
 <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=92c5f293-19cd-49af-9a03-a4c61d741ae9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-hovercar-city-runner/92c5f293-19cd-49af-9a03-a4c61d741ae9/shot_desktop.831f889ecc.webp" width="100%" alt="Neon Hovercar City Runner built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/neon-hovercar-city-runner">Neon Hovercar City Runner</a></b> <sup>PRO</sup><br>
 <sub>Saltarcade salvage run · Grok Build · <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=92c5f293-19cd-49af-9a03-a4c61d741ae9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/78a80404-72e7-4bfe-97cf-4cef2f809eb8/shot_desktop.32e27456f4.webp" width="100%" alt="Dusk Track Racing Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/dusk-track-racing-game">Dusk Track Racing Game</a></b><br>
+<sub>Wickpenny dusk heat · Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/63b071cd-e5d6-42c5-ac76-8a9ecd270853/shot_desktop.2328ff1986.webp" width="100%" alt="Dusk Track Racing Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/dusk-track-racing-game">Dusk Track Racing Game</a></b><br>
+<sub>Bramble wick heat · Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

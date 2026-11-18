@@ -1,16 +1,30 @@
 # Gemini 4 Carbon vs GPT-6 Astra: same prompt, two websites
 
-> 3 templates built by both Gemini 4 Carbon (Google) and GPT-6 Astra (OpenAI) from the identical published prompt. Left: Gemini 4 Carbon. Right: GPT-6 Astra.
+> 5 templates built by both Gemini 4 Carbon (Google) and GPT-6 Astra (OpenAI) from the identical published prompt. Left: Gemini 4 Carbon. Right: GPT-6 Astra.
 
 [Compare them live on VibeFather →](https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare)
 
 <table>
+<tr>
+<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c/shot_desktop.1d23e419e9.webp" width="100%" alt="Generative Art Studio Website built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
+</tr>
 <tr>
 <td colspan="2"><b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> — <sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/90fb5510-12de-4417-8ec4-9cb119db17d9/shot_desktop.90dc4ecc64.webp" width="100%" alt="Solar System 3D Explainer built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp" width="100%" alt="Solar System 3D Explainer built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> — <sub>A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boutique-hotel-website/96ff3519-3cba-442f-8288-f2c6b6d50631/shot_desktop.ceffab4f15.webp" width="100%" alt="Boutique Hotel Website built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-carbon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boutique-hotel-website/dda42e68-7c76-4f0a-9c76-cb41698e20e4/shot_desktop.76a7a80d1b.webp" width="100%" alt="Boutique Hotel Website built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/liquid-glass-product-page">Liquid Glass Product Page</a></b> — <sub>A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.</sub></td>

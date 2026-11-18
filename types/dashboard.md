@@ -63,24 +63,24 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/sales-crm-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sales-crm-dashboard/1e2e9d16-d5f8-40d9-b40a-990a16dc2746/shot_desktop.746188a5d3.webp" width="100%" alt="Sales CRM Dashboard website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/sales-crm-dashboard">Sales CRM Dashboard</a></b> <sup>PRO</sup><br>
+<sub>Working CRM app screens: drag-and-drop pipeline kanban, contacts table, deal drawer and revenue charts — all in localStorage.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/sales-crm-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sales-crm-dashboard/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/kanban-project-board-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/kanban-project-board-app/41e91195-a32d-4a66-a866-f8da7451b18d/shot_desktop.096dbcaa57.webp" width="100%" alt="Kanban Project Board App website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/kanban-project-board-app">Kanban Project Board App</a></b><br>
 <sub>Warm board app with hand-rolled drag-and-drop across four columns, labels, due chips, card detail modal, filters and local persistence.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/kanban-project-board-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/kanban-project-board-app/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/movie-rating-community/d8c2b3ba-0102-4aef-8833-dfb297b8ccf1/shot_desktop.219ae68ae8.webp" width="100%" alt="Movie Rating Community website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/movie-rating-community">Movie Rating Community</a></b><br>
 <sub>Rate original films, trade thoughtful reviews, and turn your watch history into a taste profile.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/movie-rating-community/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sales-crm-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sales-crm-dashboard/1e2e9d16-d5f8-40d9-b40a-990a16dc2746/shot_desktop.746188a5d3.webp" width="100%" alt="Sales CRM Dashboard website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/sales-crm-dashboard">Sales CRM Dashboard</a></b> <sup>PRO</sup><br>
-<sub>Working CRM app screens: drag-and-drop pipeline kanban, contacts table, deal drawer and revenue charts — all in localStorage.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/sales-crm-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sales-crm-dashboard/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

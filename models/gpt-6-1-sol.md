@@ -9,21 +9,21 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp" width="100%" alt="Techno Club Night Event Page built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b><br>
-<sub>Underground techno night · Codex · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=04a321bf-5690-4326-98f6-63a388271897&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-colosseum-history-explorer/04a321bf-5690-4326-98f6-63a388271897/shot_desktop.6c21ea225c.webp" width="100%" alt="3D Colosseum History Explorer built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/3d-colosseum-history-explorer">3D Colosseum History Explorer</a></b> <sup>PRO</sup><br>
 <sub>Museum learning edition · Codex · <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=04a321bf-5690-4326-98f6-63a388271897&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-colosseum-history-explorer/a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de/shot_desktop.3a065c18ec.webp" width="100%" alt="3D Colosseum History Explorer built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/3d-colosseum-history-explorer">3D Colosseum History Explorer</a></b> <sup>PRO</sup><br>
 <sub>Architectural field study · Codex · <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp" width="100%" alt="Techno Club Night Event Page built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b><br>
+<sub>Underground techno night · Codex · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sticker-shop-website?case=bb9a8a84-0f24-4638-999e-cbd7715918e6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website built by GPT-6.1 Sol in Codex"></a><br>
@@ -74,28 +74,28 @@
 <sub>Bracken Inlet salt · Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/kids-learning-app-landing-page">Kids Learning App Landing Page</a></b><br>
+<sub>Early readers and counters · Codex · <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?case=15acfef5-dfae-4eae-846f-b3f9fd1188b5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/15acfef5-dfae-4eae-846f-b3f9fd1188b5/shot_desktop.613ab5367e.webp" width="100%" alt="AI Music Generator Landing Page built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> <sup>PRO</sup><br>
 <sub>Video music sketchpad · Codex · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?case=15acfef5-dfae-4eae-846f-b3f9fd1188b5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=5d8266b1-5c65-4c30-aa4c-ab28fb7afde8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-wooden-fish-tapping-toy/5d8266b1-5c65-4c30-aa4c-ab28fb7afde8/shot_desktop.fa5300e80e.webp" width="100%" alt="3D Wooden Fish Tapping Toy built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/3d-wooden-fish-tapping-toy">3D Wooden Fish Tapping Toy</a></b><br>
 <sub>Amber walnut temple · Codex · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=5d8266b1-5c65-4c30-aa4c-ab28fb7afde8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=8737be0f-edb7-468a-95da-7e7872787f0a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-wooden-fish-tapping-toy/8737be0f-edb7-468a-95da-7e7872787f0a/shot_desktop.b8e6c46ed2.webp" width="100%" alt="3D Wooden Fish Tapping Toy built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/3d-wooden-fish-tapping-toy">3D Wooden Fish Tapping Toy</a></b><br>
 <sub>Rainlit cedar pavilion · Codex · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=8737be0f-edb7-468a-95da-7e7872787f0a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/kids-learning-app-landing-page">Kids Learning App Landing Page</a></b><br>
-<sub>Early readers and counters · Codex · <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/98a734ea-5425-4d3f-934e-47bcc822c27b/shot_desktop.f1ca409b68.webp" width="100%" alt="Interactive Apartment Floor Plan Tour built by GPT-6.1 Sol in Codex"></a><br>

@@ -41,10 +41,10 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/flower-anatomy-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/flower-anatomy-3d-explainer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/how-the-human-heart-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/how-the-human-heart-works/f30c9872-d1dc-4886-995b-5fe9452eb4a4/shot_desktop.911915bfac.webp" width="100%" alt="How the Human Heart Works website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
-<b><a href="../templates/how-the-human-heart-works">How the Human Heart Works</a></b><br>
-<sub>A beating SVG heart with a BPM slider, scroll steps along the blood path and a live ECG trace.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/how-the-human-heart-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/how-the-human-heart-works/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b/shot_desktop.4ffd6302fd.webp" width="100%" alt="Sorting Algorithms Visualizer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a><br>
+<b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b><br>
+<sub>Step through five sorting algorithms on a live bar stage, then race any two on the same array.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sorting-algorithms-visualizer/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -55,18 +55,18 @@
 <sub>GPT-6.1 Sol · <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/3d-colosseum-history-explorer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b><br>
-<sub>A neon-pop physics playground with twenty candy-colored balls, moving walls and hands-on controls.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/spinning-hexagon-physics-toy/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/how-the-human-heart-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/how-the-human-heart-works/f30c9872-d1dc-4886-995b-5fe9452eb4a4/shot_desktop.911915bfac.webp" width="100%" alt="How the Human Heart Works website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
+<b><a href="../templates/how-the-human-heart-works">How the Human Heart Works</a></b><br>
+<sub>A beating SVG heart with a BPM slider, scroll steps along the blood path and a live ECG trace.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/how-the-human-heart-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/how-the-human-heart-works/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b/shot_desktop.4ffd6302fd.webp" width="100%" alt="Sorting Algorithms Visualizer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a><br>
-<b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b><br>
-<sub>Step through five sorting algorithms on a live bar stage, then race any two on the same array.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sorting-algorithms-visualizer/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
+<b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b><br>
+<sub>A neon-pop physics playground with twenty candy-colored balls, moving walls and hands-on controls.</sub><br>
+<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/spinning-hexagon-physics-toy/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-cathedral-light-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/3d-cathedral-light-tour/d1b59aae-d0ff-48cc-b4d6-e62e57d5e7e5/shot_desktop.222ec0b0b4.webp" width="100%" alt="3D Cathedral Light Tour website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
@@ -139,10 +139,10 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/constellation-story-map/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/ef527a4d-234b-4c29-923d-6ef9bc1765f5/shot_desktop.9b56a8e723.webp" width="100%" alt="Compound Interest Interactive Explainer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/compound-interest-interactive-explainer">Compound Interest Interactive Explainer</a></b><br>
-<sub>A calm, scroll-driven explainer where three sliders redraw a live chart of deposits versus compound interest.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/compound-interest-interactive-explainer/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/fieldnotes/f1f0a8ca-cd60-4325-b8c3-3f31f77d2061/shot_desktop.ac24b57491.webp" width="100%" alt="Podcast Episode Companion Page website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
+<b><a href="../templates/podcast-episode-companion-page">Podcast Episode Companion Page</a></b><br>
+<sub>An illustrated, chapter-by-chapter companion for a long podcast episode, with charts and pulled-out lessons.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/podcast-episode-companion-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -153,18 +153,18 @@
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/how-the-internet-works-explainer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ocean-depth-scroll-explainer/d9722129-d76c-4c97-8194-fe9508ceece6/shot_desktop.893040a1f1.webp" width="100%" alt="Ocean Depth Scroll Explainer website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
-<b><a href="../templates/ocean-depth-scroll-explainer">Ocean Depth Scroll Explainer</a></b> <sup>PRO</sup><br>
-<sub>A scroll-driven dive from the sunlit surface to the abyss, with a live depth gauge and glowing creatures.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ocean-depth-scroll-explainer/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/ef527a4d-234b-4c29-923d-6ef9bc1765f5/shot_desktop.9b56a8e723.webp" width="100%" alt="Compound Interest Interactive Explainer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/compound-interest-interactive-explainer">Compound Interest Interactive Explainer</a></b><br>
+<sub>A calm, scroll-driven explainer where three sliders redraw a live chart of deposits versus compound interest.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/compound-interest-interactive-explainer/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/fieldnotes/f1f0a8ca-cd60-4325-b8c3-3f31f77d2061/shot_desktop.ac24b57491.webp" width="100%" alt="Podcast Episode Companion Page website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
-<b><a href="../templates/podcast-episode-companion-page">Podcast Episode Companion Page</a></b><br>
-<sub>An illustrated, chapter-by-chapter companion for a long podcast episode, with charts and pulled-out lessons.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/podcast-episode-companion-page/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ocean-depth-scroll-explainer/d9722129-d76c-4c97-8194-fe9508ceece6/shot_desktop.893040a1f1.webp" width="100%" alt="Ocean Depth Scroll Explainer website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
+<b><a href="../templates/ocean-depth-scroll-explainer">Ocean Depth Scroll Explainer</a></b> <sup>PRO</sup><br>
+<sub>A scroll-driven dive from the sunlit surface to the abyss, with a live depth gauge and glowing creatures.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ocean-depth-scroll-explainer/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

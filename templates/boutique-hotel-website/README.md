@@ -2,7 +2,7 @@
 
 > A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.
 
-<a href="https://vibefather.ai/templates/boutique-hotel-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/boutique-hotel-website/00d2a3dd-1494-4691-af41-5459b63ac59f/webp.4a630a5f09.webp" width="100%" alt="Boutique Hotel Website — Boutique Hotel Website with Booking Widget built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a>
+<a href="https://vibefather.ai/templates/boutique-hotel-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/boutique-hotel-website/00d2a3dd-1494-4691-af41-5459b63ac59f/webp.4a630a5f09.webp" width="100%" alt="Boutique Hotel Website — Boutique Hotel Website with Booking Widget built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/boutique-hotel-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ To adapt it, change the hotel name, the place, the property description and the 
 | Effects | Parallax, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react + tailwindcss, |
 | Pages | 3 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/boutique-hotel-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -46,6 +46,11 @@ To adapt it, change the hotel name, the place, the property description and the 
 <b>Coastal boutique hotel</b><br>
 <sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=96ff3519-3cba-442f-8288-f2c6b6d50631&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/boutique-hotel-website/dda42e68-7c76-4f0a-9c76-cb41698e20e4/shot_desktop.76a7a80d1b.webp" width="100%" alt="Boutique Hotel Website — Coastal boutique hotel, built by GPT-6 Astra in Codex"></a><br>
+<b>Coastal boutique hotel</b><br>
+<sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
 </tr>
 </table>
 
@@ -68,33 +73,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A coastal guesthouse owner: set BRAND to the house name, STAY to the room count, and swap the dining menu for your breakfast and honesty bar.
-- A walking-tour operator: keep PLACE as the trailhead, rewrite the guide entries as route notes and pin the SVG map to your stops.
-- A small family inn: lower the room capacities in the guest stepper, replace the offers with seasonal packages and rewrite the reviews.
-- A freelance web designer pitching hospitality clients: change CURRENCY and rates, keep the booking widget as the demo centrepiece and wire confirm to the client's system.
+- A coastal guesthouse: set BRAND and PLACE to the property, rewrite the room catalogue with your own rates in CURRENCY, and trim the dining section to breakfast only.
+- An island sauna retreat: change STAY to describe the cabins and sauna, replace the rooms catalogue with your cabin types, and point the guide page at shoreline and forest walks.
+- A family-run country inn: set BRAND to the inn, rewrite the menu highlights around the kitchen's dishes, and keep the booking widget for table and room enquiries.
+- A freelance web designer's hospitality portfolio: keep the layout, swap the hotel copy for a case study, and use the booking widget as a working demo of what you deliver.
 
 ## FAQ
 
-### How does the booking widget on the Boutique Hotel Website template work without a backend?
-The Boutique Hotel Website template runs its booking widget entirely in the browser. A two-month date-range calendar shows unavailable nights, a guest stepper respects each room's capacity, and a room picker feeds a nightly price breakdown with weekend supplement and local tax. The confirmation screen issues a reference code. Nothing is sent to a server, so you can later wire the confirm step to whatever reservation system the property already uses.
+### How does the booking widget on the Boutique Hotel Website template actually work?
+The Boutique Hotel Website template includes a client-side booking widget: a two-month date-range calendar that marks unavailable nights, a guest stepper limited by each room's capacity, a room picker, a nightly price breakdown with weekend supplement and local tax, and a confirmation screen with a reference code. Everything runs in the browser with no backend, so the confirm step is a placeholder you can later connect to the reservation system the property already uses.
 
-### How do I change the hotel name, location and currency in the Boutique Hotel Website template?
-The Boutique Hotel Website template keeps all copy in one content file. Change BRAND for the hotel name, PLACE for the headland or village, STAY for the property description and room count, and CURRENCY for the symbol used on every rate and total. Room names, rates, menu dishes, guide entries and FAQ answers can then be rewritten in one pass while the layout stays the same.
+### How do I change the hotel name, location and currency in this template?
+Set the four variables in the Boutique Hotel Website prompt: BRAND for the hotel name, PLACE for the headland, village or valley, STAY for the property description with its room count, and CURRENCY for the symbol used on every rate and total. All copy, rates, room data, menu items, offers, reviews, FAQ answers and map pins live in one content file, so you rewrite them in a single pass while the layout stays the same.
 
-### Can I use the Boutique Hotel Website template for a client's guesthouse or inn?
-The Boutique Hotel Website template is a Pro template, so commercial and client work needs Pro. Pro members see the brief, stack and variables publicly and get the full prompt plus the source code of the demos. A freelancer can build a guesthouse or inn site from it, then hand the property owner a static site they can host anywhere.
+### Can I connect the booking confirmation to a real reservation system?
+Yes. The Boutique Hotel Website template keeps its booking logic in pure functions and runs entirely in the browser, so the confirmation screen with its reference code is a stand-in. You keep the calendar, guest stepper, room picker and price summary, then wire the confirm step to whatever reservation system the property uses. The prompt asks for no backend and no external APIs, so that connection is the part you add yourself.
 
 ### What pages and sections come with the Boutique Hotel Website template?
-The Boutique Hotel Website template has three pages: a home page, a rooms page and a local guide. The home page carries the rooms catalogue with sizes, capacities, nightly rates and amenities, the restaurant and bar with opening hours and menu highlights, seasonal offers, guest reviews, an FAQ, contact details and a hand-drawn SVG map. The guide page adds an interactive SVG map of local places.
+The Boutique Hotel Website template has three pages: a home page, a rooms page and a local guide. The home page covers the property, the dining room and bar with opening hours and menu highlights, seasonal offers, guest reviews, an FAQ and a contact block with a hand-drawn SVG map. The rooms page holds the catalogue with sizes, capacities, nightly rates and amenities plus the booking widget, and the guide page has an interactive SVG map of local places.
 
-### How do I adapt the Boutique Hotel Website template to a sauna retreat or another kind of stay?
-Set STAY to describe the property and its room count, since the room catalogue must add up to that number. Set BRAND, PLACE and CURRENCY, then rewrite the room names, rates, dining copy, offers, reviews and guide entries in the content file. The live demos include an island sauna retreat built from the same prompt, which shows how far the structure bends without touching the layout.
+### How do I use this template for a client's guesthouse or inn?
+Commercial and client use of the Boutique Hotel Website template needs Pro, which also gives you the full prompt and the source code of the demos. Start by setting BRAND, PLACE, STAY and CURRENCY for the property, then rewrite the room names, rates, menu dishes, guide entries and FAQ answers in the single content file. Check that the room counts in the catalogue add up to the number in STAY, and swap the coastal and interior photographs for the property's own.
 
 ### How do I build a boutique hotel website with AI?
 Copy the full prompt (Pro) from this page or run npx vibefather add boutique-hotel-website, replace [BRAND], [PLACE], [STAY] and [CURRENCY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Boutique Hotel Website demo?
-The Coastal boutique hotel case was built by Claude Opus 5.5 in Cursor; the Island sauna retreat case was built by Claude Sonnet 5.5 in Cursor; the Coastal boutique hotel case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Coastal boutique hotel case was built by Claude Opus 5.5 in Cursor; the Island sauna retreat case was built by Claude Sonnet 5.5 in Cursor; the Coastal boutique hotel case was built by Gemini 4 Carbon in Cursor; the Coastal boutique hotel case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Boutique Hotel Website template use?
 Boutique Hotel Website is a 3-page site built with Tailwind CSS, Motion and React, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

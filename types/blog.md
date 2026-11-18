@@ -41,20 +41,6 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-review-blog/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/recipe-blog-website/74802fd1-44b5-48bf-8d4d-2c7eb759a848/shot_desktop.785d5e8dcc.webp" width="100%" alt="Recipe Blog Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/recipe-blog-website">Recipe Blog Website</a></b><br>
-<sub>Kitchen-editorial recipe blog with course and diet filters, a live servings scaler, ingredient checklist, step timers and a print view.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/recipe-blog-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/podcast-show-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/podcast-show-website/07c2ec35-2ca8-48ad-9b41-8794965ac301/shot_desktop.738dbe9d66.webp" width="100%" alt="Podcast Show Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/podcast-show-website">Podcast Show Website</a></b><br>
-<sub>A warm podcast site with custom audio, searchable episodes, chaptered notes, guests, and subscribe tools.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/podcast-show-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/podcast-show-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/stickerbomb/95b6de1a-5ae4-4fff-a146-bf26b7084d23/shot_desktop.087fb2bba1.webp" width="100%" alt="Neo-Brutalist Blog and Portfolio website template — live demo built by Claude Opus 5.5"></a><br>
 <b><a href="../templates/neo-brutalist-blog-and-portfolio">Neo-Brutalist Blog and Portfolio</a></b><br>
 <sub>A neo-brutalist home and blog for a writer-illustrator: thick borders, hard shadows and one loud orange.</sub><br>
@@ -67,6 +53,20 @@
 <b><a href="../templates/podcast-episode-companion-page">Podcast Episode Companion Page</a></b><br>
 <sub>An illustrated, chapter-by-chapter companion for a long podcast episode, with charts and pulled-out lessons.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/podcast-episode-companion-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/recipe-blog-website/74802fd1-44b5-48bf-8d4d-2c7eb759a848/shot_desktop.785d5e8dcc.webp" width="100%" alt="Recipe Blog Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/recipe-blog-website">Recipe Blog Website</a></b><br>
+<sub>Kitchen-editorial recipe blog with course and diet filters, a live servings scaler, ingredient checklist, step timers and a print view.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/recipe-blog-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/podcast-show-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/podcast-show-website/07c2ec35-2ca8-48ad-9b41-8794965ac301/shot_desktop.738dbe9d66.webp" width="100%" alt="Podcast Show Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/podcast-show-website">Podcast Show Website</a></b><br>
+<sub>A warm podcast site with custom audio, searchable episodes, chaptered notes, guests, and subscribe tools.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/podcast-show-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/podcast-show-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

@@ -55,18 +55,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/quirky-gadget-product-launch-page/2c3de2d4-f352-42fc-9ddd-ac0a2e75995c/shot_desktop.b9fb7615a0.webp" width="100%" alt="Quirky Gadget Product Launch Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> — <sub>Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/27b55c22-4026-4b7f-83ab-936e62f10375/shot_desktop.b495bed8d2.webp" width="100%" alt="AI Music Generator Landing Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/15acfef5-dfae-4eae-846f-b3f9fd1188b5/shot_desktop.613ab5367e.webp" width="100%" alt="AI Music Generator Landing Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/kids-learning-app-landing-page">Kids Learning App Landing Page</a></b> — <sub>A bright clay learning app page with playful lessons, age-aware paths, and a useful parent view.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/08d369be-89a7-4411-9f68-a6ceb38d9bd3/shot_desktop.32ce245c1b.webp" width="100%" alt="Kids Learning App Landing Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> — <sub>Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/27b55c22-4026-4b7f-83ab-936e62f10375/shot_desktop.b495bed8d2.webp" width="100%" alt="AI Music Generator Landing Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/15acfef5-dfae-4eae-846f-b3f9fd1188b5/shot_desktop.613ab5367e.webp" width="100%" alt="AI Music Generator Landing Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/retro-roller-rink-website">Retro Roller Rink Website</a></b> — <sub>A groovy roller rink with warm photography, session filters, rental sizes, and a working party planner.</sub></td>
