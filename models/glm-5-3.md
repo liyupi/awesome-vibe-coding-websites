@@ -21,9 +21,9 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=73abf288-de33-43b2-9df1-81b49295e5c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/hot-air-balloon-rides-website/73abf288-de33-43b2-9df1-81b49295e5c7/shot_desktop.5932818c17.webp" width="100%" alt="Hot Air Balloon Rides Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/hot-air-balloon-rides-website">Hot Air Balloon Rides Website</a></b><br>
-<sub>Dawn balloon ride company · ZCode · <a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=73abf288-de33-43b2-9df1-81b49295e5c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/roofing-company-website/fdccef11-0f1f-4aa1-81e0-331e289a53f3/shot_desktop.d6af76005b.webp" width="100%" alt="Roofing Company Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/roofing-company-website">Roofing Company Website</a></b><br>
+<sub>Residential roofer, Harlow Springs · ZCode · <a href="https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/shot_desktop.d40cc25515.webp" width="100%" alt="Indie Game Launch Page built by GLM-5.3 in ZCode"></a><br>
@@ -33,105 +33,21 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=73abf288-de33-43b2-9df1-81b49295e5c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/hot-air-balloon-rides-website/73abf288-de33-43b2-9df1-81b49295e5c7/shot_desktop.5932818c17.webp" width="100%" alt="Hot Air Balloon Rides Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/hot-air-balloon-rides-website">Hot Air Balloon Rides Website</a></b><br>
+<sub>Dawn balloon ride company · ZCode · <a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=73abf288-de33-43b2-9df1-81b49295e5c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/luxury-watch-brand-website?case=eb8a2603-0e64-4ebf-b192-47237585a967&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/luxury-watch-brand-website/eb8a2603-0e64-4ebf-b192-47237585a967/shot_desktop.3c2b9d2565.webp" width="100%" alt="Luxury Watch Brand Website built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/luxury-watch-brand-website">Luxury Watch Brand Website</a></b> <sup>PRO</sup><br>
 <sub>Luxury watch brand · ZCode · <a href="https://vibefather.ai/templates/luxury-watch-brand-website?case=eb8a2603-0e64-4ebf-b192-47237585a967&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=0bb729a5-85a9-4861-8f86-26b62ca59552&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/0bb729a5-85a9-4861-8f86-26b62ca59552/shot_desktop.6ed0ac2903.webp" width="100%" alt="Travel Agency Tour Packages Website built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/travel-agency-tour-packages-website">Travel Agency Tour Packages Website</a></b> <sup>PRO</sup><br>
 <sub>Nordic and Highland tours · ZCode · <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=0bb729a5-85a9-4861-8f86-26b62ca59552&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/perfume-product-page?case=bd5b5e90-6c67-4d7e-ba72-8f877f664d7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/perfume-product-page/bd5b5e90-6c67-4d7e-ba72-8f877f664d7f/shot_desktop.17027c59ab.webp" width="100%" alt="Perfume Product Page built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/perfume-product-page">Perfume Product Page</a></b><br>
-<sub>Perfume product · ZCode · <a href="https://vibefather.ai/templates/perfume-product-page?case=bd5b5e90-6c67-4d7e-ba72-8f877f664d7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/16080d09-ae32-4fdc-846e-ad95636eb935/shot_desktop.5d6f995d8e.webp" width="100%" alt="Industrial Manufacturing Company Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/industrial-manufacturing-company-website">Industrial Manufacturing Company Website</a></b> <sup>PRO</sup><br>
-<sub>CNC machine shop, Halbrook · ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/e-commerce-admin-dashboard">E-commerce Admin Dashboard</a></b><br>
-<sub>Outdoor gear store admin · ZCode · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/landscaping-and-lawn-care-website?case=f7217243-3200-4360-b608-ae6bb3995390&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/landscaping-and-lawn-care-website/f7217243-3200-4360-b608-ae6bb3995390/shot_desktop.91ecb9baac.webp" width="100%" alt="Landscaping and Lawn Care Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/landscaping-and-lawn-care-website">Landscaping and Lawn Care Website</a></b><br>
-<sub>Neighborhood lawn care, Willow Bend · ZCode · <a href="https://vibefather.ai/templates/landscaping-and-lawn-care-website?case=f7217243-3200-4360-b608-ae6bb3995390&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/739913b4-fb92-4794-a6b3-064c1ae39bfb/shot_desktop.04387a7a33.webp" width="100%" alt="Techno Club Night Event Page built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b><br>
-<sub>Warehouse electronic assembly · ZCode · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sticker-shop-website?case=12310781-4659-405a-8895-93e97caed5ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sticker-shop-website/12310781-4659-405a-8895-93e97caed5ce/shot_desktop.b9258c986a.webp" width="100%" alt="Sticker Shop Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/sticker-shop-website">Sticker Shop Website</a></b><br>
-<sub>Craft club sticker studio · ZCode · <a href="https://vibefather.ai/templates/sticker-shop-website?case=12310781-4659-405a-8895-93e97caed5ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=660c9861-7726-47a8-9bab-0744c3722bd1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/660c9861-7726-47a8-9bab-0744c3722bd1/shot_desktop.c89d471cce.webp" width="100%" alt="Spinning Hexagon Physics Toy built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b><br>
-<sub>Classroom forces workshop · ZCode · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=660c9861-7726-47a8-9bab-0744c3722bd1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp" width="100%" alt="Car Wash and Detailing Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/car-wash-and-detailing-website">Car Wash and Detailing Website</a></b><br>
-<sub>Auto spa, Marina Heights · ZCode · <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<b><a href="../templates/property-management-company-website">Property Management Company Website</a></b> <sup>PRO</sup><br>
-<sub>Rental management, Ellsworth · ZCode · <a href="https://vibefather.ai/templates/property-management-company-website?case=b1be4f69-ba53-42c4-bc99-24d5799b7b7e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/geometric-art-school-website?case=c23f9a62-c6ae-42ba-8f78-559767f4c2ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/geometric-art-school-website/c23f9a62-c6ae-42ba-8f78-559767f4c2ce/shot_desktop.6ec665205d.webp" width="100%" alt="Geometric Art School Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/geometric-art-school-website">Geometric Art School Website</a></b><br>
-<sub>Creative practice institute · ZCode · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=c23f9a62-c6ae-42ba-8f78-559767f4c2ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b/shot_desktop.ecd561617f.webp" width="100%" alt="Risograph Indie Magazine Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
-<sub>Design and making journal · ZCode · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/private-k-12-school-website/656a8501-c697-48d6-8801-9ad021d3196e/shot_desktop.96f80f5a2f.webp" width="100%" alt="Private K-12 School Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/private-k-12-school-website">Private K-12 School Website</a></b><br>
-<sub>K-12 school, Windmere · ZCode · <a href="https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/drone-services-company-website/6ef97bed-5043-4da4-89da-33af55ce2f35/shot_desktop.45a4d961b2.webp" width="100%" alt="Drone Services Company Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/drone-services-company-website">Drone Services Company Website</a></b><br>
-<sub>Aerial survey company · ZCode · <a href="https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/smart-home-product-landing-page?case=5c94e6b7-19e6-4f67-b5e6-48f138178ef7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/5c94e6b7-19e6-4f67-b5e6-48f138178ef7/shot_desktop.e44386de84.webp" width="100%" alt="Smart Home Product Landing Page built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/smart-home-product-landing-page">Smart Home Product Landing Page</a></b> <sup>PRO</sup><br>
-<sub>Smart home starter kit · ZCode · <a href="https://vibefather.ai/templates/smart-home-product-landing-page?case=5c94e6b7-19e6-4f67-b5e6-48f138178ef7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/fashion-online-store?case=4a4dd574-4bb6-4841-83cb-2236363d986f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/fashion-online-store/4a4dd574-4bb6-4841-83cb-2236363d986f/shot_desktop.0c7958f7e9.webp" width="100%" alt="Fashion Online Store built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/fashion-online-store">Fashion Online Store</a></b> <sup>PRO</sup><br>
-<sub>Linen label in Lisbon · ZCode · <a href="https://vibefather.ai/templates/fashion-online-store?case=4a4dd574-4bb6-4841-83cb-2236363d986f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/meditation-app-landing-page?case=331632b0-f230-4d2e-b3c2-c5076f7db849&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/331632b0-f230-4d2e-b3c2-c5076f7db849/shot_desktop.d528caa296.webp" width="100%" alt="Meditation App Landing Page built by GLM-5.3 in ZCode"></a><br>
@@ -141,14 +57,98 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/coffee-shop-website?case=1af58d10-b5fe-4f81-bcc3-f9665827c346&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/coffee-shop-website/1af58d10-b5fe-4f81-bcc3-f9665827c346/shot_desktop.6d9708d173.webp" width="100%" alt="Coffee Shop Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/coffee-shop-website">Coffee Shop Website</a></b><br>
-<sub>Corner cafe in Portland · ZCode · <a href="https://vibefather.ai/templates/coffee-shop-website?case=1af58d10-b5fe-4f81-bcc3-f9665827c346&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/e-commerce-admin-dashboard">E-commerce Admin Dashboard</a></b><br>
+<sub>Outdoor gear store admin · ZCode · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/perfume-product-page?case=bd5b5e90-6c67-4d7e-ba72-8f877f664d7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/perfume-product-page/bd5b5e90-6c67-4d7e-ba72-8f877f664d7f/shot_desktop.17027c59ab.webp" width="100%" alt="Perfume Product Page built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/perfume-product-page">Perfume Product Page</a></b><br>
+<sub>Perfume product · ZCode · <a href="https://vibefather.ai/templates/perfume-product-page?case=bd5b5e90-6c67-4d7e-ba72-8f877f664d7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp" width="100%" alt="Car Wash and Detailing Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/car-wash-and-detailing-website">Car Wash and Detailing Website</a></b><br>
+<sub>Auto spa, Marina Heights · ZCode · <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/16080d09-ae32-4fdc-846e-ad95636eb935/shot_desktop.5d6f995d8e.webp" width="100%" alt="Industrial Manufacturing Company Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/industrial-manufacturing-company-website">Industrial Manufacturing Company Website</a></b> <sup>PRO</sup><br>
+<sub>CNC machine shop, Halbrook · ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/landscaping-and-lawn-care-website?case=f7217243-3200-4360-b608-ae6bb3995390&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/landscaping-and-lawn-care-website/f7217243-3200-4360-b608-ae6bb3995390/shot_desktop.91ecb9baac.webp" width="100%" alt="Landscaping and Lawn Care Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/landscaping-and-lawn-care-website">Landscaping and Lawn Care Website</a></b><br>
+<sub>Neighborhood lawn care, Willow Bend · ZCode · <a href="https://vibefather.ai/templates/landscaping-and-lawn-care-website?case=f7217243-3200-4360-b608-ae6bb3995390&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/739913b4-fb92-4794-a6b3-064c1ae39bfb/shot_desktop.04387a7a33.webp" width="100%" alt="Techno Club Night Event Page built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b><br>
+<sub>Warehouse electronic assembly · ZCode · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/sticker-shop-website?case=12310781-4659-405a-8895-93e97caed5ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sticker-shop-website/12310781-4659-405a-8895-93e97caed5ce/shot_desktop.b9258c986a.webp" width="100%" alt="Sticker Shop Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/sticker-shop-website">Sticker Shop Website</a></b><br>
+<sub>Craft club sticker studio · ZCode · <a href="https://vibefather.ai/templates/sticker-shop-website?case=12310781-4659-405a-8895-93e97caed5ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=660c9861-7726-47a8-9bab-0744c3722bd1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/660c9861-7726-47a8-9bab-0744c3722bd1/shot_desktop.c89d471cce.webp" width="100%" alt="Spinning Hexagon Physics Toy built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b><br>
+<sub>Classroom forces workshop · ZCode · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=660c9861-7726-47a8-9bab-0744c3722bd1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/fashion-online-store?case=4a4dd574-4bb6-4841-83cb-2236363d986f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/fashion-online-store/4a4dd574-4bb6-4841-83cb-2236363d986f/shot_desktop.0c7958f7e9.webp" width="100%" alt="Fashion Online Store built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/fashion-online-store">Fashion Online Store</a></b> <sup>PRO</sup><br>
+<sub>Linen label in Lisbon · ZCode · <a href="https://vibefather.ai/templates/fashion-online-store?case=4a4dd574-4bb6-4841-83cb-2236363d986f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/minimal-developer-portfolio">Minimal Developer Portfolio</a></b><br>
 <sub>Backend developer portfolio · ZCode · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<b><a href="../templates/property-management-company-website">Property Management Company Website</a></b> <sup>PRO</sup><br>
+<sub>Rental management, Ellsworth · ZCode · <a href="https://vibefather.ai/templates/property-management-company-website?case=b1be4f69-ba53-42c4-bc99-24d5799b7b7e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/architecture-firm-portfolio">Architecture Firm Portfolio</a></b> <sup>PRO</sup><br>
+<sub>Seven-person architecture practice · ZCode · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/geometric-art-school-website?case=c23f9a62-c6ae-42ba-8f78-559767f4c2ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/geometric-art-school-website/c23f9a62-c6ae-42ba-8f78-559767f4c2ce/shot_desktop.6ec665205d.webp" width="100%" alt="Geometric Art School Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/geometric-art-school-website">Geometric Art School Website</a></b><br>
+<sub>Creative practice institute · ZCode · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=c23f9a62-c6ae-42ba-8f78-559767f4c2ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b/shot_desktop.ecd561617f.webp" width="100%" alt="Risograph Indie Magazine Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
+<sub>Design and making journal · ZCode · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/coffee-shop-website?case=1af58d10-b5fe-4f81-bcc3-f9665827c346&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/coffee-shop-website/1af58d10-b5fe-4f81-bcc3-f9665827c346/shot_desktop.6d9708d173.webp" width="100%" alt="Coffee Shop Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/coffee-shop-website">Coffee Shop Website</a></b><br>
+<sub>Corner cafe in Portland · ZCode · <a href="https://vibefather.ai/templates/coffee-shop-website?case=1af58d10-b5fe-4f81-bcc3-f9665827c346&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/private-k-12-school-website/656a8501-c697-48d6-8801-9ad021d3196e/shot_desktop.96f80f5a2f.webp" width="100%" alt="Private K-12 School Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/private-k-12-school-website">Private K-12 School Website</a></b><br>
+<sub>K-12 school, Windmere · ZCode · <a href="https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -157,8 +157,13 @@
 
 | Template | Content | Tool | |
 |---|---|---|---|
+| [Drone Services Company Website](../templates/drone-services-company-website) | Aerial survey company | ZCode | [Live demo](https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Smart Home Product Landing Page](../templates/smart-home-product-landing-page) | Smart home starter kit | ZCode | [Live demo](https://vibefather.ai/templates/smart-home-product-landing-page?case=5c94e6b7-19e6-4f67-b5e6-48f138178ef7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [EV Charging Network Website](../templates/ev-charging-network-website) | EV charging network | ZCode | [Live demo](https://vibefather.ai/templates/ev-charging-network-website?case=807b4d36-1963-44e1-a401-0f11eccd36f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Interior Design Studio Website](../templates/interior-design-studio-website) | Residential design studio | ZCode | [Live demo](https://vibefather.ai/templates/interior-design-studio-website?case=06740e7f-e14f-4a49-a3fc-0dea0da94798&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Running Shoe Product Launch Page](../templates/running-shoe-product-launch-page) | City training shoe | ZCode | [Live demo](https://vibefather.ai/templates/running-shoe-product-launch-page?case=cf84f5ff-2a0b-4b54-a54f-d170abcdcf22&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Indie Record Label Website](../templates/indie-record-label-website) | Static Bloom Records | ZCode | [Live demo](https://vibefather.ai/templates/indie-record-label-website?case=9e1665bf-5972-4167-83d1-8065aa0d01bb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Furniture Store Catalog](../templates/furniture-store-catalog) | Workshop furniture brand | ZCode | [Live demo](https://vibefather.ai/templates/furniture-store-catalog?case=8d96cd18-64c6-4938-a6a4-a9d9756491c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Music Lessons School Website](../templates/music-lessons-school-website) | Music school, Birchwood | ZCode | [Live demo](https://vibefather.ai/templates/music-lessons-school-website?case=aa2e31cb-14b9-4c73-bf9e-58f055853b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Pet Grooming and Boarding Website](../templates/pet-grooming-and-boarding-website) | Grooming salon, Maplewood | ZCode | [Live demo](https://vibefather.ai/templates/pet-grooming-and-boarding-website?case=e45d8739-cc6f-404e-8056-9887a37ccfac&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Eyewear Store Website](../templates/eyewear-store-website) | Boutique optical shop | ZCode | [Live demo](https://vibefather.ai/templates/eyewear-store-website?case=524accc2-1c40-41a6-a24f-7af7b92419f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
@@ -167,14 +172,11 @@
 | [Night Market Food Festival](../templates/night-market-food-festival) | Lantern Row Night Market | ZCode | [Live demo](https://vibefather.ai/templates/night-market-food-festival?case=41a9fe20-4116-4101-afb8-1377e94718e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Quirky Gadget Product Launch Page](../templates/quirky-gadget-product-launch-page) | Pocket decision helper | ZCode | [Live demo](https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=d6599102-35ae-4870-bf76-f04b06ce0718&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Sushi Omakase Restaurant Website](../templates/sushi-omakase-restaurant-website) | Omakase counter | ZCode | [Live demo](https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=d7a34626-11e3-4939-b7a6-4095c4af279e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [EV Charging Network Website](../templates/ev-charging-network-website) | EV charging network | ZCode | [Live demo](https://vibefather.ai/templates/ev-charging-network-website?case=807b4d36-1963-44e1-a401-0f11eccd36f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Architecture Firm Portfolio](../templates/architecture-firm-portfolio) | Seven-person architecture practice | ZCode | [Live demo](https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Pet Food Subscription Page](../templates/pet-food-subscription-page) | Fresh dog food brand | ZCode | [Live demo](https://vibefather.ai/templates/pet-food-subscription-page?case=0680225a-5114-487c-a4db-ccac071f0cac&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Kids Learning App Landing Page](../templates/kids-learning-app-landing-page) | Bilingual story explorers | ZCode | [Live demo](https://vibefather.ai/templates/kids-learning-app-landing-page?case=08d369be-89a7-4411-9f68-a6ceb38d9bd3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Construction Company Website](../templates/construction-company-website) | Family renovation firm | ZCode | [Live demo](https://vibefather.ai/templates/construction-company-website?case=72872f7b-1d19-45fa-964c-b43971ae8bd8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Logistics and Freight Website](../templates/logistics-and-freight-website) | Trucking freight carrier | ZCode | [Live demo](https://vibefather.ai/templates/logistics-and-freight-website?case=14148abf-d655-4ab3-b006-6d2413563f58&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Interior Design Studio Website](../templates/interior-design-studio-website) | Residential design studio | ZCode | [Live demo](https://vibefather.ai/templates/interior-design-studio-website?case=06740e7f-e14f-4a49-a3fc-0dea0da94798&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Roofing Company Website](../templates/roofing-company-website) | Residential roofer, Harlow Springs | ZCode | [Live demo](https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Commercial Print Shop Website](../templates/commercial-print-shop-website) | Print shop, Ironbridge | ZCode | [Live demo](https://vibefather.ai/templates/commercial-print-shop-website?case=aa8d6a06-179f-47eb-864a-877e8178bde4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Used Car Dealership Website](../templates/used-car-dealership-website) | Independent dealer, Bellhaven | ZCode | [Live demo](https://vibefather.ai/templates/used-car-dealership-website?case=b251be65-1825-4174-8904-d8e717428311&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Family Medical Clinic Website](../templates/family-medical-clinic-website) | Family clinic, Meadowbrook | ZCode | [Live demo](https://vibefather.ai/templates/family-medical-clinic-website?case=6afea008-4e7d-4a0f-90bd-397eb60b87ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [AI Music Generator Landing Page](../templates/ai-music-generator-landing-page) | Game soundtrack idea desk | ZCode | [Live demo](https://vibefather.ai/templates/ai-music-generator-landing-page?case=27b55c22-4026-4b7f-83ab-936e62f10375&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
@@ -189,6 +191,7 @@
 | [Independent Pharmacy Website](../templates/independent-pharmacy-website) | Pharmacy, Alderwood | ZCode | [Live demo](https://vibefather.ai/templates/independent-pharmacy-website?case=bb59ef30-eaff-4778-a623-6b46f2e37cc3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Browser Extension Landing Page](../templates/browser-extension-landing-page) | Reading-mode extension | ZCode | [Live demo](https://vibefather.ai/templates/browser-extension-landing-page?case=40135812-f117-4a8b-8bea-6a9a5c2bc587&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Yacht Charter Website](../templates/yacht-charter-website) | Yacht charter | ZCode | [Live demo](https://vibefather.ai/templates/yacht-charter-website?case=4193f25b-2a96-4a84-afca-87848d4bb6ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Personal Chef Service Website](../templates/personal-chef-service-website) | Mediterranean private chef (Maren Holt) | ZCode | [Live demo](https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Wedding Photographer Portfolio](../templates/wedding-photographer-portfolio) | Hudson Valley wedding photographer | ZCode | [Live demo](https://vibefather.ai/templates/wedding-photographer-portfolio?case=66d02f47-a449-479a-ad01-a7a0b14c6a64&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Online Course Sales Page](../templates/online-course-sales-page) | 2D game making course | ZCode | [Live demo](https://vibefather.ai/templates/online-course-sales-page?case=483952a2-5a78-428a-a3bd-a666f748661a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Crowdfunding Campaign Page](../templates/crowdfunding-campaign-page) | Board game campaign | ZCode | [Live demo](https://vibefather.ai/templates/crowdfunding-campaign-page?case=1effcee4-f30a-41d0-9082-a13f7701bbdc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
@@ -199,14 +202,12 @@
 | [Kanban Project Board App](../templates/kanban-project-board-app) | Product launch board | ZCode | [Live demo](https://vibefather.ai/templates/kanban-project-board-app?case=41e91195-a32d-4a66-a866-f8da7451b18d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Event Venue Website](../templates/event-venue-website) | Converted-warehouse venue | ZCode | [Live demo](https://vibefather.ai/templates/event-venue-website?case=52beb175-42c7-4ba2-b6de-7cf4ab5a779a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Driving School Website](../templates/driving-school-website) | Greenlight Driving School | ZCode | [Live demo](https://vibefather.ai/templates/driving-school-website?case=7e58f2a1-30ee-4553-9ac0-7e969591e44c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Personal Chef Service Website](../templates/personal-chef-service-website) | Mediterranean private chef (Maren Holt) | ZCode | [Live demo](https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [HVAC Heating and Cooling Website](../templates/hvac-heating-and-cooling-website) | Residential HVAC, Rookfield | ZCode | [Live demo](https://vibefather.ai/templates/hvac-heating-and-cooling-website?case=7c31323f-d723-4e1d-be7e-ea694c775619&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Self Storage Facility Website](../templates/self-storage-facility-website) | Self storage, Lakemont | ZCode | [Live demo](https://vibefather.ai/templates/self-storage-facility-website?case=6263ed32-6c77-475a-8a14-30a8a9890546&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Pest Control Service Website](../templates/pest-control-service-website) | Pest control, Briarfield | ZCode | [Live demo](https://vibefather.ai/templates/pest-control-service-website?case=940513cd-b5c4-44eb-8fe4-02dbbf053142&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Martial Arts Dojo Website](../templates/martial-arts-dojo-website) | Karate dojo, Eastgate | ZCode | [Live demo](https://vibefather.ai/templates/martial-arts-dojo-website?case=43189e21-937a-40dc-a178-ea658034cd26&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Funeral Home Website](../templates/funeral-home-website) | Funeral home, Ashton Mill | ZCode | [Live demo](https://vibefather.ai/templates/funeral-home-website?case=3db516b3-9735-4218-be9d-5c5e36108cf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Bridal Boutique Website](../templates/bridal-boutique-website) | Bridal boutique, Hartswell | ZCode | [Live demo](https://vibefather.ai/templates/bridal-boutique-website?case=9025942f-90fc-445a-b6a9-7487dc7bf9c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Commercial Print Shop Website](../templates/commercial-print-shop-website) | Print shop, Ironbridge | ZCode | [Live demo](https://vibefather.ai/templates/commercial-print-shop-website?case=aa8d6a06-179f-47eb-864a-877e8178bde4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Product Changelog Page](../templates/product-changelog-page) | Productivity app changelog | ZCode | [Live demo](https://vibefather.ai/templates/product-changelog-page?case=88d938ae-10a1-4353-8f16-bcc71b88e712&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Craft Brewery Taproom Website](../templates/craft-brewery-taproom-website) | Brewery taproom, Millrace | ZCode | [Live demo](https://vibefather.ai/templates/craft-brewery-taproom-website?case=5185e329-f3da-4dd2-ad6f-242f896e66ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Restaurant QR Menu Page](../templates/restaurant-qr-menu-page) | Bistro QR menu | ZCode | [Live demo](https://vibefather.ai/templates/restaurant-qr-menu-page?case=81b4d688-f331-4fe9-8a4a-be11630d5e58&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
@@ -226,7 +227,6 @@
 | [Help Center Knowledge Base](../templates/help-center-knowledge-base) | Scheduling tool help center | ZCode | [Live demo](https://vibefather.ai/templates/help-center-knowledge-base?case=e69c36f8-df66-4b0a-92a4-dde1f7ed2216&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [API Reference Docs Site](../templates/api-reference-docs-site) | Expenses API reference | ZCode | [Live demo](https://vibefather.ai/templates/api-reference-docs-site?case=7038a60e-8b6b-4f16-8ac8-76f606642c10&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Daily Word Puzzle Game](../templates/daily-word-puzzle-game) | Five-letter word game | ZCode | [Live demo](https://vibefather.ai/templates/daily-word-puzzle-game?case=3cb4ec06-14f1-4f52-a4ac-8f25880119a7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Furniture Store Catalog](../templates/furniture-store-catalog) | Workshop furniture brand | ZCode | [Live demo](https://vibefather.ai/templates/furniture-store-catalog?case=8d96cd18-64c6-4938-a6a4-a9d9756491c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Open Source Project Homepage](../templates/open-source-project-homepage) | Config validation library | ZCode | [Live demo](https://vibefather.ai/templates/open-source-project-homepage?case=8a911742-c560-4e29-ad52-8c3a8fa8760e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Animal Shelter Adoption Website](../templates/animal-shelter-adoption-website) | No-kill shelter adoption | ZCode | [Live demo](https://vibefather.ai/templates/animal-shelter-adoption-website?case=bc973b02-01c5-424f-9fca-29ab7fb8f54b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Musician Website](../templates/musician-website) | Ambient soul producer | ZCode | [Live demo](https://vibefather.ai/templates/musician-website?case=9f341d74-094c-43e8-95b1-637a53ffd8da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |

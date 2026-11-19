@@ -7,16 +7,16 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/5c94e6b7-19e6-4f67-b5e6-48f138178ef7/shot_desktop.e44386de84.webp" width="100%" alt="Smart Home Product Landing Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/smart-home-product-landing-page">Smart Home Product Landing Page</a></b> <sup>PRO</sup><br>
-<sub>A warm, code-drawn smart home landing page with a clickable cutaway house showing devices and automations.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/smart-home-product-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/meditation-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/331632b0-f230-4d2e-b3c2-c5076f7db849/shot_desktop.d528caa296.webp" width="100%" alt="Meditation App Landing Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/meditation-app-landing-page">Meditation App Landing Page</a></b><br>
 <sub>A serene meditation app page with drifting gradient skies and a try-it 4-7-8 breathing circle.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/meditation-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/meditation-app-landing-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/5c94e6b7-19e6-4f67-b5e6-48f138178ef7/shot_desktop.e44386de84.webp" width="100%" alt="Smart Home Product Landing Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/smart-home-product-landing-page">Smart Home Product Landing Page</a></b> <sup>PRO</sup><br>
+<sub>A warm, code-drawn smart home landing page with a clickable cutaway house showing devices and automations.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/smart-home-product-landing-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

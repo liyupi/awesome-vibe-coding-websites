@@ -20,18 +20,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/fashion-lookbook-website/e60182a8-a6f3-4e88-bce0-c2e786c40b56/shot_desktop.727c6439aa.webp" width="100%" alt="Fashion Lookbook Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/hot-air-balloon-rides-website">Hot Air Balloon Rides Website</a></b> — <sub>A dawn-soft balloon ride site with a flight timeline, packages, gift vouchers, and a saved booking request.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/hot-air-balloon-rides-website/28d42bfe-2a84-4e6a-8bcf-143a8e44eae2/shot_desktop.eea08dfd9a.webp" width="100%" alt="Hot Air Balloon Rides Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/hot-air-balloon-rides-website/73abf288-de33-43b2-9df1-81b49295e5c7/shot_desktop.5932818c17.webp" width="100%" alt="Hot Air Balloon Rides Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/indie-game-launch-page">Indie Game Launch Page</a></b> — <sub>A painterly indie game launch page with parallax scenes, a world map teaser and a wishlist close.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/indie-game-launch-page/5c344e2d-eb13-4bdf-9f0b-90cbad3452af/shot_desktop.3c82495d6e.webp" width="100%" alt="Indie Game Launch Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/shot_desktop.d40cc25515.webp" width="100%" alt="Indie Game Launch Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/hot-air-balloon-rides-website">Hot Air Balloon Rides Website</a></b> — <sub>A dawn-soft balloon ride site with a flight timeline, packages, gift vouchers, and a saved booking request.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/hot-air-balloon-rides-website/28d42bfe-2a84-4e6a-8bcf-143a8e44eae2/shot_desktop.eea08dfd9a.webp" width="100%" alt="Hot Air Balloon Rides Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/hot-air-balloon-rides-website/73abf288-de33-43b2-9df1-81b49295e5c7/shot_desktop.5932818c17.webp" width="100%" alt="Hot Air Balloon Rides Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/luxury-watch-brand-website">Luxury Watch Brand Website</a></b> — <sub>A quiet-luxury watch brand site with a craft scroll story and a dial-and-strap configurator.</sub></td>
@@ -48,11 +48,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/0bb729a5-85a9-4861-8f86-26b62ca59552/shot_desktop.6ed0ac2903.webp" width="100%" alt="Travel Agency Tour Packages Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/perfume-product-page">Perfume Product Page</a></b> — <sub>A blush-and-amber perfume page with an unfolding scent pyramid and mood photography.</sub></td>
+<td colspan="2"><b><a href="../templates/meditation-app-landing-page">Meditation App Landing Page</a></b> — <sub>A serene meditation app page with drifting gradient skies and a try-it 4-7-8 breathing circle.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/perfume-product-page/df3cbeab-f022-4a31-bfa6-d7675f7d9fd9/shot_desktop.a878a55c13.webp" width="100%" alt="Perfume Product Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/perfume-product-page/bd5b5e90-6c67-4d7e-ba72-8f877f664d7f/shot_desktop.17027c59ab.webp" width="100%" alt="Perfume Product Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/b2db69b1-25d7-4a8a-97a8-040de8632731/shot_desktop.82376d880f.webp" width="100%" alt="Meditation App Landing Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/331632b0-f230-4d2e-b3c2-c5076f7db849/shot_desktop.d528caa296.webp" width="100%" alt="Meditation App Landing Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/e-commerce-admin-dashboard">E-commerce Admin Dashboard</a></b> — <sub>Clean store-admin app: KPI cards, a hand-rolled revenue chart, orders table with filters, product editor and inventory alerts.</sub></td>
@@ -60,6 +60,41 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/d3aabe35-2a58-4f81-b9a3-f1740abf3e05/shot_desktop.d9c4680a73.webp" width="100%" alt="E-commerce Admin Dashboard built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/perfume-product-page">Perfume Product Page</a></b> — <sub>A blush-and-amber perfume page with an unfolding scent pyramid and mood photography.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/perfume-product-page/df3cbeab-f022-4a31-bfa6-d7675f7d9fd9/shot_desktop.a878a55c13.webp" width="100%" alt="Perfume Product Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/perfume-product-page/bd5b5e90-6c67-4d7e-ba72-8f877f664d7f/shot_desktop.17027c59ab.webp" width="100%" alt="Perfume Product Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/fashion-online-store">Fashion Online Store</a></b> — <sub>Four-page fashion storefront with filterable collections, variant product pages, a cart drawer and a mock checkout.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/fashion-online-store/106e7582-2eb4-4e08-8635-cce354cb7848/shot_desktop.d46d1129ac.webp" width="100%" alt="Fashion Online Store built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/fashion-online-store/4a4dd574-4bb6-4841-83cb-2236363d986f/shot_desktop.0c7958f7e9.webp" width="100%" alt="Fashion Online Store built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/minimal-developer-portfolio">Minimal Developer Portfolio</a></b> — <sub>Minimal one-page developer portfolio with a portrait, a night-desk shot, projects, writing and open source — light and dark.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/3409412e-3611-41e2-8584-a66e6901e5d4/shot_desktop.54a249b474.webp" width="100%" alt="Minimal Developer Portfolio built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/architecture-firm-portfolio">Architecture Firm Portfolio</a></b> — <sub>Architecture practice site with studio photographs, a filterable project index, project pages with drawn SVG plans, awards and contact.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/67943fdd-a9ae-4fcf-a72b-b152158ac07a/shot_desktop.4697621ec9.webp" width="100%" alt="Architecture Firm Portfolio built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/coffee-shop-website">Coffee Shop Website</a></b> — <sub>Warm three-page cafe site with a filterable menu, illustrated map and client-side order-ahead pickup.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/coffee-shop-website/ea87a570-73fd-4297-9e56-5e84a89fae7e/shot_desktop.52d3aae889.webp" width="100%" alt="Coffee Shop Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/coffee-shop-website/1af58d10-b5fe-4f81-bcc3-f9665827c346/shot_desktop.6d9708d173.webp" width="100%" alt="Coffee Shop Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/drone-services-company-website">Drone Services Company Website</a></b> — <sub>A crisp drone-services site with full-bleed aerial photography and a draggable before/after mapping slider.</sub></td>
@@ -76,32 +111,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/5c94e6b7-19e6-4f67-b5e6-48f138178ef7/shot_desktop.e44386de84.webp" width="100%" alt="Smart Home Product Landing Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/fashion-online-store">Fashion Online Store</a></b> — <sub>Four-page fashion storefront with filterable collections, variant product pages, a cart drawer and a mock checkout.</sub></td>
+<td colspan="2"><b><a href="../templates/ev-charging-network-website">EV Charging Network Website</a></b> — <sub>A dark technical EV charging site with a filterable station map, pricing and a host form.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/fashion-online-store/106e7582-2eb4-4e08-8635-cce354cb7848/shot_desktop.d46d1129ac.webp" width="100%" alt="Fashion Online Store built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/fashion-online-store/4a4dd574-4bb6-4841-83cb-2236363d986f/shot_desktop.0c7958f7e9.webp" width="100%" alt="Fashion Online Store built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ev-charging-network-website/e4dba3c7-d7f4-4088-9a04-985b08839992/shot_desktop.a36d602a2e.webp" width="100%" alt="EV Charging Network Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ev-charging-network-website/807b4d36-1963-44e1-a401-0f11eccd36f2/shot_desktop.78695d254b.webp" width="100%" alt="EV Charging Network Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/meditation-app-landing-page">Meditation App Landing Page</a></b> — <sub>A serene meditation app page with drifting gradient skies and a try-it 4-7-8 breathing circle.</sub></td>
+<td colspan="2"><b><a href="../templates/interior-design-studio-website">Interior Design Studio Website</a></b> — <sub>Interior studio site with draggable before/after sliders, services, a five-step process, gallery of four rooms and a consultation form.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/b2db69b1-25d7-4a8a-97a8-040de8632731/shot_desktop.82376d880f.webp" width="100%" alt="Meditation App Landing Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/331632b0-f230-4d2e-b3c2-c5076f7db849/shot_desktop.d528caa296.webp" width="100%" alt="Meditation App Landing Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/coffee-shop-website">Coffee Shop Website</a></b> — <sub>Warm three-page cafe site with a filterable menu, illustrated map and client-side order-ahead pickup.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/coffee-shop-website/ea87a570-73fd-4297-9e56-5e84a89fae7e/shot_desktop.52d3aae889.webp" width="100%" alt="Coffee Shop Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/coffee-shop-website/1af58d10-b5fe-4f81-bcc3-f9665827c346/shot_desktop.6d9708d173.webp" width="100%" alt="Coffee Shop Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/minimal-developer-portfolio">Minimal Developer Portfolio</a></b> — <sub>Minimal one-page developer portfolio with a portrait, a night-desk shot, projects, writing and open source — light and dark.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/3409412e-3611-41e2-8584-a66e6901e5d4/shot_desktop.54a249b474.webp" width="100%" alt="Minimal Developer Portfolio built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interior-design-studio-website/e267fc4d-035c-40ac-aff4-c26848a85227/shot_desktop.542ad50b7e.webp" width="100%" alt="Interior Design Studio Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interior-design-studio-website/06740e7f-e14f-4a49-a3fc-0dea0da94798/shot_desktop.114b5341a6.webp" width="100%" alt="Interior Design Studio Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/indie-record-label-website">Indie Record Label Website</a></b> — <sub>Riso-poster record label site with generative sleeves, a tour feed, and a local vinyl variant shop.</sub></td>
@@ -109,6 +130,13 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/indie-record-label-website/9cc06e66-5b1b-4824-93cb-48d5e4915589/shot_desktop.51d76f6580.webp" width="100%" alt="Indie Record Label Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/indie-record-label-website/9e1665bf-5972-4167-83d1-8065aa0d01bb/shot_desktop.c1da66a7b5.webp" width="100%" alt="Indie Record Label Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/furniture-store-catalog">Furniture Store Catalog</a></b> — <sub>Warm showroom furniture catalogue with room navigation, materials filter, SVG dimension diagrams and a bag drawer.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/furniture-store-catalog/5abe36fb-5306-497a-8b07-e021bedfc121/shot_desktop.93382f1320.webp" width="100%" alt="Furniture Store Catalog built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/furniture-store-catalog/8d96cd18-64c6-4938-a6a4-a9d9756491c0/shot_desktop.12484d9b6c.webp" width="100%" alt="Furniture Store Catalog built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/eyewear-store-website">Eyewear Store Website</a></b> — <sub>Clean eyewear shop with live filters, a frame-finder quiz, swatches and local exam booking.</sub></td>
@@ -146,20 +174,6 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sushi-omakase-restaurant-website/d7a34626-11e3-4939-b7a6-4095c4af279e/shot_desktop.507511a2d2.webp" width="100%" alt="Sushi Omakase Restaurant Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/ev-charging-network-website">EV Charging Network Website</a></b> — <sub>A dark technical EV charging site with a filterable station map, pricing and a host form.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ev-charging-network-website/e4dba3c7-d7f4-4088-9a04-985b08839992/shot_desktop.a36d602a2e.webp" width="100%" alt="EV Charging Network Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ev-charging-network-website/807b4d36-1963-44e1-a401-0f11eccd36f2/shot_desktop.78695d254b.webp" width="100%" alt="EV Charging Network Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/architecture-firm-portfolio">Architecture Firm Portfolio</a></b> — <sub>Architecture practice site with studio photographs, a filterable project index, project pages with drawn SVG plans, awards and contact.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/67943fdd-a9ae-4fcf-a72b-b152158ac07a/shot_desktop.4697621ec9.webp" width="100%" alt="Architecture Firm Portfolio built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/pet-food-subscription-page">Pet Food Subscription Page</a></b> — <sub>Friendly pet food page with a plan-building quiz, live portions and prices, all client-side.</sub></td>
 </tr>
 <tr>
@@ -179,13 +193,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/logistics-and-freight-website/30fb5d88-a3bb-4f43-92ca-467a74e49074/shot_desktop.c4f68f520a.webp" width="100%" alt="Logistics and Freight Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/logistics-and-freight-website/14148abf-d655-4ab3-b006-6d2413563f58/shot_desktop.a77627ced3.webp" width="100%" alt="Logistics and Freight Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/interior-design-studio-website">Interior Design Studio Website</a></b> — <sub>Interior studio site with draggable before/after sliders, services, a five-step process, gallery of four rooms and a consultation form.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interior-design-studio-website/e267fc4d-035c-40ac-aff4-c26848a85227/shot_desktop.542ad50b7e.webp" width="100%" alt="Interior Design Studio Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interior-design-studio-website/06740e7f-e14f-4a49-a3fc-0dea0da94798/shot_desktop.114b5341a6.webp" width="100%" alt="Interior Design Studio Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/webinar-registration-page">Webinar Registration Page</a></b> — <sub>Broadcast-navy webinar page with a live countdown, speaker cards, rundown agenda, timezone-aware registration and calendar files.</sub></td>
@@ -251,6 +258,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/yacht-charter-website/4193f25b-2a96-4a84-afca-87848d4bb6ae/shot_desktop.a338e0af30.webp" width="100%" alt="Yacht Charter Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/personal-chef-service-website">Personal Chef Service Website</a></b> — <sub>Moody personal-chef site with tasting-menu cards and a per-guest pricing calculator built in.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/personal-chef-service-website/bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f/shot_desktop.6c45ba7f69.webp" width="100%" alt="Personal Chef Service Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/wedding-photographer-portfolio">Wedding Photographer Portfolio</a></b> — <sub>Cinematic four-page photographer portfolio with story galleries, a couple-in-silhouette frame, a lightbox, packages and inquiry.</sub></td>
 </tr>
 <tr>
@@ -305,13 +319,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/event-venue-website/55deb35d-c175-4ce3-9130-c3c37a4b1d17/shot_desktop.f7e843ca61.webp" width="100%" alt="Event Venue Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/event-venue-website/52beb175-42c7-4ba2-b6de-7cf4ab5a779a/shot_desktop.b1c851bb0e.webp" width="100%" alt="Event Venue Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/personal-chef-service-website">Personal Chef Service Website</a></b> — <sub>Moody personal-chef site with tasting-menu cards and a per-guest pricing calculator built in.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/personal-chef-service-website/bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f/shot_desktop.6c45ba7f69.webp" width="100%" alt="Personal Chef Service Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/product-changelog-page">Product Changelog Page</a></b> — <sub>Release-notes page with a version timeline, type filters with live counts, copyable version anchors and a drawn feed chip.</sub></td>
@@ -431,13 +438,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/daily-word-puzzle-game/923c2a99-bad7-48dd-8bf9-e1179caddb2b/shot_desktop.44677071a8.webp" width="100%" alt="Daily Word Puzzle Game built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/daily-word-puzzle-game/3cb4ec06-14f1-4f52-a4ac-8f25880119a7/shot_desktop.a4a161e248.webp" width="100%" alt="Daily Word Puzzle Game built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/furniture-store-catalog">Furniture Store Catalog</a></b> — <sub>Warm showroom furniture catalogue with room navigation, materials filter, SVG dimension diagrams and a bag drawer.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/furniture-store-catalog/5abe36fb-5306-497a-8b07-e021bedfc121/shot_desktop.93382f1320.webp" width="100%" alt="Furniture Store Catalog built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-glm-5-3?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/furniture-store-catalog/8d96cd18-64c6-4938-a6a4-a9d9756491c0/shot_desktop.12484d9b6c.webp" width="100%" alt="Furniture Store Catalog built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/open-source-project-homepage">Open Source Project Homepage</a></b> — <sub>Homepage for an open-source library: copyable install command, tabbed code example, feature grid, contributors and sponsor tiers.</sub></td>

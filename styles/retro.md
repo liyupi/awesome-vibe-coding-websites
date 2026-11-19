@@ -49,10 +49,24 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/commercial-print-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/aa8d6a06-179f-47eb-864a-877e8178bde4/shot_desktop.dd994abca6.webp" width="100%" alt="Commercial Print Shop Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/commercial-print-shop-website">Commercial Print Shop Website</a></b><br>
+<sub>A process-color print shop site with an instant quote calculator that shows its per-unit math on screen.</sub><br>
+<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/commercial-print-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/commercial-print-shop-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/movie-theater-showtimes-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/movie-theater-showtimes-website/45aa5cd0-bd23-48fe-b107-770674d3be57/shot_desktop.57e1824072.webp" width="100%" alt="Movie Theater Showtimes Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/movie-theater-showtimes-website">Movie Theater Showtimes Website</a></b><br>
 <sub>A velvet-red cinema site with a bulb-lit marquee, code-drawn posters, showtimes by day and a seat picker.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/movie-theater-showtimes-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/movie-theater-showtimes-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/virtual-pet-companion/a2c27a78-f8c4-45bc-b368-d5668767ab28/shot_desktop.6c453759a7.webp" width="100%" alt="Virtual Pet Companion website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/virtual-pet-companion">Virtual Pet Companion</a></b><br>
+<sub>Care for an original pixel pet, earn coins in mini-games, and unlock outfits saved on this device.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/virtual-pet-companion/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/crowdfunding-campaign-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/crowdfunding-campaign-page/1effcee4-f30a-41d0-9082-a13f7701bbdc/shot_desktop.261e62bd8e.webp" width="100%" alt="Crowdfunding Campaign Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
@@ -63,38 +77,24 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/commercial-print-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/aa8d6a06-179f-47eb-864a-877e8178bde4/shot_desktop.dd994abca6.webp" width="100%" alt="Commercial Print Shop Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
-<b><a href="../templates/commercial-print-shop-website">Commercial Print Shop Website</a></b><br>
-<sub>A process-color print shop site with an instant quote calculator that shows its per-unit math on screen.</sub><br>
-<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/commercial-print-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/commercial-print-shop-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/shot_desktop.cb7bf16b09.webp" width="100%" alt="Craft Brewery Taproom Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/craft-brewery-taproom-website">Craft Brewery Taproom Website</a></b><br>
 <sub>A screen-print label-art brewery site with a filterable tap list and a flight builder that pours in code.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/craft-brewery-taproom-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/surf-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/surf-school-website/24ea95fa-762a-4d65-a982-a80ce4f7e6eb/shot_desktop.1d9cf19b18.webp" width="100%" alt="Surf School Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/surf-school-website">Surf School Website</a></b><br>
 <sub>A sun-bleached surf school site with a drawn forecast strip, lesson levels, camps and coaches.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/surf-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/surf-school-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/movie-rating-community/d8c2b3ba-0102-4aef-8833-dfb297b8ccf1/shot_desktop.219ae68ae8.webp" width="100%" alt="Movie Rating Community website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/movie-rating-community">Movie Rating Community</a></b><br>
 <sub>Rate original films, trade thoughtful reviews, and turn your watch history into a taste profile.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/movie-rating-community/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/virtual-pet-companion/a2c27a78-f8c4-45bc-b368-d5668767ab28/shot_desktop.6c453759a7.webp" width="100%" alt="Virtual Pet Companion website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/virtual-pet-companion">Virtual Pet Companion</a></b><br>
-<sub>Care for an original pixel pet, earn coins in mini-games, and unlock outfits saved on this device.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/virtual-pet-companion/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/retro-roller-rink-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/retro-roller-rink-website/0caf2525-f9d6-41e4-a6f1-f7356df0fa14/shot_desktop.5cdc80229f.webp" width="100%" alt="Retro Roller Rink Website website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>

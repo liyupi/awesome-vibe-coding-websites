@@ -62,27 +62,27 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A neighbourhood vet clinic: set SPECIALTY to veterinary care, rewrite the sixteen treatments for vaccinations, dental checks and surgery, and swap the clinic gallery for your consulting rooms and equipment.
-- A physiotherapy practice: set BRAND and CITY, replace the treatment cards with sports injury, back pain and post-surgery rehab, and change the new-patient offer to a first assessment price.
-- A dermatology clinic: keep the calm sage and teal palette, rewrite the team monogram cards with your consultants' credentials, and adjust the FAQ about pain and cost to skin treatments.
-- A freelance web designer building for local health practices: duplicate the template per client, set BRAND, CITY, PHONE and SPECIALTY, and link the booking form to each clinic's own inbox.
+- A neighbourhood vet clinic: set BRAND and SPECIALTY to veterinary care, rewrite the sixteen treatments as vaccinations, dental checks and surgery, and keep the emergency banner pointing at your phone number.
+- A physiotherapy practice: change the treatment cards to sports injury, back pain and post-surgery rehab, replace the aligner feature with a recovery plan section and adjust the payment calculator.
+- A solo dentist building a first site: set BRAND to your own name, use the monogram team card for yourself, and set NEW_PATIENT_OFFER to your real first-visit price.
+- A freelancer pitching clinics: duplicate the template per client, change CITY and PHONE, and swap the gallery photos for each practice's own rooms before sending the demo.
 
 ## FAQ
 
-### How does the booking form on the Dental Clinic Website template work without a server?
-The appointment request form on the Dental Clinic Website template runs entirely in the browser. Visitors pick a reason, choose one of the next fourteen days, select a time slot from chips grouped by morning, afternoon and evening, enter their details and see a confirmation with a reference number. Nothing is sent anywhere, so you connect the form to your own booking system or inbox before going live.
+### Is there a free dental clinic website template I can build with AI?
+Yes. The Dental Clinic Website template on VibeFather is free, and its prompt and DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. You get a two-page site with a booking form, treatment prices and team cards. Commercial or client work needs Pro, which also unlocks the full prompt and the demo source code. You can add it with the command npx vibefather add dental-clinic-website.
 
-### What can I change on the Dental Clinic Website template with the BRAND, CITY and SPECIALTY variables?
-Setting BRAND changes the wordmark, page titles, footer, booking confirmation and FAQ answers, and the care plan name becomes your brand plus Care Plan. CITY appears in the hero eyebrow, titles, address block and footer. SPECIALTY drives the hero eyebrow, titles, treatments, prices, team credentials, FAQ answers and photos, so rewrite those for your practice type.
+### How does the appointment booking form work, and does it send requests anywhere?
+The appointment request form in the Dental Clinic Website template runs entirely in the browser. Visitors pick a reason, choose one of the next fourteen days and a time slot grouped by morning, afternoon and evening, then see a confirmation with a reference number. Nothing is sent to a server. To receive real requests, connect the form to your own booking system or email service, or keep the phone number as the main route.
 
-### Can I use the Dental Clinic Website template for a physiotherapy, veterinary or optometry practice?
-The Dental Clinic Website template suits dentists, physiotherapists, vets, dermatology and optometry practices. Change SPECIALTY to your field, then rewrite the sixteen treatments, price ranges, durations, insurance notes and what-to-expect lists in the content file. Swap the interior photos for your own rooms and equipment, and adjust the team credentials and FAQ answers about pain and cost to match your services.
+### Can I change the treatments, prices and opening hours for my own practice?
+Yes. The Dental Clinic Website template keeps every treatment, price range, duration, insurance note, team member, review, FAQ and opening hour in one content file. You edit that file and the home page and treatments page update together. The treatments page lists sixteen treatments by category, and links from it preselect the reason in the booking form. Change the practice type, town, offer and phone number first, then the prices.
 
-### Is the Dental Clinic Website template free, and what does Pro include?
-The Dental Clinic Website template is free. Its prompt and DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. Commercial and client use needs Pro, which also gives you the full prompt for Pro templates and the source code of the demos. The free template shows the brief, stack and variables publicly, and you can add it with npx vibefather add dental-clinic-website.
+### What should I change first to turn this into a vet or physiotherapy clinic site?
+Start with the five variables: BRAND, CITY, SPECIALTY, NEW_PATIENT_OFFER and PHONE. Then rewrite the treatments, prices, team credentials and FAQ answers for your practice, since the default copy is written for family and cosmetic dentistry. The Dental Clinic Website template also suits physiotherapists, vets, dermatology and optometry practices. Swap the interior photos for your own rooms and keep the photographs free of patients.
 
-### What should I change first when adapting the Dental Clinic Website template to a real clinic?
-Start with the variables: set BRAND, CITY, SPECIALTY, PHONE and NEW_PATIENT_OFFER so the offer, emergency banner, booking panel and footer show your real details. Then edit the treatments, prices, opening hours and team in the single content file, and replace the nine interior photos with your own rooms. Check the emergency banner and booking form on a phone before publishing.
+### Where can I get the dental clinic website template as HTML and CSS or from GitHub?
+The Dental Clinic Website template is built with Vite, React, TypeScript and Tailwind CSS, and builds to static HTML, CSS and JavaScript files in a dist folder that you can host anywhere. You add it to a project with npx vibefather add dental-clinic-website. The source code of the demos comes with Pro. The template is not distributed as a plain HTML and CSS download or through a GitHub repository.
 
 ### How do I build a dental clinic website with AI?
 Copy the prompt from this page or run npx vibefather add dental-clinic-website, replace [BRAND], [CITY], [SPECIALTY] and [NEW_PATIENT_OFFER] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.

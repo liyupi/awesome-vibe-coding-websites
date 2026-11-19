@@ -6,6 +6,20 @@
 
 <table>
 <tr>
+<td colspan="2"><b><a href="../templates/roofing-company-website">Roofing Company Website</a></b> — <sub>A confident charcoal-and-orange contractor site with a roof cost estimator homeowners can actually trust.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/roofing-company-website/fdccef11-0f1f-4aa1-81e0-331e289a53f3/shot_desktop.d6af76005b.webp" width="100%" alt="Roofing Company Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/roofing-company-website/9c05f4e9-0093-4132-a823-835f3af3e7e2/shot_desktop.f045ca8abb.webp" width="100%" alt="Roofing Company Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/car-wash-and-detailing-website">Car Wash and Detailing Website</a></b> — <sub>A glossy dark-mode car wash site with a live membership picker, size-aware pricing and a paint-correction slider.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp" width="100%" alt="Car Wash and Detailing Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/81d6151f-d12a-400b-ac55-33b92e86832a/shot_desktop.0570749bda.webp" width="100%" alt="Car Wash and Detailing Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/industrial-manufacturing-company-website">Industrial Manufacturing Company Website</a></b> — <sub>A precision machine-shop site with spec-sheet capabilities, an equipment table and an RFQ flow that estimates lead time.</sub></td>
 </tr>
 <tr>
@@ -18,13 +32,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/landscaping-and-lawn-care-website/f7217243-3200-4360-b608-ae6bb3995390/shot_desktop.91ecb9baac.webp" width="100%" alt="Landscaping and Lawn Care Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/landscaping-and-lawn-care-website/889cc2f9-852e-471e-b8e4-29766d492634/shot_desktop.6846615f8c.webp" width="100%" alt="Landscaping and Lawn Care Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/car-wash-and-detailing-website">Car Wash and Detailing Website</a></b> — <sub>A glossy dark-mode car wash site with a live membership picker, size-aware pricing and a paint-correction slider.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp" width="100%" alt="Car Wash and Detailing Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/81d6151f-d12a-400b-ac55-33b92e86832a/shot_desktop.0570749bda.webp" width="100%" alt="Car Wash and Detailing Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/property-management-company-website">Property Management Company Website</a></b> — <sub>A two-path property management site: owners get a transparent fee table and income estimator, tenants get listings and a maintenance list.</sub></td>
@@ -55,11 +62,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pet-grooming-and-boarding-website/58ee5dab-a826-42e1-8a77-28937ee0b9c2/shot_desktop.96222c22a5.webp" width="100%" alt="Pet Grooming and Boarding Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/roofing-company-website">Roofing Company Website</a></b> — <sub>A confident charcoal-and-orange contractor site with a roof cost estimator homeowners can actually trust.</sub></td>
+<td colspan="2"><b><a href="../templates/commercial-print-shop-website">Commercial Print Shop Website</a></b> — <sub>A process-color print shop site with an instant quote calculator that shows its per-unit math on screen.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/roofing-company-website/fdccef11-0f1f-4aa1-81e0-331e289a53f3/shot_desktop.d6af76005b.webp" width="100%" alt="Roofing Company Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/roofing-company-website/9c05f4e9-0093-4132-a823-835f3af3e7e2/shot_desktop.f045ca8abb.webp" width="100%" alt="Roofing Company Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/aa8d6a06-179f-47eb-864a-877e8178bde4/shot_desktop.dd994abca6.webp" width="100%" alt="Commercial Print Shop Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/14d1e0ad-7f87-4e6f-afb3-fd05c9ab3151/shot_desktop.a25a7e5730.webp" width="100%" alt="Commercial Print Shop Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/used-car-dealership-website">Used Car Dealership Website</a></b> — <sub>A modern graphite-and-yellow dealership site with real inventory filters, a payment calculator and three-car compare.</sub></td>
@@ -130,13 +137,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/bridal-boutique-website/9025942f-90fc-445a-b6a9-7487dc7bf9c7/shot_desktop.f92be03324.webp" width="100%" alt="Bridal Boutique Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/bridal-boutique-website/8c1a3a7f-2bc8-4233-8fb0-d922de9c297f/shot_desktop.c2dccfa300.webp" width="100%" alt="Bridal Boutique Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/commercial-print-shop-website">Commercial Print Shop Website</a></b> — <sub>A process-color print shop site with an instant quote calculator that shows its per-unit math on screen.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/aa8d6a06-179f-47eb-864a-877e8178bde4/shot_desktop.dd994abca6.webp" width="100%" alt="Commercial Print Shop Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/14d1e0ad-7f87-4e6f-afb3-fd05c9ab3151/shot_desktop.a25a7e5730.webp" width="100%" alt="Commercial Print Shop Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/craft-brewery-taproom-website">Craft Brewery Taproom Website</a></b> — <sub>A screen-print label-art brewery site with a filterable tap list and a flight builder that pours in code.</sub></td>

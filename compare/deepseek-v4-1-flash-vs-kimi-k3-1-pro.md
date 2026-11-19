@@ -62,6 +62,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/typing-speed-race-game/deae1ec5-aea3-4056-97c0-d7bc34dd0998/shot_desktop.fddeee1ac1.webp" width="100%" alt="Typing Speed Race Game built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/3d-cathedral-light-tour">3D Cathedral Light Tour</a></b> — <sub>Walk through a procedural Gothic nave and reshape its colored daylight, one architectural stop at a time.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-cathedral-light-tour/841731bf-c0a3-4abc-8ff8-c9731a48ffe1/shot_desktop.007ede3f1e.webp" width="100%" alt="3D Cathedral Light Tour built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-cathedral-light-tour/d1b59aae-d0ff-48cc-b4d6-e62e57d5e7e5/shot_desktop.222ec0b0b4.webp" width="100%" alt="3D Cathedral Light Tour built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/author-website">Author Website</a></b> — <sub>A warm literary home for novels, excerpts, events and reader letters.</sub></td>
 </tr>
 <tr>
@@ -76,11 +83,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-product-tour-page/cf555c73-30a6-4c58-9e37-1c01a352e7dc/shot_desktop.edf943e7fa.webp" width="100%" alt="Interactive Product Tour Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/3d-cathedral-light-tour">3D Cathedral Light Tour</a></b> — <sub>Walk through a procedural Gothic nave and reshape its colored daylight, one architectural stop at a time.</sub></td>
+<td colspan="2"><b><a href="../templates/personal-budget-dashboard">Personal Budget Dashboard</a></b> — <sub>Track spending, search transactions, and adjust goals in a warm budget workspace saved in your browser.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-cathedral-light-tour/841731bf-c0a3-4abc-8ff8-c9731a48ffe1/shot_desktop.007ede3f1e.webp" width="100%" alt="3D Cathedral Light Tour built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-cathedral-light-tour/d1b59aae-d0ff-48cc-b4d6-e62e57d5e7e5/shot_desktop.222ec0b0b4.webp" width="100%" alt="3D Cathedral Light Tour built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/personal-budget-dashboard/6e63d01a-4fd8-42a9-a2d2-7aaa5491a74d/shot_desktop.03f27fbc8b.webp" width="100%" alt="Personal Budget Dashboard built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/personal-budget-dashboard/32da5ac6-1443-4006-82fb-157c5b37bb13/shot_desktop.3f483f59c3.webp" width="100%" alt="Personal Budget Dashboard built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/cybersecurity-saas-landing-page">Cybersecurity SaaS Landing Page</a></b> — <sub>A dark security landing page with an animated threat map, product tabs, trust controls, and a demo form.</sub></td>
@@ -90,11 +97,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/cybersecurity-saas-landing-page/26d457ce-90e7-418d-847a-7d3a67be9d7d/shot_desktop.a9208b3cfb.webp" width="100%" alt="Cybersecurity SaaS Landing Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/personal-budget-dashboard">Personal Budget Dashboard</a></b> — <sub>Track spending, search transactions, and adjust goals in a warm budget workspace saved in your browser.</sub></td>
+<td colspan="2"><b><a href="../templates/single-property-listing-page">Single Property Listing Page</a></b> — <sub>A photo-led listing with room hotspots, a mortgage estimator, and open-house RSVP.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/personal-budget-dashboard/6e63d01a-4fd8-42a9-a2d2-7aaa5491a74d/shot_desktop.03f27fbc8b.webp" width="100%" alt="Personal Budget Dashboard built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/personal-budget-dashboard/32da5ac6-1443-4006-82fb-157c5b37bb13/shot_desktop.3f483f59c3.webp" width="100%" alt="Personal Budget Dashboard built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/single-property-listing-page/e2afeeef-c3b1-42a5-9ac6-6b91879e7c93/shot_desktop.04880a31c3.webp" width="100%" alt="Single Property Listing Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/single-property-listing-page/1c450602-4ae5-433b-a46f-6cffc55c8d2b/shot_desktop.664e928b24.webp" width="100%" alt="Single Property Listing Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/music-streaming-app-with-lyrics">Music Streaming App with Lyrics</a></b> — <sub>A complete listening room with original previews, synchronized lyrics, charts, comments, and a persistent queue.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-streaming-app-with-lyrics/3a80162e-4f64-4ae5-b977-65c0a3e1d648/shot_desktop.95d545c5bc.webp" width="100%" alt="Music Streaming App with Lyrics built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-streaming-app-with-lyrics/61089e68-59ef-473b-8b45-62b8846d9dfd/shot_desktop.821db1147e.webp" width="100%" alt="Music Streaming App with Lyrics built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/video-production-company-website">Video Production Company Website</a></b> — <sub>A cinematic studio site with a still-frame reel, filterable work, and a practical project brief.</sub></td>
@@ -125,18 +139,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/painter-portfolio-and-print-shop/4679ba66-293e-4438-baa9-8729f597243a/shot_desktop.ca2292e1ff.webp" width="100%" alt="Painter Portfolio and Print Shop built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/jewelry-online-store">Jewelry Online Store</a></b> — <sub>An editorial jewelry shop with filters, personalization, gift wrapping and a complete client-side checkout.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jewelry-online-store/2faa4d2f-ef37-45bc-8f7b-f0dc556194c9/shot_desktop.11c5fd0d78.webp" width="100%" alt="Jewelry Online Store built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jewelry-online-store/a676e73c-e9fe-4cbb-a24e-1594a6219efc/shot_desktop.77a1bb727c.webp" width="100%" alt="Jewelry Online Store built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/paper-lantern-festival-page">Paper Lantern Festival Page</a></b> — <sub>Write a private wish, fold a glowing paper lantern, and release it above an illustrated midnight river.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/paper-lantern-festival-page/ed463aa5-b8c5-45af-9ba2-12afaf73374d/shot_desktop.a4fc458d52.webp" width="100%" alt="Paper Lantern Festival Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/paper-lantern-festival-page/6e76915f-c856-4ff1-b8d8-20d3d0c08887/shot_desktop.fe859837ab.webp" width="100%" alt="Paper Lantern Festival Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/jewelry-online-store">Jewelry Online Store</a></b> — <sub>An editorial jewelry shop with filters, personalization, gift wrapping and a complete client-side checkout.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jewelry-online-store/2faa4d2f-ef37-45bc-8f7b-f0dc556194c9/shot_desktop.11c5fd0d78.webp" width="100%" alt="Jewelry Online Store built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jewelry-online-store/a676e73c-e9fe-4cbb-a24e-1594a6219efc/shot_desktop.77a1bb727c.webp" width="100%" alt="Jewelry Online Store built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/daily-tarot-reading-page">Daily Tarot Reading Page</a></b> — <sub>Shuffle an original deck, reveal a daily reading, and save a shareable card.</sub></td>
@@ -153,11 +167,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/fd13cc6e-9f38-4665-bfa5-7b9d5de395ed/shot_desktop.187eacb401.webp" width="100%" alt="Ink Wash Mountain Adventure built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/music-streaming-app-with-lyrics">Music Streaming App with Lyrics</a></b> — <sub>A complete listening room with original previews, synchronized lyrics, charts, comments, and a persistent queue.</sub></td>
+<td colspan="2"><b><a href="../templates/pizza-ordering-website">Pizza Ordering Website</a></b> — <sub>A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-streaming-app-with-lyrics/3a80162e-4f64-4ae5-b977-65c0a3e1d648/shot_desktop.95d545c5bc.webp" width="100%" alt="Music Streaming App with Lyrics built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-streaming-app-with-lyrics/61089e68-59ef-473b-8b45-62b8846d9dfd/shot_desktop.821db1147e.webp" width="100%" alt="Music Streaming App with Lyrics built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pizza-ordering-website/a138b614-b744-4f7f-bbe1-ee302165c998/shot_desktop.17e479b90c.webp" width="100%" alt="Pizza Ordering Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pizza-ordering-website/88827dac-ff0f-41b0-8fed-61e03c69adc1/shot_desktop.91bdce99cc.webp" width="100%" alt="Pizza Ordering Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/parametric-lamp-designer">Parametric Lamp Designer</a></b> — <sub>Shape a glowing lattice lamp with live 3D controls, curated presets, and a downloadable spec sheet.</sub></td>
@@ -179,13 +193,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/q-a-community-website/22965c0f-b798-44b5-9ff0-42e846815492/shot_desktop.151a2cce62.webp" width="100%" alt="Q&amp;A Community Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/q-a-community-website/03153e85-e460-4f5d-947d-9f2f5a7d01d0/shot_desktop.f859dbb418.webp" width="100%" alt="Q&amp;A Community Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/single-property-listing-page">Single Property Listing Page</a></b> — <sub>A photo-led listing with room hotspots, a mortgage estimator, and open-house RSVP.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/single-property-listing-page/e2afeeef-c3b1-42a5-9ac6-6b91879e7c93/shot_desktop.04880a31c3.webp" width="100%" alt="Single Property Listing Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/single-property-listing-page/1c450602-4ae5-433b-a46f-6cffc55c8d2b/shot_desktop.664e928b24.webp" width="100%" alt="Single Property Listing Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/tattoo-studio-website">Tattoo Studio Website</a></b> — <sub>A dark editorial studio site with artist portfolios, SVG flash, consultations, and aftercare.</sub></td>
@@ -237,6 +244,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-exploded-view-product-showcase/695e50c5-6ec9-49bc-a87a-75221a040b5a/shot_desktop.83fbf6db5b.webp" width="100%" alt="3D Exploded View Product Showcase built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/constellation-story-map">Constellation Story Map</a></b> — <sub>Drag through an illustrated night, trace old myths, and connect a constellation of your own.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/constellation-story-map/dfe9bea3-4ac1-4a6d-adc7-997df4fbb01e/shot_desktop.47f30a5268.webp" width="100%" alt="Constellation Story Map built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/constellation-story-map/474c16c5-a9cf-4409-9d3e-befcbae59603/shot_desktop.69d41d47e7.webp" width="100%" alt="Constellation Story Map built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/jet-engine-interactive-explainer">Jet Engine Interactive Explainer</a></b> — <sub>A scroll-driven 3D turbofan with cutaways, relative rotor speeds, live airflow, and a working throttle.</sub></td>
 </tr>
 <tr>
@@ -244,11 +258,25 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jet-engine-interactive-explainer/c3f78554-75a3-4b98-a3b3-d3091cea8c27/shot_desktop.b11f0a0591.webp" width="100%" alt="Jet Engine Interactive Explainer built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/food-delivery-app">Food Delivery App</a></b> — <sub>Browse local kitchens, build a minimum-order basket, and follow a simulated courier to your door.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/food-delivery-app/298f35b0-a0c9-4f22-ab75-0f3dc5f3ae16/shot_desktop.179bf91b82.webp" width="100%" alt="Food Delivery App built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/food-delivery-app/cf8aaf90-b408-438c-a978-f184b6fafca7/shot_desktop.1dc1f70e07.webp" width="100%" alt="Food Delivery App built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/ux-designer-case-study-portfolio">UX Designer Case Study Portfolio</a></b> — <sub>A process-led UX portfolio with long-form case studies, code-drawn artifacts, and clear project outcomes.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ux-designer-case-study-portfolio/67bc1f66-55d1-4a22-a92e-4ecbf10d48da/shot_desktop.63a51b0a12.webp" width="100%" alt="UX Designer Case Study Portfolio built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ux-designer-case-study-portfolio/d98c9cd5-3c35-49ef-b8f1-e7259817ea29/shot_desktop.bd206106cf.webp" width="100%" alt="UX Designer Case Study Portfolio built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/virtual-pet-companion">Virtual Pet Companion</a></b> — <sub>Care for an original pixel pet, earn coins in mini-games, and unlock outfits saved on this device.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/virtual-pet-companion/00eabf65-540a-46aa-a6ad-5d0b14e25ad1/shot_desktop.ec296b346f.webp" width="100%" alt="Virtual Pet Companion built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/virtual-pet-companion/a2c27a78-f8c4-45bc-b368-d5668767ab28/shot_desktop.6c453759a7.webp" width="100%" alt="Virtual Pet Companion built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/short-video-feed-app">Short Video Feed App</a></b> — <sub>A cinematic vertical feed with snap navigation, motion stories and tactile social controls.</sub></td>
@@ -263,13 +291,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/car-rental-booking-website/32649a83-3ecf-42d4-8410-1964aec1e57b/shot_desktop.519a55de0a.webp" width="100%" alt="Car Rental Booking Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/car-rental-booking-website/c9bf72c6-58e7-4ffc-ae9c-baed276cffb0/shot_desktop.d9f3b0ff01.webp" width="100%" alt="Car Rental Booking Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/constellation-story-map">Constellation Story Map</a></b> — <sub>Drag through an illustrated night, trace old myths, and connect a constellation of your own.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/constellation-story-map/dfe9bea3-4ac1-4a6d-adc7-997df4fbb01e/shot_desktop.47f30a5268.webp" width="100%" alt="Constellation Story Map built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/constellation-story-map/474c16c5-a9cf-4409-9d3e-befcbae59603/shot_desktop.69d41d47e7.webp" width="100%" alt="Constellation Story Map built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/telehealth-app-landing-page">Telehealth App Landing Page</a></b> — <sub>A calm telehealth page with interactive booking, video visits, clear pricing, and privacy-first details.</sub></td>
@@ -328,13 +349,6 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/personality-quiz-funnel-page/fb03588a-8416-40f4-bf26-f74ef03467b2/shot_desktop.e8d5202413.webp" width="100%" alt="Personality Quiz Funnel Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/food-delivery-app">Food Delivery App</a></b> — <sub>Browse local kitchens, build a minimum-order basket, and follow a simulated courier to your door.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/food-delivery-app/298f35b0-a0c9-4f22-ab75-0f3dc5f3ae16/shot_desktop.179bf91b82.webp" width="100%" alt="Food Delivery App built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/food-delivery-app/cf8aaf90-b408-438c-a978-f184b6fafca7/shot_desktop.1dc1f70e07.webp" width="100%" alt="Food Delivery App built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/live-shopping-stream-page">Live Shopping Stream Page</a></b> — <sub>A cinematic live-shopping simulation with timed products, audience chat, coupons and a working cart.</sub></td>
 </tr>
 <tr>
@@ -375,13 +389,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/private-tutor-website/b79b8198-111f-4212-855b-bacbf2f9339e/shot_desktop.43e196d596.webp" width="100%" alt="Private Tutor Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/private-tutor-website/ee8ccfb1-719e-4bd6-a57b-f9175932b310/shot_desktop.bb4fcc7e73.webp" width="100%" alt="Private Tutor Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/virtual-pet-companion">Virtual Pet Companion</a></b> — <sub>Care for an original pixel pet, earn coins in mini-games, and unlock outfits saved on this device.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/virtual-pet-companion/00eabf65-540a-46aa-a6ad-5d0b14e25ad1/shot_desktop.ec296b346f.webp" width="100%" alt="Virtual Pet Companion built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/virtual-pet-companion/a2c27a78-f8c4-45bc-b368-d5668767ab28/shot_desktop.6c453759a7.webp" width="100%" alt="Virtual Pet Companion built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/fireworks-show-maker">Fireworks Show Maker</a></b> — <sub>Compose, preview, and share a luminous fireworks show above an original city skyline.</sub></td>
@@ -487,13 +494,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/mortgage-broker-website/7b401107-275c-4927-85d5-4ee7388726df/shot_desktop.0a95807b68.webp" width="100%" alt="Mortgage Broker Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/mortgage-broker-website/8c9b2a6d-5d28-4ec6-b6f4-1260793cc7f4/shot_desktop.f7a15e778b.webp" width="100%" alt="Mortgage Broker Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/pizza-ordering-website">Pizza Ordering Website</a></b> — <sub>A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pizza-ordering-website/a138b614-b744-4f7f-bbe1-ee302165c998/shot_desktop.17e479b90c.webp" width="100%" alt="Pizza Ordering Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pizza-ordering-website/88827dac-ff0f-41b0-8fed-61e03c69adc1/shot_desktop.91bdce99cc.webp" width="100%" alt="Pizza Ordering Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 </table>
 

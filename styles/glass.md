@@ -49,30 +49,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/light-beam-lens-puzzle-game/3258c5c0-5ac5-4839-b604-2aacb16b271e/shot_desktop.6005e92553.webp" width="100%" alt="Light Beam Lens Puzzle Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/light-beam-lens-puzzle-game">Light Beam Lens Puzzle Game</a></b><br>
-<sub>A calm 3D optics puzzle with twelve handcrafted levels, glowing crystals, and thoughtful controls.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/light-beam-lens-puzzle-game/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/shot_desktop.4d791b0e09.webp" width="100%" alt="Neon Snake 3D Game website template — live demo built by Grok 4.7"></a><br>
 <b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
 <sub>Steer a glowing snake on a dark grid, and take beads that pulse with a short beat.</sub><br>
 <sub>Grok 4.7 · <a href="https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/neon-snake-3d-game/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/731bb682-2ef1-44aa-966c-83d9eb71690b/shot_desktop.d069d29e32.webp" width="100%" alt="AI Agent Startup Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/ai-agent-startup-landing-page">AI Agent Startup Landing Page</a></b> <sup>PRO</sup><br>
-<sub>A dark agent-platform landing page where task cards travel a live node graph and steps pin on scroll.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ai-agent-startup-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/5f787637-e0bf-460e-aeb8-9abdb3b13dc7/shot_desktop.52b18247a0.webp" width="100%" alt="Mars Colony Builder Game website template — live demo built by Grok 4.7"></a><br>
-<b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
-<sub>Place four structures, ride the dust storms, and house 50 colonists.</sub><br>
-<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/mars-colony-builder-game/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/light-beam-lens-puzzle-game/3258c5c0-5ac5-4839-b604-2aacb16b271e/shot_desktop.6005e92553.webp" width="100%" alt="Light Beam Lens Puzzle Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/light-beam-lens-puzzle-game">Light Beam Lens Puzzle Game</a></b><br>
+<sub>A calm 3D optics puzzle with twelve handcrafted levels, glowing crystals, and thoughtful controls.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/light-beam-lens-puzzle-game/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -81,6 +67,20 @@
 <b><a href="../templates/space-dogfight-arcade-game">Space Dogfight Arcade Game</a></b><br>
 <sub>Steer a low-poly fighter, lock drones, and last as long as the shield holds.</sub><br>
 <sub>Grok 4.7 · <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/space-dogfight-arcade-game/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/731bb682-2ef1-44aa-966c-83d9eb71690b/shot_desktop.d069d29e32.webp" width="100%" alt="AI Agent Startup Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/ai-agent-startup-landing-page">AI Agent Startup Landing Page</a></b> <sup>PRO</sup><br>
+<sub>A dark agent-platform landing page where task cards travel a live node graph and steps pin on scroll.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ai-agent-startup-landing-page/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/5f787637-e0bf-460e-aeb8-9abdb3b13dc7/shot_desktop.52b18247a0.webp" width="100%" alt="Mars Colony Builder Game website template — live demo built by Grok 4.7"></a><br>
+<b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
+<sub>Place four structures, ride the dust storms, and house 50 colonists.</sub><br>
+<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/mars-colony-builder-game/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/interactive-3d-stream-diorama/90bc9ccc-83e1-4d5b-8a38-5a5a30a7103f/shot_desktop.fe90e1314d.webp" width="100%" alt="Interactive 3D Stream Diorama website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
