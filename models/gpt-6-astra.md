@@ -14,28 +14,28 @@
 <sub>Generative print studio · Codex · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/liquid-glass-product-page?case=cc1b4850-ba96-4073-aa05-ec1ebefa21fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp" width="100%" alt="Liquid Glass Product Page built by GPT-6 Astra in Codex"></a><br>
-<b><a href="../templates/liquid-glass-product-page">Liquid Glass Product Page</a></b> <sup>PRO</sup><br>
-<sub>Glass room speaker · Codex · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=cc1b4850-ba96-4073-aa05-ec1ebefa21fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp" width="100%" alt="Solar System 3D Explainer built by GPT-6 Astra in Codex"></a><br>
 <b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> <sup>PRO</sup><br>
 <sub>The Solar System · Codex · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/eec64383-7a25-4814-b3e8-a20916f5b650/shot_desktop.f97fcc04d9.webp" width="100%" alt="Retro Desktop OS Portfolio built by GPT-6 Astra in Codex"></a><br>
-<b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
-<sub>Motion designer portfolio · Codex · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/liquid-glass-product-page?case=cc1b4850-ba96-4073-aa05-ec1ebefa21fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp" width="100%" alt="Liquid Glass Product Page built by GPT-6 Astra in Codex"></a><br>
+<b><a href="../templates/liquid-glass-product-page">Liquid Glass Product Page</a></b> <sup>PRO</sup><br>
+<sub>Glass room speaker · Codex · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=cc1b4850-ba96-4073-aa05-ec1ebefa21fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/boutique-hotel-website/dda42e68-7c76-4f0a-9c76-cb41698e20e4/shot_desktop.76a7a80d1b.webp" width="100%" alt="Boutique Hotel Website built by GPT-6 Astra in Codex"></a><br>
 <b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> <sup>PRO</sup><br>
 <sub>Coastal boutique hotel · Codex · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/eec64383-7a25-4814-b3e8-a20916f5b650/shot_desktop.f97fcc04d9.webp" width="100%" alt="Retro Desktop OS Portfolio built by GPT-6 Astra in Codex"></a><br>
+<b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
+<sub>Motion designer portfolio · Codex · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface built by GPT-6 Astra in Codex"></a><br>

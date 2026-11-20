@@ -35,30 +35,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/custom-cake-bakery-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/custom-cake-bakery-website/e89e1b5d-92b0-4059-9d5a-926b990fc861/shot_desktop.3a04981ae5.webp" width="100%" alt="Custom Cake Bakery Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/custom-cake-bakery-website">Custom Cake Bakery Website</a></b><br>
-<sub>Design a celebration cake, see the price, and prepare a pickup request in one warm, interactive bakery site.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/custom-cake-bakery-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/custom-cake-bakery-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-product-configurator-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/46e3b8bb-8076-46ea-b84c-06e524014917/shot_desktop.2a5935dd45.webp" width="100%" alt="3D Product Configurator Page website template — live demo built by Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/3d-product-configurator-page">3D Product Configurator Page</a></b> <sup>PRO</sup><br>
 <sub>Drag a code-built 3D headphone, pick finish, cushions and engraving, then scroll to take it apart.</sub><br>
 <sub>Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/3d-product-configurator-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/3d-product-configurator-page/prompt.md">Prompt</a></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/custom-cake-bakery-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/custom-cake-bakery-website/e89e1b5d-92b0-4059-9d5a-926b990fc861/shot_desktop.3a04981ae5.webp" width="100%" alt="Custom Cake Bakery Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/custom-cake-bakery-website">Custom Cake Bakery Website</a></b><br>
+<sub>Design a celebration cake, see the price, and prepare a pickup request in one warm, interactive bakery site.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/custom-cake-bakery-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/custom-cake-bakery-website/prompt.md">Prompt</a></sub>
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/e-commerce-admin-dashboard">E-commerce Admin Dashboard</a></b><br>
-<sub>Clean store-admin app: KPI cards, a hand-rolled revenue chart, orders table with filters, product editor and inventory alerts.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/e-commerce-admin-dashboard/prompt.md">Prompt</a></sub>
-</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/marketplace-shopping-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/marketplace-shopping-app/5014bb9f-827d-4a36-86a9-cef237424383/shot_desktop.a02552204e.webp" width="100%" alt="Marketplace Shopping App website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/marketplace-shopping-app">Marketplace Shopping App</a></b> <sup>PRO</sup><br>
 <sub>A lively multi-store marketplace with connected product, coupon, and cart interactions.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/marketplace-shopping-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/marketplace-shopping-app/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/e-commerce-admin-dashboard">E-commerce Admin Dashboard</a></b><br>
+<sub>Clean store-admin app: KPI cards, a hand-rolled revenue chart, orders table with filters, product editor and inventory alerts.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/e-commerce-admin-dashboard/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -153,18 +153,18 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/jewelry-online-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/jewelry-online-store/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp" width="100%" alt="Used Car Dealership Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
-<b><a href="../templates/used-car-dealership-website">Used Car Dealership Website</a></b> <sup>PRO</sup><br>
-<sub>A modern graphite-and-yellow dealership site with real inventory filters, a payment calculator and three-car compare.</sub><br>
-<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/used-car-dealership-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/pizza-ordering-website/88827dac-ff0f-41b0-8fed-61e03c69adc1/shot_desktop.91bdce99cc.webp" width="100%" alt="Pizza Ordering Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/pizza-ordering-website">Pizza Ordering Website</a></b><br>
 <sub>A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/pizza-ordering-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp" width="100%" alt="Used Car Dealership Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/used-car-dealership-website">Used Car Dealership Website</a></b> <sup>PRO</sup><br>
+<sub>A modern graphite-and-yellow dealership site with real inventory filters, a payment calculator and three-car compare.</sub><br>
+<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/used-car-dealership-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/food-delivery-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/food-delivery-app/cf8aaf90-b408-438c-a978-f184b6fafca7/shot_desktop.1dc1f70e07.webp" width="100%" alt="Food Delivery App website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

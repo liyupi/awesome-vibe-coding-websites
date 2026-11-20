@@ -13,20 +13,6 @@
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/webgl-gradient-saas-landing-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-product-tour-page/cf555c73-30a6-4c58-9e37-1c01a352e7dc/shot_desktop.edf943e7fa.webp" width="100%" alt="Interactive Product Tour Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/interactive-product-tour-page">Interactive Product Tour Page</a></b> <sup>PRO</sup><br>
-<sub>A guided SaaS tour with chapter tabs, interactive hotspots, autoplay, and a polished code-drawn app.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-product-tour-page/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/cybersecurity-saas-landing-page/26d457ce-90e7-418d-847a-7d3a67be9d7d/shot_desktop.a9208b3cfb.webp" width="100%" alt="Cybersecurity SaaS Landing Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/cybersecurity-saas-landing-page">Cybersecurity SaaS Landing Page</a></b><br>
-<sub>A dark security landing page with an animated threat map, product tabs, trust controls, and a demo form.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/cybersecurity-saas-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ev-charging-network-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ev-charging-network-website/807b4d36-1963-44e1-a401-0f11eccd36f2/shot_desktop.78695d254b.webp" width="100%" alt="EV Charging Network Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/ev-charging-network-website">EV Charging Network Website</a></b><br>
 <sub>A dark technical EV charging site with a filterable station map, pricing and a host form.</sub><br>
@@ -39,6 +25,20 @@
 <b><a href="../templates/ai-image-generator-landing-page">AI Image Generator Landing Page</a></b><br>
 <sub>A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ai-image-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-image-generator-landing-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-product-tour-page/cf555c73-30a6-4c58-9e37-1c01a352e7dc/shot_desktop.edf943e7fa.webp" width="100%" alt="Interactive Product Tour Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/interactive-product-tour-page">Interactive Product Tour Page</a></b> <sup>PRO</sup><br>
+<sub>A guided SaaS tour with chapter tabs, interactive hotspots, autoplay, and a polished code-drawn app.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-product-tour-page/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/cybersecurity-saas-landing-page/26d457ce-90e7-418d-847a-7d3a67be9d7d/shot_desktop.a9208b3cfb.webp" width="100%" alt="Cybersecurity SaaS Landing Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/cybersecurity-saas-landing-page">Cybersecurity SaaS Landing Page</a></b><br>
+<sub>A dark security landing page with an animated threat map, product tabs, trust controls, and a demo form.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/cybersecurity-saas-landing-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/oatmeal/338c0197-e778-41ef-b62b-8633e8214053/shot_desktop.1081a0920f.webp" width="100%" alt="Bento Grid SaaS Landing Page website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>

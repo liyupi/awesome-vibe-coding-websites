@@ -20,18 +20,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/y2k-chrome-fashion-drop-page/b06af3eb-fb53-4fcb-8638-8352264b2366/shot_desktop.d549dc4584.webp" width="100%" alt="Y2K Chrome Fashion Drop Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/3d-photo-gallery">3D Photo Gallery</a></b> — <sub>An endless 3D corridor of framed photographs you walk through, with rooms, a lightbox and full credits.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-photo-gallery/bb1823f3-6052-4734-9df0-39a226355199/shot_desktop.353744dcc5.webp" width="100%" alt="3D Photo Gallery built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-photo-gallery/3acaa987-5182-4c2f-aa45-ceb89403a5de/shot_desktop.025b5c2cd1.webp" width="100%" alt="3D Photo Gallery built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/webgl-gradient-saas-landing-page">WebGL Gradient SaaS Landing Page</a></b> — <sub>Bright SaaS landing page with a cursor-reactive WebGL gradient hero and floating code-drawn product panels.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/1b3140e8-b296-4551-9fb2-bc60de751b4f/shot_desktop.a80541f05b.webp" width="100%" alt="WebGL Gradient SaaS Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/c5f7014e-6d01-4bfa-93c7-92bbe64893d9/shot_desktop.5bec1bfb24.webp" width="100%" alt="WebGL Gradient SaaS Landing Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/3d-photo-gallery">3D Photo Gallery</a></b> — <sub>An endless 3D corridor of framed photographs you walk through, with rooms, a lightbox and full credits.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-photo-gallery/bb1823f3-6052-4734-9df0-39a226355199/shot_desktop.353744dcc5.webp" width="100%" alt="3D Photo Gallery built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-photo-gallery/3acaa987-5182-4c2f-aa45-ceb89403a5de/shot_desktop.025b5c2cd1.webp" width="100%" alt="3D Photo Gallery built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/interactive-3d-globe-travel-journal">Interactive 3D Globe Travel Journal</a></b> — <sub>A travel writer's journal where routes arc across a dotted 3D globe as readers scroll from stop to stop.</sub></td>
@@ -55,11 +55,25 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kinetic-typography-portfolio/ea4661ec-3a34-4021-9c13-d929ecec85ea/shot_desktop.8bd8fef2b7.webp" width="100%" alt="Kinetic Typography Portfolio built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> — <sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/shot_desktop.72d6d6d017.webp" width="100%" alt="Solar System 3D Explainer built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/248f7a6f-7d72-46f6-bf19-a842a2442f20/shot_desktop.f66964e52f.webp" width="100%" alt="Solar System 3D Explainer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/music-festival-website">Music Festival Website</a></b> — <sub>A three-page festival site with a sound-reactive hero, filterable line-up, illustrated map and ticket table.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-festival-website/811158fe-3a14-47f4-a6cb-1d81a9ba99c0/shot_desktop.edcfa6a3a9.webp" width="100%" alt="Music Festival Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-festival-website/a0e2ad30-e1dd-4963-a051-0f24e9543ff7/shot_desktop.bbf4782939.webp" width="100%" alt="Music Festival Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/liquid-glass-product-page">Liquid Glass Product Page</a></b> — <sub>A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/shot_desktop.c241f4a425.webp" width="100%" alt="Liquid Glass Product Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/2f932c79-1b6f-4009-9a5a-53ef75e7eb86/shot_desktop.dd92aa998d.webp" width="100%" alt="Liquid Glass Product Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/music-theory-interactive-lesson">Music Theory Interactive Lesson</a></b> — <sub>Press a key, hear the interval, watch the theory light up: a playable lesson on one long page.</sub></td>
@@ -81,20 +95,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/4e8dfefa-b5b5-4349-b33f-ecf48bd92886/shot_desktop.70a45f0b69.webp" width="100%" alt="Infinite Canvas Moodboard built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/25f3132f-88da-4688-86b4-90b12906fb31/shot_desktop.b13a37fe91.webp" width="100%" alt="Infinite Canvas Moodboard built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/liquid-glass-product-page">Liquid Glass Product Page</a></b> — <sub>A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/shot_desktop.c241f4a425.webp" width="100%" alt="Liquid Glass Product Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/2f932c79-1b6f-4009-9a5a-53ef75e7eb86/shot_desktop.dd92aa998d.webp" width="100%" alt="Liquid Glass Product Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> — <sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/shot_desktop.72d6d6d017.webp" width="100%" alt="Solar System 3D Explainer built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/248f7a6f-7d72-46f6-bf19-a842a2442f20/shot_desktop.f66964e52f.webp" width="100%" alt="Solar System 3D Explainer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/boxing-and-strength-gym-website">Boxing and Strength Gym Website</a></b> — <sub>Gritty two-page gym site with a filterable class timetable, pricing toggle and free-trial booking form.</sub></td>
@@ -139,6 +139,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-human-heart-works/65ef426f-9f72-4f45-8338-84b4b54c9fec/shot_desktop.dfe6c2fa94.webp" width="100%" alt="How the Human Heart Works built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/ai-image-generator-landing-page">AI Image Generator Landing Page</a></b> — <sub>A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/ad255b62-71d1-4921-9d6b-f983931801d8/shot_desktop.3dbef1625c.webp" width="100%" alt="AI Image Generator Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/e72e4b30-2d6f-4086-91a9-2b73f043c8cf/shot_desktop.77e2a323f0.webp" width="100%" alt="AI Image Generator Landing Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/product-launch-keynote-slides">Product Launch Keynote Slides</a></b> — <sub>A 14-slide launch keynote on true black, where the product and key numbers glide from slide to slide.</sub></td>
 </tr>
 <tr>
@@ -153,11 +160,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/coastal-real-estate-agency-website/e90efbec-5653-479d-9e99-8708929ea181/shot_desktop.ee03589e7f.webp" width="100%" alt="Coastal Real Estate Agency Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/ai-image-generator-landing-page">AI Image Generator Landing Page</a></b> — <sub>A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.</sub></td>
+<td colspan="2"><b><a href="../templates/how-large-language-models-work">How Large Language Models Work</a></b> — <sub>A scrolling explainer that shows, step by step, how a language model chooses the next word.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/ad255b62-71d1-4921-9d6b-f983931801d8/shot_desktop.3dbef1625c.webp" width="100%" alt="AI Image Generator Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/e72e4b30-2d6f-4086-91a9-2b73f043c8cf/shot_desktop.77e2a323f0.webp" width="100%" alt="AI Image Generator Landing Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/a9e9d1f1-f3ec-483c-9d84-aadf37fce515/shot_desktop.961761ed90.webp" width="100%" alt="How Large Language Models Work built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b> — <sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub></td>
@@ -200,13 +207,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/358dff4a-4625-4046-8601-4e6d1fe10b5e/shot_desktop.e88877d996.webp" width="100%" alt="Annual Report Data Story built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/53661be3-9259-42a3-a6e2-f280aa2c5f20/shot_desktop.11f7c3fd05.webp" width="100%" alt="Annual Report Data Story built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/how-large-language-models-work">How Large Language Models Work</a></b> — <sub>A scrolling explainer that shows, step by step, how a language model chooses the next word.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/a9e9d1f1-f3ec-483c-9d84-aadf37fce515/shot_desktop.961761ed90.webp" width="100%" alt="How Large Language Models Work built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/dark-developer-tool-launch-page">Dark Developer Tool Launch Page</a></b> — <sub>Dark CLI launch page with a typing terminal, streaming diff comments, a bar race and a ? shortcut overlay.</sub></td>

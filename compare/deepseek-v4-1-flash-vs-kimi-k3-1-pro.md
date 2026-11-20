@@ -139,6 +139,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/painter-portfolio-and-print-shop/4679ba66-293e-4438-baa9-8729f597243a/shot_desktop.ca2292e1ff.webp" width="100%" alt="Painter Portfolio and Print Shop built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/jet-engine-interactive-explainer">Jet Engine Interactive Explainer</a></b> — <sub>A scroll-driven 3D turbofan with cutaways, relative rotor speeds, live airflow, and a working throttle.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jet-engine-interactive-explainer/895eb53b-d7ef-4c97-b7b7-4e01fa6d12ea/shot_desktop.d28be4b2c6.webp" width="100%" alt="Jet Engine Interactive Explainer built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jet-engine-interactive-explainer/c3f78554-75a3-4b98-a3b3-d3091cea8c27/shot_desktop.b11f0a0591.webp" width="100%" alt="Jet Engine Interactive Explainer built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/paper-lantern-festival-page">Paper Lantern Festival Page</a></b> — <sub>Write a private wish, fold a glowing paper lantern, and release it above an illustrated midnight river.</sub></td>
 </tr>
 <tr>
@@ -153,6 +160,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jewelry-online-store/a676e73c-e9fe-4cbb-a24e-1594a6219efc/shot_desktop.77a1bb727c.webp" width="100%" alt="Jewelry Online Store built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/pizza-ordering-website">Pizza Ordering Website</a></b> — <sub>A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pizza-ordering-website/a138b614-b744-4f7f-bbe1-ee302165c998/shot_desktop.17e479b90c.webp" width="100%" alt="Pizza Ordering Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pizza-ordering-website/88827dac-ff0f-41b0-8fed-61e03c69adc1/shot_desktop.91bdce99cc.webp" width="100%" alt="Pizza Ordering Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/daily-tarot-reading-page">Daily Tarot Reading Page</a></b> — <sub>Shuffle an original deck, reveal a daily reading, and save a shareable card.</sub></td>
 </tr>
 <tr>
@@ -165,13 +179,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/24c6b063-650b-4406-8789-6c2a093e9cdd/shot_desktop.400d463a4a.webp" width="100%" alt="Ink Wash Mountain Adventure built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/fd13cc6e-9f38-4665-bfa5-7b9d5de395ed/shot_desktop.187eacb401.webp" width="100%" alt="Ink Wash Mountain Adventure built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/pizza-ordering-website">Pizza Ordering Website</a></b> — <sub>A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pizza-ordering-website/a138b614-b744-4f7f-bbe1-ee302165c998/shot_desktop.17e479b90c.webp" width="100%" alt="Pizza Ordering Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pizza-ordering-website/88827dac-ff0f-41b0-8fed-61e03c69adc1/shot_desktop.91bdce99cc.webp" width="100%" alt="Pizza Ordering Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/parametric-lamp-designer">Parametric Lamp Designer</a></b> — <sub>Shape a glowing lattice lamp with live 3D controls, curated presets, and a downloadable spec sheet.</sub></td>
@@ -249,13 +256,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/constellation-story-map/dfe9bea3-4ac1-4a6d-adc7-997df4fbb01e/shot_desktop.47f30a5268.webp" width="100%" alt="Constellation Story Map built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/constellation-story-map/474c16c5-a9cf-4409-9d3e-befcbae59603/shot_desktop.69d41d47e7.webp" width="100%" alt="Constellation Story Map built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/jet-engine-interactive-explainer">Jet Engine Interactive Explainer</a></b> — <sub>A scroll-driven 3D turbofan with cutaways, relative rotor speeds, live airflow, and a working throttle.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jet-engine-interactive-explainer/895eb53b-d7ef-4c97-b7b7-4e01fa6d12ea/shot_desktop.d28be4b2c6.webp" width="100%" alt="Jet Engine Interactive Explainer built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/deepseek-v4-1-flash-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/jet-engine-interactive-explainer/c3f78554-75a3-4b98-a3b3-d3091cea8c27/shot_desktop.b11f0a0591.webp" width="100%" alt="Jet Engine Interactive Explainer built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/food-delivery-app">Food Delivery App</a></b> — <sub>Browse local kitchens, build a minimum-order basket, and follow a simulated courier to your door.</sub></td>

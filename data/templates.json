@@ -136,6 +136,94 @@
     ]
   },
   {
+    "slug": "webgl-gradient-saas-landing-page",
+    "title": "WebGL Gradient SaaS Landing Page",
+    "tagline": "Bright SaaS landing page with a cursor-reactive WebGL gradient hero and floating code-drawn product panels.",
+    "category": "saas-ai-apps",
+    "access": "free",
+    "types": [
+      "landing-page",
+      "saas"
+    ],
+    "styles": [
+      "aurora",
+      "glass",
+      "minimal"
+    ],
+    "effects": [
+      "generative",
+      "scroll-animation",
+      "cursor"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + ogl + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/webgl-gradient-saas-landing-page",
+    "prompt": "templates/webgl-gradient-saas-landing-page/prompt.md",
+    "design": "templates/webgl-gradient-saas-landing-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "Finance close software",
+        "model": "claude-opus-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/webgl-gradient-saas-landing-page",
+        "image": "https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/1b3140e8-b296-4551-9fb2-bc60de751b4f/shot_desktop.a80541f05b.webp"
+      },
+      {
+        "label": "Feature flag platform",
+        "model": "claude-sonnet-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=c5f7014e-6d01-4bfa-93c7-92bbe64893d9",
+        "image": "https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/c5f7014e-6d01-4bfa-93c7-92bbe64893d9/shot_desktop.5bec1bfb24.webp"
+      },
+      {
+        "label": "Finance close software",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=5f321903-a1da-4195-b0ac-cd5bc9422bb2",
+        "image": "https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/5f321903-a1da-4195-b0ac-cd5bc9422bb2/shot_desktop.2cf1433f55.webp"
+      }
+    ]
+  },
+  {
+    "slug": "aquarium-exhibits-and-tickets-website",
+    "title": "Aquarium Exhibits and Tickets Website",
+    "tagline": "A deep-blue aquarium site with drifting caustic light, zone exhibits, a feeding schedule and timed tickets.",
+    "category": "local-business",
+    "access": "free",
+    "types": [
+      "landing-page"
+    ],
+    "styles": [
+      "glass",
+      "dark"
+    ],
+    "effects": [
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website",
+    "prompt": "templates/aquarium-exhibits-and-tickets-website/prompt.md",
+    "design": "templates/aquarium-exhibits-and-tickets-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Lumen Bay Aquarium",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website",
+        "image": "https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/a3c685dd-942c-441a-8b0a-e40f60119f35/shot_desktop.09eae3cdfd.webp"
+      },
+      {
+        "label": "Butterfly conservatory",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=db4224ba-c0c5-4847-bfc0-512b94c9ee23",
+        "image": "https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/db4224ba-c0c5-4847-bfc0-512b94c9ee23/shot_desktop.cd4855ded9.webp"
+      }
+    ]
+  },
+  {
     "slug": "template-library-landing-page",
     "title": "Template Library Landing Page",
     "tagline": "Near-black template-library landing with an auto-scrolling wall of browser demos and one acid-lime accent.",
@@ -219,94 +307,6 @@
         "tool": "Cursor",
         "url": "https://vibefather.ai/templates/3d-photo-gallery?case=dc09a434-d7f5-413a-b789-1f40dd8a8342",
         "image": "https://media.vibefather.ai/t/3d-photo-gallery/dc09a434-d7f5-413a-b789-1f40dd8a8342/shot_desktop.7e114b16c7.webp"
-      }
-    ]
-  },
-  {
-    "slug": "aquarium-exhibits-and-tickets-website",
-    "title": "Aquarium Exhibits and Tickets Website",
-    "tagline": "A deep-blue aquarium site with drifting caustic light, zone exhibits, a feeding schedule and timed tickets.",
-    "category": "local-business",
-    "access": "free",
-    "types": [
-      "landing-page"
-    ],
-    "styles": [
-      "glass",
-      "dark"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website",
-    "prompt": "templates/aquarium-exhibits-and-tickets-website/prompt.md",
-    "design": "templates/aquarium-exhibits-and-tickets-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Lumen Bay Aquarium",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website",
-        "image": "https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/a3c685dd-942c-441a-8b0a-e40f60119f35/shot_desktop.09eae3cdfd.webp"
-      },
-      {
-        "label": "Butterfly conservatory",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=db4224ba-c0c5-4847-bfc0-512b94c9ee23",
-        "image": "https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/db4224ba-c0c5-4847-bfc0-512b94c9ee23/shot_desktop.cd4855ded9.webp"
-      }
-    ]
-  },
-  {
-    "slug": "webgl-gradient-saas-landing-page",
-    "title": "WebGL Gradient SaaS Landing Page",
-    "tagline": "Bright SaaS landing page with a cursor-reactive WebGL gradient hero and floating code-drawn product panels.",
-    "category": "saas-ai-apps",
-    "access": "free",
-    "types": [
-      "landing-page",
-      "saas"
-    ],
-    "styles": [
-      "aurora",
-      "glass",
-      "minimal"
-    ],
-    "effects": [
-      "generative",
-      "scroll-animation",
-      "cursor"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + ogl + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/webgl-gradient-saas-landing-page",
-    "prompt": "templates/webgl-gradient-saas-landing-page/prompt.md",
-    "design": "templates/webgl-gradient-saas-landing-page/DESIGN.md",
-    "demos": [
-      {
-        "label": "Finance close software",
-        "model": "claude-opus-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/webgl-gradient-saas-landing-page",
-        "image": "https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/1b3140e8-b296-4551-9fb2-bc60de751b4f/shot_desktop.a80541f05b.webp"
-      },
-      {
-        "label": "Feature flag platform",
-        "model": "claude-sonnet-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=c5f7014e-6d01-4bfa-93c7-92bbe64893d9",
-        "image": "https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/c5f7014e-6d01-4bfa-93c7-92bbe64893d9/shot_desktop.5bec1bfb24.webp"
-      },
-      {
-        "label": "Finance close software",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=5f321903-a1da-4195-b0ac-cd5bc9422bb2",
-        "image": "https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/5f321903-a1da-4195-b0ac-cd5bc9422bb2/shot_desktop.2cf1433f55.webp"
       }
     ]
   },
@@ -456,6 +456,47 @@
     ]
   },
   {
+    "slug": "indie-game-launch-page",
+    "title": "Indie Game Launch Page",
+    "tagline": "A painterly indie game launch page with parallax scenes, a world map teaser and a wishlist close.",
+    "category": "games-3d-toys",
+    "access": "pro",
+    "types": [
+      "landing-page",
+      "game"
+    ],
+    "styles": [
+      "hand-drawn",
+      "dark"
+    ],
+    "effects": [
+      "parallax",
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/indie-game-launch-page",
+    "prompt": "templates/indie-game-launch-page/prompt.md",
+    "design": "templates/indie-game-launch-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "Indie game launch",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/indie-game-launch-page",
+        "image": "https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/shot_desktop.d40cc25515.webp"
+      },
+      {
+        "label": "Cozy lantern-keeping game",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/indie-game-launch-page?case=5c344e2d-eb13-4bdf-9f0b-90cbad3452af",
+        "image": "https://media.vibefather.ai/t/indie-game-launch-page/5c344e2d-eb13-4bdf-9f0b-90cbad3452af/shot_desktop.3c82495d6e.webp"
+      }
+    ]
+  },
+  {
     "slug": "roofing-company-website",
     "title": "Roofing Company Website",
     "tagline": "A confident charcoal-and-orange contractor site with a roof cost estimator homeowners can actually trust.",
@@ -491,6 +532,45 @@
         "tool": "Kimi Code",
         "url": "https://vibefather.ai/templates/roofing-company-website?case=9c05f4e9-0093-4132-a823-835f3af3e7e2",
         "image": "https://media.vibefather.ai/t/roofing-company-website/9c05f4e9-0093-4132-a823-835f3af3e7e2/shot_desktop.f045ca8abb.webp"
+      }
+    ]
+  },
+  {
+    "slug": "hot-air-balloon-rides-website",
+    "title": "Hot Air Balloon Rides Website",
+    "tagline": "A dawn-soft balloon ride site with a flight timeline, packages, gift vouchers, and a saved booking request.",
+    "category": "local-business",
+    "access": "free",
+    "types": [
+      "landing-page"
+    ],
+    "styles": [
+      "aurora",
+      "minimal"
+    ],
+    "effects": [
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/hot-air-balloon-rides-website",
+    "prompt": "templates/hot-air-balloon-rides-website/prompt.md",
+    "design": "templates/hot-air-balloon-rides-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Dawn balloon ride company",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/hot-air-balloon-rides-website",
+        "image": "https://media.vibefather.ai/t/hot-air-balloon-rides-website/73abf288-de33-43b2-9df1-81b49295e5c7/shot_desktop.5932818c17.webp"
+      },
+      {
+        "label": "Olive-grove balloon flights",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/hot-air-balloon-rides-website?case=28d42bfe-2a84-4e6a-8bcf-143a8e44eae2",
+        "image": "https://media.vibefather.ai/t/hot-air-balloon-rides-website/28d42bfe-2a84-4e6a-8bcf-143a8e44eae2/shot_desktop.eea08dfd9a.webp"
       }
     ]
   },
@@ -535,18 +615,18 @@
     ]
   },
   {
-    "slug": "indie-game-launch-page",
-    "title": "Indie Game Launch Page",
-    "tagline": "A painterly indie game launch page with parallax scenes, a world map teaser and a wishlist close.",
-    "category": "games-3d-toys",
+    "slug": "luxury-watch-brand-website",
+    "title": "Luxury Watch Brand Website",
+    "tagline": "A quiet-luxury watch brand site with a craft scroll story and a dial-and-strap configurator.",
+    "category": "launch",
     "access": "pro",
     "types": [
-      "landing-page",
-      "game"
+      "landing-page"
     ],
     "styles": [
-      "hand-drawn",
-      "dark"
+      "dark",
+      "luxury",
+      "minimal"
     ],
     "effects": [
       "parallax",
@@ -554,104 +634,24 @@
       "micro-interactions"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/indie-game-launch-page",
-    "prompt": "templates/indie-game-launch-page/prompt.md",
-    "design": "templates/indie-game-launch-page/DESIGN.md",
+    "pages": 2,
+    "url": "https://vibefather.ai/templates/luxury-watch-brand-website",
+    "prompt": "templates/luxury-watch-brand-website/prompt.md",
+    "design": "templates/luxury-watch-brand-website/DESIGN.md",
     "demos": [
       {
-        "label": "Indie game launch",
+        "label": "Luxury watch brand",
         "model": "glm-5-3",
         "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/indie-game-launch-page",
-        "image": "https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/shot_desktop.d40cc25515.webp"
+        "url": "https://vibefather.ai/templates/luxury-watch-brand-website",
+        "image": "https://media.vibefather.ai/t/luxury-watch-brand-website/eb8a2603-0e64-4ebf-b192-47237585a967/shot_desktop.3c2b9d2565.webp"
       },
       {
-        "label": "Cozy lantern-keeping game",
+        "label": "Diver watch microbrand",
         "model": "deepseek-v4-1-flash",
         "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/indie-game-launch-page?case=5c344e2d-eb13-4bdf-9f0b-90cbad3452af",
-        "image": "https://media.vibefather.ai/t/indie-game-launch-page/5c344e2d-eb13-4bdf-9f0b-90cbad3452af/shot_desktop.3c82495d6e.webp"
-      }
-    ]
-  },
-  {
-    "slug": "hot-air-balloon-rides-website",
-    "title": "Hot Air Balloon Rides Website",
-    "tagline": "A dawn-soft balloon ride site with a flight timeline, packages, gift vouchers, and a saved booking request.",
-    "category": "local-business",
-    "access": "free",
-    "types": [
-      "landing-page"
-    ],
-    "styles": [
-      "aurora",
-      "minimal"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/hot-air-balloon-rides-website",
-    "prompt": "templates/hot-air-balloon-rides-website/prompt.md",
-    "design": "templates/hot-air-balloon-rides-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Dawn balloon ride company",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/hot-air-balloon-rides-website",
-        "image": "https://media.vibefather.ai/t/hot-air-balloon-rides-website/73abf288-de33-43b2-9df1-81b49295e5c7/shot_desktop.5932818c17.webp"
-      },
-      {
-        "label": "Olive-grove balloon flights",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/hot-air-balloon-rides-website?case=28d42bfe-2a84-4e6a-8bcf-143a8e44eae2",
-        "image": "https://media.vibefather.ai/t/hot-air-balloon-rides-website/28d42bfe-2a84-4e6a-8bcf-143a8e44eae2/shot_desktop.eea08dfd9a.webp"
-      }
-    ]
-  },
-  {
-    "slug": "snow-globe-toy",
-    "title": "Snow Globe Toy",
-    "tagline": "Shake a miniature world, watch the snow settle, and leave a message on its brass base.",
-    "category": "games-3d-toys",
-    "access": "free",
-    "types": [
-      "toy"
-    ],
-    "styles": [
-      "glass",
-      "playful",
-      "minimal"
-    ],
-    "effects": [
-      "generative",
-      "drag",
-      "3d"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Vanilla CSS + three + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/snow-globe-toy",
-    "prompt": "templates/snow-globe-toy/prompt.md",
-    "design": "templates/snow-globe-toy/DESIGN.md",
-    "demos": [
-      {
-        "label": "Fireside winter keepsake",
-        "model": "kimi-k3-1-pro",
-        "tool": "Kimi Code",
-        "url": "https://vibefather.ai/templates/snow-globe-toy",
-        "image": "https://media.vibefather.ai/t/snow-globe-toy/36e48929-b683-4720-90d8-71800c61ef66/shot_desktop.75d8e41cd3.webp"
-      },
-      {
-        "label": "Storybook snow wishes",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/snow-globe-toy?case=b58305b1-56c6-4b8a-af11-ababd3bb2cff",
-        "image": "https://media.vibefather.ai/t/snow-globe-toy/b58305b1-56c6-4b8a-af11-ababd3bb2cff/shot_desktop.f87c7ca0e9.webp"
+        "url": "https://vibefather.ai/templates/luxury-watch-brand-website?case=55a10bb9-4f4d-4247-89cc-627bde49cbde",
+        "image": "https://media.vibefather.ai/t/luxury-watch-brand-website/55a10bb9-4f4d-4247-89cc-627bde49cbde/shot_desktop.5f5836625f.webp"
       }
     ]
   },
@@ -704,84 +704,97 @@
     ]
   },
   {
-    "slug": "luxury-watch-brand-website",
-    "title": "Luxury Watch Brand Website",
-    "tagline": "A quiet-luxury watch brand site with a craft scroll story and a dial-and-strap configurator.",
-    "category": "launch",
-    "access": "pro",
-    "types": [
-      "landing-page"
-    ],
-    "styles": [
-      "dark",
-      "luxury",
-      "minimal"
-    ],
-    "effects": [
-      "parallax",
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 2,
-    "url": "https://vibefather.ai/templates/luxury-watch-brand-website",
-    "prompt": "templates/luxury-watch-brand-website/prompt.md",
-    "design": "templates/luxury-watch-brand-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Luxury watch brand",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/luxury-watch-brand-website",
-        "image": "https://media.vibefather.ai/t/luxury-watch-brand-website/eb8a2603-0e64-4ebf-b192-47237585a967/shot_desktop.3c2b9d2565.webp"
-      },
-      {
-        "label": "Diver watch microbrand",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/luxury-watch-brand-website?case=55a10bb9-4f4d-4247-89cc-627bde49cbde",
-        "image": "https://media.vibefather.ai/t/luxury-watch-brand-website/55a10bb9-4f4d-4247-89cc-627bde49cbde/shot_desktop.5f5836625f.webp"
-      }
-    ]
-  },
-  {
-    "slug": "carbon-cycle-scroll-explainer",
-    "title": "Carbon Cycle Scroll Explainer",
-    "tagline": "Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.",
+    "slug": "solar-system-3d-explainer",
+    "title": "Solar System 3D Explainer",
+    "tagline": "Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.",
     "category": "explainers-slides",
-    "access": "free",
+    "access": "pro",
     "types": [
       "explainer"
     ],
     "styles": [
-      "playful",
       "dark",
-      "illustrated"
+      "minimal"
+    ],
+    "effects": [
+      "scroll-animation",
+      "3d",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + vanilla TypeScript + three.js + Tailwind CSS 3.4 + three + gsap + lucide",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/solar-system-3d-explainer",
+    "prompt": "templates/solar-system-3d-explainer/prompt.md",
+    "design": "templates/solar-system-3d-explainer/DESIGN.md",
+    "demos": [
+      {
+        "label": "The Solar System",
+        "model": "claude-opus-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/solar-system-3d-explainer",
+        "image": "https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/shot_desktop.72d6d6d017.webp"
+      },
+      {
+        "label": "A red dwarf's seven planets",
+        "model": "claude-sonnet-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/solar-system-3d-explainer?case=248f7a6f-7d72-46f6-bf19-a842a2442f20",
+        "image": "https://media.vibefather.ai/t/solar-system-3d-explainer/248f7a6f-7d72-46f6-bf19-a842a2442f20/shot_desktop.f66964e52f.webp"
+      },
+      {
+        "label": "The Solar System",
+        "model": "gemini-4-carbon",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/solar-system-3d-explainer?case=90fb5510-12de-4417-8ec4-9cb119db17d9",
+        "image": "https://media.vibefather.ai/t/solar-system-3d-explainer/90fb5510-12de-4417-8ec4-9cb119db17d9/shot_desktop.90dc4ecc64.webp"
+      },
+      {
+        "label": "The Solar System",
+        "model": "gpt-6-astra",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb",
+        "image": "https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp"
+      }
+    ]
+  },
+  {
+    "slug": "snow-globe-toy",
+    "title": "Snow Globe Toy",
+    "tagline": "Shake a miniature world, watch the snow settle, and leave a message on its brass base.",
+    "category": "games-3d-toys",
+    "access": "free",
+    "types": [
+      "toy"
+    ],
+    "styles": [
+      "glass",
+      "playful",
+      "minimal"
     ],
     "effects": [
       "generative",
-      "scroll-animation",
-      "micro-interactions"
+      "drag",
+      "3d"
     ],
-    "stack": "Vite 5 + vanilla TypeScript + Vanilla CSS + gsap + lucide",
+    "stack": "Vite 5 + React 18 + TypeScript + Vanilla CSS + three + lucide-react",
     "pages": 1,
-    "url": "https://vibefather.ai/templates/carbon-cycle-scroll-explainer",
-    "prompt": "templates/carbon-cycle-scroll-explainer/prompt.md",
-    "design": "templates/carbon-cycle-scroll-explainer/DESIGN.md",
+    "url": "https://vibefather.ai/templates/snow-globe-toy",
+    "prompt": "templates/snow-globe-toy/prompt.md",
+    "design": "templates/snow-globe-toy/DESIGN.md",
     "demos": [
       {
-        "label": "The carbon cycle",
-        "model": "claude-opus-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/carbon-cycle-scroll-explainer",
-        "image": "https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp"
+        "label": "Fireside winter keepsake",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/snow-globe-toy",
+        "image": "https://media.vibefather.ai/t/snow-globe-toy/36e48929-b683-4720-90d8-71800c61ef66/shot_desktop.75d8e41cd3.webp"
       },
       {
-        "label": "The water cycle",
-        "model": "gemini-4-carbon",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c",
-        "image": "https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp"
+        "label": "Storybook snow wishes",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/snow-globe-toy?case=b58305b1-56c6-4b8a-af11-ababd3bb2cff",
+        "image": "https://media.vibefather.ai/t/snow-globe-toy/b58305b1-56c6-4b8a-af11-ababd3bb2cff/shot_desktop.f87c7ca0e9.webp"
       }
     ]
   },
@@ -829,6 +842,149 @@
         "tool": "Cursor",
         "url": "https://vibefather.ai/templates/music-festival-website?case=7d2fa76f-4f83-4c69-aba1-386bcbe506eb",
         "image": "https://media.vibefather.ai/t/music-festival-website/7d2fa76f-4f83-4c69-aba1-386bcbe506eb/shot_desktop.9d1e0fa7b3.webp"
+      }
+    ]
+  },
+  {
+    "slug": "liquid-glass-product-page",
+    "title": "Liquid Glass Product Page",
+    "tagline": "A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.",
+    "category": "ecommerce",
+    "access": "pro",
+    "types": [
+      "ecommerce",
+      "landing-page"
+    ],
+    "styles": [
+      "editorial",
+      "glass",
+      "minimal"
+    ],
+    "effects": [
+      "scroll-animation",
+      "cursor",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/liquid-glass-product-page",
+    "prompt": "templates/liquid-glass-product-page/prompt.md",
+    "design": "templates/liquid-glass-product-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "Glass room speaker",
+        "model": "claude-opus-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/liquid-glass-product-page",
+        "image": "https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/shot_desktop.c241f4a425.webp"
+      },
+      {
+        "label": "Cold brew tower",
+        "model": "claude-sonnet-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/liquid-glass-product-page?case=2f932c79-1b6f-4009-9a5a-53ef75e7eb86",
+        "image": "https://media.vibefather.ai/t/liquid-glass-product-page/2f932c79-1b6f-4009-9a5a-53ef75e7eb86/shot_desktop.dd92aa998d.webp"
+      },
+      {
+        "label": "Glass room speaker",
+        "model": "gemini-4-carbon",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/liquid-glass-product-page?case=89dc8bdc-f96b-411d-a68c-a0e7a4d82a34",
+        "image": "https://media.vibefather.ai/t/liquid-glass-product-page/89dc8bdc-f96b-411d-a68c-a0e7a4d82a34/shot_desktop.597a69b55f.webp"
+      },
+      {
+        "label": "Glass room speaker",
+        "model": "gpt-6-astra",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/liquid-glass-product-page?case=cc1b4850-ba96-4073-aa05-ec1ebefa21fe",
+        "image": "https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp"
+      }
+    ]
+  },
+  {
+    "slug": "carbon-cycle-scroll-explainer",
+    "title": "Carbon Cycle Scroll Explainer",
+    "tagline": "Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.",
+    "category": "explainers-slides",
+    "access": "free",
+    "types": [
+      "explainer"
+    ],
+    "styles": [
+      "playful",
+      "dark",
+      "illustrated"
+    ],
+    "effects": [
+      "generative",
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + vanilla TypeScript + Vanilla CSS + gsap + lucide",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/carbon-cycle-scroll-explainer",
+    "prompt": "templates/carbon-cycle-scroll-explainer/prompt.md",
+    "design": "templates/carbon-cycle-scroll-explainer/DESIGN.md",
+    "demos": [
+      {
+        "label": "The carbon cycle",
+        "model": "claude-opus-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/carbon-cycle-scroll-explainer",
+        "image": "https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp"
+      },
+      {
+        "label": "The water cycle",
+        "model": "gemini-4-carbon",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c",
+        "image": "https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp"
+      }
+    ]
+  },
+  {
+    "slug": "home-energy-dashboard",
+    "title": "Home Energy Dashboard",
+    "tagline": "A dark home-energy dashboard with hand-built SVG charts, a range switcher and live device toggles.",
+    "category": "saas-ai-apps",
+    "access": "free",
+    "types": [
+      "dashboard"
+    ],
+    "styles": [
+      "dark",
+      "minimal"
+    ],
+    "effects": [
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/home-energy-dashboard",
+    "prompt": "templates/home-energy-dashboard/prompt.md",
+    "design": "templates/home-energy-dashboard/DESIGN.md",
+    "demos": [
+      {
+        "label": "Home energy monitor",
+        "model": "claude-opus-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/home-energy-dashboard",
+        "image": "https://media.vibefather.ai/t/wattline/6e35690e-e3cd-4434-8a4e-7434040f1990/shot_desktop.ba18b931cb.webp"
+      },
+      {
+        "label": "Bakery kitchen energy",
+        "model": "claude-opus-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/home-energy-dashboard?case=7e8de294-a31b-4fe9-8bf0-886ea034b66b",
+        "image": "https://media.vibefather.ai/t/wattline/7e8de294-a31b-4fe9-8bf0-886ea034b66b/shot_desktop.f524f31d74.webp"
+      },
+      {
+        "label": "Household energy monitor",
+        "model": "gemini-4-carbon",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/home-energy-dashboard?case=8582df9a-5a8e-42b4-adad-913ec0b7c6a0",
+        "image": "https://media.vibefather.ai/t/home-energy-dashboard/8582df9a-5a8e-42b4-adad-913ec0b7c6a0/shot_desktop.c7f4210221.webp"
       }
     ]
   },
@@ -959,158 +1115,41 @@
     ]
   },
   {
-    "slug": "home-energy-dashboard",
-    "title": "Home Energy Dashboard",
-    "tagline": "A dark home-energy dashboard with hand-built SVG charts, a range switcher and live device toggles.",
-    "category": "saas-ai-apps",
+    "slug": "car-wash-and-detailing-website",
+    "title": "Car Wash and Detailing Website",
+    "tagline": "A glossy dark-mode car wash site with a live membership picker, size-aware pricing and a paint-correction slider.",
+    "category": "local-business",
     "access": "free",
     "types": [
-      "dashboard"
-    ],
-    "styles": [
-      "dark",
-      "minimal"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/home-energy-dashboard",
-    "prompt": "templates/home-energy-dashboard/prompt.md",
-    "design": "templates/home-energy-dashboard/DESIGN.md",
-    "demos": [
-      {
-        "label": "Home energy monitor",
-        "model": "claude-opus-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/home-energy-dashboard",
-        "image": "https://media.vibefather.ai/t/wattline/6e35690e-e3cd-4434-8a4e-7434040f1990/shot_desktop.ba18b931cb.webp"
-      },
-      {
-        "label": "Bakery kitchen energy",
-        "model": "claude-opus-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/home-energy-dashboard?case=7e8de294-a31b-4fe9-8bf0-886ea034b66b",
-        "image": "https://media.vibefather.ai/t/wattline/7e8de294-a31b-4fe9-8bf0-886ea034b66b/shot_desktop.f524f31d74.webp"
-      },
-      {
-        "label": "Household energy monitor",
-        "model": "gemini-4-carbon",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/home-energy-dashboard?case=8582df9a-5a8e-42b4-adad-913ec0b7c6a0",
-        "image": "https://media.vibefather.ai/t/home-energy-dashboard/8582df9a-5a8e-42b4-adad-913ec0b7c6a0/shot_desktop.c7f4210221.webp"
-      }
-    ]
-  },
-  {
-    "slug": "liquid-glass-product-page",
-    "title": "Liquid Glass Product Page",
-    "tagline": "A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.",
-    "category": "ecommerce",
-    "access": "pro",
-    "types": [
-      "ecommerce",
       "landing-page"
     ],
     "styles": [
-      "editorial",
-      "glass",
-      "minimal"
-    ],
-    "effects": [
-      "scroll-animation",
-      "cursor",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/liquid-glass-product-page",
-    "prompt": "templates/liquid-glass-product-page/prompt.md",
-    "design": "templates/liquid-glass-product-page/DESIGN.md",
-    "demos": [
-      {
-        "label": "Glass room speaker",
-        "model": "claude-opus-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/liquid-glass-product-page",
-        "image": "https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/shot_desktop.c241f4a425.webp"
-      },
-      {
-        "label": "Cold brew tower",
-        "model": "claude-sonnet-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/liquid-glass-product-page?case=2f932c79-1b6f-4009-9a5a-53ef75e7eb86",
-        "image": "https://media.vibefather.ai/t/liquid-glass-product-page/2f932c79-1b6f-4009-9a5a-53ef75e7eb86/shot_desktop.dd92aa998d.webp"
-      },
-      {
-        "label": "Glass room speaker",
-        "model": "gemini-4-carbon",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/liquid-glass-product-page?case=89dc8bdc-f96b-411d-a68c-a0e7a4d82a34",
-        "image": "https://media.vibefather.ai/t/liquid-glass-product-page/89dc8bdc-f96b-411d-a68c-a0e7a4d82a34/shot_desktop.597a69b55f.webp"
-      },
-      {
-        "label": "Glass room speaker",
-        "model": "gpt-6-astra",
-        "tool": "Codex",
-        "url": "https://vibefather.ai/templates/liquid-glass-product-page?case=cc1b4850-ba96-4073-aa05-ec1ebefa21fe",
-        "image": "https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp"
-      }
-    ]
-  },
-  {
-    "slug": "solar-system-3d-explainer",
-    "title": "Solar System 3D Explainer",
-    "tagline": "Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.",
-    "category": "explainers-slides",
-    "access": "pro",
-    "types": [
-      "explainer"
-    ],
-    "styles": [
       "dark",
-      "minimal"
+      "bold"
     ],
     "effects": [
       "scroll-animation",
-      "3d",
       "micro-interactions"
     ],
-    "stack": "Vite 5 + vanilla TypeScript + three.js + Tailwind CSS 3.4 + three + gsap + lucide",
+    "stack": "Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
     "pages": 1,
-    "url": "https://vibefather.ai/templates/solar-system-3d-explainer",
-    "prompt": "templates/solar-system-3d-explainer/prompt.md",
-    "design": "templates/solar-system-3d-explainer/DESIGN.md",
+    "url": "https://vibefather.ai/templates/car-wash-and-detailing-website",
+    "prompt": "templates/car-wash-and-detailing-website/prompt.md",
+    "design": "templates/car-wash-and-detailing-website/DESIGN.md",
     "demos": [
       {
-        "label": "The Solar System",
-        "model": "claude-opus-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/solar-system-3d-explainer",
-        "image": "https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/shot_desktop.72d6d6d017.webp"
+        "label": "Auto spa, Marina Heights",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/car-wash-and-detailing-website",
+        "image": "https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp"
       },
       {
-        "label": "A red dwarf's seven planets",
-        "model": "claude-sonnet-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/solar-system-3d-explainer?case=248f7a6f-7d72-46f6-bf19-a842a2442f20",
-        "image": "https://media.vibefather.ai/t/solar-system-3d-explainer/248f7a6f-7d72-46f6-bf19-a842a2442f20/shot_desktop.f66964e52f.webp"
-      },
-      {
-        "label": "The Solar System",
-        "model": "gemini-4-carbon",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/solar-system-3d-explainer?case=90fb5510-12de-4417-8ec4-9cb119db17d9",
-        "image": "https://media.vibefather.ai/t/solar-system-3d-explainer/90fb5510-12de-4417-8ec4-9cb119db17d9/shot_desktop.90dc4ecc64.webp"
-      },
-      {
-        "label": "The Solar System",
-        "model": "gpt-6-astra",
-        "tool": "Codex",
-        "url": "https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb",
-        "image": "https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp"
+        "label": "Fleet wash, Dockside Junction",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/car-wash-and-detailing-website?case=81d6151f-d12a-400b-ac55-33b92e86832a",
+        "image": "https://media.vibefather.ai/t/car-wash-and-detailing-website/81d6151f-d12a-400b-ac55-33b92e86832a/shot_desktop.0570749bda.webp"
       }
     ]
   },
@@ -1151,6 +1190,140 @@
         "tool": "Cursor",
         "url": "https://vibefather.ai/templates/boxing-and-strength-gym-website?case=6ab01a75-3c61-48a3-b60a-d3b532f16e53",
         "image": "https://media.vibefather.ai/t/boxing-and-strength-gym-website/6ab01a75-3c61-48a3-b60a-d3b532f16e53/shot_desktop.c125ac4f14.webp"
+      }
+    ]
+  },
+  {
+    "slug": "3d-product-configurator-page",
+    "title": "3D Product Configurator Page",
+    "tagline": "Drag a code-built 3D headphone, pick finish, cushions and engraving, then scroll to take it apart.",
+    "category": "ecommerce",
+    "access": "pro",
+    "types": [
+      "ecommerce",
+      "landing-page"
+    ],
+    "styles": [
+      "minimal"
+    ],
+    "effects": [
+      "drag",
+      "scroll-animation",
+      "3d"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18 + three@0.169.0 + @react-three/fiber@8.17",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/3d-product-configurator-page",
+    "prompt": "templates/3d-product-configurator-page/prompt.md",
+    "design": "templates/3d-product-configurator-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "Studio monitor headphones",
+        "model": "claude-sonnet-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/3d-product-configurator-page",
+        "image": "https://media.vibefather.ai/t/3d-product-configurator-page/46e3b8bb-8076-46ea-b84c-06e524014917/shot_desktop.2a5935dd45.webp"
+      },
+      {
+        "label": "Wireless headphones",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/3d-product-configurator-page?case=168cacc0-afb4-4220-8f7a-6b27a8795587",
+        "image": "https://media.vibefather.ai/t/3d-product-configurator-page/168cacc0-afb4-4220-8f7a-6b27a8795587/shot_desktop.2cddf638c5.webp"
+      }
+    ]
+  },
+  {
+    "slug": "boutique-hotel-website",
+    "title": "Boutique Hotel Website",
+    "tagline": "A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.",
+    "category": "food-travel",
+    "access": "pro",
+    "types": [
+      "hotel"
+    ],
+    "styles": [
+      "editorial",
+      "minimal"
+    ],
+    "effects": [
+      "parallax",
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react + tailwindcss,",
+    "pages": 3,
+    "url": "https://vibefather.ai/templates/boutique-hotel-website",
+    "prompt": "templates/boutique-hotel-website/prompt.md",
+    "design": "templates/boutique-hotel-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Coastal boutique hotel",
+        "model": "claude-opus-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/boutique-hotel-website",
+        "image": "https://media.vibefather.ai/t/boutique-hotel-website/00d2a3dd-1494-4691-af41-5459b63ac59f/shot_desktop.be357e04f8.webp"
+      },
+      {
+        "label": "Island sauna retreat",
+        "model": "claude-sonnet-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/boutique-hotel-website?case=b5845f86-1106-4039-b50c-5a82815cd67c",
+        "image": "https://media.vibefather.ai/t/tidestone/b5845f86-1106-4039-b50c-5a82815cd67c/shot_desktop.3328b4e17b.webp"
+      },
+      {
+        "label": "Coastal boutique hotel",
+        "model": "gemini-4-carbon",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/boutique-hotel-website?case=96ff3519-3cba-442f-8288-f2c6b6d50631",
+        "image": "https://media.vibefather.ai/t/boutique-hotel-website/96ff3519-3cba-442f-8288-f2c6b6d50631/shot_desktop.ceffab4f15.webp"
+      },
+      {
+        "label": "Coastal boutique hotel",
+        "model": "gpt-6-astra",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4",
+        "image": "https://media.vibefather.ai/t/boutique-hotel-website/dda42e68-7c76-4f0a-9c76-cb41698e20e4/shot_desktop.76a7a80d1b.webp"
+      }
+    ]
+  },
+  {
+    "slug": "3d-product-launch-page",
+    "title": "3D Product Launch Page",
+    "tagline": "A dark, cinematic launch page where a code-built 3D lamp tilts and changes color as you scroll.",
+    "category": "launch",
+    "access": "pro",
+    "types": [
+      "landing-page"
+    ],
+    "styles": [
+      "dark",
+      "minimal"
+    ],
+    "effects": [
+      "text-animation",
+      "scroll-animation",
+      "3d"
+    ],
+    "stack": "Vite 5 + TypeScript + three.js + Vanilla CSS + three + gsap + lenis",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/3d-product-launch-page",
+    "prompt": "templates/3d-product-launch-page/prompt.md",
+    "design": "templates/3d-product-launch-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "Smart desk lamp",
+        "model": "claude-opus-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/3d-product-launch-page",
+        "image": "https://media.vibefather.ai/t/3d-product-launch-page/565fdd79-8b10-42f0-95b2-661affda944f/shot_desktop.9274cd092a.webp"
+      },
+      {
+        "label": "Indoor grow light",
+        "model": "gemini-4-carbon",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/3d-product-launch-page?case=0281f5ff-4fa7-444e-812f-7529d7ded48a",
+        "image": "https://media.vibefather.ai/t/3d-product-launch-page/0281f5ff-4fa7-444e-812f-7529d7ded48a/shot_desktop.991782b253.webp"
       }
     ]
   },
@@ -1291,56 +1464,42 @@
     ]
   },
   {
-    "slug": "boutique-hotel-website",
-    "title": "Boutique Hotel Website",
-    "tagline": "A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.",
-    "category": "food-travel",
+    "slug": "3d-colosseum-history-explorer",
+    "title": "3D Colosseum History Explorer",
+    "tagline": "Explore an ancient amphitheater through arches, cutaways and changing construction states.",
+    "category": "explainers-slides",
     "access": "pro",
     "types": [
-      "hotel"
+      "explainer"
     ],
     "styles": [
       "editorial",
       "minimal"
     ],
     "effects": [
-      "parallax",
-      "scroll-animation",
+      "drag",
+      "3d",
       "micro-interactions"
     ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react + tailwindcss,",
-    "pages": 3,
-    "url": "https://vibefather.ai/templates/boutique-hotel-website",
-    "prompt": "templates/boutique-hotel-website/prompt.md",
-    "design": "templates/boutique-hotel-website/DESIGN.md",
+    "stack": "Vite + TypeScript + Vanilla CSS + three",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/3d-colosseum-history-explorer",
+    "prompt": "templates/3d-colosseum-history-explorer/prompt.md",
+    "design": "templates/3d-colosseum-history-explorer/DESIGN.md",
     "demos": [
       {
-        "label": "Coastal boutique hotel",
-        "model": "claude-opus-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/boutique-hotel-website",
-        "image": "https://media.vibefather.ai/t/boutique-hotel-website/00d2a3dd-1494-4691-af41-5459b63ac59f/shot_desktop.be357e04f8.webp"
-      },
-      {
-        "label": "Island sauna retreat",
-        "model": "claude-sonnet-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/boutique-hotel-website?case=b5845f86-1106-4039-b50c-5a82815cd67c",
-        "image": "https://media.vibefather.ai/t/tidestone/b5845f86-1106-4039-b50c-5a82815cd67c/shot_desktop.3328b4e17b.webp"
-      },
-      {
-        "label": "Coastal boutique hotel",
-        "model": "gemini-4-carbon",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/boutique-hotel-website?case=96ff3519-3cba-442f-8288-f2c6b6d50631",
-        "image": "https://media.vibefather.ai/t/boutique-hotel-website/96ff3519-3cba-442f-8288-f2c6b6d50631/shot_desktop.ceffab4f15.webp"
-      },
-      {
-        "label": "Coastal boutique hotel",
-        "model": "gpt-6-astra",
+        "label": "Architectural field study",
+        "model": "gpt-6-1-sol",
         "tool": "Codex",
-        "url": "https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4",
-        "image": "https://media.vibefather.ai/t/boutique-hotel-website/dda42e68-7c76-4f0a-9c76-cb41698e20e4/shot_desktop.76a7a80d1b.webp"
+        "url": "https://vibefather.ai/templates/3d-colosseum-history-explorer",
+        "image": "https://media.vibefather.ai/t/3d-colosseum-history-explorer/a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de/shot_desktop.3a065c18ec.webp"
+      },
+      {
+        "label": "Museum learning edition",
+        "model": "gpt-6-1-sol",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/3d-colosseum-history-explorer?case=04a321bf-5690-4326-98f6-63a388271897",
+        "image": "https://media.vibefather.ai/t/3d-colosseum-history-explorer/04a321bf-5690-4326-98f6-63a388271897/shot_desktop.6c21ea225c.webp"
       }
     ]
   },
@@ -1385,46 +1544,6 @@
     ]
   },
   {
-    "slug": "3d-product-configurator-page",
-    "title": "3D Product Configurator Page",
-    "tagline": "Drag a code-built 3D headphone, pick finish, cushions and engraving, then scroll to take it apart.",
-    "category": "ecommerce",
-    "access": "pro",
-    "types": [
-      "ecommerce",
-      "landing-page"
-    ],
-    "styles": [
-      "minimal"
-    ],
-    "effects": [
-      "drag",
-      "scroll-animation",
-      "3d"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18 + three@0.169.0 + @react-three/fiber@8.17",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/3d-product-configurator-page",
-    "prompt": "templates/3d-product-configurator-page/prompt.md",
-    "design": "templates/3d-product-configurator-page/DESIGN.md",
-    "demos": [
-      {
-        "label": "Studio monitor headphones",
-        "model": "claude-sonnet-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/3d-product-configurator-page",
-        "image": "https://media.vibefather.ai/t/3d-product-configurator-page/46e3b8bb-8076-46ea-b84c-06e524014917/shot_desktop.2a5935dd45.webp"
-      },
-      {
-        "label": "Wireless headphones",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/3d-product-configurator-page?case=168cacc0-afb4-4220-8f7a-6b27a8795587",
-        "image": "https://media.vibefather.ai/t/3d-product-configurator-page/168cacc0-afb4-4220-8f7a-6b27a8795587/shot_desktop.2cddf638c5.webp"
-      }
-    ]
-  },
-  {
     "slug": "travel-agency-tour-packages-website",
     "title": "Travel Agency Tour Packages Website",
     "tagline": "Three-page tour operator site with filterable packages, day-by-day itineraries, drawn route maps and booking requests.",
@@ -1459,86 +1578,6 @@
         "tool": "DeepSeek Harness",
         "url": "https://vibefather.ai/templates/travel-agency-tour-packages-website?case=28519468-e7f7-4ae9-b373-0113902ab56a",
         "image": "https://media.vibefather.ai/t/travel-agency-tour-packages-website/28519468-e7f7-4ae9-b373-0113902ab56a/shot_desktop.3f7f52d082.webp"
-      }
-    ]
-  },
-  {
-    "slug": "3d-colosseum-history-explorer",
-    "title": "3D Colosseum History Explorer",
-    "tagline": "Explore an ancient amphitheater through arches, cutaways and changing construction states.",
-    "category": "explainers-slides",
-    "access": "pro",
-    "types": [
-      "explainer"
-    ],
-    "styles": [
-      "editorial",
-      "minimal"
-    ],
-    "effects": [
-      "drag",
-      "3d",
-      "micro-interactions"
-    ],
-    "stack": "Vite + TypeScript + Vanilla CSS + three",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/3d-colosseum-history-explorer",
-    "prompt": "templates/3d-colosseum-history-explorer/prompt.md",
-    "design": "templates/3d-colosseum-history-explorer/DESIGN.md",
-    "demos": [
-      {
-        "label": "Architectural field study",
-        "model": "gpt-6-1-sol",
-        "tool": "Codex",
-        "url": "https://vibefather.ai/templates/3d-colosseum-history-explorer",
-        "image": "https://media.vibefather.ai/t/3d-colosseum-history-explorer/a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de/shot_desktop.3a065c18ec.webp"
-      },
-      {
-        "label": "Museum learning edition",
-        "model": "gpt-6-1-sol",
-        "tool": "Codex",
-        "url": "https://vibefather.ai/templates/3d-colosseum-history-explorer?case=04a321bf-5690-4326-98f6-63a388271897",
-        "image": "https://media.vibefather.ai/t/3d-colosseum-history-explorer/04a321bf-5690-4326-98f6-63a388271897/shot_desktop.6c21ea225c.webp"
-      }
-    ]
-  },
-  {
-    "slug": "3d-product-launch-page",
-    "title": "3D Product Launch Page",
-    "tagline": "A dark, cinematic launch page where a code-built 3D lamp tilts and changes color as you scroll.",
-    "category": "launch",
-    "access": "pro",
-    "types": [
-      "landing-page"
-    ],
-    "styles": [
-      "dark",
-      "minimal"
-    ],
-    "effects": [
-      "text-animation",
-      "scroll-animation",
-      "3d"
-    ],
-    "stack": "Vite 5 + TypeScript + three.js + Vanilla CSS + three + gsap + lenis",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/3d-product-launch-page",
-    "prompt": "templates/3d-product-launch-page/prompt.md",
-    "design": "templates/3d-product-launch-page/DESIGN.md",
-    "demos": [
-      {
-        "label": "Smart desk lamp",
-        "model": "claude-opus-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/3d-product-launch-page",
-        "image": "https://media.vibefather.ai/t/3d-product-launch-page/565fdd79-8b10-42f0-95b2-661affda944f/shot_desktop.9274cd092a.webp"
-      },
-      {
-        "label": "Indoor grow light",
-        "model": "gemini-4-carbon",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/3d-product-launch-page?case=0281f5ff-4fa7-444e-812f-7529d7ded48a",
-        "image": "https://media.vibefather.ai/t/3d-product-launch-page/0281f5ff-4fa7-444e-812f-7529d7ded48a/shot_desktop.991782b253.webp"
       }
     ]
   },
@@ -1630,6 +1669,45 @@
     ]
   },
   {
+    "slug": "marketplace-shopping-app",
+    "title": "Marketplace Shopping App",
+    "tagline": "A lively multi-store marketplace with connected product, coupon, and cart interactions.",
+    "category": "ecommerce",
+    "access": "pro",
+    "types": [
+      "ecommerce"
+    ],
+    "styles": [
+      "playful",
+      "bento"
+    ],
+    "effects": [
+      "page-transitions",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react",
+    "pages": 3,
+    "url": "https://vibefather.ai/templates/marketplace-shopping-app",
+    "prompt": "templates/marketplace-shopping-app/prompt.md",
+    "design": "templates/marketplace-shopping-app/DESIGN.md",
+    "demos": [
+      {
+        "label": "Home and lifestyle",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/marketplace-shopping-app",
+        "image": "https://media.vibefather.ai/t/marketplace-shopping-app/5014bb9f-827d-4a36-86a9-cef237424383/shot_desktop.a02552204e.webp"
+      },
+      {
+        "label": "Outdoor and travel",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/marketplace-shopping-app?case=ce3088f1-5dd2-4a67-8bbc-24ffbb064376",
+        "image": "https://media.vibefather.ai/t/marketplace-shopping-app/ce3088f1-5dd2-4a67-8bbc-24ffbb064376/shot_desktop.fbead00a18.webp"
+      }
+    ]
+  },
+  {
     "slug": "meditation-app-landing-page",
     "title": "Meditation App Landing Page",
     "tagline": "A serene meditation app page with drifting gradient skies and a try-it 4-7-8 breathing circle.",
@@ -1666,125 +1744,6 @@
         "tool": "DeepSeek Harness",
         "url": "https://vibefather.ai/templates/meditation-app-landing-page?case=b2db69b1-25d7-4a8a-97a8-040de8632731",
         "image": "https://media.vibefather.ai/t/meditation-app-landing-page/b2db69b1-25d7-4a8a-97a8-040de8632731/shot_desktop.82376d880f.webp"
-      }
-    ]
-  },
-  {
-    "slug": "editorial-restaurant-website",
-    "title": "Editorial Restaurant Website",
-    "tagline": "Editorial three-page restaurant site with big serif type, parallax strips, a priced menu and a drawn map.",
-    "category": "food-travel",
-    "access": "free",
-    "types": [
-      "restaurant"
-    ],
-    "styles": [
-      "editorial",
-      "minimal"
-    ],
-    "effects": [
-      "parallax",
-      "text-animation",
-      "scroll-animation"
-    ],
-    "stack": "Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + lenis + lucide",
-    "pages": 3,
-    "url": "https://vibefather.ai/templates/editorial-restaurant-website",
-    "prompt": "templates/editorial-restaurant-website/prompt.md",
-    "design": "templates/editorial-restaurant-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Small-plates restaurant",
-        "model": "claude-opus-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/editorial-restaurant-website",
-        "image": "https://media.vibefather.ai/t/larder/f00ec6bf-1927-4e03-af39-033d97a6118e/shot_desktop.d0d5c59e88.webp"
-      },
-      {
-        "label": "Wood-fired bakery",
-        "model": "claude-opus-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/editorial-restaurant-website?case=003ec732-078e-4b64-9f50-0d117b613dc4",
-        "image": "https://media.vibefather.ai/t/larder/003ec732-078e-4b64-9f50-0d117b613dc4/shot_desktop.38c1e6a3f7.webp"
-      }
-    ]
-  },
-  {
-    "slug": "e-commerce-admin-dashboard",
-    "title": "E-commerce Admin Dashboard",
-    "tagline": "Clean store-admin app: KPI cards, a hand-rolled revenue chart, orders table with filters, product editor and inventory alerts.",
-    "category": "saas-ai-apps",
-    "access": "free",
-    "types": [
-      "ecommerce",
-      "dashboard",
-      "app"
-    ],
-    "styles": [
-      "swiss",
-      "minimal"
-    ],
-    "effects": [
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/e-commerce-admin-dashboard",
-    "prompt": "templates/e-commerce-admin-dashboard/prompt.md",
-    "design": "templates/e-commerce-admin-dashboard/DESIGN.md",
-    "demos": [
-      {
-        "label": "Outdoor gear store admin",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/e-commerce-admin-dashboard",
-        "image": "https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp"
-      },
-      {
-        "label": "Candle studio admin",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/e-commerce-admin-dashboard?case=d3aabe35-2a58-4f81-b9a3-f1740abf3e05",
-        "image": "https://media.vibefather.ai/t/e-commerce-admin-dashboard/d3aabe35-2a58-4f81-b9a3-f1740abf3e05/shot_desktop.d9c4680a73.webp"
-      }
-    ]
-  },
-  {
-    "slug": "marketplace-shopping-app",
-    "title": "Marketplace Shopping App",
-    "tagline": "A lively multi-store marketplace with connected product, coupon, and cart interactions.",
-    "category": "ecommerce",
-    "access": "pro",
-    "types": [
-      "ecommerce"
-    ],
-    "styles": [
-      "playful",
-      "bento"
-    ],
-    "effects": [
-      "page-transitions",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react",
-    "pages": 3,
-    "url": "https://vibefather.ai/templates/marketplace-shopping-app",
-    "prompt": "templates/marketplace-shopping-app/prompt.md",
-    "design": "templates/marketplace-shopping-app/DESIGN.md",
-    "demos": [
-      {
-        "label": "Home and lifestyle",
-        "model": "kimi-k3-1-pro",
-        "tool": "Kimi Code",
-        "url": "https://vibefather.ai/templates/marketplace-shopping-app",
-        "image": "https://media.vibefather.ai/t/marketplace-shopping-app/5014bb9f-827d-4a36-86a9-cef237424383/shot_desktop.a02552204e.webp"
-      },
-      {
-        "label": "Outdoor and travel",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/marketplace-shopping-app?case=ce3088f1-5dd2-4a67-8bbc-24ffbb064376",
-        "image": "https://media.vibefather.ai/t/marketplace-shopping-app/ce3088f1-5dd2-4a67-8bbc-24ffbb064376/shot_desktop.fbead00a18.webp"
       }
     ]
   },
@@ -1830,45 +1789,6 @@
     ]
   },
   {
-    "slug": "car-wash-and-detailing-website",
-    "title": "Car Wash and Detailing Website",
-    "tagline": "A glossy dark-mode car wash site with a live membership picker, size-aware pricing and a paint-correction slider.",
-    "category": "local-business",
-    "access": "free",
-    "types": [
-      "landing-page"
-    ],
-    "styles": [
-      "dark",
-      "bold"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/car-wash-and-detailing-website",
-    "prompt": "templates/car-wash-and-detailing-website/prompt.md",
-    "design": "templates/car-wash-and-detailing-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Auto spa, Marina Heights",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/car-wash-and-detailing-website",
-        "image": "https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp"
-      },
-      {
-        "label": "Fleet wash, Dockside Junction",
-        "model": "kimi-k3-1-pro",
-        "tool": "Kimi Code",
-        "url": "https://vibefather.ai/templates/car-wash-and-detailing-website?case=81d6151f-d12a-400b-ac55-33b92e86832a",
-        "image": "https://media.vibefather.ai/t/car-wash-and-detailing-website/81d6151f-d12a-400b-ac55-33b92e86832a/shot_desktop.0570749bda.webp"
-      }
-    ]
-  },
-  {
     "slug": "industrial-manufacturing-company-website",
     "title": "Industrial Manufacturing Company Website",
     "tagline": "A precision machine-shop site with spec-sheet capabilities, an equipment table and an RFQ flow that estimates lead time.",
@@ -1908,6 +1828,46 @@
     ]
   },
   {
+    "slug": "editorial-restaurant-website",
+    "title": "Editorial Restaurant Website",
+    "tagline": "Editorial three-page restaurant site with big serif type, parallax strips, a priced menu and a drawn map.",
+    "category": "food-travel",
+    "access": "free",
+    "types": [
+      "restaurant"
+    ],
+    "styles": [
+      "editorial",
+      "minimal"
+    ],
+    "effects": [
+      "parallax",
+      "text-animation",
+      "scroll-animation"
+    ],
+    "stack": "Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + lenis + lucide",
+    "pages": 3,
+    "url": "https://vibefather.ai/templates/editorial-restaurant-website",
+    "prompt": "templates/editorial-restaurant-website/prompt.md",
+    "design": "templates/editorial-restaurant-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Small-plates restaurant",
+        "model": "claude-opus-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/editorial-restaurant-website",
+        "image": "https://media.vibefather.ai/t/larder/f00ec6bf-1927-4e03-af39-033d97a6118e/shot_desktop.d0d5c59e88.webp"
+      },
+      {
+        "label": "Wood-fired bakery",
+        "model": "claude-opus-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/editorial-restaurant-website?case=003ec732-078e-4b64-9f50-0d117b613dc4",
+        "image": "https://media.vibefather.ai/t/larder/003ec732-078e-4b64-9f50-0d117b613dc4/shot_desktop.38c1e6a3f7.webp"
+      }
+    ]
+  },
+  {
     "slug": "harbor-town-delivery-game",
     "title": "Harbor Town Delivery Game",
     "tagline": "Drive a tiny van, follow the tram lines, and finish six cozy harbor deliveries before time runs out.",
@@ -1942,6 +1902,87 @@
         "tool": "DeepSeek Harness",
         "url": "https://vibefather.ai/templates/harbor-town-delivery-game?case=94917aae-631b-4417-bd3a-3986e1ff2b8e",
         "image": "https://media.vibefather.ai/t/harbor-town-delivery-game/94917aae-631b-4417-bd3a-3986e1ff2b8e/shot_desktop.4213f6b13d.webp"
+      }
+    ]
+  },
+  {
+    "slug": "e-commerce-admin-dashboard",
+    "title": "E-commerce Admin Dashboard",
+    "tagline": "Clean store-admin app: KPI cards, a hand-rolled revenue chart, orders table with filters, product editor and inventory alerts.",
+    "category": "saas-ai-apps",
+    "access": "free",
+    "types": [
+      "ecommerce",
+      "dashboard",
+      "app"
+    ],
+    "styles": [
+      "swiss",
+      "minimal"
+    ],
+    "effects": [
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/e-commerce-admin-dashboard",
+    "prompt": "templates/e-commerce-admin-dashboard/prompt.md",
+    "design": "templates/e-commerce-admin-dashboard/DESIGN.md",
+    "demos": [
+      {
+        "label": "Outdoor gear store admin",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/e-commerce-admin-dashboard",
+        "image": "https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp"
+      },
+      {
+        "label": "Candle studio admin",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/e-commerce-admin-dashboard?case=d3aabe35-2a58-4f81-b9a3-f1740abf3e05",
+        "image": "https://media.vibefather.ai/t/e-commerce-admin-dashboard/d3aabe35-2a58-4f81-b9a3-f1740abf3e05/shot_desktop.d9c4680a73.webp"
+      }
+    ]
+  },
+  {
+    "slug": "ev-charging-network-website",
+    "title": "EV Charging Network Website",
+    "tagline": "A dark technical EV charging site with a filterable station map, pricing and a host form.",
+    "category": "saas-ai-apps",
+    "access": "free",
+    "types": [
+      "landing-page",
+      "saas"
+    ],
+    "styles": [
+      "dark",
+      "terminal",
+      "minimal"
+    ],
+    "effects": [
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/ev-charging-network-website",
+    "prompt": "templates/ev-charging-network-website/prompt.md",
+    "design": "templates/ev-charging-network-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "EV charging network",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/ev-charging-network-website",
+        "image": "https://media.vibefather.ai/t/ev-charging-network-website/807b4d36-1963-44e1-a401-0f11eccd36f2/shot_desktop.78695d254b.webp"
+      },
+      {
+        "label": "E-bike share network",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/ev-charging-network-website?case=e4dba3c7-d7f4-4088-9a04-985b08839992",
+        "image": "https://media.vibefather.ai/t/ev-charging-network-website/e4dba3c7-d7f4-4088-9a04-985b08839992/shot_desktop.a36d602a2e.webp"
       }
     ]
   },
@@ -1986,6 +2027,48 @@
     ]
   },
   {
+    "slug": "techno-club-night-event-page",
+    "title": "Techno Club Night Event Page",
+    "tagline": "An acid club poster with real audio reaction, set times, a venue diagram, and local ticket planning.",
+    "category": "events",
+    "access": "free",
+    "types": [
+      "event",
+      "landing-page"
+    ],
+    "styles": [
+      "retro",
+      "brutalist",
+      "dark"
+    ],
+    "effects": [
+      "generative",
+      "text-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite + React + TypeScript + Vanilla CSS",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/techno-club-night-event-page",
+    "prompt": "templates/techno-club-night-event-page/prompt.md",
+    "design": "templates/techno-club-night-event-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "Underground techno night",
+        "model": "gpt-6-1-sol",
+        "tool": "Codex",
+        "url": "https://vibefather.ai/templates/techno-club-night-event-page",
+        "image": "https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp"
+      },
+      {
+        "label": "Warehouse electronic assembly",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb",
+        "image": "https://media.vibefather.ai/t/techno-club-night-event-page/739913b4-fb92-4794-a6b3-064c1ae39bfb/shot_desktop.04387a7a33.webp"
+      }
+    ]
+  },
+  {
     "slug": "arcade-game-studio-landing-page",
     "title": "Arcade Game Studio Landing Page",
     "tagline": "Pixel-art arcade landing page for a game studio, with a playable runner in the hero and a local high-score board.",
@@ -2024,6 +2107,46 @@
         "tool": "Cursor",
         "url": "https://vibefather.ai/templates/arcade-game-studio-landing-page?case=2bd3687d-f73f-4118-a336-c77efb812591",
         "image": "https://media.vibefather.ai/t/arcade-game-studio-landing-page/2bd3687d-f73f-4118-a336-c77efb812591/shot_desktop.2156094387.webp"
+      }
+    ]
+  },
+  {
+    "slug": "drone-services-company-website",
+    "title": "Drone Services Company Website",
+    "tagline": "A crisp drone-services site with full-bleed aerial photography and a draggable before/after mapping slider.",
+    "category": "portfolios-blogs",
+    "access": "free",
+    "types": [
+      "agency",
+      "landing-page"
+    ],
+    "styles": [
+      "swiss",
+      "minimal"
+    ],
+    "effects": [
+      "parallax",
+      "drag"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/drone-services-company-website",
+    "prompt": "templates/drone-services-company-website/prompt.md",
+    "design": "templates/drone-services-company-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Aerial survey company",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/drone-services-company-website",
+        "image": "https://media.vibefather.ai/t/drone-services-company-website/6ef97bed-5043-4da4-89da-33af55ce2f35/shot_desktop.45a4d961b2.webp"
+      },
+      {
+        "label": "Mountain West surveyor",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/drone-services-company-website?case=2b6afae9-21d4-4402-82a4-4ef03a8c3fc9",
+        "image": "https://media.vibefather.ai/t/drone-services-company-website/2b6afae9-21d4-4402-82a4-4ef03a8c3fc9/shot_desktop.8c91e743d0.webp"
       }
     ]
   },
@@ -2148,48 +2271,6 @@
     ]
   },
   {
-    "slug": "techno-club-night-event-page",
-    "title": "Techno Club Night Event Page",
-    "tagline": "An acid club poster with real audio reaction, set times, a venue diagram, and local ticket planning.",
-    "category": "events",
-    "access": "free",
-    "types": [
-      "event",
-      "landing-page"
-    ],
-    "styles": [
-      "retro",
-      "brutalist",
-      "dark"
-    ],
-    "effects": [
-      "generative",
-      "text-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite + React + TypeScript + Vanilla CSS",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/techno-club-night-event-page",
-    "prompt": "templates/techno-club-night-event-page/prompt.md",
-    "design": "templates/techno-club-night-event-page/DESIGN.md",
-    "demos": [
-      {
-        "label": "Underground techno night",
-        "model": "gpt-6-1-sol",
-        "tool": "Codex",
-        "url": "https://vibefather.ai/templates/techno-club-night-event-page",
-        "image": "https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp"
-      },
-      {
-        "label": "Warehouse electronic assembly",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb",
-        "image": "https://media.vibefather.ai/t/techno-club-night-event-page/739913b4-fb92-4794-a6b3-064c1ae39bfb/shot_desktop.04387a7a33.webp"
-      }
-    ]
-  },
-  {
     "slug": "how-the-human-heart-works",
     "title": "How the Human Heart Works",
     "tagline": "A beating SVG heart with a BPM slider, scroll steps along the blood path and a live ECG trace.",
@@ -2225,6 +2306,55 @@
         "tool": "Cursor",
         "url": "https://vibefather.ai/templates/how-the-human-heart-works?case=65ef426f-9f72-4f45-8338-84b4b54c9fec",
         "image": "https://media.vibefather.ai/t/how-the-human-heart-works/65ef426f-9f72-4f45-8338-84b4b54c9fec/shot_desktop.dfe6c2fa94.webp"
+      }
+    ]
+  },
+  {
+    "slug": "ai-image-generator-landing-page",
+    "title": "AI Image Generator Landing Page",
+    "tagline": "A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.",
+    "category": "saas-ai-apps",
+    "access": "free",
+    "types": [
+      "landing-page",
+      "saas"
+    ],
+    "styles": [
+      "glass",
+      "dark",
+      "bento"
+    ],
+    "effects": [
+      "text-animation",
+      "drag",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/ai-image-generator-landing-page",
+    "prompt": "templates/ai-image-generator-landing-page/prompt.md",
+    "design": "templates/ai-image-generator-landing-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "AI image generator app",
+        "model": "claude-opus-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/ai-image-generator-landing-page",
+        "image": "https://media.vibefather.ai/t/ai-image-generator-landing-page/ad255b62-71d1-4921-9d6b-f983931801d8/shot_desktop.3dbef1625c.webp"
+      },
+      {
+        "label": "Concept art generator",
+        "model": "claude-sonnet-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/ai-image-generator-landing-page?case=e72e4b30-2d6f-4086-91a9-2b73f043c8cf",
+        "image": "https://media.vibefather.ai/t/ai-image-generator-landing-page/e72e4b30-2d6f-4086-91a9-2b73f043c8cf/shot_desktop.77e2a323f0.webp"
+      },
+      {
+        "label": "AI image generator app",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/ai-image-generator-landing-page?case=4edc802b-655b-4054-bdcc-a26954ea1622",
+        "image": "https://media.vibefather.ai/t/ai-image-generator-landing-page/4edc802b-655b-4054-bdcc-a26954ea1622/shot_desktop.a9991bd95a.webp"
       }
     ]
   },
@@ -2470,6 +2600,46 @@
     ]
   },
   {
+    "slug": "property-management-company-website",
+    "title": "Property Management Company Website",
+    "tagline": "A two-path property management site: owners get a transparent fee table and income estimator, tenants get listings and a maintenance list.",
+    "category": "local-business",
+    "access": "pro",
+    "types": [
+      "real-estate",
+      "landing-page"
+    ],
+    "styles": [
+      "editorial",
+      "minimal"
+    ],
+    "effects": [
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/property-management-company-website",
+    "prompt": "templates/property-management-company-website/prompt.md",
+    "design": "templates/property-management-company-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Rental management, Ellsworth",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/property-management-company-website",
+        "image": null
+      },
+      {
+        "label": "Condo management, Port Bay",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/property-management-company-website?case=06d7c381-bb30-4394-896a-4650155bc521",
+        "image": "https://media.vibefather.ai/t/property-management-company-website/06d7c381-bb30-4394-896a-4650155bc521/shot_desktop.c182e51ef4.webp"
+      }
+    ]
+  },
+  {
     "slug": "fashion-online-store",
     "title": "Fashion Online Store",
     "tagline": "Four-page fashion storefront with filterable collections, variant product pages, a cart drawer and a mock checkout.",
@@ -2584,46 +2754,6 @@
         "tool": "DeepSeek Harness",
         "url": "https://vibefather.ai/templates/minimal-developer-portfolio?case=3409412e-3611-41e2-8584-a66e6901e5d4",
         "image": "https://media.vibefather.ai/t/minimal-developer-portfolio/3409412e-3611-41e2-8584-a66e6901e5d4/shot_desktop.54a249b474.webp"
-      }
-    ]
-  },
-  {
-    "slug": "property-management-company-website",
-    "title": "Property Management Company Website",
-    "tagline": "A two-path property management site: owners get a transparent fee table and income estimator, tenants get listings and a maintenance list.",
-    "category": "local-business",
-    "access": "pro",
-    "types": [
-      "real-estate",
-      "landing-page"
-    ],
-    "styles": [
-      "editorial",
-      "minimal"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/property-management-company-website",
-    "prompt": "templates/property-management-company-website/prompt.md",
-    "design": "templates/property-management-company-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Rental management, Ellsworth",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/property-management-company-website",
-        "image": null
-      },
-      {
-        "label": "Condo management, Port Bay",
-        "model": "kimi-k3-1-pro",
-        "tool": "Kimi Code",
-        "url": "https://vibefather.ai/templates/property-management-company-website?case=06d7c381-bb30-4394-896a-4650155bc521",
-        "image": "https://media.vibefather.ai/t/property-management-company-website/06d7c381-bb30-4394-896a-4650155bc521/shot_desktop.c182e51ef4.webp"
       }
     ]
   },
@@ -2829,6 +2959,46 @@
     ]
   },
   {
+    "slug": "night-market-food-festival",
+    "title": "Night Market Food Festival",
+    "tagline": "Neon night-market page with a filterable vendor map, two-stage schedule, and token ticket tiers.",
+    "category": "events",
+    "access": "free",
+    "types": [
+      "event",
+      "landing-page"
+    ],
+    "styles": [
+      "playful",
+      "dark"
+    ],
+    "effects": [
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/night-market-food-festival",
+    "prompt": "templates/night-market-food-festival/prompt.md",
+    "design": "templates/night-market-food-festival/DESIGN.md",
+    "demos": [
+      {
+        "label": "Lantern Row Night Market",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/night-market-food-festival",
+        "image": "https://media.vibefather.ai/t/night-market-food-festival/41a9fe20-4116-4101-afb8-1377e94718e4/shot_desktop.2eeb9a4e11.webp"
+      },
+      {
+        "label": "Winter street-food market",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/night-market-food-festival?case=8718dc13-d6ec-42cb-b2bf-a894c6a1525c",
+        "image": "https://media.vibefather.ai/t/night-market-food-festival/8718dc13-d6ec-42cb-b2bf-a894c6a1525c/shot_desktop.369bbb05fc.webp"
+      }
+    ]
+  },
+  {
     "slug": "risograph-indie-magazine-website",
     "title": "Risograph Indie Magazine Website",
     "tagline": "A fluorescent print magazine with overprinted cover art, full stories, and a local print subscription demo.",
@@ -2947,46 +3117,6 @@
     ]
   },
   {
-    "slug": "drone-services-company-website",
-    "title": "Drone Services Company Website",
-    "tagline": "A crisp drone-services site with full-bleed aerial photography and a draggable before/after mapping slider.",
-    "category": "portfolios-blogs",
-    "access": "free",
-    "types": [
-      "agency",
-      "landing-page"
-    ],
-    "styles": [
-      "swiss",
-      "minimal"
-    ],
-    "effects": [
-      "parallax",
-      "drag"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/drone-services-company-website",
-    "prompt": "templates/drone-services-company-website/prompt.md",
-    "design": "templates/drone-services-company-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Aerial survey company",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/drone-services-company-website",
-        "image": "https://media.vibefather.ai/t/drone-services-company-website/6ef97bed-5043-4da4-89da-33af55ce2f35/shot_desktop.45a4d961b2.webp"
-      },
-      {
-        "label": "Mountain West surveyor",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/drone-services-company-website?case=2b6afae9-21d4-4402-82a4-4ef03a8c3fc9",
-        "image": "https://media.vibefather.ai/t/drone-services-company-website/2b6afae9-21d4-4402-82a4-4ef03a8c3fc9/shot_desktop.8c91e743d0.webp"
-      }
-    ]
-  },
-  {
     "slug": "smart-home-product-landing-page",
     "title": "Smart Home Product Landing Page",
     "tagline": "A warm, code-drawn smart home landing page with a clickable cutaway house showing devices and automations.",
@@ -3055,47 +3185,6 @@
         "tool": "Codex",
         "url": "https://vibefather.ai/templates/ai-chat-app-interface",
         "image": "https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp"
-      }
-    ]
-  },
-  {
-    "slug": "ev-charging-network-website",
-    "title": "EV Charging Network Website",
-    "tagline": "A dark technical EV charging site with a filterable station map, pricing and a host form.",
-    "category": "saas-ai-apps",
-    "access": "free",
-    "types": [
-      "landing-page",
-      "saas"
-    ],
-    "styles": [
-      "dark",
-      "terminal",
-      "minimal"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/ev-charging-network-website",
-    "prompt": "templates/ev-charging-network-website/prompt.md",
-    "design": "templates/ev-charging-network-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "EV charging network",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/ev-charging-network-website",
-        "image": "https://media.vibefather.ai/t/ev-charging-network-website/807b4d36-1963-44e1-a401-0f11eccd36f2/shot_desktop.78695d254b.webp"
-      },
-      {
-        "label": "E-bike share network",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/ev-charging-network-website?case=e4dba3c7-d7f4-4088-9a04-985b08839992",
-        "image": "https://media.vibefather.ai/t/ev-charging-network-website/e4dba3c7-d7f4-4088-9a04-985b08839992/shot_desktop.a36d602a2e.webp"
       }
     ]
   },
@@ -3213,6 +3302,46 @@
     ]
   },
   {
+    "slug": "space-tech-startup-website",
+    "title": "Space Tech Startup Website",
+    "tagline": "Deep-space startup site with an animated orbit diagram, ticking telemetry and a launch manifest rail.",
+    "category": "launch",
+    "access": "pro",
+    "types": [
+      "landing-page"
+    ],
+    "styles": [
+      "dark",
+      "minimal"
+    ],
+    "effects": [
+      "parallax",
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/space-tech-startup-website",
+    "prompt": "templates/space-tech-startup-website/prompt.md",
+    "design": "templates/space-tech-startup-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Satellite constellation startup",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/space-tech-startup-website",
+        "image": "https://media.vibefather.ai/t/space-tech-startup-website/2ca60dd1-5564-4472-85d1-ef69d2943cdb/shot_desktop.59f7d5a3c1.webp"
+      },
+      {
+        "label": "Orbital propellant depot",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/space-tech-startup-website?case=c365429e-0655-469c-8780-96cbe6ac97a5",
+        "image": "https://media.vibefather.ai/t/space-tech-startup-website/c365429e-0655-469c-8780-96cbe6ac97a5/shot_desktop.e52478f303.webp"
+      }
+    ]
+  },
+  {
     "slug": "video-production-company-website",
     "title": "Video Production Company Website",
     "tagline": "A cinematic studio site with a still-frame reel, filterable work, and a practical project brief.",
@@ -3251,6 +3380,44 @@
         "tool": "DeepSeek Harness",
         "url": "https://vibefather.ai/templates/video-production-company-website?case=9ac1455d-1149-483f-820a-35b9830bb652",
         "image": "https://media.vibefather.ai/t/video-production-company-website/9ac1455d-1149-483f-820a-35b9830bb652/shot_desktop.272525a72b.webp"
+      }
+    ]
+  },
+  {
+    "slug": "rocket-launch-countdown-page",
+    "title": "Rocket Launch Countdown Page",
+    "tagline": "Night-pad countdown with a drag-to-orbit rocket and a replayable ascent.",
+    "category": "events",
+    "access": "pro",
+    "types": [
+      "event"
+    ],
+    "styles": [
+      "dark"
+    ],
+    "effects": [
+      "drag",
+      "3d"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18.3.1 + three@0.169.0 + @react-three/fiber@8.17.14",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/rocket-launch-countdown-page",
+    "prompt": "templates/rocket-launch-countdown-page/prompt.md",
+    "design": "templates/rocket-launch-countdown-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "Coastal satellite launch",
+        "model": "grok-4-7",
+        "tool": "Grok Build",
+        "url": "https://vibefather.ai/templates/rocket-launch-countdown-page",
+        "image": "https://media.vibefather.ai/t/rocket-launch-countdown-page/4e7310b0-872d-4c1b-a07a-b2e0679d7e6d/shot_desktop.1bcce69d0a.webp"
+      },
+      {
+        "label": "Crop imaging launch",
+        "model": "grok-4-7",
+        "tool": "Grok Build",
+        "url": "https://vibefather.ai/templates/rocket-launch-countdown-page?case=fa814c6f-3008-470a-a981-fa281b5da08f",
+        "image": "https://media.vibefather.ai/t/rocket-launch-countdown-page/fa814c6f-3008-470a-a981-fa281b5da08f/shot_desktop.7fb326ae9f.webp"
       }
     ]
   },
@@ -3380,6 +3547,45 @@
         "tool": "Cursor",
         "url": "https://vibefather.ai/templates/habit-tracker-app-landing-page?case=815fadb1-5df9-4976-a5d7-69721ff4a748",
         "image": "https://media.vibefather.ai/t/habit-tracker-app-landing-page/815fadb1-5df9-4976-a5d7-69721ff4a748/shot_desktop.59a014c55f.webp"
+      }
+    ]
+  },
+  {
+    "slug": "webinar-registration-page",
+    "title": "Webinar Registration Page",
+    "tagline": "Broadcast-navy webinar page with a live countdown, speaker cards, rundown agenda, timezone-aware registration and calendar files.",
+    "category": "launch",
+    "access": "free",
+    "types": [
+      "landing-page"
+    ],
+    "styles": [
+      "dark",
+      "minimal"
+    ],
+    "effects": [
+      "countdown",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/webinar-registration-page",
+    "prompt": "templates/webinar-registration-page/prompt.md",
+    "design": "templates/webinar-registration-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "B2B skills webinar",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/webinar-registration-page",
+        "image": "https://media.vibefather.ai/t/webinar-registration-page/5634dad1-ed5e-429a-a8a1-3192fd12801c/shot_desktop.71ff2b8320.webp"
+      },
+      {
+        "label": "Design systems webinar",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/webinar-registration-page?case=34470f64-0dec-4e05-930e-19f09ad53b53",
+        "image": "https://media.vibefather.ai/t/webinar-registration-page/34470f64-0dec-4e05-930e-19f09ad53b53/shot_desktop.c7cf30ac81.webp"
       }
     ]
   },
@@ -3582,6 +3788,45 @@
     ]
   },
   {
+    "slug": "coming-soon-page",
+    "title": "Coming Soon Page",
+    "tagline": "Single-screen coming-soon page with a drifting CSS aurora, live countdown, honest email capture and a three-feature teaser.",
+    "category": "launch",
+    "access": "free",
+    "types": [
+      "landing-page"
+    ],
+    "styles": [
+      "aurora",
+      "dark"
+    ],
+    "effects": [
+      "countdown",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/coming-soon-page",
+    "prompt": "templates/coming-soon-page/prompt.md",
+    "design": "templates/coming-soon-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "Software product pre-launch",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/coming-soon-page",
+        "image": "https://media.vibefather.ai/t/coming-soon-page/d4f337b5-61a0-47e9-9121-fbb9cb4dd13f/shot_desktop.cb2e827ce6.webp"
+      },
+      {
+        "label": "Coffee subscription pre-launch",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/coming-soon-page?case=ec9127f6-c0e8-4765-af09-42ba03954ce0",
+        "image": "https://media.vibefather.ai/t/coming-soon-page/ec9127f6-c0e8-4765-af09-42ba03954ce0/shot_desktop.690bd6006e.webp"
+      }
+    ]
+  },
+  {
     "slug": "painter-portfolio-and-print-shop",
     "title": "Painter Portfolio and Print Shop",
     "tagline": "A tactile artist portfolio with series galleries, artwork pages, and an interactive archival print shop.",
@@ -3618,6 +3863,46 @@
         "tool": "DeepSeek Harness",
         "url": "https://vibefather.ai/templates/painter-portfolio-and-print-shop?case=00492990-63c4-4d37-87ec-d439acd8bc8e",
         "image": "https://media.vibefather.ai/t/painter-portfolio-and-print-shop/00492990-63c4-4d37-87ec-d439acd8bc8e/shot_desktop.3e1eb72d63.webp"
+      }
+    ]
+  },
+  {
+    "slug": "hackathon-event-page",
+    "title": "Hackathon Event Page",
+    "tagline": "Overnight-energy hackathon page with a live countdown, prize tracks, a 36-hour schedule, judges, sponsor tiles and registration.",
+    "category": "saas-ai-apps",
+    "access": "free",
+    "types": [
+      "event",
+      "landing-page"
+    ],
+    "styles": [
+      "dark",
+      "terminal"
+    ],
+    "effects": [
+      "countdown",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/hackathon-event-page",
+    "prompt": "templates/hackathon-event-page/prompt.md",
+    "design": "templates/hackathon-event-page/DESIGN.md",
+    "demos": [
+      {
+        "label": "Student hackathon",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/hackathon-event-page",
+        "image": "https://media.vibefather.ai/t/hackathon-event-page/d79a64fd-16da-4b5b-b8da-2a19963e97c9/shot_desktop.fb4a3323e5.webp"
+      },
+      {
+        "label": "Climate-tech hackathon",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/hackathon-event-page?case=eb16b13b-d4f2-4596-a27d-0b6e35401c9b",
+        "image": "https://media.vibefather.ai/t/hackathon-event-page/eb16b13b-d4f2-4596-a27d-0b6e35401c9b/shot_desktop.6a00303cc1.webp"
       }
     ]
   },
@@ -3738,55 +4023,6 @@
     ]
   },
   {
-    "slug": "ai-image-generator-landing-page",
-    "title": "AI Image Generator Landing Page",
-    "tagline": "A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.",
-    "category": "saas-ai-apps",
-    "access": "free",
-    "types": [
-      "landing-page",
-      "saas"
-    ],
-    "styles": [
-      "glass",
-      "dark",
-      "bento"
-    ],
-    "effects": [
-      "text-animation",
-      "drag",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/ai-image-generator-landing-page",
-    "prompt": "templates/ai-image-generator-landing-page/prompt.md",
-    "design": "templates/ai-image-generator-landing-page/DESIGN.md",
-    "demos": [
-      {
-        "label": "AI image generator app",
-        "model": "claude-opus-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/ai-image-generator-landing-page",
-        "image": "https://media.vibefather.ai/t/ai-image-generator-landing-page/ad255b62-71d1-4921-9d6b-f983931801d8/shot_desktop.3dbef1625c.webp"
-      },
-      {
-        "label": "Concept art generator",
-        "model": "claude-sonnet-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/ai-image-generator-landing-page?case=e72e4b30-2d6f-4086-91a9-2b73f043c8cf",
-        "image": "https://media.vibefather.ai/t/ai-image-generator-landing-page/e72e4b30-2d6f-4086-91a9-2b73f043c8cf/shot_desktop.77e2a323f0.webp"
-      },
-      {
-        "label": "AI image generator app",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/ai-image-generator-landing-page?case=4edc802b-655b-4054-bdcc-a26954ea1622",
-        "image": "https://media.vibefather.ai/t/ai-image-generator-landing-page/4edc802b-655b-4054-bdcc-a26954ea1622/shot_desktop.a9991bd95a.webp"
-      }
-    ]
-  },
-  {
     "slug": "tea-shop-website",
     "title": "Tea Shop Website",
     "tagline": "Calm tea shop with flavor notes, brewing guides, a working steep timer and sampler sets.",
@@ -3821,6 +4057,47 @@
         "tool": "DeepSeek Harness",
         "url": "https://vibefather.ai/templates/tea-shop-website?case=7177c224-de13-48e2-a3de-39a82660d9d4",
         "image": "https://media.vibefather.ai/t/tea-shop-website/7177c224-de13-48e2-a3de-39a82660d9d4/shot_desktop.03b2366b26.webp"
+      }
+    ]
+  },
+  {
+    "slug": "sushi-omakase-restaurant-website",
+    "title": "Sushi Omakase Restaurant Website",
+    "tagline": "A dark, quiet-luxury omakase counter site with scroll-served courses and a seat-picker diagram.",
+    "category": "food-travel",
+    "access": "free",
+    "types": [
+      "restaurant"
+    ],
+    "styles": [
+      "editorial",
+      "dark",
+      "luxury"
+    ],
+    "effects": [
+      "parallax",
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lenis + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/sushi-omakase-restaurant-website",
+    "prompt": "templates/sushi-omakase-restaurant-website/prompt.md",
+    "design": "templates/sushi-omakase-restaurant-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Omakase counter",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/sushi-omakase-restaurant-website",
+        "image": "https://media.vibefather.ai/t/sushi-omakase-restaurant-website/d7a34626-11e3-4939-b7a6-4095c4af279e/shot_desktop.507511a2d2.webp"
+      },
+      {
+        "label": "Coffee cupping room",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=a2aa2a3b-9d85-47e7-a73b-a3109c0095ab",
+        "image": "https://media.vibefather.ai/t/sushi-omakase-restaurant-website/a2aa2a3b-9d85-47e7-a73b-a3109c0095ab/shot_desktop.2e00fb218e.webp"
       }
     ]
   },
@@ -3864,6 +4141,46 @@
     ]
   },
   {
+    "slug": "jet-engine-interactive-explainer",
+    "title": "Jet Engine Interactive Explainer",
+    "tagline": "A scroll-driven 3D turbofan with cutaways, relative rotor speeds, live airflow, and a working throttle.",
+    "category": "explainers-slides",
+    "access": "pro",
+    "types": [
+      "explainer"
+    ],
+    "styles": [
+      "swiss",
+      "dark"
+    ],
+    "effects": [
+      "scroll-animation",
+      "3d",
+      "micro-interactions"
+    ],
+    "stack": "Vite 6 + React 19 + TypeScript + Vanilla CSS + three + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/jet-engine-interactive-explainer",
+    "prompt": "templates/jet-engine-interactive-explainer/prompt.md",
+    "design": "templates/jet-engine-interactive-explainer/DESIGN.md",
+    "demos": [
+      {
+        "label": "High-bypass turbofan",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/jet-engine-interactive-explainer",
+        "image": "https://media.vibefather.ai/t/jet-engine-interactive-explainer/c3f78554-75a3-4b98-a3b3-d3091cea8c27/shot_desktop.b11f0a0591.webp"
+      },
+      {
+        "label": "Turboprop engine",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/jet-engine-interactive-explainer?case=895eb53b-d7ef-4c97-b7b7-4e01fa6d12ea",
+        "image": "https://media.vibefather.ai/t/jet-engine-interactive-explainer/895eb53b-d7ef-4c97-b7b7-4e01fa6d12ea/shot_desktop.d28be4b2c6.webp"
+      }
+    ]
+  },
+  {
     "slug": "koi-pond-web-toy",
     "title": "Koi Pond Web Toy",
     "tagline": "A code-drawn koi pond with four seasons, night mode, touch ripples and a 25-minute focus timer.",
@@ -3893,46 +4210,6 @@
         "tool": "Claude Code",
         "url": "https://vibefather.ai/templates/koi-pond-web-toy",
         "image": "https://media.vibefather.ai/t/koi-pond-web-toy/8efc33b2-f202-41e2-95ec-7e2b006fab13/shot_desktop.a3b20c2211.webp"
-      }
-    ]
-  },
-  {
-    "slug": "night-market-food-festival",
-    "title": "Night Market Food Festival",
-    "tagline": "Neon night-market page with a filterable vendor map, two-stage schedule, and token ticket tiers.",
-    "category": "events",
-    "access": "free",
-    "types": [
-      "event",
-      "landing-page"
-    ],
-    "styles": [
-      "playful",
-      "dark"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/night-market-food-festival",
-    "prompt": "templates/night-market-food-festival/prompt.md",
-    "design": "templates/night-market-food-festival/DESIGN.md",
-    "demos": [
-      {
-        "label": "Lantern Row Night Market",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/night-market-food-festival",
-        "image": "https://media.vibefather.ai/t/night-market-food-festival/41a9fe20-4116-4101-afb8-1377e94718e4/shot_desktop.2eeb9a4e11.webp"
-      },
-      {
-        "label": "Winter street-food market",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/night-market-food-festival?case=8718dc13-d6ec-42cb-b2bf-a894c6a1525c",
-        "image": "https://media.vibefather.ai/t/night-market-food-festival/8718dc13-d6ec-42cb-b2bf-a894c6a1525c/shot_desktop.369bbb05fc.webp"
       }
     ]
   },
@@ -4010,43 +4287,48 @@
     ]
   },
   {
-    "slug": "sushi-omakase-restaurant-website",
-    "title": "Sushi Omakase Restaurant Website",
-    "tagline": "A dark, quiet-luxury omakase counter site with scroll-served courses and a seat-picker diagram.",
-    "category": "food-travel",
-    "access": "free",
+    "slug": "how-large-language-models-work",
+    "title": "How Large Language Models Work",
+    "tagline": "A scrolling explainer that shows, step by step, how a language model chooses the next word.",
+    "category": "explainers-slides",
+    "access": "pro",
     "types": [
-      "restaurant"
+      "explainer"
     ],
     "styles": [
       "editorial",
-      "dark",
-      "luxury"
+      "minimal"
     ],
     "effects": [
-      "parallax",
       "scroll-animation",
       "micro-interactions"
     ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lenis + lucide-react",
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + gsap + lucide-react",
     "pages": 1,
-    "url": "https://vibefather.ai/templates/sushi-omakase-restaurant-website",
-    "prompt": "templates/sushi-omakase-restaurant-website/prompt.md",
-    "design": "templates/sushi-omakase-restaurant-website/DESIGN.md",
+    "url": "https://vibefather.ai/templates/how-large-language-models-work",
+    "prompt": "templates/how-large-language-models-work/prompt.md",
+    "design": "templates/how-large-language-models-work/DESIGN.md",
     "demos": [
       {
-        "label": "Omakase counter",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/sushi-omakase-restaurant-website",
-        "image": "https://media.vibefather.ai/t/sushi-omakase-restaurant-website/d7a34626-11e3-4939-b7a6-4095c4af279e/shot_desktop.507511a2d2.webp"
+        "label": "Next-word prediction",
+        "model": "claude-opus-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/how-large-language-models-work",
+        "image": "https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp"
       },
       {
-        "label": "Coffee cupping room",
+        "label": "Code completion",
+        "model": "claude-sonnet-5-5",
+        "tool": "Claude Code",
+        "url": "https://vibefather.ai/templates/how-large-language-models-work?case=a9e9d1f1-f3ec-483c-9d84-aadf37fce515",
+        "image": "https://media.vibefather.ai/t/how-large-language-models-work/a9e9d1f1-f3ec-483c-9d84-aadf37fce515/shot_desktop.961761ed90.webp"
+      },
+      {
+        "label": "Next-word prediction",
         "model": "deepseek-v4-1-flash",
         "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=a2aa2a3b-9d85-47e7-a73b-a3109c0095ab",
-        "image": "https://media.vibefather.ai/t/sushi-omakase-restaurant-website/a2aa2a3b-9d85-47e7-a73b-a3109c0095ab/shot_desktop.2e00fb218e.webp"
+        "url": "https://vibefather.ai/templates/how-large-language-models-work?case=f5d8001a-e9d6-467b-a9a0-13a61c5c85fb",
+        "image": "https://media.vibefather.ai/t/how-large-language-models-work/f5d8001a-e9d6-467b-a9a0-13a61c5c85fb/shot_desktop.1788a05307.webp"
       }
     ]
   },
@@ -4321,6 +4603,46 @@
     ]
   },
   {
+    "slug": "pizza-ordering-website",
+    "title": "Pizza Ordering Website",
+    "tagline": "A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow.",
+    "category": "ecommerce",
+    "access": "free",
+    "types": [
+      "ecommerce",
+      "restaurant"
+    ],
+    "styles": [
+      "editorial",
+      "playful"
+    ],
+    "effects": [
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/pizza-ordering-website",
+    "prompt": "templates/pizza-ordering-website/prompt.md",
+    "design": "templates/pizza-ordering-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Neighborhood pizzeria",
+        "model": "kimi-k3-1-pro",
+        "tool": "Kimi Code",
+        "url": "https://vibefather.ai/templates/pizza-ordering-website",
+        "image": "https://media.vibefather.ai/t/pizza-ordering-website/88827dac-ff0f-41b0-8fed-61e03c69adc1/shot_desktop.91bdce99cc.webp"
+      },
+      {
+        "label": "Late-night pizza shop",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/pizza-ordering-website?case=a138b614-b744-4f7f-bbe1-ee302165c998",
+        "image": "https://media.vibefather.ai/t/pizza-ordering-website/a138b614-b744-4f7f-bbe1-ee302165c998/shot_desktop.17e479b90c.webp"
+      }
+    ]
+  },
+  {
     "slug": "logistics-and-freight-website",
     "title": "Logistics and Freight Website",
     "tagline": "Bold navy-and-sand freight site with an animated route map, local tracking widget and instant quote form.",
@@ -4429,44 +4751,6 @@
         "tool": "Kimi Code",
         "url": "https://vibefather.ai/templates/commercial-print-shop-website?case=14d1e0ad-7f87-4e6f-afb3-fd05c9ab3151",
         "image": "https://media.vibefather.ai/t/commercial-print-shop-website/14d1e0ad-7f87-4e6f-afb3-fd05c9ab3151/shot_desktop.a25a7e5730.webp"
-      }
-    ]
-  },
-  {
-    "slug": "rocket-launch-countdown-page",
-    "title": "Rocket Launch Countdown Page",
-    "tagline": "Night-pad countdown with a drag-to-orbit rocket and a replayable ascent.",
-    "category": "events",
-    "access": "pro",
-    "types": [
-      "event"
-    ],
-    "styles": [
-      "dark"
-    ],
-    "effects": [
-      "drag",
-      "3d"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18.3.1 + three@0.169.0 + @react-three/fiber@8.17.14",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/rocket-launch-countdown-page",
-    "prompt": "templates/rocket-launch-countdown-page/prompt.md",
-    "design": "templates/rocket-launch-countdown-page/DESIGN.md",
-    "demos": [
-      {
-        "label": "Coastal satellite launch",
-        "model": "grok-4-7",
-        "tool": "Grok Build",
-        "url": "https://vibefather.ai/templates/rocket-launch-countdown-page",
-        "image": "https://media.vibefather.ai/t/rocket-launch-countdown-page/4e7310b0-872d-4c1b-a07a-b2e0679d7e6d/shot_desktop.1bcce69d0a.webp"
-      },
-      {
-        "label": "Crop imaging launch",
-        "model": "grok-4-7",
-        "tool": "Grok Build",
-        "url": "https://vibefather.ai/templates/rocket-launch-countdown-page?case=fa814c6f-3008-470a-a981-fa281b5da08f",
-        "image": "https://media.vibefather.ai/t/rocket-launch-countdown-page/fa814c6f-3008-470a-a981-fa281b5da08f/shot_desktop.7fb326ae9f.webp"
       }
     ]
   },
@@ -4971,46 +5255,6 @@
     ]
   },
   {
-    "slug": "pizza-ordering-website",
-    "title": "Pizza Ordering Website",
-    "tagline": "A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow.",
-    "category": "ecommerce",
-    "access": "free",
-    "types": [
-      "ecommerce",
-      "restaurant"
-    ],
-    "styles": [
-      "editorial",
-      "playful"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/pizza-ordering-website",
-    "prompt": "templates/pizza-ordering-website/prompt.md",
-    "design": "templates/pizza-ordering-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Neighborhood pizzeria",
-        "model": "kimi-k3-1-pro",
-        "tool": "Kimi Code",
-        "url": "https://vibefather.ai/templates/pizza-ordering-website",
-        "image": "https://media.vibefather.ai/t/pizza-ordering-website/88827dac-ff0f-41b0-8fed-61e03c69adc1/shot_desktop.91bdce99cc.webp"
-      },
-      {
-        "label": "Late-night pizza shop",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/pizza-ordering-website?case=a138b614-b744-4f7f-bbe1-ee302165c998",
-        "image": "https://media.vibefather.ai/t/pizza-ordering-website/a138b614-b744-4f7f-bbe1-ee302165c998/shot_desktop.17e479b90c.webp"
-      }
-    ]
-  },
-  {
     "slug": "parametric-lamp-designer",
     "title": "Parametric Lamp Designer",
     "tagline": "Shape a glowing lattice lamp with live 3D controls, curated presets, and a downloadable spec sheet.",
@@ -5215,41 +5459,42 @@
     ]
   },
   {
-    "slug": "webinar-registration-page",
-    "title": "Webinar Registration Page",
-    "tagline": "Broadcast-navy webinar page with a live countdown, speaker cards, rundown agenda, timezone-aware registration and calendar files.",
-    "category": "launch",
+    "slug": "design-conference-website",
+    "title": "Design Conference Website",
+    "tagline": "Poster-type conference site with a cursor-reactive variable headline and a filterable two-day schedule.",
+    "category": "events",
     "access": "free",
     "types": [
-      "landing-page"
+      "event"
     ],
     "styles": [
-      "dark",
-      "minimal"
+      "editorial",
+      "swiss"
     ],
     "effects": [
-      "countdown",
-      "micro-interactions"
+      "text-animation",
+      "marquee",
+      "cursor"
     ],
     "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/webinar-registration-page",
-    "prompt": "templates/webinar-registration-page/prompt.md",
-    "design": "templates/webinar-registration-page/DESIGN.md",
+    "pages": 2,
+    "url": "https://vibefather.ai/templates/design-conference-website",
+    "prompt": "templates/design-conference-website/prompt.md",
+    "design": "templates/design-conference-website/DESIGN.md",
     "demos": [
       {
-        "label": "B2B skills webinar",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/webinar-registration-page",
-        "image": "https://media.vibefather.ai/t/webinar-registration-page/5634dad1-ed5e-429a-a8a1-3192fd12801c/shot_desktop.71ff2b8320.webp"
+        "label": "Web design conference",
+        "model": "claude-opus-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/design-conference-website",
+        "image": "https://media.vibefather.ai/t/overprint/03a1262c-d246-44b0-8991-7234b0e8cebb/shot_desktop.ce08edf227.webp"
       },
       {
-        "label": "Design systems webinar",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/webinar-registration-page?case=34470f64-0dec-4e05-930e-19f09ad53b53",
-        "image": "https://media.vibefather.ai/t/webinar-registration-page/34470f64-0dec-4e05-930e-19f09ad53b53/shot_desktop.c7cf30ac81.webp"
+        "label": "Food systems summit",
+        "model": "claude-opus-5-5",
+        "tool": "Cursor",
+        "url": "https://vibefather.ai/templates/design-conference-website?case=bbf63e45-2cf3-4d9d-ac6d-4bdca1bfcee4",
+        "image": "https://media.vibefather.ai/t/overprint/bbf63e45-2cf3-4d9d-ac6d-4bdca1bfcee4/shot_desktop.a91e597060.webp"
       }
     ]
   },
@@ -6011,6 +6256,45 @@
     ]
   },
   {
+    "slug": "biotech-startup-website",
+    "title": "Biotech Startup Website",
+    "tagline": "Lab-clean biotech platform site with a rotating code-drawn molecule, pipeline table and calm science motion.",
+    "category": "launch",
+    "access": "free",
+    "types": [
+      "landing-page"
+    ],
+    "styles": [
+      "swiss",
+      "minimal"
+    ],
+    "effects": [
+      "scroll-animation",
+      "micro-interactions"
+    ],
+    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
+    "pages": 1,
+    "url": "https://vibefather.ai/templates/biotech-startup-website",
+    "prompt": "templates/biotech-startup-website/prompt.md",
+    "design": "templates/biotech-startup-website/DESIGN.md",
+    "demos": [
+      {
+        "label": "Protein design biotech",
+        "model": "glm-5-3",
+        "tool": "ZCode",
+        "url": "https://vibefather.ai/templates/biotech-startup-website",
+        "image": "https://media.vibefather.ai/t/biotech-startup-website/0f81630c-629d-4348-aa9e-51d387481d86/shot_desktop.6dcb086baa.webp"
+      },
+      {
+        "label": "Soil microbiome startup",
+        "model": "deepseek-v4-1-flash",
+        "tool": "DeepSeek Harness",
+        "url": "https://vibefather.ai/templates/biotech-startup-website?case=3ff723b7-612b-43d1-a47b-ad45a0a3b32f",
+        "image": "https://media.vibefather.ai/t/biotech-startup-website/3ff723b7-612b-43d1-a47b-ad45a0a3b32f/shot_desktop.74ff81be43.webp"
+      }
+    ]
+  },
+  {
     "slug": "saas-app-dashboard-starter",
     "title": "SaaS App Dashboard Starter",
     "tagline": "A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.",
@@ -6040,46 +6324,6 @@
         "tool": "Codex",
         "url": "https://vibefather.ai/templates/saas-app-dashboard-starter",
         "image": "https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp"
-      }
-    ]
-  },
-  {
-    "slug": "jet-engine-interactive-explainer",
-    "title": "Jet Engine Interactive Explainer",
-    "tagline": "A scroll-driven 3D turbofan with cutaways, relative rotor speeds, live airflow, and a working throttle.",
-    "category": "explainers-slides",
-    "access": "pro",
-    "types": [
-      "explainer"
-    ],
-    "styles": [
-      "swiss",
-      "dark"
-    ],
-    "effects": [
-      "scroll-animation",
-      "3d",
-      "micro-interactions"
-    ],
-    "stack": "Vite 6 + React 19 + TypeScript + Vanilla CSS + three + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/jet-engine-interactive-explainer",
-    "prompt": "templates/jet-engine-interactive-explainer/prompt.md",
-    "design": "templates/jet-engine-interactive-explainer/DESIGN.md",
-    "demos": [
-      {
-        "label": "High-bypass turbofan",
-        "model": "kimi-k3-1-pro",
-        "tool": "Kimi Code",
-        "url": "https://vibefather.ai/templates/jet-engine-interactive-explainer",
-        "image": "https://media.vibefather.ai/t/jet-engine-interactive-explainer/c3f78554-75a3-4b98-a3b3-d3091cea8c27/shot_desktop.b11f0a0591.webp"
-      },
-      {
-        "label": "Turboprop engine",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/jet-engine-interactive-explainer?case=895eb53b-d7ef-4c97-b7b7-4e01fa6d12ea",
-        "image": "https://media.vibefather.ai/t/jet-engine-interactive-explainer/895eb53b-d7ef-4c97-b7b7-4e01fa6d12ea/shot_desktop.d28be4b2c6.webp"
       }
     ]
   },
@@ -6496,46 +6740,6 @@
     ]
   },
   {
-    "slug": "design-conference-website",
-    "title": "Design Conference Website",
-    "tagline": "Poster-type conference site with a cursor-reactive variable headline and a filterable two-day schedule.",
-    "category": "events",
-    "access": "free",
-    "types": [
-      "event"
-    ],
-    "styles": [
-      "editorial",
-      "swiss"
-    ],
-    "effects": [
-      "text-animation",
-      "marquee",
-      "cursor"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 2,
-    "url": "https://vibefather.ai/templates/design-conference-website",
-    "prompt": "templates/design-conference-website/prompt.md",
-    "design": "templates/design-conference-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Web design conference",
-        "model": "claude-opus-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/design-conference-website",
-        "image": "https://media.vibefather.ai/t/overprint/03a1262c-d246-44b0-8991-7234b0e8cebb/shot_desktop.ce08edf227.webp"
-      },
-      {
-        "label": "Food systems summit",
-        "model": "claude-opus-5-5",
-        "tool": "Cursor",
-        "url": "https://vibefather.ai/templates/design-conference-website?case=bbf63e45-2cf3-4d9d-ac6d-4bdca1bfcee4",
-        "image": "https://media.vibefather.ai/t/overprint/bbf63e45-2cf3-4d9d-ac6d-4bdca1bfcee4/shot_desktop.a91e597060.webp"
-      }
-    ]
-  },
-  {
     "slug": "online-course-sales-page",
     "title": "Online Course Sales Page",
     "tagline": "Long-form course sales page with the instructor's portrait, curriculum accordion, sample results, payment plans and a plain guarantee.",
@@ -6687,46 +6891,6 @@
     ]
   },
   {
-    "slug": "space-tech-startup-website",
-    "title": "Space Tech Startup Website",
-    "tagline": "Deep-space startup site with an animated orbit diagram, ticking telemetry and a launch manifest rail.",
-    "category": "launch",
-    "access": "pro",
-    "types": [
-      "landing-page"
-    ],
-    "styles": [
-      "dark",
-      "minimal"
-    ],
-    "effects": [
-      "parallax",
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/space-tech-startup-website",
-    "prompt": "templates/space-tech-startup-website/prompt.md",
-    "design": "templates/space-tech-startup-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Satellite constellation startup",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/space-tech-startup-website",
-        "image": "https://media.vibefather.ai/t/space-tech-startup-website/2ca60dd1-5564-4472-85d1-ef69d2943cdb/shot_desktop.59f7d5a3c1.webp"
-      },
-      {
-        "label": "Orbital propellant depot",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/space-tech-startup-website?case=c365429e-0655-469c-8780-96cbe6ac97a5",
-        "image": "https://media.vibefather.ai/t/space-tech-startup-website/c365429e-0655-469c-8780-96cbe6ac97a5/shot_desktop.e52478f303.webp"
-      }
-    ]
-  },
-  {
     "slug": "sales-crm-dashboard",
     "title": "Sales CRM Dashboard",
     "tagline": "Working CRM app screens: drag-and-drop pipeline kanban, contacts table, deal drawer and revenue charts — all in localStorage.",
@@ -6843,52 +7007,6 @@
     ]
   },
   {
-    "slug": "how-large-language-models-work",
-    "title": "How Large Language Models Work",
-    "tagline": "A scrolling explainer that shows, step by step, how a language model chooses the next word.",
-    "category": "explainers-slides",
-    "access": "pro",
-    "types": [
-      "explainer"
-    ],
-    "styles": [
-      "editorial",
-      "minimal"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + gsap + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/how-large-language-models-work",
-    "prompt": "templates/how-large-language-models-work/prompt.md",
-    "design": "templates/how-large-language-models-work/DESIGN.md",
-    "demos": [
-      {
-        "label": "Next-word prediction",
-        "model": "claude-opus-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/how-large-language-models-work",
-        "image": "https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp"
-      },
-      {
-        "label": "Code completion",
-        "model": "claude-sonnet-5-5",
-        "tool": "Claude Code",
-        "url": "https://vibefather.ai/templates/how-large-language-models-work?case=a9e9d1f1-f3ec-483c-9d84-aadf37fce515",
-        "image": "https://media.vibefather.ai/t/how-large-language-models-work/a9e9d1f1-f3ec-483c-9d84-aadf37fce515/shot_desktop.961761ed90.webp"
-      },
-      {
-        "label": "Next-word prediction",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/how-large-language-models-work?case=f5d8001a-e9d6-467b-a9a0-13a61c5c85fb",
-        "image": "https://media.vibefather.ai/t/how-large-language-models-work/f5d8001a-e9d6-467b-a9a0-13a61c5c85fb/shot_desktop.1788a05307.webp"
-      }
-    ]
-  },
-  {
     "slug": "mars-colony-builder-game",
     "title": "Mars Colony Builder Game",
     "tagline": "Place four structures, ride the dust storms, and house 50 colonists.",
@@ -6963,45 +7081,6 @@
         "tool": "DeepSeek Harness",
         "url": "https://vibefather.ai/templates/telehealth-app-landing-page?case=c45dcd4b-0885-4a6c-bf0f-ac25e5438fac",
         "image": "https://media.vibefather.ai/t/telehealth-app-landing-page/c45dcd4b-0885-4a6c-bf0f-ac25e5438fac/shot_desktop.0a82e90982.webp"
-      }
-    ]
-  },
-  {
-    "slug": "biotech-startup-website",
-    "title": "Biotech Startup Website",
-    "tagline": "Lab-clean biotech platform site with a rotating code-drawn molecule, pipeline table and calm science motion.",
-    "category": "launch",
-    "access": "free",
-    "types": [
-      "landing-page"
-    ],
-    "styles": [
-      "swiss",
-      "minimal"
-    ],
-    "effects": [
-      "scroll-animation",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/biotech-startup-website",
-    "prompt": "templates/biotech-startup-website/prompt.md",
-    "design": "templates/biotech-startup-website/DESIGN.md",
-    "demos": [
-      {
-        "label": "Protein design biotech",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/biotech-startup-website",
-        "image": "https://media.vibefather.ai/t/biotech-startup-website/0f81630c-629d-4348-aa9e-51d387481d86/shot_desktop.6dcb086baa.webp"
-      },
-      {
-        "label": "Soil microbiome startup",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/biotech-startup-website?case=3ff723b7-612b-43d1-a47b-ad45a0a3b32f",
-        "image": "https://media.vibefather.ai/t/biotech-startup-website/3ff723b7-612b-43d1-a47b-ad45a0a3b32f/shot_desktop.74ff81be43.webp"
       }
     ]
   },
@@ -9890,46 +9969,6 @@
     ]
   },
   {
-    "slug": "hackathon-event-page",
-    "title": "Hackathon Event Page",
-    "tagline": "Overnight-energy hackathon page with a live countdown, prize tracks, a 36-hour schedule, judges, sponsor tiles and registration.",
-    "category": "saas-ai-apps",
-    "access": "free",
-    "types": [
-      "event",
-      "landing-page"
-    ],
-    "styles": [
-      "dark",
-      "terminal"
-    ],
-    "effects": [
-      "countdown",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/hackathon-event-page",
-    "prompt": "templates/hackathon-event-page/prompt.md",
-    "design": "templates/hackathon-event-page/DESIGN.md",
-    "demos": [
-      {
-        "label": "Student hackathon",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/hackathon-event-page",
-        "image": "https://media.vibefather.ai/t/hackathon-event-page/d79a64fd-16da-4b5b-b8da-2a19963e97c9/shot_desktop.fb4a3323e5.webp"
-      },
-      {
-        "label": "Climate-tech hackathon",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/hackathon-event-page?case=eb16b13b-d4f2-4596-a27d-0b6e35401c9b",
-        "image": "https://media.vibefather.ai/t/hackathon-event-page/eb16b13b-d4f2-4596-a27d-0b6e35401c9b/shot_desktop.6a00303cc1.webp"
-      }
-    ]
-  },
-  {
     "slug": "coding-bootcamp-website",
     "title": "Coding Bootcamp Website",
     "tagline": "Campus-bright bootcamp site with a curriculum timeline, cohort table, sample outcomes, tuition cards and a validated application form.",
@@ -9965,45 +10004,6 @@
         "tool": "DeepSeek Harness",
         "url": "https://vibefather.ai/templates/coding-bootcamp-website?case=082085ed-b9be-4632-b0e2-50c81a11f95d",
         "image": "https://media.vibefather.ai/t/coding-bootcamp-website/082085ed-b9be-4632-b0e2-50c81a11f95d/shot_desktop.00e46e6f41.webp"
-      }
-    ]
-  },
-  {
-    "slug": "coming-soon-page",
-    "title": "Coming Soon Page",
-    "tagline": "Single-screen coming-soon page with a drifting CSS aurora, live countdown, honest email capture and a three-feature teaser.",
-    "category": "launch",
-    "access": "free",
-    "types": [
-      "landing-page"
-    ],
-    "styles": [
-      "aurora",
-      "dark"
-    ],
-    "effects": [
-      "countdown",
-      "micro-interactions"
-    ],
-    "stack": "Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react",
-    "pages": 1,
-    "url": "https://vibefather.ai/templates/coming-soon-page",
-    "prompt": "templates/coming-soon-page/prompt.md",
-    "design": "templates/coming-soon-page/DESIGN.md",
-    "demos": [
-      {
-        "label": "Software product pre-launch",
-        "model": "glm-5-3",
-        "tool": "ZCode",
-        "url": "https://vibefather.ai/templates/coming-soon-page",
-        "image": "https://media.vibefather.ai/t/coming-soon-page/d4f337b5-61a0-47e9-9121-fbb9cb4dd13f/shot_desktop.cb2e827ce6.webp"
-      },
-      {
-        "label": "Coffee subscription pre-launch",
-        "model": "deepseek-v4-1-flash",
-        "tool": "DeepSeek Harness",
-        "url": "https://vibefather.ai/templates/coming-soon-page?case=ec9127f6-c0e8-4765-af09-42ba03954ce0",
-        "image": "https://media.vibefather.ai/t/coming-soon-page/ec9127f6-c0e8-4765-af09-42ba03954ce0/shot_desktop.690bd6006e.webp"
       }
     ]
   },

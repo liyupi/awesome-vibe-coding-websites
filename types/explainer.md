@@ -13,24 +13,24 @@
 <sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/interactive-science-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-science-explainer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/shot_desktop.72d6d6d017.webp" width="100%" alt="Solar System 3D Explainer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a><br>
+<b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> <sup>PRO</sup><br>
+<sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · GPT-6 Astra · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/solar-system-3d-explainer/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
 <b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b><br>
 <sub>Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.</sub><br>
 <sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/carbon-cycle-scroll-explainer/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-theory-interactive-lesson?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/af0603c9-6944-49b1-a393-b071ab0ea5ca/shot_desktop.28b8e07783.webp" width="100%" alt="Music Theory Interactive Lesson website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
 <b><a href="../templates/music-theory-interactive-lesson">Music Theory Interactive Lesson</a></b><br>
 <sub>Press a key, hear the interval, watch the theory light up: a playable lesson on one long page.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/music-theory-interactive-lesson?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/music-theory-interactive-lesson/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/shot_desktop.72d6d6d017.webp" width="100%" alt="Solar System 3D Explainer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a><br>
-<b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> <sup>PRO</sup><br>
-<sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · GPT-6 Astra · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/solar-system-3d-explainer/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -83,6 +83,20 @@
 <sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/hand-drawn-scroll-explainer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/jet-engine-interactive-explainer/c3f78554-75a3-4b98-a3b3-d3091cea8c27/shot_desktop.b11f0a0591.webp" width="100%" alt="Jet Engine Interactive Explainer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/jet-engine-interactive-explainer">Jet Engine Interactive Explainer</a></b> <sup>PRO</sup><br>
+<sub>A scroll-driven 3D turbofan with cutaways, relative rotor speeds, live airflow, and a working throttle.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/jet-engine-interactive-explainer/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/how-large-language-models-work?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/how-large-language-models-work">How Large Language Models Work</a></b> <sup>PRO</sup><br>
+<sub>A scrolling explainer that shows, step by step, how a language model chooses the next word.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/how-large-language-models-work?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/how-large-language-models-work/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/anime-character-run-cycle-showcase/86bdf988-a1d2-4948-9876-e05d189ef61d/shot_desktop.badaff9ae8.webp" width="100%" alt="Anime Character Run Cycle Showcase website template — live demo built by Grok 4.7"></a><br>
 <b><a href="../templates/anime-character-run-cycle-showcase">Anime Character Run Cycle Showcase</a></b><br>
 <sub>A toon-shaded runner loops one stride on a stage you can pause, scrub and orbit.</sub><br>
@@ -111,32 +125,18 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/constellation-story-map/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/jet-engine-interactive-explainer/c3f78554-75a3-4b98-a3b3-d3091cea8c27/shot_desktop.b11f0a0591.webp" width="100%" alt="Jet Engine Interactive Explainer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/jet-engine-interactive-explainer">Jet Engine Interactive Explainer</a></b> <sup>PRO</sup><br>
-<sub>A scroll-driven 3D turbofan with cutaways, relative rotor speeds, live airflow, and a working throttle.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/jet-engine-interactive-explainer/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/ef01b8f6-ba7e-42af-b0b8-a2c800eae935/shot_desktop.31e604e972.webp" width="100%" alt="Interactive Apartment Floor Plan Tour website template — live demo built by GPT-6.1 Sol"></a><br>
 <b><a href="../templates/interactive-apartment-floor-plan-tour">Interactive Apartment Floor Plan Tour</a></b> <sup>PRO</sup><br>
 <sub>Move from a measured floor plan to a furnished apartment, one room at a time.</sub><br>
 <sub>GPT-6.1 Sol · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-apartment-floor-plan-tour/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/annual-report-data-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/annual-report-data-story/358dff4a-4625-4046-8601-4e6d1fe10b5e/shot_desktop.e88877d996.webp" width="100%" alt="Annual Report Data Story website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
 <b><a href="../templates/annual-report-data-story">Annual Report Data Story</a></b> <sup>PRO</sup><br>
 <sub>A scrolling annual report with count-up numbers, charts that draw themselves and a dot-grid office map.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/annual-report-data-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/annual-report-data-story/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/how-large-language-models-work?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/how-large-language-models-work">How Large Language Models Work</a></b> <sup>PRO</sup><br>
-<sub>A scrolling explainer that shows, step by step, how a language model chooses the next word.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/how-large-language-models-work?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/how-large-language-models-work/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/fieldnotes/f1f0a8ca-cd60-4325-b8c3-3f31f77d2061/shot_desktop.ac24b57491.webp" width="100%" alt="Podcast Episode Companion Page website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>

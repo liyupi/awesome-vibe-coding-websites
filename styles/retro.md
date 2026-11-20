@@ -13,18 +13,18 @@
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/y2k-chrome-fashion-drop-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/coinslot/884b18c2-d036-476f-8c99-65397e86221e/shot_desktop.325abec805.webp" width="100%" alt="Arcade Game Studio Landing Page website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
-<b><a href="../templates/arcade-game-studio-landing-page">Arcade Game Studio Landing Page</a></b> <sup>PRO</sup><br>
-<sub>Pixel-art arcade landing page for a game studio, with a playable runner in the hero and a local high-score board.</sub><br>
-<sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/arcade-game-studio-landing-page/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/techno-club-night-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp" width="100%" alt="Techno Club Night Event Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
 <b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b><br>
 <sub>An acid club poster with real audio reaction, set times, a venue diagram, and local ticket planning.</sub><br>
 <sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/techno-club-night-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/techno-club-night-event-page/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/coinslot/884b18c2-d036-476f-8c99-65397e86221e/shot_desktop.325abec805.webp" width="100%" alt="Arcade Game Studio Landing Page website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
+<b><a href="../templates/arcade-game-studio-landing-page">Arcade Game Studio Landing Page</a></b> <sup>PRO</sup><br>
+<sub>Pixel-art arcade landing page for a game studio, with a playable runner in the hero and a local high-score board.</sub><br>
+<sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/arcade-game-studio-landing-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/typing-speed-race-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/typing-speed-race-game/deae1ec5-aea3-4056-97c0-d7bc34dd0998/shot_desktop.fddeee1ac1.webp" width="100%" alt="Typing Speed Race Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

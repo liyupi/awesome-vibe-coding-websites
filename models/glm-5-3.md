@@ -21,14 +21,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/roofing-company-website/fdccef11-0f1f-4aa1-81e0-331e289a53f3/shot_desktop.d6af76005b.webp" width="100%" alt="Roofing Company Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/roofing-company-website">Roofing Company Website</a></b><br>
-<sub>Residential roofer, Harlow Springs · ZCode · <a href="https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/shot_desktop.d40cc25515.webp" width="100%" alt="Indie Game Launch Page built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/indie-game-launch-page">Indie Game Launch Page</a></b> <sup>PRO</sup><br>
 <sub>Indie game launch · ZCode · <a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/roofing-company-website/fdccef11-0f1f-4aa1-81e0-331e289a53f3/shot_desktop.d6af76005b.webp" width="100%" alt="Roofing Company Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/roofing-company-website">Roofing Company Website</a></b><br>
+<sub>Residential roofer, Harlow Springs · ZCode · <a href="https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -45,21 +45,21 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp" width="100%" alt="Car Wash and Detailing Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/car-wash-and-detailing-website">Car Wash and Detailing Website</a></b><br>
+<sub>Auto spa, Marina Heights · ZCode · <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=0bb729a5-85a9-4861-8f86-26b62ca59552&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/0bb729a5-85a9-4861-8f86-26b62ca59552/shot_desktop.6ed0ac2903.webp" width="100%" alt="Travel Agency Tour Packages Website built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/travel-agency-tour-packages-website">Travel Agency Tour Packages Website</a></b> <sup>PRO</sup><br>
 <sub>Nordic and Highland tours · ZCode · <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=0bb729a5-85a9-4861-8f86-26b62ca59552&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/meditation-app-landing-page?case=331632b0-f230-4d2e-b3c2-c5076f7db849&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/331632b0-f230-4d2e-b3c2-c5076f7db849/shot_desktop.d528caa296.webp" width="100%" alt="Meditation App Landing Page built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/meditation-app-landing-page">Meditation App Landing Page</a></b><br>
 <sub>Meditation app · ZCode · <a href="https://vibefather.ai/templates/meditation-app-landing-page?case=331632b0-f230-4d2e-b3c2-c5076f7db849&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/e-commerce-admin-dashboard">E-commerce Admin Dashboard</a></b><br>
-<sub>Outdoor gear store admin · ZCode · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/perfume-product-page?case=bd5b5e90-6c67-4d7e-ba72-8f877f664d7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/perfume-product-page/bd5b5e90-6c67-4d7e-ba72-8f877f664d7f/shot_desktop.17027c59ab.webp" width="100%" alt="Perfume Product Page built by GLM-5.3 in ZCode"></a><br>
@@ -69,26 +69,38 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp" width="100%" alt="Car Wash and Detailing Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/car-wash-and-detailing-website">Car Wash and Detailing Website</a></b><br>
-<sub>Auto spa, Marina Heights · ZCode · <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/16080d09-ae32-4fdc-846e-ad95636eb935/shot_desktop.5d6f995d8e.webp" width="100%" alt="Industrial Manufacturing Company Website built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/industrial-manufacturing-company-website">Industrial Manufacturing Company Website</a></b> <sup>PRO</sup><br>
 <sub>CNC machine shop, Halbrook · ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/e-commerce-admin-dashboard">E-commerce Admin Dashboard</a></b><br>
+<sub>Outdoor gear store admin · ZCode · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/landscaping-and-lawn-care-website?case=f7217243-3200-4360-b608-ae6bb3995390&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/landscaping-and-lawn-care-website/f7217243-3200-4360-b608-ae6bb3995390/shot_desktop.91ecb9baac.webp" width="100%" alt="Landscaping and Lawn Care Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/landscaping-and-lawn-care-website">Landscaping and Lawn Care Website</a></b><br>
-<sub>Neighborhood lawn care, Willow Bend · ZCode · <a href="https://vibefather.ai/templates/landscaping-and-lawn-care-website?case=f7217243-3200-4360-b608-ae6bb3995390&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/ev-charging-network-website?case=807b4d36-1963-44e1-a401-0f11eccd36f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/ev-charging-network-website/807b4d36-1963-44e1-a401-0f11eccd36f2/shot_desktop.78695d254b.webp" width="100%" alt="EV Charging Network Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/ev-charging-network-website">EV Charging Network Website</a></b><br>
+<sub>EV charging network · ZCode · <a href="https://vibefather.ai/templates/ev-charging-network-website?case=807b4d36-1963-44e1-a401-0f11eccd36f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/739913b4-fb92-4794-a6b3-064c1ae39bfb/shot_desktop.04387a7a33.webp" width="100%" alt="Techno Club Night Event Page built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b><br>
 <sub>Warehouse electronic assembly · ZCode · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/drone-services-company-website/6ef97bed-5043-4da4-89da-33af55ce2f35/shot_desktop.45a4d961b2.webp" width="100%" alt="Drone Services Company Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/drone-services-company-website">Drone Services Company Website</a></b><br>
+<sub>Aerial survey company · ZCode · <a href="https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/landscaping-and-lawn-care-website?case=f7217243-3200-4360-b608-ae6bb3995390&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/landscaping-and-lawn-care-website/f7217243-3200-4360-b608-ae6bb3995390/shot_desktop.91ecb9baac.webp" width="100%" alt="Landscaping and Lawn Care Website built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/landscaping-and-lawn-care-website">Landscaping and Lawn Care Website</a></b><br>
+<sub>Neighborhood lawn care, Willow Bend · ZCode · <a href="https://vibefather.ai/templates/landscaping-and-lawn-care-website?case=f7217243-3200-4360-b608-ae6bb3995390&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -105,21 +117,21 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<b><a href="../templates/property-management-company-website">Property Management Company Website</a></b> <sup>PRO</sup><br>
+<sub>Rental management, Ellsworth · ZCode · <a href="https://vibefather.ai/templates/property-management-company-website?case=b1be4f69-ba53-42c4-bc99-24d5799b7b7e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fashion-online-store?case=4a4dd574-4bb6-4841-83cb-2236363d986f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/fashion-online-store/4a4dd574-4bb6-4841-83cb-2236363d986f/shot_desktop.0c7958f7e9.webp" width="100%" alt="Fashion Online Store built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/fashion-online-store">Fashion Online Store</a></b> <sup>PRO</sup><br>
 <sub>Linen label in Lisbon · ZCode · <a href="https://vibefather.ai/templates/fashion-online-store?case=4a4dd574-4bb6-4841-83cb-2236363d986f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio built by GLM-5.3 in ZCode"></a><br>
 <b><a href="../templates/minimal-developer-portfolio">Minimal Developer Portfolio</a></b><br>
 <sub>Backend developer portfolio · ZCode · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<b><a href="../templates/property-management-company-website">Property Management Company Website</a></b> <sup>PRO</sup><br>
-<sub>Rental management, Ellsworth · ZCode · <a href="https://vibefather.ai/templates/property-management-company-website?case=b1be4f69-ba53-42c4-bc99-24d5799b7b7e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio built by GLM-5.3 in ZCode"></a><br>
@@ -134,21 +146,9 @@
 <sub>Creative practice institute · ZCode · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=c23f9a62-c6ae-42ba-8f78-559767f4c2ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b/shot_desktop.ecd561617f.webp" width="100%" alt="Risograph Indie Magazine Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
-<sub>Design and making journal · ZCode · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/coffee-shop-website?case=1af58d10-b5fe-4f81-bcc3-f9665827c346&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/coffee-shop-website/1af58d10-b5fe-4f81-bcc3-f9665827c346/shot_desktop.6d9708d173.webp" width="100%" alt="Coffee Shop Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/coffee-shop-website">Coffee Shop Website</a></b><br>
-<sub>Corner cafe in Portland · ZCode · <a href="https://vibefather.ai/templates/coffee-shop-website?case=1af58d10-b5fe-4f81-bcc3-f9665827c346&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/private-k-12-school-website/656a8501-c697-48d6-8801-9ad021d3196e/shot_desktop.96f80f5a2f.webp" width="100%" alt="Private K-12 School Website built by GLM-5.3 in ZCode"></a><br>
-<b><a href="../templates/private-k-12-school-website">Private K-12 School Website</a></b><br>
-<sub>K-12 school, Windmere · ZCode · <a href="https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/night-market-food-festival?case=41a9fe20-4116-4101-afb8-1377e94718e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/night-market-food-festival/41a9fe20-4116-4101-afb8-1377e94718e4/shot_desktop.2eeb9a4e11.webp" width="100%" alt="Night Market Food Festival built by GLM-5.3 in ZCode"></a><br>
+<b><a href="../templates/night-market-food-festival">Night Market Food Festival</a></b><br>
+<sub>Lantern Row Night Market · ZCode · <a href="https://vibefather.ai/templates/night-market-food-festival?case=41a9fe20-4116-4101-afb8-1377e94718e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -157,21 +157,25 @@
 
 | Template | Content | Tool | |
 |---|---|---|---|
-| [Drone Services Company Website](../templates/drone-services-company-website) | Aerial survey company | ZCode | [Live demo](https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Risograph Indie Magazine Website](../templates/risograph-indie-magazine-website) | Design and making journal | ZCode | [Live demo](https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Coffee Shop Website](../templates/coffee-shop-website) | Corner cafe in Portland | ZCode | [Live demo](https://vibefather.ai/templates/coffee-shop-website?case=1af58d10-b5fe-4f81-bcc3-f9665827c346&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Private K-12 School Website](../templates/private-k-12-school-website) | K-12 school, Windmere | ZCode | [Live demo](https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Smart Home Product Landing Page](../templates/smart-home-product-landing-page) | Smart home starter kit | ZCode | [Live demo](https://vibefather.ai/templates/smart-home-product-landing-page?case=5c94e6b7-19e6-4f67-b5e6-48f138178ef7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [EV Charging Network Website](../templates/ev-charging-network-website) | EV charging network | ZCode | [Live demo](https://vibefather.ai/templates/ev-charging-network-website?case=807b4d36-1963-44e1-a401-0f11eccd36f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Space Tech Startup Website](../templates/space-tech-startup-website) | Satellite constellation startup | ZCode | [Live demo](https://vibefather.ai/templates/space-tech-startup-website?case=2ca60dd1-5564-4472-85d1-ef69d2943cdb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Interior Design Studio Website](../templates/interior-design-studio-website) | Residential design studio | ZCode | [Live demo](https://vibefather.ai/templates/interior-design-studio-website?case=06740e7f-e14f-4a49-a3fc-0dea0da94798&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Running Shoe Product Launch Page](../templates/running-shoe-product-launch-page) | City training shoe | ZCode | [Live demo](https://vibefather.ai/templates/running-shoe-product-launch-page?case=cf84f5ff-2a0b-4b54-a54f-d170abcdcf22&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Webinar Registration Page](../templates/webinar-registration-page) | B2B skills webinar | ZCode | [Live demo](https://vibefather.ai/templates/webinar-registration-page?case=5634dad1-ed5e-429a-a8a1-3192fd12801c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Indie Record Label Website](../templates/indie-record-label-website) | Static Bloom Records | ZCode | [Live demo](https://vibefather.ai/templates/indie-record-label-website?case=9e1665bf-5972-4167-83d1-8065aa0d01bb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Furniture Store Catalog](../templates/furniture-store-catalog) | Workshop furniture brand | ZCode | [Live demo](https://vibefather.ai/templates/furniture-store-catalog?case=8d96cd18-64c6-4938-a6a4-a9d9756491c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Coming Soon Page](../templates/coming-soon-page) | Software product pre-launch | ZCode | [Live demo](https://vibefather.ai/templates/coming-soon-page?case=d4f337b5-61a0-47e9-9121-fbb9cb4dd13f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Hackathon Event Page](../templates/hackathon-event-page) | Student hackathon | ZCode | [Live demo](https://vibefather.ai/templates/hackathon-event-page?case=d79a64fd-16da-4b5b-b8da-2a19963e97c9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Music Lessons School Website](../templates/music-lessons-school-website) | Music school, Birchwood | ZCode | [Live demo](https://vibefather.ai/templates/music-lessons-school-website?case=aa2e31cb-14b9-4c73-bf9e-58f055853b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Pet Grooming and Boarding Website](../templates/pet-grooming-and-boarding-website) | Grooming salon, Maplewood | ZCode | [Live demo](https://vibefather.ai/templates/pet-grooming-and-boarding-website?case=e45d8739-cc6f-404e-8056-9887a37ccfac&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Eyewear Store Website](../templates/eyewear-store-website) | Boutique optical shop | ZCode | [Live demo](https://vibefather.ai/templates/eyewear-store-website?case=524accc2-1c40-41a6-a24f-7af7b92419f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Tea Shop Website](../templates/tea-shop-website) | Loose-leaf tea shop | ZCode | [Live demo](https://vibefather.ai/templates/tea-shop-website?case=36b73c96-be02-4765-9444-89323d6302cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [University Admissions Website](../templates/university-admissions-website) | Stonewater University | ZCode | [Live demo](https://vibefather.ai/templates/university-admissions-website?case=379c9e84-9204-4956-bf7c-4d6e8d0429b0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Night Market Food Festival](../templates/night-market-food-festival) | Lantern Row Night Market | ZCode | [Live demo](https://vibefather.ai/templates/night-market-food-festival?case=41a9fe20-4116-4101-afb8-1377e94718e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Quirky Gadget Product Launch Page](../templates/quirky-gadget-product-launch-page) | Pocket decision helper | ZCode | [Live demo](https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=d6599102-35ae-4870-bf76-f04b06ce0718&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Sushi Omakase Restaurant Website](../templates/sushi-omakase-restaurant-website) | Omakase counter | ZCode | [Live demo](https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=d7a34626-11e3-4939-b7a6-4095c4af279e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [University Admissions Website](../templates/university-admissions-website) | Stonewater University | ZCode | [Live demo](https://vibefather.ai/templates/university-admissions-website?case=379c9e84-9204-4956-bf7c-4d6e8d0429b0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Quirky Gadget Product Launch Page](../templates/quirky-gadget-product-launch-page) | Pocket decision helper | ZCode | [Live demo](https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=d6599102-35ae-4870-bf76-f04b06ce0718&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Pet Food Subscription Page](../templates/pet-food-subscription-page) | Fresh dog food brand | ZCode | [Live demo](https://vibefather.ai/templates/pet-food-subscription-page?case=0680225a-5114-487c-a4db-ccac071f0cac&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Kids Learning App Landing Page](../templates/kids-learning-app-landing-page) | Bilingual story explorers | ZCode | [Live demo](https://vibefather.ai/templates/kids-learning-app-landing-page?case=08d369be-89a7-4411-9f68-a6ceb38d9bd3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Construction Company Website](../templates/construction-company-website) | Family renovation firm | ZCode | [Live demo](https://vibefather.ai/templates/construction-company-website?case=72872f7b-1d19-45fa-964c-b43971ae8bd8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
@@ -181,7 +185,6 @@
 | [Family Medical Clinic Website](../templates/family-medical-clinic-website) | Family clinic, Meadowbrook | ZCode | [Live demo](https://vibefather.ai/templates/family-medical-clinic-website?case=6afea008-4e7d-4a0f-90bd-397eb60b87ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [AI Music Generator Landing Page](../templates/ai-music-generator-landing-page) | Game soundtrack idea desk | ZCode | [Live demo](https://vibefather.ai/templates/ai-music-generator-landing-page?case=27b55c22-4026-4b7f-83ab-936e62f10375&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Community Bank Website](../templates/community-bank-website) | Community bank, Calverton | ZCode | [Live demo](https://vibefather.ai/templates/community-bank-website?case=1f2eee1f-c1e8-45ff-ba09-585fdd3538d5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Webinar Registration Page](../templates/webinar-registration-page) | B2B skills webinar | ZCode | [Live demo](https://vibefather.ai/templates/webinar-registration-page?case=5634dad1-ed5e-429a-a8a1-3192fd12801c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Movie Theater Showtimes Website](../templates/movie-theater-showtimes-website) | The Ruby Lantern | ZCode | [Live demo](https://vibefather.ai/templates/movie-theater-showtimes-website?case=45aa5cd0-bd23-48fe-b107-770674d3be57&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Gelato Shop Website](../templates/gelato-shop-website) | Gelato shop | ZCode | [Live demo](https://vibefather.ai/templates/gelato-shop-website?case=8f676154-e7ba-4319-bca6-3121ffced1de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Conference Talk Slide Deck](../templates/conference-talk-slide-deck) | Technical conference talk | ZCode | [Live demo](https://vibefather.ai/templates/conference-talk-slide-deck?case=7d0ae8ba-325d-4156-8dbc-05d47da9f4c2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
@@ -189,16 +192,15 @@
 | [Product Review Blog](../templates/product-review-blog) | Pour-over reviews (Morning Filter) | ZCode | [Live demo](https://vibefather.ai/templates/product-review-blog?case=cbad1a43-b5c3-4df8-91ae-d070c2fe83a3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Nutritionist Website with Plate Builder](../templates/nutritionist-website-with-plate-builder) | Nutrition coach June Calloway | ZCode | [Live demo](https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=f3a3eff1-7968-4471-91bd-e609aa347987&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Independent Pharmacy Website](../templates/independent-pharmacy-website) | Pharmacy, Alderwood | ZCode | [Live demo](https://vibefather.ai/templates/independent-pharmacy-website?case=bb59ef30-eaff-4778-a623-6b46f2e37cc3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Biotech Startup Website](../templates/biotech-startup-website) | Protein design biotech | ZCode | [Live demo](https://vibefather.ai/templates/biotech-startup-website?case=0f81630c-629d-4348-aa9e-51d387481d86&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Browser Extension Landing Page](../templates/browser-extension-landing-page) | Reading-mode extension | ZCode | [Live demo](https://vibefather.ai/templates/browser-extension-landing-page?case=40135812-f117-4a8b-8bea-6a9a5c2bc587&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Yacht Charter Website](../templates/yacht-charter-website) | Yacht charter | ZCode | [Live demo](https://vibefather.ai/templates/yacht-charter-website?case=4193f25b-2a96-4a84-afca-87848d4bb6ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Personal Chef Service Website](../templates/personal-chef-service-website) | Mediterranean private chef (Maren Holt) | ZCode | [Live demo](https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Wedding Photographer Portfolio](../templates/wedding-photographer-portfolio) | Hudson Valley wedding photographer | ZCode | [Live demo](https://vibefather.ai/templates/wedding-photographer-portfolio?case=66d02f47-a449-479a-ad01-a7a0b14c6a64&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Online Course Sales Page](../templates/online-course-sales-page) | 2D game making course | ZCode | [Live demo](https://vibefather.ai/templates/online-course-sales-page?case=483952a2-5a78-428a-a3bd-a666f748661a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Crowdfunding Campaign Page](../templates/crowdfunding-campaign-page) | Board game campaign | ZCode | [Live demo](https://vibefather.ai/templates/crowdfunding-campaign-page?case=1effcee4-f30a-41d0-9082-a13f7701bbdc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Space Tech Startup Website](../templates/space-tech-startup-website) | Satellite constellation startup | ZCode | [Live demo](https://vibefather.ai/templates/space-tech-startup-website?case=2ca60dd1-5564-4472-85d1-ef69d2943cdb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Sales CRM Dashboard](../templates/sales-crm-dashboard) | B2B sales team CRM | ZCode | [Live demo](https://vibefather.ai/templates/sales-crm-dashboard?case=1e2e9d16-d5f8-40d9-b40a-990a16dc2746&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Plant Shop Website](../templates/plant-shop-website) | Sunny corner plant shop | ZCode | [Live demo](https://vibefather.ai/templates/plant-shop-website?case=32397485-a5c0-4540-9542-a7e3642079a7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Biotech Startup Website](../templates/biotech-startup-website) | Protein design biotech | ZCode | [Live demo](https://vibefather.ai/templates/biotech-startup-website?case=0f81630c-629d-4348-aa9e-51d387481d86&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Kanban Project Board App](../templates/kanban-project-board-app) | Product launch board | ZCode | [Live demo](https://vibefather.ai/templates/kanban-project-board-app?case=41e91195-a32d-4a66-a866-f8da7451b18d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Event Venue Website](../templates/event-venue-website) | Converted-warehouse venue | ZCode | [Live demo](https://vibefather.ai/templates/event-venue-website?case=52beb175-42c7-4ba2-b6de-7cf4ab5a779a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Driving School Website](../templates/driving-school-website) | Greenlight Driving School | ZCode | [Live demo](https://vibefather.ai/templates/driving-school-website?case=7e58f2a1-30ee-4553-9ac0-7e969591e44c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
@@ -235,9 +237,7 @@
 | [Retro Roller Rink Website](../templates/retro-roller-rink-website) | Community skate hall | ZCode | [Live demo](https://vibefather.ai/templates/retro-roller-rink-website?case=ce3e0a77-a18c-4899-9cfb-cd9839716698&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Escape Room Website](../templates/escape-room-website) | Downtown escape rooms | ZCode | [Live demo](https://vibefather.ai/templates/escape-room-website?case=0dca018b-154d-45ee-b2a6-d84549f501f9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Climbing Gym Website](../templates/climbing-gym-website) | Climbing gym | ZCode | [Live demo](https://vibefather.ai/templates/climbing-gym-website?case=45248244-bf0e-4cfe-84b4-3ad1666f4e21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Hackathon Event Page](../templates/hackathon-event-page) | Student hackathon | ZCode | [Live demo](https://vibefather.ai/templates/hackathon-event-page?case=d79a64fd-16da-4b5b-b8da-2a19963e97c9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Coding Bootcamp Website](../templates/coding-bootcamp-website) | Full-stack web bootcamp | ZCode | [Live demo](https://vibefather.ai/templates/coding-bootcamp-website?case=5335d068-febd-4d23-a2a3-55ffd05cb67b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Coming Soon Page](../templates/coming-soon-page) | Software product pre-launch | ZCode | [Live demo](https://vibefather.ai/templates/coming-soon-page?case=d4f337b5-61a0-47e9-9121-fbb9cb4dd13f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [News Magazine Homepage](../templates/news-magazine-homepage) | City weekly paper | ZCode | [Live demo](https://vibefather.ai/templates/news-magazine-homepage?case=77202bfe-c231-4ca2-b7ab-6bb67a1bf5fd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Job Board Website](../templates/job-board-website) | Design jobs board | ZCode | [Live demo](https://vibefather.ai/templates/job-board-website?case=e083ef43-0282-488c-a054-6b0d57f65a20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Fintech App Landing Page](../templates/fintech-app-landing-page) | Everyday banking app | ZCode | [Live demo](https://vibefather.ai/templates/fintech-app-landing-page?case=1f4ee3f0-fa01-49ac-bf29-9a6d6686fd68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |

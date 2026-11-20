@@ -27,6 +27,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> — <sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/248f7a6f-7d72-46f6-bf19-a842a2442f20/shot_desktop.f66964e52f.webp" width="100%" alt="Solar System 3D Explainer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/90fb5510-12de-4417-8ec4-9cb119db17d9/shot_desktop.90dc4ecc64.webp" width="100%" alt="Solar System 3D Explainer built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/music-festival-website">Music Festival Website</a></b> — <sub>A three-page festival site with a sound-reactive hero, filterable line-up, illustrated map and ticket table.</sub></td>
 </tr>
 <tr>
@@ -39,13 +46,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/2f932c79-1b6f-4009-9a5a-53ef75e7eb86/shot_desktop.dd92aa998d.webp" width="100%" alt="Liquid Glass Product Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/89dc8bdc-f96b-411d-a68c-a0e7a4d82a34/shot_desktop.597a69b55f.webp" width="100%" alt="Liquid Glass Product Page built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> — <sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/248f7a6f-7d72-46f6-bf19-a842a2442f20/shot_desktop.f66964e52f.webp" width="100%" alt="Solar System 3D Explainer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/90fb5510-12de-4417-8ec4-9cb119db17d9/shot_desktop.90dc4ecc64.webp" width="100%" alt="Solar System 3D Explainer built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> — <sub>A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.</sub></td>

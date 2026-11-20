@@ -27,18 +27,18 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/snow-globe-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/snow-globe-toy/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
-<b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b><br>
-<sub>Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.</sub><br>
-<sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/carbon-cycle-scroll-explainer/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-festival-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/music-festival-website/811158fe-3a14-47f4-a6cb-1d81a9ba99c0/shot_desktop.edcfa6a3a9.webp" width="100%" alt="Music Festival Website website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a><br>
 <b><a href="../templates/music-festival-website">Music Festival Website</a></b> <sup>PRO</sup><br>
 <sub>A three-page festival site with a sound-reactive hero, filterable line-up, illustrated map and ticket table.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/music-festival-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/music-festival-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
+<b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b><br>
+<sub>Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.</sub><br>
+<sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/carbon-cycle-scroll-explainer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-theory-interactive-lesson?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/af0603c9-6944-49b1-a393-b071ab0ea5ca/shot_desktop.28b8e07783.webp" width="100%" alt="Music Theory Interactive Lesson website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
@@ -125,52 +125,52 @@
 <sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/geometric-art-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/geometric-art-school-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/night-market-food-festival/41a9fe20-4116-4101-afb8-1377e94718e4/shot_desktop.2eeb9a4e11.webp" width="100%" alt="Night Market Food Festival website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/night-market-food-festival">Night Market Food Festival</a></b><br>
+<sub>Neon night-market page with a filterable vendor map, two-stage schedule, and token ticket tiers.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/night-market-food-festival/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
 <b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
 <sub>A fluorescent print magazine with overprinted cover art, full stories, and a local print subscription demo.</sub><br>
 <sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/risograph-indie-magazine-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/5c94e6b7-19e6-4f67-b5e6-48f138178ef7/shot_desktop.e44386de84.webp" width="100%" alt="Smart Home Product Landing Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/smart-home-product-landing-page">Smart Home Product Landing Page</a></b> <sup>PRO</sup><br>
 <sub>A warm, code-drawn smart home landing page with a clickable cutaway house showing devices and automations.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/smart-home-product-landing-page/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/hand-drawn-scroll-explainer/2a75af7e-817b-4a70-ad93-7fef287c34fc/shot_desktop.294ea30624.webp" width="100%" alt="Hand-Drawn Scroll Explainer website template — live demo built by Claude Opus 5.5"></a><br>
 <b><a href="../templates/hand-drawn-scroll-explainer">Hand-Drawn Scroll Explainer</a></b> <sup>PRO</sup><br>
 <sub>A six-scene scroll explainer where a hand-drawn stick figure sketches any process while you scroll.</sub><br>
 <sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/hand-drawn-scroll-explainer/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
 <b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
 <sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub><br>
 <sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/running-shoe-product-launch-page/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/daybloom/3524132d-32e3-43aa-95ac-0cf58464516d/shot_desktop.b0b9e7a6db.webp" width="100%" alt="Habit Tracker App Landing Page website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
 <b><a href="../templates/habit-tracker-app-landing-page">Habit Tracker App Landing Page</a></b> <sup>PRO</sup><br>
 <sub>A pastel app landing page with a CSS phone that changes screens as you scroll and a tappable streak demo.</sub><br>
 <sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/habit-tracker-app-landing-page/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/island-postal-route-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/island-postal-route-game/d8a66cd7-bdcf-44ca-954a-24656d4f99fb/shot_desktop.34f4346fc3.webp" width="100%" alt="Island Postal Route Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/island-postal-route-game">Island Postal Route Game</a></b> <sup>PRO</sup><br>
 <sub>Walk a tiny autumn island, earn three elemental stamps, and open the hilltop temple gate.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/island-postal-route-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/island-postal-route-game/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/pet-grooming-and-boarding-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/pet-grooming-and-boarding-website/e45d8739-cc6f-404e-8056-9887a37ccfac/shot_desktop.027f88a279.webp" width="100%" alt="Pet Grooming and Boarding Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
-<b><a href="../templates/pet-grooming-and-boarding-website">Pet Grooming and Boarding Website</a></b><br>
-<sub>A cheerful grooming and boarding site with a size-and-coat price picker and a stay calculator that does the math.</sub><br>
-<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/pet-grooming-and-boarding-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/pet-grooming-and-boarding-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>
@@ -179,15 +179,15 @@
 
 | Template | What it is | Built with | |
 |---|---|---|---|
-| [Night Market Food Festival](../templates/night-market-food-festival) | Neon night-market page with a filterable vendor map, two-stage schedule, and token ticket tiers. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/night-market-food-festival/prompt.md) |
+| [Pet Grooming and Boarding Website](../templates/pet-grooming-and-boarding-website) | A cheerful grooming and boarding site with a size-and-coat price picker and a stay calculator that does the math. | GLM-5.3, Kimi K3.1 Pro | [Live demo](https://vibefather.ai/templates/pet-grooming-and-boarding-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/pet-grooming-and-boarding-website/prompt.md) |
 | [Quirky Gadget Product Launch Page](../templates/quirky-gadget-product-launch-page) <sup>PRO</sup> | A bold Memphis product launch with a draggable 3D gadget, tactile demos, and a local preorder. | GPT-6.1 Sol, GLM-5.3 | [Live demo](https://vibefather.ai/templates/quirky-gadget-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/quirky-gadget-product-launch-page/prompt.md) |
 | [Social Media Content Calendar](../templates/social-media-content-calendar) <sup>PRO</sup> | Plan four weeks of posts, try four formats, and move a draft from its first idea to the calendar. | GPT-6 Astra | [Live demo](https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/social-media-content-calendar/prompt.md) |
 | [Paper Lantern Festival Page](../templates/paper-lantern-festival-page) | Write a private wish, fold a glowing paper lantern, and release it above an illustrated midnight river. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/paper-lantern-festival-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/paper-lantern-festival-page/prompt.md) |
 | [Pet Food Subscription Page](../templates/pet-food-subscription-page) | Friendly pet food page with a plan-building quiz, live portions and prices, all client-side. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/pet-food-subscription-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/pet-food-subscription-page/prompt.md) |
 | [Kids Learning App Landing Page](../templates/kids-learning-app-landing-page) | A bright clay learning app page with playful lessons, age-aware paths, and a useful parent view. | GPT-6.1 Sol, GLM-5.3 | [Live demo](https://vibefather.ai/templates/kids-learning-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/kids-learning-app-landing-page/prompt.md) |
+| [Pizza Ordering Website](../templates/pizza-ordering-website) | A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/pizza-ordering-website/prompt.md) |
 | [Physics Playground Landing Page](../templates/physics-playground-landing-page) | A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them. | Claude Opus 5.5, Claude Sonnet 5.5, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/physics-playground-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/physics-playground-landing-page/prompt.md) |
 | [Family Medical Clinic Website](../templates/family-medical-clinic-website) | A warm, calm family clinic site with a filterable provider directory and same-day appointment requests. | GLM-5.3, Kimi K3.1 Pro | [Live demo](https://vibefather.ai/templates/family-medical-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/family-medical-clinic-website/prompt.md) |
-| [Pizza Ordering Website](../templates/pizza-ordering-website) | A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/pizza-ordering-website/prompt.md) |
 | [Gelato Shop Website](../templates/gelato-shop-website) | A pastel gelato shop site with a flavor wall, dietary filters and a build-a-cup SVG configurator. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/gelato-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/gelato-shop-website/prompt.md) |
 | [Danmaku Video Platform](../templates/danmaku-video-platform) <sup>PRO</sup> | A dark, interactive video community with timed comments, a live density map, and a code-drawn player. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/danmaku-video-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/danmaku-video-platform/prompt.md) |
 | [Dusk Track Racing Game](../templates/dusk-track-racing-game) | Chase a banked dusk circuit, fill a drift boost, and beat the ghost of your best lap. | Grok 4.7 | [Live demo](https://vibefather.ai/templates/dusk-track-racing-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles) · [Prompt](../templates/dusk-track-racing-game/prompt.md) |

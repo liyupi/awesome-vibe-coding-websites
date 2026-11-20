@@ -7,16 +7,16 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/a3c685dd-942c-441a-8b0a-e40f60119f35/shot_desktop.09eae3cdfd.webp" width="100%" alt="Aquarium Exhibits and Tickets Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/aquarium-exhibits-and-tickets-website">Aquarium Exhibits and Tickets Website</a></b><br>
-<sub>A deep-blue aquarium site with drifting caustic light, zone exhibits, a feeding schedule and timed tickets.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/aquarium-exhibits-and-tickets-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/1b3140e8-b296-4551-9fb2-bc60de751b4f/shot_desktop.a80541f05b.webp" width="100%" alt="WebGL Gradient SaaS Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/webgl-gradient-saas-landing-page">WebGL Gradient SaaS Landing Page</a></b><br>
 <sub>Bright SaaS landing page with a cursor-reactive WebGL gradient hero and floating code-drawn product panels.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/webgl-gradient-saas-landing-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/a3c685dd-942c-441a-8b0a-e40f60119f35/shot_desktop.09eae3cdfd.webp" width="100%" alt="Aquarium Exhibits and Tickets Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/aquarium-exhibits-and-tickets-website">Aquarium Exhibits and Tickets Website</a></b><br>
+<sub>A deep-blue aquarium site with drifting caustic light, zone exhibits, a feeding schedule and timed tickets.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/aquarium-exhibits-and-tickets-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
