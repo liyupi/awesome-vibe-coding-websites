@@ -17,7 +17,7 @@ Default copy is a night courier shift: Lumenlane, desk 4 on the lower quay of Am
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
 | Style | [Dark](../../styles/dark.md) |
-| Effects | 3D / WebGL, Micro-interactions |
+| Effects | Micro-interactions, 3D / WebGL |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
 | Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
@@ -90,7 +90,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add neon-hoverca
 The Amberwharf courier run case was built by Grok 4.7 in Grok Build; the Saltarcade salvage run case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Neon Hovercar City Runner template use?
-Neon Hovercar City Runner is a single-page site built with Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Neon Hovercar City Runner is a single-page site built with Three.js, with micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Neon Hovercar City Runner template free to use?
 Neon Hovercar City Runner is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

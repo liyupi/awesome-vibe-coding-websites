@@ -41,6 +41,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/6cfb20c7-3aba-45ac-b5f9-20d9b653d485/shot_desktop.1623be71f8.webp" width="100%" alt="Isometric 3D Room Portfolio built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b> — <sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/9126a881-09a8-4bb2-adbf-a16a6d5d143d/shot_desktop.fe52f830a1.webp" width="100%" alt="Physics Playground Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/b60d4481-c4c7-4a1e-9fa5-1def068bc955/shot_desktop.abce2af1a8.webp" width="100%" alt="Physics Playground Landing Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/ai-image-generator-landing-page">AI Image Generator Landing Page</a></b> — <sub>A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.</sub></td>
 </tr>
 <tr>
@@ -53,13 +60,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/f5d8001a-e9d6-467b-a9a0-13a61c5c85fb/shot_desktop.1788a05307.webp" width="100%" alt="How Large Language Models Work built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b> — <sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/9126a881-09a8-4bb2-adbf-a16a6d5d143d/shot_desktop.fe52f830a1.webp" width="100%" alt="Physics Playground Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/b60d4481-c4c7-4a1e-9fa5-1def068bc955/shot_desktop.abce2af1a8.webp" width="100%" alt="Physics Playground Landing Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/startup-pitch-deck-website">Startup Pitch Deck Website</a></b> — <sub>A 12-slide investor deck as a website: keyboard and swipe slides, live charts, presenter notes, PDF print.</sub></td>

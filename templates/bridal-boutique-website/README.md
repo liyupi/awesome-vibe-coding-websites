@@ -12,7 +12,7 @@ Bridal Boutique Website is a single-page site for an independent bridal salon, i
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

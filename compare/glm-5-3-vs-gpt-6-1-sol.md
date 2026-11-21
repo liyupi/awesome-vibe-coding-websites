@@ -6,6 +6,20 @@
 
 <table>
 <tr>
+<td colspan="2"><b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b> — <sub>A neon-pop physics playground with twenty candy-colored balls, moving walls and hands-on controls.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/660c9861-7726-47a8-9bab-0744c3722bd1/shot_desktop.c89d471cce.webp" width="100%" alt="Spinning Hexagon Physics Toy built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b> — <sub>A fluorescent print magazine with overprinted cover art, full stories, and a local print subscription demo.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b/shot_desktop.ecd561617f.webp" width="100%" alt="Risograph Indie Magazine Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b> — <sub>An acid club poster with real audio reaction, set times, a venue diagram, and local ticket planning.</sub></td>
 </tr>
 <tr>
@@ -20,25 +34,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b> — <sub>A neon-pop physics playground with twenty candy-colored balls, moving walls and hands-on controls.</sub></td>
+<td colspan="2"><b><a href="../templates/kids-learning-app-landing-page">Kids Learning App Landing Page</a></b> — <sub>A bright clay learning app page with playful lessons, age-aware paths, and a useful parent view.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/660c9861-7726-47a8-9bab-0744c3722bd1/shot_desktop.c89d471cce.webp" width="100%" alt="Spinning Hexagon Physics Toy built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/geometric-art-school-website">Geometric Art School Website</a></b> — <sub>A primary-color art school with original art, course filters, open-day planning, and local applications.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/geometric-art-school-website/c23f9a62-c6ae-42ba-8f78-559767f4c2ce/shot_desktop.6ec665205d.webp" width="100%" alt="Geometric Art School Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/geometric-art-school-website/39850639-35c1-483e-9061-2a3691d12cf0/shot_desktop.bc0e4715fc.webp" width="100%" alt="Geometric Art School Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b> — <sub>A fluorescent print magazine with overprinted cover art, full stories, and a local print subscription demo.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b/shot_desktop.ecd561617f.webp" width="100%" alt="Risograph Indie Magazine Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/08d369be-89a7-4411-9f68-a6ceb38d9bd3/shot_desktop.32ce245c1b.webp" width="100%" alt="Kids Learning App Landing Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> — <sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub></td>
@@ -55,11 +55,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/quirky-gadget-product-launch-page/2c3de2d4-f352-42fc-9ddd-ac0a2e75995c/shot_desktop.b9fb7615a0.webp" width="100%" alt="Quirky Gadget Product Launch Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/kids-learning-app-landing-page">Kids Learning App Landing Page</a></b> — <sub>A bright clay learning app page with playful lessons, age-aware paths, and a useful parent view.</sub></td>
+<td colspan="2"><b><a href="../templates/geometric-art-school-website">Geometric Art School Website</a></b> — <sub>A primary-color art school with original art, course filters, open-day planning, and local applications.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/08d369be-89a7-4411-9f68-a6ceb38d9bd3/shot_desktop.32ce245c1b.webp" width="100%" alt="Kids Learning App Landing Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/geometric-art-school-website/c23f9a62-c6ae-42ba-8f78-559767f4c2ce/shot_desktop.6ec665205d.webp" width="100%" alt="Geometric Art School Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/geometric-art-school-website/39850639-35c1-483e-9061-2a3691d12cf0/shot_desktop.bc0e4715fc.webp" width="100%" alt="Geometric Art School Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> — <sub>Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow.</sub></td>

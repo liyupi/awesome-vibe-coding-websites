@@ -6,13 +6,6 @@
 
 <table>
 <tr>
-<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c/shot_desktop.1d23e419e9.webp" width="100%" alt="Generative Art Studio Website built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> — <sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub></td>
 </tr>
 <tr>
@@ -25,6 +18,13 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/2f932c79-1b6f-4009-9a5a-53ef75e7eb86/shot_desktop.dd92aa998d.webp" width="100%" alt="Liquid Glass Product Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp" width="100%" alt="Liquid Glass Product Page built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c/shot_desktop.1d23e419e9.webp" width="100%" alt="Generative Art Studio Website built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> — <sub>A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.</sub></td>

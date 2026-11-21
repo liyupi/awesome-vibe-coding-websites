@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add 3d-photo-gallery, repla
 The Photography archive exhibition case was built by Claude Opus 5.5 in Cursor; the Landscape print shop case was built by Claude Sonnet 5.5 in Cursor; the Photography archive exhibition case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Photo Gallery template use?
-3D Photo Gallery is a single-page site built with Plain HTML and Three.js, with drag & physics, cursor effects and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Photo Gallery is a single-page site built with Three.js and Plain HTML, with drag & physics, cursor effects and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the 3D Photo Gallery template for a client or a business?
 The 3D Photo Gallery prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

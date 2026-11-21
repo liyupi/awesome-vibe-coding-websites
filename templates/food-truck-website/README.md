@@ -15,7 +15,7 @@ The defaults present Ember & Route, an invented Sonoran street-food truck in Tuc
 | | |
 |---|---|
 | Category | [Restaurants, Hotels & Travel](../../README.md#restaurants-hotels--travel) |
-| Site type | [Landing Page](../../types/landing-page.md), [Restaurant](../../types/restaurant.md) |
+| Site type | [Restaurant](../../types/restaurant.md), [Landing Page](../../types/landing-page.md) |
 | Style | [Hand-drawn](../../styles/hand-drawn.md), [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |

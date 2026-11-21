@@ -2,7 +2,7 @@
 
 > Monospace type, command prompts, blinking cursors and text-mode layouts.
 
-7 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/terminal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
+8 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/terminal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
 
 <table>
 <tr>
@@ -35,16 +35,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/225a18de-afff-4c97-a66b-41f58f071275/shot_desktop.a39fe3d8d6.webp" width="100%" alt="Terminal-Style Docs Site website template — live demo built by Claude Opus 5.5"></a><br>
-<b><a href="../templates/terminal-style-docs-site">Terminal-Style Docs Site</a></b><br>
-<sub>A dark, monospace docs site for a command-line tool, with an amber accent, copyable commands and / search.</sub><br>
-<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/terminal-style-docs-site/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/dark-developer-tool-launch-page/80c96b0a-7fb8-48cf-92f1-200d451c5030/shot_desktop.87b3f45279.webp" width="100%" alt="Dark Developer Tool Launch Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/dark-developer-tool-launch-page">Dark Developer Tool Launch Page</a></b><br>
 <sub>Dark CLI launch page with a typing terminal, streaming diff comments, a bar race and a ? shortcut overlay.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/dark-developer-tool-launch-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/225a18de-afff-4c97-a66b-41f58f071275/shot_desktop.a39fe3d8d6.webp" width="100%" alt="Terminal-Style Docs Site website template — live demo built by Claude Opus 5.5"></a><br>
+<b><a href="../templates/terminal-style-docs-site">Terminal-Style Docs Site</a></b><br>
+<sub>A dark, monospace docs site for a command-line tool, with an amber accent, copyable commands and / search.</sub><br>
+<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/terminal-style-docs-site/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -53,6 +53,12 @@
 <b><a href="../templates/open-source-project-homepage">Open Source Project Homepage</a></b><br>
 <sub>Homepage for an open-source library: copyable install command, tabbed code example, feature grid, contributors and sponsor tiers.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/open-source-project-homepage/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/shot_desktop.6fc77de9e5.webp" width="100%" alt="Code Hosting Platform App website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/code-hosting-platform-app">Code Hosting Platform App</a></b> <sup>PRO</sup><br>
+<sub>A complete developer code-hosting workspace with file browser, split diffs, issues, releases, and insights.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/code-hosting-platform-app/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

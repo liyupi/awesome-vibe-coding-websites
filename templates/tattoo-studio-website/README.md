@@ -11,8 +11,8 @@ Tattoo Studio Website is a dark, editorial multi-page site for an independent ta
 | | |
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
-| Site type | [Agency](../../types/agency.md), [Portfolio](../../types/portfolio.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md) |
+| Site type | [Portfolio](../../types/portfolio.md), [Agency](../../types/agency.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Page Transitions, Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 3.4 + Motion + Lucide |
 | Pages | 6 |

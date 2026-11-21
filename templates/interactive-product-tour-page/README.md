@@ -15,7 +15,7 @@ The default content follows Nookline, a client approval workspace for creative s
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [Landing Page](../../types/landing-page.md), [SaaS](../../types/saas.md) |
+| Site type | [SaaS](../../types/saas.md), [Landing Page](../../types/landing-page.md) |
 | Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4 + motion + lucide-react |

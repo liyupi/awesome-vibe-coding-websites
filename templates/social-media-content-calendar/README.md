@@ -2,7 +2,7 @@
 
 > Plan four weeks of posts, try four formats, and move a draft from its first idea to the calendar.
 
-<a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/webp.46c368918b.webp" width="100%" alt="Social Media Content Calendar — Colorful Post Planner with Live Previews built by GPT-6 Astra"></a>
+<a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/webp.46c368918b.webp" width="100%" alt="Social Media Content Calendar — Colorful Post Planner with Live Previews built by GPT-6 Astra and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -20,7 +20,7 @@ A media contact sheet shows which posts use each photograph. The sample insights
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 4 |
-| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
+| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -31,6 +31,11 @@ A media contact sheet shows which posts use each photograph. The sample insights
 <a href="https://vibefather.ai/templates/social-media-content-calendar?case=dfb54b60-e32d-4c1d-9b67-961bc3d635fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/shot_desktop.b83af4015f.webp" width="100%" alt="Social Media Content Calendar — Home desk launch, built by GPT-6 Astra in Codex"></a><br>
 <b>Home desk launch</b><br>
 <sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/social-media-content-calendar?case=dfb54b60-e32d-4c1d-9b67-961bc3d635fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/social-media-content-calendar?case=7725b3b7-da97-4330-8a17-2b987cfbc1b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/social-media-content-calendar/7725b3b7-da97-4330-8a17-2b987cfbc1b7/shot_desktop.48b8055100.webp" width="100%" alt="Social Media Content Calendar — Wholesale stationery previews, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Wholesale stationery previews</b><br>
+<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/social-media-content-calendar?case=7725b3b7-da97-4330-8a17-2b987cfbc1b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -54,33 +59,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A ceramics studio launching a seasonal collection: set the brand and cycle to your kiln opening, name three campaigns for glazes, process and studio life, and swap the five photographs for your own pots.
-- A freelance photographer planning client work: rewrite the audience for small brands you shoot for, turn the campaigns into shoot types, and use the media contact sheet to see which images appear in more than one post.
-- A bakery running a weekly menu: rename the cycle after your season, set campaigns for new bakes, behind the counter and customer stories, and move tickets when a bake slips a day.
-- A solo marketer handing work to a freelancer: edit captions and schedule in the calendar, then export the CSV so the writer has the exact text and slots to work from.
+- A ceramics studio: set BRAND to your kiln name, CAMPAIGNS to glaze drops, studio notes and shelf rituals, and swap the five stationery photographs for your own pots.
+- A freelance photographer: set AUDIENCE to small brands booking shoots, replace the stationery shots with your portfolio, and write captions that lead to your booking form.
+- A wholesale stationery seller: name CYCLE_NAME after your trade preview, use the long-post format for stockist notes, and export the CSV for your sales team.
+- A home desk shop owner: keep the default four-week cycle but rewrite every caption for your first-home readers and link saved hashtag sets to your shop tags.
 
 ## FAQ
 
-### How do I change the brand, planning cycle and campaigns in the Social Media Content Calendar template?
-The Social Media Content Calendar template is driven by four text variables: the workspace brand, the planning cycle name, the audience and three campaign names. Set the brand to your studio name, rename the cycle for your collection, describe who the posts are for and give three short campaign names in pink, blue and yellow order. Then rewrite every headline, caption and label to match, since the shipped copy is written for a stationery maker.
+### Can I use the Social Media Content Calendar template for client work?
+The Social Media Content Calendar template is a Pro template, so commercial and client use is covered by Pro membership. Pro also gives you the full prompt, the brief, stack and variables, and the source code of the demos. Free templates' prompts and every DESIGN.md are for personal, non-commercial use only under CC BY-NC 4.0.
 
-### Can I replace the stationery photographs with my own product shoot?
-Yes. The Social Media Content Calendar template uses local images with stable media IDs and fixed dimensions, and the sample cycle includes five stationery photographs. Swap those files for your own product shots, keep the same dimensions so the crops stay clean, and update the media contact sheet so it still shows which posts use each photograph.
+### How do I replace the stationery sample posts with my own social media plan?
+Set BRAND to your business, CYCLE_NAME to your four-week cycle, AUDIENCE to the readers you write for and CAMPAIGNS to three short campaign names in pink, blue and yellow order. Then replace the five stationery photographs with your own product shoot and rewrite the captions, titles and saved hashtag sets for your posts.
 
-### Where do saved captions and scheduled posts go after I close the browser?
-Edits in the Social Media Content Calendar template persist in versioned localStorage through a single local data adapter. Captions, media selections, saved hashtag sets, moved tickets and the current editor draft survive a reload, and the template gives feedback if a save fails. There is no backend or external API, so the plan lives in that browser rather than on a shared server.
+### What does the Social Media Content Calendar template include for planning posts?
+The Social Media Content Calendar template opens on a four-week Monday to Sunday grid with a photographic next-post strip, a ticket editor for captions with a live character count, square and tall video cover crops, a thread and long-post format, saved hashtag sets, a media contact sheet, a sample insights view and a CSV export of your captions and schedule.
 
-### How does the CSV export work and what does it include?
-The Social Media Content Calendar template builds a UTF-8 CSV file in the browser and downloads it, with no server involved. The export carries your edited captions and the schedule, so a writer, photographer or client can pick up the plan elsewhere. Campaign names carry through to the CSV as well, which keeps a handoff readable when several campaigns run in the same cycle.
+### Is there a free social media content calendar template I can build with AI?
+The Social Media Content Calendar template on VibeFather is a Pro template, not a free one. Free templates on VibeFather cover other site types, and their prompts and DESIGN.md files are free for personal, non-commercial use. Commercial or client use of any template needs Pro.
 
-### What can I do inside a post ticket in the Social Media Content Calendar template?
-Opening a ticket in the Social Media Content Calendar template puts the caption beside its preview. You can check how one image crops to a square or a tall video cover, break an explanation into a text thread, write a longer professional post and watch a character count follow your edits. Saved hashtag sets keep recurring tags together, and if a shoot slips you move the ticket to another day or pick a new week and daypart.
+### Does my schedule stay after I close the browser, and can I export it?
+The Social Media Content Calendar template saves your edited captions, moved posts, media selections and saved hashtag sets in versioned local storage, so your plan is still there when you reopen the browser. A CSV export includes your edited captions and schedule for a handoff to someone else.
 
 ### How do I build a social media content calendar with AI?
-Copy the full prompt (Pro) from this page or run npx vibefather add social-media-content-calendar, replace [BRAND], [CYCLE_NAME], [AUDIENCE] and [CAMPAIGNS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the full prompt (Pro) from this page or run npx vibefather add social-media-content-calendar, replace [BRAND], [CYCLE_NAME], [AUDIENCE] and [CAMPAIGNS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Social Media Content Calendar demo?
-The Home desk launch case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added.
+The Home desk launch case was built by GPT-6 Astra in Codex; the Wholesale stationery previews case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Social Media Content Calendar template use?
 Social Media Content Calendar is a 4-page site built with React, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

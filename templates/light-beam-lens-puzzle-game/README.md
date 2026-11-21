@@ -19,7 +19,7 @@ Adapt the four variables to rename the game, replace its world, change the audie
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
 | Style | [Aurora](../../styles/aurora.md), [Glass](../../styles/glass.md), [Dark](../../styles/dark.md) |
-| Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
+| Effects | Generative / Canvas, Micro-interactions, 3D / WebGL |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + Three.js + lucide-react |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add light-beam-lens-puzzle-
 The Crystal cave optics case was built by Kimi K3.1 Pro in Kimi Code; the Moonlit glass desert case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Light Beam Lens Puzzle Game template use?
-Light Beam Lens Puzzle Game is a single-page site built with Three.js and React, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Light Beam Lens Puzzle Game is a single-page site built with Three.js and React, with generative / canvas, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Light Beam Lens Puzzle Game template for a client or a business?
 The Light Beam Lens Puzzle Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

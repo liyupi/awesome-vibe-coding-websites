@@ -2,7 +2,7 @@
 
 > Edit your experience beside the printed page, check its reading order, and save a copy to take with you.
 
-<a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/webp.f57c8a46e5.webp" width="100%" alt="Resume Builder Web App — Live Resume Editor with Print Preview built by GPT-6 Astra"></a>
+<a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/webp.f57c8a46e5.webp" width="100%" alt="Resume Builder Web App — Live Resume Editor with Print Preview built by GPT-6 Astra and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -20,7 +20,7 @@ Career coaches can replace the sample with a recent graduate’s coursework and 
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS |
 | Pages | 1 |
-| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
+| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -31,6 +31,11 @@ Career coaches can replace the sample with a recent graduate’s coursework and 
 <a href="https://vibefather.ai/templates/resume-builder-web-app?case=8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/shot_desktop.161ce28382.webp" width="100%" alt="Resume Builder Web App — Museum exhibit designer, built by GPT-6 Astra in Codex"></a><br>
 <b>Museum exhibit designer</b><br>
 <sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/resume-builder-web-app?case=8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/resume-builder-web-app?case=3b5a0820-594d-48f7-bc52-d273200581dc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/resume-builder-web-app/3b5a0820-594d-48f7-bc52-d273200581dc/shot_desktop.2b334e68af.webp" width="100%" alt="Resume Builder Web App — Food program coordinator, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Food program coordinator</b><br>
+<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/resume-builder-web-app?case=3b5a0820-594d-48f7-bc52-d273200581dc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -54,33 +59,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A career coach working with graduates: set CANDIDATE and PROFESSION to a student, swap the exhibit bullets for coursework and campus roles, and hide sections the student has not filled yet.
-- An independent designer: set CAREER_FOCUS to installations and fabrication, replace the sample roles with short contracts, and use the Technical layout to pack projects close together.
-- A museum or gallery hiring manager: keep the exhibit vocabulary, rewrite the summary for your own background, and add a custom section for fellowships or workshops.
-- A student applying for a first role: set the sample identity to your own name, move Projects ahead of employment, and switch to the Sidebar layout for supporting skills.
+- A career coach: set BRAND to your practice name, replace the sample with a recent graduate's coursework and campus roles, and keep the plain-text view for reviewing reading order.
+- An independent designer: start from installations, fabrication skills and short contracts, and add a custom section for client references.
+- A student applying for internships: set PROFESSION to the target role, hide the Workshops section until it is finished, and export JSON between sessions.
+- A food program coordinator: use CAREER_FOCUS to write kitchen and volunteer roles, then switch to Sidebar so supporting skills sit in a narrow column.
 
 ## FAQ
 
-### How do I change the sample resume content to my own work history?
-The Resume Builder Web App ships with a filled sample for Mira Calder, an exhibit designer, so you can edit it in place. Open each section in the Resume sections panel and rewrite the Role, Organization, Duration and Highlights fields. Contact edits the name, target role, location and email. To change the default identity across the whole app, set BRAND, CANDIDATE, PROFESSION and CAREER_FOCUS in the prompt before building.
+### How do I change the sample resume to my own name and job title?
+Open the Contact section in the Resume sections panel and edit the name, target role, location and email fields. The sheet updates as you type. For a different career entirely, change the BRAND, CANDIDATE, PROFESSION and CAREER_FOCUS variables in the prompt before building, so the employers, skills, education and project wording match your field rather than the exhibit designer sample.
 
-### How does the Resume Builder Web App show whether my resume still fits on one page?
-The Resume Builder Web App prints the document at physical size on a Letter or A4 sheet, and a page indicator tells you when content crosses a sheet boundary. The preview is the actual paper you will print, so adding a bullet shows its effect on the sheet immediately. The plain-text view lets you read every visible section in sequence before you print or save a PDF.
+### Can I add a section that isn't in the default resume, like certifications or a fellowship?
+Yes. The Add section button in the Resume sections panel creates a custom titled section with a text field and bullets, which you can name Certifications, Fellowships or anything else. Custom sections behave like the built-in ones: drag them into position, hide them while unfinished, and they appear in the printed sheet and the plain-text reading view when visible.
 
-### What is the difference between the Classic, Sidebar and Technical layouts?
-The Resume Builder Web App offers three layouts that give the same material different priorities. Classic leaves a generous measure for a narrative application, Sidebar groups supporting details into a narrow column, and Technical packs short roles and projects close together. Each layout works on Letter or A4 paper, and the selected layout swatch is marked in marigold on the preview board.
+### How does the resume builder keep my content to one page?
+The page indicator on the preview board tells you when content crosses a sheet boundary, so you can see the moment an extra bullet pushes an entry onto a second page. You can then shorten a highlight, hide an unfinished section, or switch between Classic, Sidebar and Technical layouts, which give the same material different amounts of space.
 
-### How do I save my resume and move it to another device?
-Changes in the Resume Builder Web App save in the browser on the current device, shown by the save status in the header. To move the resume elsewhere, use the File menu and choose Export JSON, which preserves the editable sections and layout settings. Import JSON on another session restores them. The print action opens a clean copy of the selected paper layout to save as a PDF.
+### Where is my resume saved, and what happens if I switch computers?
+Changes save in the browser on the current device, and the header shows a Saved on this device status. To move the resume elsewhere, use File and Export JSON, which preserves the editable sections and layout settings; Import JSON restores them in another session. The print action opens a clean copy of the selected paper layout for saving as a PDF.
 
-### Can a career coach use the Resume Builder Web App to prepare a student's resume?
-A career coach can replace the sample with a recent graduate's coursework and campus responsibilities, then use the layouts and page indicator to keep the document to a sensible length. The Resume Builder Web App runs entirely in the browser with no backend, so a coach can work through a resume in one sitting and export a JSON copy for the student to continue.
+### What does the plain-text view do, and why should I check it before printing?
+The plain-text view shows every visible section in sequence, so you can read the resume the way an applicant tracking system or a screen reader might encounter it. It confirms that hidden sections stay out of the output and that the order of roles, projects and skills still makes sense before you print or export the sheet.
 
 ### How do I build a resume builder web app with AI?
-Copy the prompt from this page or run npx vibefather add resume-builder-web-app, replace [BRAND], [CANDIDATE], [PROFESSION] and [CAREER_FOCUS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add resume-builder-web-app, replace [BRAND], [CANDIDATE], [PROFESSION] and [CAREER_FOCUS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Resume Builder Web App demo?
-The Museum exhibit designer case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added.
+The Museum exhibit designer case was built by GPT-6 Astra in Codex; the Food program coordinator case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Resume Builder Web App template use?
 Resume Builder Web App is a single-page site built with React, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

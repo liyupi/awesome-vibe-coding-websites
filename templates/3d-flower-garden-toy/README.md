@@ -17,7 +17,7 @@ This template suits designers, creators, educators, and developers who want a sm
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
 | Style | [Playful](../../styles/playful.md) |
-| Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
+| Effects | Generative / Canvas, Micro-interactions, 3D / WebGL |
 | Stack | Vite 5 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -88,7 +88,7 @@ Copy the prompt from this page or run npx vibefather add 3d-flower-garden-toy, r
 The English country meadow case was built by Kimi K3.1 Pro in Kimi Code; the Prairie wildflower patch case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Flower Garden Toy template use?
-3D Flower Garden Toy is a single-page site built with Plain HTML and Three.js, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Flower Garden Toy is a single-page site built with Three.js and Plain HTML, with generative / canvas, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the 3D Flower Garden Toy template for a client or a business?
 The 3D Flower Garden Toy prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

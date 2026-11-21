@@ -2,21 +2,21 @@
 
 > Studio and agency sites: bold intros, service lists, selected work and contact sections.
 
-9 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/agency?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
+11 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/agency?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/infinite-canvas-moodboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/4e8dfefa-b5b5-4349-b33f-ecf48bd92886/shot_desktop.70a45f0b69.webp" width="100%" alt="Infinite Canvas Moodboard website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
-<b><a href="../templates/infinite-canvas-moodboard">Infinite Canvas Moodboard</a></b><br>
-<sub>A studio table you can pan, zoom and rearrange: boards, notes and swatches that move like real paper.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/infinite-canvas-moodboard/prompt.md">Prompt</a></sub>
-</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/0bb729a5-85a9-4861-8f86-26b62ca59552/shot_desktop.6ed0ac2903.webp" width="100%" alt="Travel Agency Tour Packages Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/travel-agency-tour-packages-website">Travel Agency Tour Packages Website</a></b> <sup>PRO</sup><br>
 <sub>Three-page tour operator site with filterable packages, day-by-day itineraries, drawn route maps and booking requests.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/travel-agency-tour-packages-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/infinite-canvas-moodboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/4e8dfefa-b5b5-4349-b33f-ecf48bd92886/shot_desktop.70a45f0b69.webp" width="100%" alt="Infinite Canvas Moodboard website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
+<b><a href="../templates/infinite-canvas-moodboard">Infinite Canvas Moodboard</a></b><br>
+<sub>A studio table you can pan, zoom and rearrange: boards, notes and swatches that move like real paper.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/infinite-canvas-moodboard/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -41,18 +41,32 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/video-production-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/video-production-company-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/insurance-agency-quote-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/insurance-agency-quote-website/1bdc8876-1a58-4160-8cf5-99dac712ae60/shot_desktop.45fd83ddaf.webp" width="100%" alt="Insurance Agency Quote Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/insurance-agency-quote-website">Insurance Agency Quote Website</a></b><br>
+<sub>A warm independent agency site with guided home, auto, and life quote paths and practical claims support.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/insurance-agency-quote-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/insurance-agency-quote-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/tattoo-studio-website/8bc5b95a-327b-4abf-b934-5fe27ac4bc5b/shot_desktop.7cfc347a2c.webp" width="100%" alt="Tattoo Studio Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/tattoo-studio-website">Tattoo Studio Website</a></b><br>
 <sub>A dark editorial studio site with artist portfolios, SVG flash, consultations, and aftercare.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/tattoo-studio-website/prompt.md">Prompt</a></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/corporate-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/corporate-company-website/328fc7d5-d87a-45a3-b0f4-6d8ac04ae1b3/shot_desktop.4e53083f58.webp" width="100%" alt="Corporate Company Website website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/corporate-company-website">Corporate Company Website</a></b> <sup>PRO</sup><br>
+<sub>An enterprise corporate site for a diversified industrial group with investor charts, global map, and newsroom.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/corporate-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/corporate-company-website/prompt.md">Prompt</a></sub>
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/insurance-agency-quote-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/insurance-agency-quote-website/1bdc8876-1a58-4160-8cf5-99dac712ae60/shot_desktop.45fd83ddaf.webp" width="100%" alt="Insurance Agency Quote Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/insurance-agency-quote-website">Insurance Agency Quote Website</a></b><br>
-<sub>A warm independent agency site with guided home, auto, and life quote paths and practical claims support.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/insurance-agency-quote-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/insurance-agency-quote-website/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/ff274814-e036-4323-af67-05a7fd27311b/shot_desktop.a37a72775c.webp" width="100%" alt="Fluid Simulation Agency Website website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/fluid-simulation-agency-website">Fluid Simulation Agency Website</a></b> <sup>PRO</sup><br>
+<sub>Interactive creative studio homepage with a live WebGL fluid hero, cutout wordmark mask, and scroll-reactive electric palettes.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/fluid-simulation-agency-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/management-consulting-firm-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/management-consulting-firm-website/7ff67974-82dc-4a61-af56-070318957247/shot_desktop.beca9ccb06.webp" width="100%" alt="Management Consulting Firm Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>

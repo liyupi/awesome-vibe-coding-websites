@@ -12,8 +12,8 @@ A single-page site for one hackathon: a hero with the event name, a live countdo
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Event](../../types/event.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md) |
-| Effects | Countdown, Micro-interactions |
+| Style | [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md) |
+| Effects | Micro-interactions, Countdown |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
 | Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -83,7 +83,7 @@ Copy the prompt from this page or run npx vibefather add hackathon-event-page, r
 The Student hackathon case was built by GLM-5.3 in ZCode; the Climate-tech hackathon case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Hackathon Event Page template use?
-Hackathon Event Page is a single-page site built with Tailwind CSS, Motion and React, with countdown and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Hackathon Event Page is a single-page site built with Tailwind CSS, Motion and React, with micro-interactions and countdown. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Hackathon Event Page template for a client or a business?
 The Hackathon Event Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

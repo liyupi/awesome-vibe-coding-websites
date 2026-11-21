@@ -19,7 +19,7 @@ Four variables control the brand, tagline, passage pack, and ghost name. Replaci
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
 | Style | [Retro](../../styles/retro.md), [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
-| Effects | Generative / Canvas, Text Animation, Micro-interactions |
+| Effects | Text Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add typing-speed-race-game,
 The Night drive case was built by Kimi K3.1 Pro in Kimi Code; the Coastal morning case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Typing Speed Race Game template use?
-Typing Speed Race Game is a single-page site built with React, with generative / canvas, text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Typing Speed Race Game is a single-page site built with React, with text animation, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Typing Speed Race Game template for a client or a business?
 The Typing Speed Race Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

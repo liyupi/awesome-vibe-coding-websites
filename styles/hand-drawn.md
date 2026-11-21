@@ -13,10 +13,10 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/indie-game-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/indie-game-launch-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/coffee-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/coffee-shop-website/1af58d10-b5fe-4f81-bcc3-f9665827c346/shot_desktop.6d9708d173.webp" width="100%" alt="Coffee Shop Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/coffee-shop-website">Coffee Shop Website</a></b><br>
-<sub>Warm three-page cafe site with a filterable menu, illustrated map and client-side order-ahead pickup.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/coffee-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/coffee-shop-website/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/fd13cc6e-9f38-4665-bfa5-7b9d5de395ed/shot_desktop.187eacb401.webp" width="100%" alt="Ink Wash Mountain Adventure website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/ink-wash-mountain-adventure">Ink Wash Mountain Adventure</a></b> <sup>PRO</sup><br>
+<sub>Run a painted mountain pass, outwit three guardians, and master a precise dodge-and-combo trial.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ink-wash-mountain-adventure/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -35,30 +35,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/fd13cc6e-9f38-4665-bfa5-7b9d5de395ed/shot_desktop.187eacb401.webp" width="100%" alt="Ink Wash Mountain Adventure website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/ink-wash-mountain-adventure">Ink Wash Mountain Adventure</a></b> <sup>PRO</sup><br>
-<sub>Run a painted mountain pass, outwit three guardians, and master a precise dodge-and-combo trial.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ink-wash-mountain-adventure/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/coffee-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/coffee-shop-website/1af58d10-b5fe-4f81-bcc3-f9665827c346/shot_desktop.6d9708d173.webp" width="100%" alt="Coffee Shop Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/coffee-shop-website">Coffee Shop Website</a></b><br>
+<sub>Warm three-page cafe site with a filterable menu, illustrated map and client-side order-ahead pickup.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/coffee-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/coffee-shop-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/gelato-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/gelato-shop-website/8f676154-e7ba-4319-bca6-3121ffced1de/shot_desktop.7d0a12f0ca.webp" width="100%" alt="Gelato Shop Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/gelato-shop-website">Gelato Shop Website</a></b><br>
-<sub>A pastel gelato shop site with a flavor wall, dietary filters and a build-a-cup SVG configurator.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/gelato-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/gelato-shop-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/shot_desktop.cb7bf16b09.webp" width="100%" alt="Craft Brewery Taproom Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
-<b><a href="../templates/craft-brewery-taproom-website">Craft Brewery Taproom Website</a></b><br>
-<sub>A screen-print label-art brewery site with a filterable tap list and a flight builder that pours in code.</sub><br>
-<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/craft-brewery-taproom-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/fieldnotes/f1f0a8ca-cd60-4325-b8c3-3f31f77d2061/shot_desktop.ac24b57491.webp" width="100%" alt="Podcast Episode Companion Page website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
-<b><a href="../templates/podcast-episode-companion-page">Podcast Episode Companion Page</a></b><br>
-<sub>An illustrated, chapter-by-chapter companion for a long podcast episode, with charts and pulled-out lessons.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/podcast-episode-companion-page/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/lo-fi-room-ambience-mixer/7dc34230-9e80-4337-96e3-88603926f8bf/shot_desktop.a1f2d94a10.webp" width="100%" alt="Lo-fi Room Ambience Mixer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/lo-fi-room-ambience-mixer">Lo-fi Room Ambience Mixer</a></b><br>
+<sub>Mix rain, fire, café murmur, vinyl, and birds in a cozy room that responds to every slider.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/lo-fi-room-ambience-mixer/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -77,10 +63,24 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/lo-fi-room-ambience-mixer/7dc34230-9e80-4337-96e3-88603926f8bf/shot_desktop.a1f2d94a10.webp" width="100%" alt="Lo-fi Room Ambience Mixer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/lo-fi-room-ambience-mixer">Lo-fi Room Ambience Mixer</a></b><br>
-<sub>Mix rain, fire, café murmur, vinyl, and birds in a cozy room that responds to every slider.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/lo-fi-room-ambience-mixer/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/fieldnotes/f1f0a8ca-cd60-4325-b8c3-3f31f77d2061/shot_desktop.ac24b57491.webp" width="100%" alt="Podcast Episode Companion Page website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
+<b><a href="../templates/podcast-episode-companion-page">Podcast Episode Companion Page</a></b><br>
+<sub>An illustrated, chapter-by-chapter companion for a long podcast episode, with charts and pulled-out lessons.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/podcast-episode-companion-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/gelato-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/gelato-shop-website/8f676154-e7ba-4319-bca6-3121ffced1de/shot_desktop.7d0a12f0ca.webp" width="100%" alt="Gelato Shop Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/gelato-shop-website">Gelato Shop Website</a></b><br>
+<sub>A pastel gelato shop site with a flavor wall, dietary filters and a build-a-cup SVG configurator.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/gelato-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/gelato-shop-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/shot_desktop.cb7bf16b09.webp" width="100%" alt="Craft Brewery Taproom Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/craft-brewery-taproom-website">Craft Brewery Taproom Website</a></b><br>
+<sub>A screen-print label-art brewery site with a filterable tap list and a flight builder that pours in code.</sub><br>
+<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/craft-brewery-taproom-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/food-truck-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/food-truck-website/f0a156d0-f605-45dd-acea-b1437bee0527/shot_desktop.5a2ebd7b37.webp" width="100%" alt="Food Truck Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

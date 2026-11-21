@@ -13,7 +13,7 @@ A single-page word puzzle: guess a five-letter word in six tries on a chunky cre
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
 | Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
-| Effects | Keyboard, Micro-interactions |
+| Effects | Micro-interactions, Keyboard |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
 | Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -82,7 +82,7 @@ Copy the prompt from this page or run npx vibefather add daily-word-puzzle-game,
 The Five-letter word game case was built by GLM-5.3 in ZCode; the Five-letter food words game case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Daily Word Puzzle Game template use?
-Daily Word Puzzle Game is a single-page site built with Tailwind CSS, Motion and React, with keyboard and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Daily Word Puzzle Game is a single-page site built with Tailwind CSS, Motion and React, with micro-interactions and keyboard. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Daily Word Puzzle Game template for a client or a business?
 The Daily Word Puzzle Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

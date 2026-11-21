@@ -11,7 +11,7 @@ This is a one-page landing site for a design tool where the first screen is some
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [Landing Page](../../types/landing-page.md), [SaaS](../../types/saas.md) |
+| Site type | [SaaS](../../types/saas.md), [Landing Page](../../types/landing-page.md) |
 | Style | [Brutalist](../../styles/brutalist.md), [Playful](../../styles/playful.md) |
 | Effects | Drag & Physics, Marquee, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + lucide |

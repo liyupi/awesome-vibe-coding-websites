@@ -11,6 +11,17 @@
     "url": "https://vibefather.ai/models/gemini-4-carbon"
   },
   {
+    "slug": "gemini-4-neon",
+    "name": "Gemini 4 Neon",
+    "vendor": "Google",
+    "sites": 15,
+    "templates": 15,
+    "tools": [
+      "Antigravity"
+    ],
+    "url": "https://vibefather.ai/models/gemini-4-neon"
+  },
+  {
     "slug": "kimi-k3-1-pro",
     "name": "Kimi K3.1 Pro",
     "vendor": "Moonshot AI",

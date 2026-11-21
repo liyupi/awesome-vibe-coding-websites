@@ -17,7 +17,7 @@ Adapt the brand, city, specialty, lead time, pickup address, and order email thr
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Restaurant](../../types/restaurant.md) |
+| Site type | [Restaurant](../../types/restaurant.md), [E-commerce](../../types/ecommerce.md) |
 | Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + Motion + lucide-react |

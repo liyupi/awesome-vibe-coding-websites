@@ -15,7 +15,7 @@ To adapt it, change the brand, the one-line product, the audience and the list o
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [Landing Page](../../types/landing-page.md), [SaaS](../../types/saas.md) |
+| Site type | [SaaS](../../types/saas.md), [Landing Page](../../types/landing-page.md) |
 | Style | [Glass](../../styles/glass.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + gsap + lenis + lucide-react |

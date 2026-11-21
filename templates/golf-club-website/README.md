@@ -12,7 +12,7 @@ A single-page site for a golf club with the manners of a members' notebook: deep
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md), [Minimal](../../styles/minimal.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Parallax, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

@@ -19,7 +19,7 @@ A strict door-policy card puts age requirements, identification, respectful cond
 | Category | [Events & Communities](../../README.md#events--communities) |
 | Site type | [Event](../../types/event.md), [Landing Page](../../types/landing-page.md) |
 | Style | [Retro](../../styles/retro.md), [Brutalist](../../styles/brutalist.md), [Dark](../../styles/dark.md) |
-| Effects | Generative / Canvas, Text Animation, Micro-interactions |
+| Effects | Text Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |
 | Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add techno-club-night-event
 The Underground techno night case was built by GPT-6.1 Sol in Codex; the Warehouse electronic assembly case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Techno Club Night Event Page template use?
-Techno Club Night Event Page is a single-page site built with React, with generative / canvas, text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Techno Club Night Event Page is a single-page site built with React, with text animation, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Techno Club Night Event Page template for a client or a business?
 The Techno Club Night Event Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

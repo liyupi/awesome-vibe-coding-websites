@@ -12,7 +12,7 @@ A two-page website for an independent day spa: a home page with treatments, dura
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md), [Minimal](../../styles/minimal.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |

@@ -17,7 +17,7 @@ To adapt it, change the name, tagline, opening season, number of koi and session
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
 | Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
-| Effects | Generative / Canvas, Drag & Physics, Micro-interactions |
+| Effects | Drag & Physics, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + TypeScript, no UI framework + Vanilla CSS + lucide-static |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add koi-pond-web-toy, repla
 The Summer night study pond case was built by Claude Opus 5.5 in Claude Code. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Koi Pond Web Toy template use?
-Koi Pond Web Toy is a single-page site built with Plain HTML, with generative / canvas, drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Koi Pond Web Toy is a single-page site built with Plain HTML, with drag & physics, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Koi Pond Web Toy template for a client or a business?
 The Koi Pond Web Toy prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

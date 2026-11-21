@@ -12,7 +12,7 @@ Jewelry Online Store is a four-page storefront for an independent jeweler sellin
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md), [Minimal](../../styles/minimal.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |

@@ -17,8 +17,8 @@ Swap the chef, city, cuisine, and promise to tune the voice; menus, tiers, steps
 | | |
 |---|---|
 | Category | [Restaurants, Hotels & Travel](../../README.md#restaurants-hotels--travel) |
-| Site type | [Landing Page](../../types/landing-page.md), [Restaurant](../../types/restaurant.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md) |
+| Site type | [Restaurant](../../types/restaurant.md), [Landing Page](../../types/landing-page.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

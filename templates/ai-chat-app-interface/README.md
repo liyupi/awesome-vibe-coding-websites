@@ -2,7 +2,7 @@
 
 > A warm AI workspace with streaming replies, useful history, editable profiles, and local attachments.
 
-<a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/webp.e709e34afd.webp" width="100%" alt="AI Chat App Interface — AI Chat UI with Local History built by GPT-6 Astra"></a>
+<a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/webp.e709e34afd.webp" width="100%" alt="AI Chat App Interface — AI Chat UI with Local History built by GPT-6 Astra and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ Use the default fictional product studio or replace the app name, workspace, mem
 | Effects | Text Animation, Micro-interactions |
 | Stack | Vite + React + TypeScript + Tailwind CSS 4 + CSS variables + @tailwindcss/vite + react-markdown + remark-gfm |
 | Pages | 1 |
-| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
+| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -33,6 +33,11 @@ Use the default fictional product studio or replace the app name, workspace, mem
 <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface — Product studio assistant, built by GPT-6 Astra in Codex"></a><br>
 <b>Product studio assistant</b><br>
 <sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-chat-app-interface?case=5fa4a07a-03b0-4879-b4eb-c4b5e9549927&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/5fa4a07a-03b0-4879-b4eb-c4b5e9549927/shot_desktop.d558e3e743.webp" width="100%" alt="AI Chat App Interface — Community learning assistant, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Community learning assistant</b><br>
+<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=5fa4a07a-03b0-4879-b4eb-c4b5e9549927&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -58,33 +63,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- An indie developer shipping a support assistant: set the app name and workspace to your product, rewrite the starter prompts around setup questions and point the response adapter at your model service.
-- A small product studio: keep the workspace and member values as your team, swap the example project for a current launch checklist and adjust the assistant profiles for writing and development work.
-- A writing coach or editor: rename the assistant, replace the general-help profile with an editing profile and seed the first conversation with a paragraph revision and a comparison table.
-- An internal tools team: set the audience to your colleagues, change the sample conversation to an onboarding walkthrough and keep the pinned and renamed conversations as a shared reference.
+- A solo indie developer: set BRAND to your assistant's name, WORKSPACE to your own studio, and rewrite the seeded conversation around your product's launch checklist.
+- A customer support team: keep the history sidebar and editable profiles, then rewrite the system prompts and starter prompts for refund and onboarding questions.
+- A writing coach: point ASSISTANT_NAME and the profiles at drafting and editing help, and swap the code sample and table for outline and revision examples.
+- A learning community: set AUDIENCE to students, adapt the starter prompts to study topics, and use the local attachment previews for shared notes and images.
 
 ## FAQ
 
-### How do I connect the AI Chat App Interface to a real model like Claude or GPT-6 Astra?
-The AI Chat App Interface template keeps every send, retry, regenerate and edit-and-resend call behind one response adapter. Replace that local adapter with a call to your own model service, and the conversation, streaming, stop and regenerate controls keep working. The delivered demo makes no external requests and holds no credentials, so you add the service connection yourself.
+### What features does the AI Chat App Interface template include out of the box?
+The AI Chat App Interface template opens on a seeded conversation with a highlighted code sample and a Markdown table. Conversations can be searched, pinned, renamed and deleted, and replies stream locally and can be stopped or regenerated. It adds a model picker, editable assistant profiles for general help, writing and development, keyboard shortcuts, mobile drawers, persistent drafts and local file and image previews.
 
-### Where is conversation history stored in the AI Chat App Interface and what happens when I clear the browser?
-The AI Chat App Interface template stores conversation history, attachments, preferences and assistant profiles in the browser. Nothing is sent to a server. Clearing site data or switching browsers removes the conversations and local attachment previews, so treat the workspace as local to one device until you connect a real backend.
+### Does the AI Chat App Interface connect to a real AI model like Claude or GPT?
+No. The AI Chat App Interface template runs entirely in the browser with no credentials, external model requests or remote uploads. Replies come from a local response bank, and the model picker only changes the local reply style. The prompt leaves one isolated response adapter as the single place to connect your own model service later, so every send, retry and regenerate stays in one boundary.
 
-### What can I change first to make the AI Chat App Interface fit my own product?
-Start with the variables: the app name, workspace, member, assistant, audience and example project. The seeded conversation, starter prompts, system prompts, code sample, table rows and attachment text all follow those values. Change them together in the content file so the sample conversation still reads as one coherent product-work session.
+### How do I change the app name, workspace and assistant name in the AI Chat App Interface?
+Set BRAND, WORKSPACE, USER_NAME and ASSISTANT_NAME to your own values, then rewrite the sample conversations, starter prompts, profile descriptions, code snippets, table rows and attachment text so they follow the new values. The prompt keeps the layout, palette and interactions fixed while the copy stays coherent with your product. The default fictional values are Plumline, Juniper Studio, Nora Vale and Mira.
+
+### Where does the AI Chat App Interface store conversation history and attachments?
+The AI Chat App Interface template stores conversation history, attachments, preferences and assistant profiles in the browser. File and image chips open real local previews rather than decorative placeholders, and drafts persist between visits. Nothing is uploaded to a server, so clearing browser storage removes the saved workspace. A storage namespace derived from the app name keeps the data separate.
 
 ### Can I use the AI Chat App Interface for a client project or a paid product?
-The AI Chat App Interface is a Pro template, so commercial and client use is covered by Pro membership. Pro shows the brief, stack and variables publicly and gives Pro members the full prompt and the demo source code. The free prompts and every DESIGN.md are licensed for personal, non-commercial use only.
-
-### Does the AI Chat App Interface support attachments and code blocks?
-The AI Chat App Interface template shows file and image chips that open real local previews, and it renders Markdown tables and highlighted code blocks that stay readable on narrow screens. Copy controls give clear feedback. Attachments stay in the browser, and no file is uploaded anywhere, so previews work without an image service or stock-photo collection.
+The AI Chat App Interface is a Pro template, so commercial and client use needs Pro membership. Pro shows the brief, stack and variables publicly and gives Pro members the full prompt and the source code of the demos. Free templates' prompts and every DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0.
 
 ### How do I build an AI chat app interface with AI?
-Copy the full prompt (Pro) from this page or run npx vibefather add ai-chat-app-interface, replace [BRAND], [WORKSPACE], [USER_NAME] and [ASSISTANT_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the full prompt (Pro) from this page or run npx vibefather add ai-chat-app-interface, replace [BRAND], [WORKSPACE], [USER_NAME] and [ASSISTANT_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the AI Chat App Interface demo?
-The Product studio assistant case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added.
+The Product studio assistant case was built by GPT-6 Astra in Codex; the Community learning assistant case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the AI Chat App Interface template use?
 AI Chat App Interface is a single-page site built with Tailwind CSS and React, with text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -19,7 +19,7 @@ Everything is drawn from original Three.js primitives, instanced blade geometry,
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
 | Style | [Swiss](../../styles/swiss.md), [Dark](../../styles/dark.md) |
-| Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
+| Effects | Scroll Animation, Micro-interactions, 3D / WebGL |
 | Stack | Vite 6 + React 19 + TypeScript + Vanilla CSS + three + lucide-react |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -91,7 +91,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add jet-engine-i
 The High-bypass turbofan case was built by Kimi K3.1 Pro in Kimi Code; the Turboprop engine case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Jet Engine Interactive Explainer template use?
-Jet Engine Interactive Explainer is a single-page site built with Three.js and React, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Jet Engine Interactive Explainer is a single-page site built with Three.js and React, with scroll animation, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Jet Engine Interactive Explainer template free to use?
 Jet Engine Interactive Explainer is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

@@ -17,8 +17,8 @@ To adapt it, change the brand, product, audience, headline and main call to acti
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [Landing Page](../../types/landing-page.md), [SaaS](../../types/saas.md) |
-| Style | [Bento Grid](../../styles/bento.md), [Minimal](../../styles/minimal.md) |
+| Site type | [SaaS](../../types/saas.md), [Landing Page](../../types/landing-page.md) |
+| Style | [Minimal](../../styles/minimal.md), [Bento Grid](../../styles/bento.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + motion + lucide-react |
 | Pages | 1 |

@@ -2,7 +2,7 @@
 
 > A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.
 
-<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/webp.9c92615049.webp" width="100%" alt="SaaS App Dashboard Starter — Cobalt Analytics Dashboard and App Shell built by GPT-6 Astra"></a>
+<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/webp.9c92615049.webp" width="100%" alt="SaaS App Dashboard Starter — Cobalt Analytics Dashboard and App Shell built by GPT-6 Astra and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -19,12 +19,12 @@ Change the brand, workspace, audience, measurement focus, and owner to make anot
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [Dashboard](../../types/dashboard.md), [SaaS](../../types/saas.md) |
+| Site type | [SaaS](../../types/saas.md), [Dashboard](../../types/dashboard.md) |
 | Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 11 |
-| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
+| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -35,6 +35,11 @@ Change the brand, workspace, audience, measurement focus, and owner to make anot
 <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter — Subscription product analytics, built by GPT-6 Astra in Codex"></a><br>
 <b>Subscription product analytics</b><br>
 <sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=a64a33a3-7965-4275-a61a-ca072cb99b5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/a64a33a3-7965-4275-a61a-ca072cb99b5c/shot_desktop.0c1e1249dd.webp" width="100%" alt="SaaS App Dashboard Starter — Commerce operations analytics, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Commerce operations analytics</b><br>
+<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=a64a33a3-7965-4275-a61a-ca072cb99b5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -59,33 +64,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A developer tool startup: set [BRAND] to your product, [FOCUS] to API usage and error rates, and rewrite the seeded accounts as customer projects with keys and plan usage.
-- A subscription box operator: point [AUDIENCE] at fulfillment teams, rename accounts as subscriber groups, and use the billing and invoice screens for plan and renewal tracking.
-- A boutique analytics consultancy: set [WORKSPACE] to a client workspace, adjust [OWNER] and invite members, then use the workspace switcher to separate each client's sample data.
-- A founder validating a SaaS idea: keep the onboarding and auth flows, change [AUDIENCE] and [FOCUS] to your market, and swap the seeded accounts for interviews or pilot customers.
+- A developer tools startup: set BRAND and WORKSPACE to your product, point FOCUS at API usage and error rates, and rename the seeded accounts to your early customers.
+- A subscription commerce team: change AUDIENCE to ecommerce operators and FOCUS to repeat purchases, then rewrite the account records and chart copy around storefront metrics.
+- An agency building a client portal: set OWNER to the client contact, rename the workspace to their company, and adjust members, invitations and plan labels to match the engagement.
+- A solo founder testing an idea: keep the default layout, set BRAND to the working title and FOCUS to activation, and use the onboarding flow to walk through the signup experience.
 
 ## FAQ
 
-### How do I change the brand name and workspace in the SaaS App Dashboard Starter?
-Set [BRAND] to your product name and [WORKSPACE] to the organization whose sample data appears on first load. The template derives the brand slug, demo email domain and download filenames from [BRAND], so every matching string, invented record and seeded account is rewritten together. Also update [AUDIENCE], [FOCUS] and [OWNER] so onboarding guidance, metric names and account examples stay coherent.
+### Can I use the SaaS App Dashboard Starter for a client project?
+Commercial and client use of the SaaS App Dashboard Starter needs a Pro membership. Free templates' prompts and every DESIGN.md are licensed for personal, non-commercial use under CC BY-NC 4.0, but this is a Pro template: the brief, stack and variables are public, the full prompt is for Pro members, and the demo source code comes with Pro.
 
-### Does the SaaS App Dashboard Starter connect to a real backend, payment provider or email service?
-No. The SaaS App Dashboard Starter runs entirely in the browser with no backend, server code or external APIs. Every simulated service call, from sign-in and invitations to API keys and plan changes, passes through one local adapter file. Browser storage preserves your changes, with an in-memory fallback when storage is unavailable. Replacing that adapter is the single integration boundary for connecting your own services.
+### How do I rebrand the dashboard for my own analytics product?
+Change the five variables in the prompt: BRAND becomes your product name, WORKSPACE the primary workspace, AUDIENCE who the app serves, FOCUS what is measured, and OWNER the demo owner. The prompt asks the agent to rewrite every matching headline, record, plan label and insight so the sample data stays coherent with the new brand.
 
-### What screens and flows does the SaaS App Dashboard Starter include after login?
-The SaaS App Dashboard Starter covers the screens a subscription product needs after sign-in: a populated overview with comparison charts, an account directory with combined search and filters, a detailed account drawer, a workspace switcher, a notifications drawer, and settings for profile, member roles, pending invitations, demo API keys, plan selection, usage and invoice downloads. Sign-in, sign-up and password reset have explicit validation, and a four-step onboarding flow collects workspace name, teammates and integration choices.
+### Does the dashboard connect to Stripe or a real authentication service?
+No. The SaaS App Dashboard Starter simulates sign-in, sign-up, password reset, invitations, API keys, plan changes and invoice downloads through one local adapter file. Browser storage keeps your changes, with an in-memory fallback and a Session only indicator when storage is blocked. No real email, payment or authentication call is made, so you replace that single adapter with your own services.
 
-### Can I use the SaaS App Dashboard Starter for a client project or a commercial product?
-Commercial and client use of the SaaS App Dashboard Starter requires Pro. The template is a Pro template: its brief, stack and variables are public, the full prompt and the source code of the demos come with Pro membership. Free templates' prompts and every DESIGN.md are licensed for personal, non-commercial use only under CC BY-NC 4.0.
+### What screens come with the dashboard starter?
+The SaaS App Dashboard Starter has 11 pages: a populated overview with comparison charts, an account directory with filters, selectable columns and a detail drawer, integrations, team settings with roles and invitations, API keys, billing with plan selection and invoices, plus sign-in, sign-up, password reset and a four-step onboarding flow. A workspace switcher swaps the underlying sample data between workspaces.
 
-### How do I add my own data or replace the sample accounts in the SaaS App Dashboard Starter?
-Edit the seed records in the template's content file, where all visible strings, default variables, chart arrays, plan definitions and invented accounts are kept. The SaaS App Dashboard Starter seeds 36 fictional accounts across Active, Trial and Paused statuses, plus a second workspace with its own set of 12 accounts. Replace those records with your own, then connect the local adapter to your real data source so computed totals, KPI values and exports stay synchronized.
+### How do I turn this dashboard into a dashboard for a different industry?
+Set AUDIENCE and FOCUS to the new sector and measurement, then rewrite the seeded accounts, chart categories, metric names and insight copy in the content file so they describe that business. The SaaS App Dashboard Starter keeps layout, colors and motion fixed while the brand, workspace, owner and sample records change together, and both light and dark themes stay consistent.
 
 ### How do I build a SaaS app dashboard starter with AI?
-Copy the full prompt (Pro) from this page or run npx vibefather add saas-app-dashboard-starter, replace [BRAND], [WORKSPACE], [AUDIENCE] and [FOCUS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the full prompt (Pro) from this page or run npx vibefather add saas-app-dashboard-starter, replace [BRAND], [WORKSPACE], [AUDIENCE] and [FOCUS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the SaaS App Dashboard Starter demo?
-The Subscription product analytics case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added.
+The Subscription product analytics case was built by GPT-6 Astra in Codex; the Commerce operations analytics case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the SaaS App Dashboard Starter template use?
 SaaS App Dashboard Starter is a 11-page site built with React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

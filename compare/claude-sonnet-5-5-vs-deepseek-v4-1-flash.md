@@ -27,6 +27,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-3d-globe-travel-journal/153af059-3fb3-4f8d-886c-c32838a89e77/shot_desktop.40a8fab5fb.webp" width="100%" alt="Interactive 3D Globe Travel Journal built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/3d-product-configurator-page">3D Product Configurator Page</a></b> — <sub>Drag a code-built 3D headphone, pick finish, cushions and engraving, then scroll to take it apart.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/46e3b8bb-8076-46ea-b84c-06e524014917/shot_desktop.2a5935dd45.webp" width="100%" alt="3D Product Configurator Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/168cacc0-afb4-4220-8f7a-6b27a8795587/shot_desktop.2cddf638c5.webp" width="100%" alt="3D Product Configurator Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/kinetic-typography-portfolio">Kinetic Typography Portfolio</a></b> — <sub>A motion designer portfolio where giant variable type splits, stretches and re-forms as you scroll.</sub></td>
 </tr>
 <tr>
@@ -41,11 +48,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/6cfb20c7-3aba-45ac-b5f9-20d9b653d485/shot_desktop.1623be71f8.webp" width="100%" alt="Isometric 3D Room Portfolio built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/3d-product-configurator-page">3D Product Configurator Page</a></b> — <sub>Drag a code-built 3D headphone, pick finish, cushions and engraving, then scroll to take it apart.</sub></td>
+<td colspan="2"><b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b> — <sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/46e3b8bb-8076-46ea-b84c-06e524014917/shot_desktop.2a5935dd45.webp" width="100%" alt="3D Product Configurator Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/168cacc0-afb4-4220-8f7a-6b27a8795587/shot_desktop.2cddf638c5.webp" width="100%" alt="3D Product Configurator Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/0f9133ad-e1bd-4bf7-9ab6-57813f009509/shot_desktop.bb67d69864.webp" width="100%" alt="Physics Playground Landing Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/b60d4481-c4c7-4a1e-9fa5-1def068bc955/shot_desktop.abce2af1a8.webp" width="100%" alt="Physics Playground Landing Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/ai-image-generator-landing-page">AI Image Generator Landing Page</a></b> — <sub>A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.</sub></td>
@@ -60,13 +67,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/a9e9d1f1-f3ec-483c-9d84-aadf37fce515/shot_desktop.961761ed90.webp" width="100%" alt="How Large Language Models Work built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/f5d8001a-e9d6-467b-a9a0-13a61c5c85fb/shot_desktop.1788a05307.webp" width="100%" alt="How Large Language Models Work built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b> — <sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/0f9133ad-e1bd-4bf7-9ab6-57813f009509/shot_desktop.bb67d69864.webp" width="100%" alt="Physics Playground Landing Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/b60d4481-c4c7-4a1e-9fa5-1def068bc955/shot_desktop.abce2af1a8.webp" width="100%" alt="Physics Playground Landing Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/startup-pitch-deck-website">Startup Pitch Deck Website</a></b> — <sub>A 12-slide investor deck as a website: keyboard and swipe slides, live charts, presenter notes, PDF print.</sub></td>

@@ -17,7 +17,7 @@ The blog index filters posts by tag and by title on the client, and the post pag
 | | |
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
-| Site type | [Personal Site](../../types/personal.md), [Blog](../../types/blog.md) |
+| Site type | [Blog](../../types/blog.md), [Personal Site](../../types/personal.md) |
 | Style | [Brutalist](../../styles/brutalist.md), [Playful](../../styles/playful.md) |
 | Effects | Marquee, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + vanilla HTML/CSS/JS + Vanilla CSS + lucide |

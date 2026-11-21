@@ -18,7 +18,7 @@ The defaults describe Alderpeak Resort in invented Juniper Valley, Colorado. Fiv
 |---|---|
 | Category | [Restaurants, Hotels & Travel](../../README.md#restaurants-hotels--travel) |
 | Site type | [Hotel](../../types/hotel.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |

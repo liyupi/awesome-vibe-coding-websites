@@ -2,7 +2,7 @@
 
 > Personal and studio portfolios that put the work first: project grids, case-study pages and a short about section.
 
-16 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
+17 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
 
 <table>
 <tr>
@@ -55,24 +55,10 @@
 <sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/swiss-design-agency-portfolio/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/author-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/author-website/a94beb5d-a017-4d41-97cf-dc12c630344a/shot_desktop.f488f76dcf.webp" width="100%" alt="Author Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/author-website">Author Website</a></b><br>
-<sub>A warm literary home for novels, excerpts, events and reader letters.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/author-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/author-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/minimal-developer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/minimal-developer-portfolio">Minimal Developer Portfolio</a></b><br>
-<sub>Minimal one-page developer portfolio with a portrait, a night-desk shot, projects, writing and open source — light and dark.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/minimal-developer-portfolio/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/architecture-firm-portfolio">Architecture Firm Portfolio</a></b> <sup>PRO</sup><br>
-<sub>Architecture practice site with studio photographs, a filterable project index, project pages with drawn SVG plans, awards and contact.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/architecture-firm-portfolio/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/wedding-photographer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/wedding-photographer-portfolio/66d02f47-a449-479a-ad01-a7a0b14c6a64/shot_desktop.7aac6125fd.webp" width="100%" alt="Wedding Photographer Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/wedding-photographer-portfolio">Wedding Photographer Portfolio</a></b> <sup>PRO</sup><br>
+<sub>Cinematic four-page photographer portfolio with story galleries, a couple-in-silhouette frame, a lightbox, packages and inquiry.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/wedding-photographer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/wedding-photographer-portfolio/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -83,18 +69,46 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/video-production-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/video-production-company-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/interior-design-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interior-design-studio-website/06740e7f-e14f-4a49-a3fc-0dea0da94798/shot_desktop.114b5341a6.webp" width="100%" alt="Interior Design Studio Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/interior-design-studio-website">Interior Design Studio Website</a></b><br>
-<sub>Interior studio site with draggable before/after sliders, services, a five-step process, gallery of four rooms and a consultation form.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interior-design-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interior-design-studio-website/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/minimal-developer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/minimal-developer-portfolio">Minimal Developer Portfolio</a></b><br>
+<sub>Minimal one-page developer portfolio with a portrait, a night-desk shot, projects, writing and open source — light and dark.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/minimal-developer-portfolio/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/author-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/author-website/a94beb5d-a017-4d41-97cf-dc12c630344a/shot_desktop.f488f76dcf.webp" width="100%" alt="Author Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/author-website">Author Website</a></b><br>
+<sub>A warm literary home for novels, excerpts, events and reader letters.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/author-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/author-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/architecture-firm-portfolio">Architecture Firm Portfolio</a></b> <sup>PRO</sup><br>
+<sub>Architecture practice site with studio photographs, a filterable project index, project pages with drawn SVG plans, awards and contact.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/architecture-firm-portfolio/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ux-designer-case-study-portfolio/d98c9cd5-3c35-49ef-b8f1-e7259817ea29/shot_desktop.bd206106cf.webp" width="100%" alt="UX Designer Case Study Portfolio website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/ux-designer-case-study-portfolio">UX Designer Case Study Portfolio</a></b> <sup>PRO</sup><br>
+<sub>A process-led UX portfolio with long-form case studies, code-drawn artifacts, and clear project outcomes.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ux-designer-case-study-portfolio/prompt.md">Prompt</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/painter-portfolio-and-print-shop/4679ba66-293e-4438-baa9-8729f597243a/shot_desktop.ca2292e1ff.webp" width="100%" alt="Painter Portfolio and Print Shop website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/painter-portfolio-and-print-shop">Painter Portfolio and Print Shop</a></b><br>
 <sub>A tactile artist portfolio with series galleries, artwork pages, and an interactive archival print shop.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/painter-portfolio-and-print-shop/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/interior-design-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interior-design-studio-website/06740e7f-e14f-4a49-a3fc-0dea0da94798/shot_desktop.114b5341a6.webp" width="100%" alt="Interior Design Studio Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/interior-design-studio-website">Interior Design Studio Website</a></b><br>
+<sub>Interior studio site with draggable before/after sliders, services, a five-step process, gallery of four rooms and a consultation form.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interior-design-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interior-design-studio-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/tattoo-studio-website/8bc5b95a-327b-4abf-b934-5fe27ac4bc5b/shot_desktop.7cfc347a2c.webp" width="100%" alt="Tattoo Studio Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
@@ -105,16 +119,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/wedding-photographer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/wedding-photographer-portfolio/66d02f47-a449-479a-ad01-a7a0b14c6a64/shot_desktop.7aac6125fd.webp" width="100%" alt="Wedding Photographer Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/wedding-photographer-portfolio">Wedding Photographer Portfolio</a></b> <sup>PRO</sup><br>
-<sub>Cinematic four-page photographer portfolio with story galleries, a couple-in-silhouette frame, a lightbox, packages and inquiry.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/wedding-photographer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/wedding-photographer-portfolio/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ux-designer-case-study-portfolio/d98c9cd5-3c35-49ef-b8f1-e7259817ea29/shot_desktop.bd206106cf.webp" width="100%" alt="UX Designer Case Study Portfolio website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/ux-designer-case-study-portfolio">UX Designer Case Study Portfolio</a></b> <sup>PRO</sup><br>
-<sub>A process-led UX portfolio with long-form case studies, code-drawn artifacts, and clear project outcomes.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ux-designer-case-study-portfolio/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/ff274814-e036-4323-af67-05a7fd27311b/shot_desktop.a37a72775c.webp" width="100%" alt="Fluid Simulation Agency Website website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/fluid-simulation-agency-website">Fluid Simulation Agency Website</a></b> <sup>PRO</sup><br>
+<sub>Interactive creative studio homepage with a live WebGL fluid hero, cutout wordmark mask, and scroll-reactive electric palettes.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/fluid-simulation-agency-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

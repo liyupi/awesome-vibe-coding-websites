@@ -17,8 +17,8 @@ Five variables change the brand, product category, audience, event terminology, 
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [Landing Page](../../types/landing-page.md), [SaaS](../../types/saas.md) |
-| Style | [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md), [Minimal](../../styles/minimal.md) |
+| Site type | [SaaS](../../types/saas.md), [Landing Page](../../types/landing-page.md) |
+| Style | [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Generative / Canvas, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + Tailwind + motion + lucide-react |
 | Pages | 1 |

@@ -17,7 +17,7 @@ This template suits indie hackers, developers, and designers who want a playable
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
 | Style | [Playful](../../styles/playful.md) |
-| Effects | 3D / WebGL, Micro-interactions |
+| Effects | Micro-interactions, 3D / WebGL |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -89,7 +89,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add harbor-town-
 The Bellbuoy Parcel Run case was built by Kimi K3.1 Pro in Kimi Code; the Fernfall Bakery Route case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Harbor Town Delivery Game template use?
-Harbor Town Delivery Game is a single-page site built with Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Harbor Town Delivery Game is a single-page site built with Three.js, with micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Harbor Town Delivery Game template free to use?
 Harbor Town Delivery Game is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

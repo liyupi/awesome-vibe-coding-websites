@@ -19,7 +19,7 @@ This template suits indie hackers, developers, and designers who need an adaptab
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
 | Style | [Hand-drawn](../../styles/hand-drawn.md), [Playful](../../styles/playful.md) |
-| Effects | 3D / WebGL, Micro-interactions |
+| Effects | Micro-interactions, 3D / WebGL |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -91,7 +91,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add island-posta
 The Amberwick Autumn Route case was built by Kimi K3.1 Pro in Kimi Code; the Mossbell Evergreen Route case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Island Postal Route Game template use?
-Island Postal Route Game is a single-page site built with Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Island Postal Route Game is a single-page site built with Three.js, with micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Island Postal Route Game template free to use?
 Island Postal Route Game is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.
