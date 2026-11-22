@@ -18,8 +18,8 @@ To adapt it, change the name, the tagline, the voice names, the starter pattern 
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
-| Effects | Drag & Physics, Micro-interactions, Web Audio |
+| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
+| Effects | Drag & Physics, Web Audio, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Plain CSS + lucide |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add interactive-synth-web-t
 The Neon pocket synth case was built by Claude Opus 5.5 in Claude Code; the Classroom music lab case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Interactive Synth Web Toy template use?
-Interactive Synth Web Toy is a single-page site built with Plain HTML, with drag & physics, micro-interactions and web audio. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Interactive Synth Web Toy is a single-page site built with Plain HTML, with drag & physics, web audio and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Interactive Synth Web Toy template for a client or a business?
 The Interactive Synth Web Toy prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

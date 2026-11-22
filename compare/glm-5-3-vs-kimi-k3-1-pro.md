@@ -34,6 +34,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/landscaping-and-lawn-care-website/889cc2f9-852e-471e-b8e4-29766d492634/shot_desktop.6846615f8c.webp" width="100%" alt="Landscaping and Lawn Care Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/property-management-company-website">Property Management Company Website</a></b> — <sub>A two-path property management site: owners get a transparent fee table and income estimator, tenants get listings and a maintenance list.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/property-management-company-website/06d7c381-bb30-4394-896a-4650155bc521/shot_desktop.c182e51ef4.webp" width="100%" alt="Property Management Company Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/music-lessons-school-website">Music Lessons School Website</a></b> — <sub>A warm plum-and-brass music school site with a lesson finder that matches teachers, and a practice tracker that sticks.</sub></td>
 </tr>
 <tr>
@@ -41,11 +48,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-lessons-school-website/65401d9a-cd56-45d1-a20f-66a2857ba154/shot_desktop.a3cbd38306.webp" width="100%" alt="Music Lessons School Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/property-management-company-website">Property Management Company Website</a></b> — <sub>A two-path property management site: owners get a transparent fee table and income estimator, tenants get listings and a maintenance list.</sub></td>
+<td colspan="2"><b><a href="../templates/used-car-dealership-website">Used Car Dealership Website</a></b> — <sub>A modern graphite-and-yellow dealership site with real inventory filters, a payment calculator and three-car compare.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/property-management-company-website/06d7c381-bb30-4394-896a-4650155bc521/shot_desktop.c182e51ef4.webp" width="100%" alt="Property Management Company Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp" width="100%" alt="Used Car Dealership Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/used-car-dealership-website/f2c404c2-e781-4f23-bd55-88cd87dd31ad/shot_desktop.2b84274732.webp" width="100%" alt="Used Car Dealership Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/pet-grooming-and-boarding-website">Pet Grooming and Boarding Website</a></b> — <sub>A cheerful grooming and boarding site with a size-and-coat price picker and a stay calculator that does the math.</sub></td>
@@ -60,13 +67,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/private-k-12-school-website/656a8501-c697-48d6-8801-9ad021d3196e/shot_desktop.96f80f5a2f.webp" width="100%" alt="Private K-12 School Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/private-k-12-school-website/bb51b48e-8b9b-40ac-9db4-97dc2d0cecec/shot_desktop.798b685623.webp" width="100%" alt="Private K-12 School Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/used-car-dealership-website">Used Car Dealership Website</a></b> — <sub>A modern graphite-and-yellow dealership site with real inventory filters, a payment calculator and three-car compare.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp" width="100%" alt="Used Car Dealership Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/used-car-dealership-website/f2c404c2-e781-4f23-bd55-88cd87dd31ad/shot_desktop.2b84274732.webp" width="100%" alt="Used Car Dealership Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/family-medical-clinic-website">Family Medical Clinic Website</a></b> — <sub>A warm, calm family clinic site with a filterable provider directory and same-day appointment requests.</sub></td>
@@ -111,6 +111,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/independent-pharmacy-website/909d7848-11d0-4674-b133-5ac578564eb3/shot_desktop.373b4eb913.webp" width="100%" alt="Independent Pharmacy Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/funeral-home-website">Funeral Home Website</a></b> — <sub>A gentle, dignified funeral home site with transparent pricing, a pre-planning checklist and a local guestbook.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/funeral-home-website/3db516b3-9735-4218-be9d-5c5e36108cf7/shot_desktop.947bd932b2.webp" width="100%" alt="Funeral Home Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/funeral-home-website/6ed6358e-3795-434b-b8bb-a478baf153d7/shot_desktop.aa1642cd74.webp" width="100%" alt="Funeral Home Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/self-storage-facility-website">Self Storage Facility Website</a></b> — <sub>A bright, friendly storage site with a drawn-to-scale size guide and a no-payment reservation flow.</sub></td>
 </tr>
 <tr>
@@ -123,13 +130,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pest-control-service-website/940513cd-b5c4-44eb-8fe4-02dbbf053142/shot_desktop.bc68d67199.webp" width="100%" alt="Pest Control Service Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pest-control-service-website/1672ca85-e1d3-4aca-8cfd-6dc033713bf7/shot_desktop.7299a32818.webp" width="100%" alt="Pest Control Service Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/funeral-home-website">Funeral Home Website</a></b> — <sub>A gentle, dignified funeral home site with transparent pricing, a pre-planning checklist and a local guestbook.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/funeral-home-website/3db516b3-9735-4218-be9d-5c5e36108cf7/shot_desktop.947bd932b2.webp" width="100%" alt="Funeral Home Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/funeral-home-website/6ed6358e-3795-434b-b8bb-a478baf153d7/shot_desktop.aa1642cd74.webp" width="100%" alt="Funeral Home Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/bridal-boutique-website">Bridal Boutique Website</a></b> — <sub>An editorial blush-and-wine bridal boutique with a style quiz, filterable gown collection and party-size appointments.</sub></td>

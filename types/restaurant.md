@@ -35,16 +35,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/personal-chef-service-website">Personal Chef Service Website</a></b><br>
-<sub>Moody personal-chef site with tasting-menu cards and a per-guest pricing calculator built in.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personal-chef-service-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/pizza-ordering-website/88827dac-ff0f-41b0-8fed-61e03c69adc1/shot_desktop.91bdce99cc.webp" width="100%" alt="Pizza Ordering Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/pizza-ordering-website">Pizza Ordering Website</a></b><br>
 <sub>A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/pizza-ordering-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/personal-chef-service-website">Personal Chef Service Website</a></b><br>
+<sub>Moody personal-chef site with tasting-menu cards and a per-guest pricing calculator built in.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personal-chef-service-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

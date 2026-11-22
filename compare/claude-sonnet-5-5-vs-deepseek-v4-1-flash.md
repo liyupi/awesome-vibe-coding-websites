@@ -27,18 +27,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-3d-globe-travel-journal/153af059-3fb3-4f8d-886c-c32838a89e77/shot_desktop.40a8fab5fb.webp" width="100%" alt="Interactive 3D Globe Travel Journal built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/3d-product-configurator-page">3D Product Configurator Page</a></b> — <sub>Drag a code-built 3D headphone, pick finish, cushions and engraving, then scroll to take it apart.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/46e3b8bb-8076-46ea-b84c-06e524014917/shot_desktop.2a5935dd45.webp" width="100%" alt="3D Product Configurator Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/168cacc0-afb4-4220-8f7a-6b27a8795587/shot_desktop.2cddf638c5.webp" width="100%" alt="3D Product Configurator Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/kinetic-typography-portfolio">Kinetic Typography Portfolio</a></b> — <sub>A motion designer portfolio where giant variable type splits, stretches and re-forms as you scroll.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kinetic-typography-portfolio/ea4661ec-3a34-4021-9c13-d929ecec85ea/shot_desktop.8bd8fef2b7.webp" width="100%" alt="Kinetic Typography Portfolio built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kinetic-typography-portfolio/cffdb087-e2ec-4d4c-81b2-04d9960336fc/shot_desktop.24e9a78300.webp" width="100%" alt="Kinetic Typography Portfolio built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/3d-product-configurator-page">3D Product Configurator Page</a></b> — <sub>Drag a code-built 3D headphone, pick finish, cushions and engraving, then scroll to take it apart.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/46e3b8bb-8076-46ea-b84c-06e524014917/shot_desktop.2a5935dd45.webp" width="100%" alt="3D Product Configurator Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/168cacc0-afb4-4220-8f7a-6b27a8795587/shot_desktop.2cddf638c5.webp" width="100%" alt="3D Product Configurator Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/isometric-3d-room-portfolio">Isometric 3D Room Portfolio</a></b> — <sub>A developer portfolio set in a cozy 3D room where each object opens a section and a lamp turns on night.</sub></td>

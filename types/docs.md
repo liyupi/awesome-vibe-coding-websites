@@ -2,7 +2,7 @@
 
 > Documentation sites with a sidebar, search-style navigation, code blocks and long-form reading layouts.
 
-7 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/docs?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
+8 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/docs?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
 
 <table>
 <tr>
@@ -13,46 +13,52 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/help-center-knowledge-base/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/api-reference-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/api-reference-docs-site/7038a60e-8b6b-4f16-8ac8-76f606642c10/shot_desktop.d97b5d37f5.webp" width="100%" alt="API Reference Docs Site website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/api-reference-docs-site">API Reference Docs Site</a></b> <sup>PRO</sup><br>
-<sub>Three-column API reference with instant search, parameter tables, tabbed code samples with copy buttons and response examples.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/api-reference-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/api-reference-docs-site/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/225a18de-afff-4c97-a66b-41f58f071275/shot_desktop.a39fe3d8d6.webp" width="100%" alt="Terminal-Style Docs Site website template — live demo built by Claude Opus 5.5"></a><br>
 <b><a href="../templates/terminal-style-docs-site">Terminal-Style Docs Site</a></b><br>
 <sub>A dark, monospace docs site for a command-line tool, with an amber accent, copyable commands and / search.</sub><br>
 <sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/terminal-style-docs-site/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/api-reference-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/api-reference-docs-site/7038a60e-8b6b-4f16-8ac8-76f606642c10/shot_desktop.d97b5d37f5.webp" width="100%" alt="API Reference Docs Site website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/api-reference-docs-site">API Reference Docs Site</a></b> <sup>PRO</sup><br>
+<sub>Three-column API reference with instant search, parameter tables, tabbed code samples with copy buttons and response examples.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/api-reference-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/api-reference-docs-site/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/shot_desktop.23d76a594f.webp" width="100%" alt="Product Documentation Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/product-documentation-website">Product Documentation Website</a></b><br>
+<sub>A guides-first three-column SDK documentation site with synced code tabs, version switching, and live try-it requests.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-documentation-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/shot_desktop.dbeb32fdaa.webp" width="100%" alt="Product Changelog Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/product-changelog-page">Product Changelog Page</a></b><br>
 <sub>Release-notes page with a version timeline, type filters with live counts, copyable version anchors and a drawn feed chip.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-changelog-page/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/open-source-project-homepage/8a911742-c560-4e29-ad52-8c3a8fa8760e/shot_desktop.24a3cbc8c5.webp" width="100%" alt="Open Source Project Homepage website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/open-source-project-homepage">Open Source Project Homepage</a></b><br>
 <sub>Homepage for an open-source library: copyable install command, tabbed code example, feature grid, contributors and sponsor tiers.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/open-source-project-homepage/prompt.md">Prompt</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/shot_desktop.23d76a594f.webp" width="100%" alt="Product Documentation Website website template — live demo built by Gemini 4 Neon"></a><br>
-<b><a href="../templates/product-documentation-website">Product Documentation Website</a></b><br>
-<sub>A guides-first three-column SDK documentation site with synced code tabs, version switching, and live try-it requests.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-documentation-website/prompt.md">Prompt</a></sub>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/shot_desktop.6da87800ea.webp" width="100%" alt="Team Wiki Workspace App website template — live demo built by Gemini 4 Neon"></a><br>
+<a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/shot_desktop.6da87800ea.webp" width="100%" alt="Team Wiki Workspace App website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/team-wiki-workspace-app">Team Wiki Workspace App</a></b> <sup>PRO</sup><br>
 <sub>A block-based team wiki with slash commands, nested pages, table/board/calendar database views, and Markdown export.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-wiki-workspace-app/prompt.md">Prompt</a></sub>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-wiki-workspace-app/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/9ee24e01-d08e-4735-a4eb-b25fb5a74537/shot_desktop.f39de8d5d8.webp" width="100%" alt="Animated UI Components Gallery website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/animated-ui-components-gallery">Animated UI Components Gallery</a></b> <sup>PRO</sup><br>
+<sub>30 original animated React &amp; Tailwind UI components with live props sliders, Light/Dark previews, code snippets, Copy as Prompt, and ⌘K.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/animated-ui-components-gallery/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

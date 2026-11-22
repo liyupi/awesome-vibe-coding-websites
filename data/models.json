@@ -1,5 +1,16 @@
 [
   {
+    "slug": "gpt-6-2-sol",
+    "name": "GPT-6.2 Sol",
+    "vendor": "OpenAI",
+    "sites": 21,
+    "templates": 21,
+    "tools": [
+      "Codex"
+    ],
+    "url": "https://vibefather.ai/models/gpt-6-2-sol"
+  },
+  {
     "slug": "gemini-4-carbon",
     "name": "Gemini 4 Carbon",
     "vendor": "Google",
@@ -14,8 +25,8 @@
     "slug": "gemini-4-neon",
     "name": "Gemini 4 Neon",
     "vendor": "Google",
-    "sites": 15,
-    "templates": 15,
+    "sites": 33,
+    "templates": 33,
     "tools": [
       "Antigravity"
     ],

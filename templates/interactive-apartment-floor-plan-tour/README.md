@@ -20,8 +20,8 @@ Adapt the invented residence, unit name, setting, material story, and contact de
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
-| Effects | Drag & Physics, Micro-interactions, 3D / WebGL |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |
 | Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
@@ -94,7 +94,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add interactive-
 The Alder House city apartment case was built by GPT-6.1 Sol in Codex; the Cove Court coastal apartment case was built by GPT-6.1 Sol in Codex. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Interactive Apartment Floor Plan Tour template use?
-Interactive Apartment Floor Plan Tour is a single-page site built with Three.js and Plain HTML, with drag & physics, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Interactive Apartment Floor Plan Tour is a single-page site built with Three.js and Plain HTML, with drag & physics, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Interactive Apartment Floor Plan Tour template free to use?
 Interactive Apartment Floor Plan Tour is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

@@ -2,7 +2,7 @@
 
 > Spatial-audio headset product showcase where tens of thousands of GPU particles morph smoothly across five 3D silhouettes on scroll.
 
-<a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/particle-morph-3d-landing-page/5720080b-3112-4119-8634-28317faf526a/webp.7a42626c92.webp" width="100%" alt="Particle Morph 3D Landing Page — 3D Particle Morph Landing Page for Audio built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/particle-morph-3d-landing-page/5720080b-3112-4119-8634-28317faf526a/webp.7a42626c92.webp" width="100%" alt="Particle Morph 3D Landing Page — 3D Particle Morph Landing Page for Audio built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/particle-morph-3d-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -13,10 +13,10 @@ A flagship 3D product landing page for an original spatial-audio headset powered
 | Category | [More Landing Pages](../../README.md#more-landing-pages) |
 | Site type | [Landing Page](../../types/landing-page.md), Product |
 | Style | [Dark](../../styles/dark.md), Futuristic |
-| Effects | 3D / WebGL, Particle Morph, Scroll 3d, Webgl Shaders |
+| Effects | Particle Morph, Scroll 3d, Webgl Shaders, 3D / WebGL |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ A flagship 3D product landing page for an original spatial-audio headset powered
 <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=5720080b-3112-4119-8634-28317faf526a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/particle-morph-3d-landing-page/5720080b-3112-4119-8634-28317faf526a/shot_desktop.ee290fdade.webp" width="100%" alt="Particle Morph 3D Landing Page — Auralis One (Spatial Audio Headset), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Auralis One (Spatial Audio Headset)</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=5720080b-3112-4119-8634-28317faf526a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/particle-morph-3d-landing-page/abc2cbe9-f726-47c1-bd32-8272071d1bb8/shot_desktop.d7b226b20f.webp" width="100%" alt="Particle Morph 3D Landing Page — Velvet Arc (Studio Reference Wireless Headset), built by GPT-6.2 Sol in Codex"></a><br>
+<b>Velvet Arc (Studio Reference Wireless Headset)</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -50,36 +55,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A spatial-audio startup launching its first headset: set BRAND and PRODUCT_NAME to your model, swap the acoustic spec ledger for your driver and codec figures, and point the pre-order form at your waitlist.
-- An industrial design studio pitching a wearable concept: keep the Nebula and Headset morph stages, replace the four feature cards with your materials and form studies, and rename the Studio Bundle to your prototype kit.
-- A premium speaker or earbud brand: change the sound-wave section copy to your tuning philosophy, relabel the color picker finishes to your real colorways, and rewrite the listener reviews as press quotes.
-- A hardware launch team running a limited drop: set PRICE and BATTERY_SPEC to the drop details, shorten the FAQ to shipping and warranty answers, and use the emblem stage as the countdown backdrop.
+- A studio headphone maker: set BRAND and PRODUCT_NAME to your model, swap the four feature cards for your driver and ANC claims, and point the pre-order form at your own waitlist.
+- A spatial-audio software startup: keep the particle stage but retitle the five shapes to match your app screens, replace the spec ledger with platform and latency details, and rename the editions.
+- A hardware launch agency: use the template as a pitch deck for a client device, editing the reviews and colorways to the client's palette while leaving the morph sequence intact.
+- A premium speaker brand: change PRICE and BATTERY_SPEC to your flagship figures, replace the headset silhouette copy with your speaker language, and set the color picker to your cabinet finishes.
 
 ## FAQ
 
-### What are the five 3D particle shapes and how do they connect to the page sections?
-The Particle Morph 3D Landing Page morphs tens of thousands of GPU particles across five code-sampled silhouettes as you scroll: Scattered Nebula in the hero, Spatial Headset at the acoustic features, Acoustic Sound Wave at the technical specs, Globe of Listeners at the listener reviews, and Studio Emblem at pricing, FAQ and pre-order. A floating shape dock bottom-right lets visitors jump straight to any of the five stages.
+### How do I change the product name, price and battery headline in the Particle Morph 3D Landing Page?
+The Particle Morph 3D Landing Page template uses four variables you set before or after generating the site: BRAND, PRODUCT_NAME, PRICE and BATTERY_SPEC. The default values are Auralis, Auralis One, $389 and 48-Hour Spatial Battery. All copy, specs, reviews, colorways, FAQs and footer links live in one content file, so you can swap the brand and product details there without touching the 3D scene or the layout.
 
-### How does the live color picker change the 3D particles on the pricing section?
-The Particle Morph 3D Landing Page pricing panel includes a four-finish color picker with Aurora Teal, Ion Violet, Solar Amber and Arctic Pearl. Selecting a finish immediately recolors the 3D GPU particle cloud in real time, so visitors see the headset's colorway reflected in the surrounding particle sculpture while comparing the Standard Edition and Studio Bundle cards.
+### How does the particle morph effect work as visitors scroll through the landing page?
+The Particle Morph 3D Landing Page template renders tens of thousands of GPU particles in a fixed Three.js canvas behind the scrolling column. Particles morph across five code-sampled shapes tied to sections: a scattered nebula in the hero, a spatial headset in features, a sound wave in specs, a globe of listeners in reviews, and a brand emblem in pricing and FAQ. Particles also repel from the pointer and change color when a colorway is selected.
 
-### What happens to the particle animation for visitors who prefer reduced motion?
-The Particle Morph 3D Landing Page respects the prefers-reduced-motion setting. Instead of the continuous scroll-driven morph, each section locks to its clean static target shape with no ongoing jitter, so the Nebula, Headset, Sound Wave, Listener Globe and Brand Emblem still appear as crisp particle silhouettes. The pointer repulsion and harmonic wave ripples are also held steady.
+### Can I make the 3D particles match my own brand colors in the Particle Morph 3D Landing Page?
+Yes. The Particle Morph 3D Landing Page template ships with four colorway finishes in the pricing section: Aurora Teal, Ion Violet, Solar Amber and Arctic Pearl. Choosing one recolors the 3D GPU particle cloud live. To use your own palette, edit the colorway values in the content file and in the shader color definitions, keeping the same names and structure so the picker and the particle stage stay in sync.
 
-### How do I swap the Auralis headset for my own product and brand?
-The Particle Morph 3D Landing Page prompt exposes four variables: BRAND, PRODUCT_NAME, PRICE and BATTERY_SPEC. Set them to your own hardware brand, model, starting price and battery headline, then rewrite every headline, spec line, review and FAQ answer in the same content file so the copy matches your product. The five procedural particle shapes, layout, colors and motion stay as described.
+### Is the Particle Morph 3D Landing Page template free to download and use?
+The Particle Morph 3D Landing Page is a free template. Its prompt and every DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. Commercial or client work needs Pro, which also unlocks the full prompt for Pro templates and the source code of the demos. You can install it with npx vibefather add particle-morph-3d-landing-page and read the public brief, stack and variables first.
 
-### Does the local pre-order form take real payments or store data on a server?
-No. The Particle Morph 3D Landing Page pre-order flow is a local demo reservation saved in the browser's localStorage, with an explicit notice that no real payment is taken. It is there to show the reservation experience for a hardware launch. To collect real orders you would connect the form to your own checkout or mailing list outside the template.
+### What should I change first to turn the Particle Morph 3D Landing Page into my own product launch?
+Start with the four variables in the content file: set BRAND to your company, PRODUCT_NAME to your device, PRICE to your starting price and BATTERY_SPEC to your headline spec. Then rewrite the hero headline and pitch, the four acoustic feature cards, the seven spec rows, the three listener reviews and the FAQ. Keep the five shape names and section order so the scroll morph still lines up with each section.
 
 ### How do I build a particle morph 3D landing page with AI?
-Copy the prompt from this page or run npx vibefather add particle-morph-3d-landing-page, replace [BRAND], [PRODUCT_NAME], [PRICE] and [BATTERY_SPEC] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add particle-morph-3d-landing-page, replace [BRAND], [PRODUCT_NAME], [PRICE] and [BATTERY_SPEC] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Particle Morph 3D Landing Page demo?
-The Auralis One (Spatial Audio Headset) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Auralis One (Spatial Audio Headset) case was built by Gemini 4 Neon in Antigravity; the Velvet Arc (Studio Reference Wireless Headset) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Particle Morph 3D Landing Page template use?
-Particle Morph 3D Landing Page is a single-page site built with Three.js, React and Vite, with 3d / webgl, particle morph, scroll 3d and webgl shaders. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Particle Morph 3D Landing Page is a single-page site built with Three.js, React and Vite, with particle morph, scroll 3d, webgl shaders and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Particle Morph 3D Landing Page template for a client or a business?
 The Particle Morph 3D Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

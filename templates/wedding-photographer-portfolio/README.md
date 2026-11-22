@@ -12,8 +12,8 @@ A four-page portfolio for a wedding and portrait photographer: a cinematic home 
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
-| Effects | Page Transitions, Scroll Animation, Micro-interactions |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Effects | Scroll Animation, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
 | Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add wedding-phot
 The Hudson Valley wedding photographer case was built by GLM-5.3 in ZCode; the Pacific Northwest photographer case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Wedding Photographer Portfolio template use?
-Wedding Photographer Portfolio is a 4-page site built with Tailwind CSS, Motion and React, with page transitions, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Wedding Photographer Portfolio is a 4-page site built with React, Tailwind CSS and Motion, with scroll animation, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Wedding Photographer Portfolio template free to use?
 Wedding Photographer Portfolio is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

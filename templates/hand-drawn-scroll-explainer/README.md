@@ -19,7 +19,7 @@ To adapt it, change the variables and rewrite the copy in the one content file. 
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
 | Style | [Hand-drawn](../../styles/hand-drawn.md), [Playful](../../styles/playful.md) |
-| Effects | Text Animation, Scroll Animation, Micro-interactions |
+| Effects | Scroll Animation, Text Animation, Micro-interactions |
 | Stack | Vite 5 + TypeScript + Vanilla CSS + gsap |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
@@ -91,7 +91,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add hand-drawn-s
 The Photosynthesis case was built by Claude Opus 5.5 in Claude Code; the How a web page loads case was built by Claude Opus 5.5 in Claude Code. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Hand-Drawn Scroll Explainer template use?
-Hand-Drawn Scroll Explainer is a single-page site built with GSAP and Plain HTML, with text animation, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Hand-Drawn Scroll Explainer is a single-page site built with GSAP and Plain HTML, with scroll animation, text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Hand-Drawn Scroll Explainer template free to use?
 Hand-Drawn Scroll Explainer is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

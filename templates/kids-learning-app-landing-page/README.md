@@ -17,7 +17,7 @@ Use it for an early learning product, a family activity subscription, or a langu
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [App Landing](../../types/app-landing.md), [Landing Page](../../types/landing-page.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [App Landing](../../types/app-landing.md) |
 | Style | [Playful](../../styles/playful.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |

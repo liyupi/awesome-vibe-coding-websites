@@ -2,7 +2,7 @@
 
 > An interactive 3D holographic foil card showcase with six optical finishes, pack opening, binder, and deck builder.
 
-<a href="https://vibefather.ai/templates/holographic-trading-card-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/dfbae922-946c-4490-abc6-3f402f0a4b25/webp.beaa69c8b8.webp" width="100%" alt="Holographic Trading Card Showcase — 3D Holographic Foil Collectible Card Showcase built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/holographic-trading-card-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/dfbae922-946c-4490-abc6-3f402f0a4b25/webp.beaa69c8b8.webp" width="100%" alt="Holographic Trading Card Showcase — 3D Holographic Foil Collectible Card Showcase built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/holographic-trading-card-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -12,11 +12,11 @@ Holographic Trading Card Showcase is a tactile collector showcase and pre-order 
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Luxury](../../styles/luxury.md), [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
-| Effects | Cursor Effects, Micro-interactions, 3D / WebGL |
+| Style | [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
+| Effects | Cursor Effects, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/holographic-trading-card-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -27,6 +27,11 @@ Holographic Trading Card Showcase is a tactile collector showcase and pre-order 
 <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=dfbae922-946c-4490-abc6-3f402f0a4b25&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/dfbae922-946c-4490-abc6-3f402f0a4b25/shot_desktop.0ac6a4b243.webp" width="100%" alt="Holographic Trading Card Showcase — Deep-sea bioluminescent card set, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Deep-sea bioluminescent card set</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=dfbae922-946c-4490-abc6-3f402f0a4b25&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=f72ddf3e-b875-4025-a4d4-3b09b4463b2b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/f72ddf3e-b875-4025-a4d4-3b09b4463b2b/shot_desktop.92071b17ab.webp" width="100%" alt="Holographic Trading Card Showcase — Bathyal drift creature card set, built by GPT-6.2 Sol in Codex"></a><br>
+<b>Bathyal drift creature card set</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=f72ddf3e-b875-4025-a4d4-3b09b4463b2b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -50,36 +55,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- An indie illustrator launching a creature card set: set [BRAND] and [SERIES_NAME] to your collection, swap the SVG creatures for your art, and rewrite the lore and habitat stats.
-- A tabletop game studio previewing a new deck: keep the 3D tilt and six foil finishes, rename the rarity tiers to your game's ranks, and use the Deck Builder to show faction synergy.
-- A toy or collectible brand running a pre-order campaign: set [BOX_PRICE] and [PACK_COUNT] to your box terms and point the local reservation form at your mailing list.
-- A front-end designer showing CSS optical effects: keep the midnight palette and foil switcher, replace the deep-sea catalog with your own subject and use the Detail Inspector as a case study.
+- An indie illustrator launching a creature card series: set [BRAND] and [SERIES_NAME] to your set, then replace the twelve coded deep-sea SVG artworks with your own creatures in the card catalog.
+- A tabletop game studio previewing a collectible expansion: set [PACK_COUNT] and [BOX_PRICE] for your booster box, and rewrite the card lore and habitat stats to match your game world.
+- A card shop or hobby store taking reservations: keep the Booster Box reservation form, set [BOX_PRICE] to your pre-order price, and point the confirmation copy at your in-store pickup details.
+- A front-end designer showing 3D CSS work: keep the six foil finishes and tilt interactions, swap the deep-sea catalog for a portfolio set of specimen cards, and use the Deck Builder as a curated highlights tray.
 
 ## FAQ
 
-### How does the 3D holographic tilt effect work on the trading cards?
-Each card in the Holographic Trading Card Showcase tilts in 3D perspective as you move your mouse over it, drag your finger across it on touch screens, or tilt your phone using device orientation. CSS custom properties track the pointer position and drive directional specular glare and prismatic sparkle. Six foil finishes — Rainbow, Galaxy, Cracked Ice, Etched Gold, Cosmos and Reverse — shift hue and sheen with the viewing angle, and fall back to a calm static foil gradient when reduced motion is enabled.
+### What is included in the Holographic Trading Card Showcase template?
+The Holographic Trading Card Showcase template is a single-page collector showcase for an original deep-sea card series. It includes a 3D tiltable hero card with six foil finishes, a pack opening sequence with a rare-card flash, a filterable Collection Binder saved in localStorage, a card detail inspector with lore and stats, a six-card Deck Builder, and a local Booster Box reservation form. All twelve creatures are drawn in code as layered SVG artwork.
 
-### Can I use the Holographic Trading Card Showcase template for a real card series I am launching?
-The Holographic Trading Card Showcase template is a Pro template, so commercial and client use is covered by Pro access, which also includes the full prompt and the demo source code. You can set [BRAND] to your publisher name, [SERIES_NAME] to your set title, [BOX_PRICE] and [PACK_COUNT] to your pre-order terms, and rewrite the creature names, stats and lore in the catalog data to match your own series.
+### How do I change the brand, series name, price and pack count in this template?
+Set [BRAND] to your publisher name, [SERIES_NAME] to your collection title, [BOX_PRICE] to your booster box price and [PACK_COUNT] to the number of packs per box. The defaults are Abyssal Foil Press, Hadal Bloom: Series I, $84 and 24 Foil Packs. The prompt asks the agent to rewrite every headline, paragraph, label and image for your values while keeping layout, colors, type and motion.
 
-### How do I add my own card artwork and stats to the holographic card showcase?
-The Holographic Trading Card Showcase draws its twelve deep-sea creatures as layered SVG artwork in code, with stats, lore, rarity, habitat and foil type seeded in a card catalog data file. To use your own series, replace the creature illustration components with your artwork and edit the catalog entries for each card. The six foil treatments stay as CSS layers, so your art inherits the same tilt, glare and sparkle behavior without extra work.
+### Can I use the Holographic Trading Card Showcase template for a client project?
+Commercial and client use of the Holographic Trading Card Showcase template requires Pro. The template is a Pro template, so the brief, stack and variables are public and Pro members get the full prompt plus the source code of the demos. Every DESIGN.md and free templates' prompts are licensed for personal, non-commercial use under CC BY-NC 4.0.
 
-### What happens when a visitor opens a booster pack in the Holographic Trading Card Showcase?
-Opening a pack in the Holographic Trading Card Showcase runs a staged Tear, Fan Out, Flip and Rare-Card Flash sequence. Pulled cards are saved into the visitor's Collection Binder in localStorage, where they can be filtered by rarity, habitat type and foil finish. Any card can be opened in an enlarged Detail Inspector with ecological stats and lore, and six of them can be assembled into an expedition Deck with live synergy stats.
+### How does the pack opening and collection saving work without a backend?
+The Holographic Trading Card Showcase opens packs through a staged Tear, Fan Out, Flip and Rare-Card Flash sequence, then saves pulled cards to localStorage. Owned card counts, the active six-card deck, the opened pack tally and the booster box reservation all persist in the browser. There is no backend, no server code and no live checkout, so the reservation form records intent locally.
 
-### Does the Holographic Trading Card Showcase include a working checkout for booster box pre-orders?
-No. The Holographic Trading Card Showcase reserves a booster box locally through a form that saves the reservation in the browser, with no live checkout or payment processing. The site is a static build with no backend and no external APIs. To take real pre-orders you would connect the reservation form to your own store or payment provider after generating the site.
+### How do the six holographic foil effects respond to touch and device motion?
+The Holographic Trading Card Showcase uses six CSS foil treatments named Rainbow, Galaxy, Cracked Ice, Etched Gold, Cosmos and Reverse. They shift hue and sheen with viewing angle as cards respond to mouse hover, mobile touch drag or device orientation, with 3D perspective tilting, directional glare and prismatic sparkle. When prefers-reduced-motion is enabled, each finish falls back to a calm static foil gradient.
 
 ### How do I build a holographic trading card showcase with AI?
-Copy the full prompt (Pro) from this page or run npx vibefather add holographic-trading-card-showcase, replace [BRAND], [SERIES_NAME], [BOX_PRICE] and [PACK_COUNT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the full prompt (Pro) from this page or run npx vibefather add holographic-trading-card-showcase, replace [BRAND], [SERIES_NAME], [BOX_PRICE] and [PACK_COUNT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Holographic Trading Card Showcase demo?
-The Deep-sea bioluminescent card set case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Deep-sea bioluminescent card set case was built by Gemini 4 Neon in Antigravity; the Bathyal drift creature card set case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Holographic Trading Card Showcase template use?
-Holographic Trading Card Showcase is a single-page site built with Tailwind CSS and React, with cursor effects, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Holographic Trading Card Showcase is a single-page site built with React and Tailwind CSS, with cursor effects, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Holographic Trading Card Showcase template free to use?
 Holographic Trading Card Showcase is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

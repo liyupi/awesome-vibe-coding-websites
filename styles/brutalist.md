@@ -49,16 +49,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
+<b><a href="../templates/sticker-shop-website">Sticker Shop Website</a></b><br>
+<sub>A cherry-and-lemon sticker shop with original art, product photos, a six-slot pack builder, and local cart.</sub><br>
+<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/sticker-shop-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/indie-record-label-website/9e1665bf-5972-4167-83d1-8065aa0d01bb/shot_desktop.c1da66a7b5.webp" width="100%" alt="Indie Record Label Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/indie-record-label-website">Indie Record Label Website</a></b><br>
 <sub>Riso-poster record label site with generative sleeves, a tour feed, and a local vinyl variant shop.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/indie-record-label-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/sticker-shop-website">Sticker Shop Website</a></b><br>
-<sub>A cherry-and-lemon sticker shop with original art, product photos, a six-slot pack builder, and local cart.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/sticker-shop-website/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/logistics-and-freight-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/logistics-and-freight-website/14148abf-d655-4ab3-b006-6d2413563f58/shot_desktop.a77627ced3.webp" width="100%" alt="Logistics and Freight Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/logistics-and-freight-website">Logistics and Freight Website</a></b><br>
+<sub>Bold navy-and-sand freight site with an animated route map, local tracking widget and instant quote form.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/logistics-and-freight-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/logistics-and-freight-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/startup-waitlist-landing-page/04a22c24-520c-4205-a49d-3da0206f5a85/shot_desktop.ceec09c9c5.webp" width="100%" alt="Startup Waitlist Landing Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/startup-waitlist-landing-page">Startup Waitlist Landing Page</a></b><br>
+<sub>Minimal waitlist page with an email capture, a queue-position counter, a referral mock and a short FAQ.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/startup-waitlist-landing-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -67,20 +81,6 @@
 <b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
 <sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub><br>
 <sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/running-shoe-product-launch-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/logistics-and-freight-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/logistics-and-freight-website/14148abf-d655-4ab3-b006-6d2413563f58/shot_desktop.a77627ced3.webp" width="100%" alt="Logistics and Freight Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/logistics-and-freight-website">Logistics and Freight Website</a></b><br>
-<sub>Bold navy-and-sand freight site with an animated route map, local tracking widget and instant quote form.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/logistics-and-freight-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/logistics-and-freight-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/startup-waitlist-landing-page/04a22c24-520c-4205-a49d-3da0206f5a85/shot_desktop.ceec09c9c5.webp" width="100%" alt="Startup Waitlist Landing Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/startup-waitlist-landing-page">Startup Waitlist Landing Page</a></b><br>
-<sub>Minimal waitlist page with an email capture, a queue-position counter, a referral mock and a short FAQ.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/startup-waitlist-landing-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/climbing-gym-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/climbing-gym-website/45248244-bf0e-4cfe-84b4-3ad1666f4e21/shot_desktop.3b62d290f3.webp" width="100%" alt="Climbing Gym Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>

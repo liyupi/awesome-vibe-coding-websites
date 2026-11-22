@@ -12,8 +12,8 @@ Space Tech Startup Website is a deep-space marketing site for an invented small-
 |---|---|
 | Category | [Landing Pages & Product Launches](../../README.md#landing-pages--product-launches) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
-| Effects | Parallax, Scroll Animation, Micro-interactions |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion |
 | Pages | 1 |
 | Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add space-tech-s
 The Satellite constellation startup case was built by GLM-5.3 in ZCode; the Orbital propellant depot case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Space Tech Startup Website template use?
-Space Tech Startup Website is a single-page site built with Tailwind CSS, Motion and React, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Space Tech Startup Website is a single-page site built with React, Tailwind CSS and Motion, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Space Tech Startup Website template free to use?
 Space Tech Startup Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

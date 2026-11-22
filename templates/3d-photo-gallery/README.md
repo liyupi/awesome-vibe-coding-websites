@@ -12,7 +12,7 @@ Endless Hall is a one-page online exhibition built with three.js. Twenty-four fr
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Drag & Physics, Cursor Effects, 3D / WebGL |
 | Stack | Vite 5 + TypeScript + three.js + Plain CSS, custom properties + three |
 | Pages | 1 |

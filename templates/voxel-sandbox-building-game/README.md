@@ -2,7 +2,7 @@
 
 > An original pastel-candy Three.js voxel sandbox opening on a sunset lakeside village with 12 materials and region copy-paste.
 
-<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/1c82ecb7-bd14-4672-a263-176864e35bc3/webp.d5237e96cd.webp" width="100%" alt="Voxel Sandbox Building Game — Pastel 3D Three.js Voxel Sandbox Builder built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/1c82ecb7-bd14-4672-a263-176864e35bc3/webp.d5237e96cd.webp" width="100%" alt="Voxel Sandbox Building Game — Pastel 3D Three.js Voxel Sandbox Builder built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -11,12 +11,12 @@ Voxel Sandbox Building Game is an original browser-based 3D block-building sandb
 | | |
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
-| Site type | [Browser Game](../../types/game.md), [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
-| Effects | Generative / Canvas, Micro-interactions, 3D / WebGL |
+| Site type | [Interactive Toy](../../types/toy.md), [Browser Game](../../types/game.md) |
+| Style | [Minimal](../../styles/minimal.md), [Playful](../../styles/playful.md) |
+| Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ Voxel Sandbox Building Game is an original browser-based 3D block-building sandb
 <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=1c82ecb7-bd14-4672-a263-176864e35bc3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/1c82ecb7-bd14-4672-a263-176864e35bc3/shot_desktop.2b43e074e1.webp" width="100%" alt="Voxel Sandbox Building Game — Pastel lakeside sunset village, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Pastel lakeside sunset village</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=1c82ecb7-bd14-4672-a263-176864e35bc3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=65902339-2b8a-4984-96c7-5ba3cba8bbc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/65902339-2b8a-4984-96c7-5ba3cba8bbc4/shot_desktop.b58eedda83.webp" width="100%" alt="Voxel Sandbox Building Game — Sorbet terrace coastal valley, built by GPT-6.2 Sol in Codex"></a><br>
+<b>Sorbet terrace coastal valley</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=65902339-2b8a-4984-96c7-5ba3cba8bbc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -49,36 +54,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A classroom coding club: set BRAND to your group name and VILLAGE_NAME to a class-chosen village, then keep the Region Build toolbar for teaching copy-paste and coordinates.
-- A game studio portfolio piece: rename the brand to your studio, keep the Sunset village as the opening shot, and use the World Save/Load drawer to show off saved builds.
-- A kids' creative toy site: set BRAND to a friendly name, lean on the 12 pastel materials and mobile touch controls, and keep the Day/Sunset/Night switch as the main draw.
-- A 3D web demo for developers: keep the default seed, then point the top bar copy at your own project and use the Fly mode and lantern lighting to show off the rendering.
+- A classroom coding club: set BRAND to your club name, VILLAGE_NAME to your school, and use Region Build to let students copy a cottage and reshape it together.
+- A game studio portfolio piece: keep the sunset village but retheme the 12 hotbar materials to your studio palette and name the seed after your project.
+- A birthday or event page: set BRAND and VILLAGE_NAME to the party, then use the Glow Lantern blocks and Night cycle to light the village as a themed scene.
+- A creative coding tutorial: fix WORLD_SEED so every reader opens the same terrain, then walk through the Day, Sunset and Night cycle and the copy-paste region tool.
 
 ## FAQ
 
-### What can I actually build in the Voxel Sandbox Building Game template?
-The Voxel Sandbox Building Game template is a browser-based 3D block sandbox. Players walk, jump or fly around a pastel lakeside village, break and place blocks from a 12-material hotbar that includes Mint Turf, Sky Glass, Glow Lantern and spreading Water, switch between Sunset, Bright Day and Starry Night, and copy-paste whole structures with the Region Build toolbar.
+### What do I see the moment the Voxel Sandbox Building Game template opens?
+The Voxel Sandbox Building Game opens on a full-viewport Three.js canvas overlooking a pre-built lakeside village at sunset: four pastel cottages with coral roofs and glowing lantern windows, a wooden footbridge across the lake, pink blossom trees, mint hills and a carved lavender-stone cave. There is no loading wall or flat empty grid, so the first frame already shows the world you can walk into.
 
-### Is there a free voxel sandbox game template I can build with AI?
-Yes. The Voxel Sandbox Building Game template is free, and its full prompt is published on the page, so you can hand it to an AI coding agent and get the pastel voxel world running yourself. The prompt and the DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0; commercial or client work needs a VibeFather Pro license.
+### How do the 12 materials and the water and lantern blocks work in the Voxel Sandbox Building Game?
+The bottom hotbar holds 12 pastel materials: Mint Turf, Peach Sand, Coral Tile, Cream Plaster, Lavender Stone, Berry Brick, Timber, Blossom Leaves, Sky Glass, Glow Lantern, Water and Cloud Puff. Pick a slot with keys 1 to 9, 0, - and =, or click or tap it. Water spreads locally into adjacent lower air tiles, and Glow Lantern blocks visibly light nearby streets when you switch to Night.
 
-### How does the 12-material hotbar and water spreading work?
-The Voxel Sandbox Building Game template gives you 12 pastel materials on a bottom hotbar, selected with number keys, clicks or taps. Water blocks spread locally into adjacent lower air cells, Glow Lantern blocks cast real light that brightens the village at night, and Sky Glass stays translucent, so builds read clearly against the sunset sky.
+### Can I copy a whole building and paste it somewhere else in the Voxel Sandbox Building Game?
+Yes. The Region Build toolbar in the Voxel Sandbox Building Game lets you set two corners with Mark A and Mark B, copy the selection, then use Paste Ahead to drop the structure in front of you, with a voxel count shown as feedback. It is useful for repeating cottages, terraces or bridges across the lakeside village without rebuilding each block by hand.
 
-### Can I save my voxel world and load it again later?
-Yes. The Voxel Sandbox Building Game template has a World Save/Load drawer that stores custom worlds in browser localStorage, along with an editable numeric Seed field and a Generate Seed button that rebuilds terrain deterministically. You can save a world, load it back, or reset to the original lakeside village at any time in the same browser.
+### How do I save a world I built in the Voxel Sandbox Building Game and load it again later?
+The World Save/Load drawer in the Voxel Sandbox Building Game stores custom worlds in your browser's localStorage. You can edit the numeric seed, generate a new terrain from it, save the current world, load a saved one, or reset back to the village. Saved worlds live in that browser only, so they do not follow you to another device or browser.
 
-### What should I change first in the Voxel Sandbox Building Game template?
-Start with the three prompt variables: set BRAND to your sandbox title, VILLAGE_NAME to your village, and WORLD_SEED to the number that generates the terrain you want. Then rewrite the headlines, labels and toolbar copy to match those values, and adjust the pastel palette in the design section if you want a different mood.
+### What should I change first in the Voxel Sandbox Building Game to make it my own?
+Start with the three variables: set BRAND to your sandbox title, VILLAGE_NAME to the name of your seeded village, and WORLD_SEED to a number that generates the terrain layout you want. Then rewrite the headlines, labels and shortcut copy in the content file so they match your names, keeping the same length and tone. The pastel palette, hotbar and HUD layout can stay as they are.
 
 ### How do I build a voxel sandbox building game with AI?
-Copy the prompt from this page or run npx vibefather add voxel-sandbox-building-game, replace [BRAND], [VILLAGE_NAME] and [WORLD_SEED] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add voxel-sandbox-building-game, replace [BRAND], [VILLAGE_NAME] and [WORLD_SEED] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Voxel Sandbox Building Game demo?
-The Pastel lakeside sunset village case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Pastel lakeside sunset village case was built by Gemini 4 Neon in Antigravity; the Sorbet terrace coastal valley case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Voxel Sandbox Building Game template use?
-Voxel Sandbox Building Game is a single-page site built with Three.js, Tailwind CSS and React, with generative / canvas, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Voxel Sandbox Building Game is a single-page site built with Three.js, React and Tailwind CSS, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Voxel Sandbox Building Game template for a client or a business?
 The Voxel Sandbox Building Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

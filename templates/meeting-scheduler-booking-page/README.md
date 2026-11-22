@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add meeting-scheduler-booki
 The Product strategy sessions case was built by Kimi K3.1 Pro in Kimi Code; the Career coaching sessions case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Meeting Scheduler Booking Page template use?
-Meeting Scheduler Booking Page is a single-page site built with Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Meeting Scheduler Booking Page is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Meeting Scheduler Booking Page template for a client or a business?
 The Meeting Scheduler Booking Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

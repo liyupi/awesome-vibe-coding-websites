@@ -18,8 +18,8 @@ Adapt the service brand, occasion, audience, delivery district, accent color, an
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md) |
-| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
-| Effects | Page Transitions, Scroll Animation, Micro-interactions |
+| Style | [Minimal](../../styles/minimal.md), [Playful](../../styles/playful.md) |
+| Effects | Scroll Animation, Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4 + motion + lucide-react |
 | Pages | 4 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add food-delivery-app, repl
 The Weeknight dinner delivery case was built by Kimi K3.1 Pro in Kimi Code; the Weekend lunch delivery case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Food Delivery App template use?
-Food Delivery App is a 4-page site built with Tailwind CSS, Motion and React, with page transitions, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Food Delivery App is a 4-page site built with React, Tailwind CSS and Motion, with scroll animation, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Food Delivery App template for a client or a business?
 The Food Delivery App prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

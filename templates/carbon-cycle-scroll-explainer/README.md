@@ -12,8 +12,8 @@ Carbon Cycle Scroll Explainer is a single-page science story built around one il
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md), Illustrated |
-| Effects | Generative / Canvas, Scroll Animation, Micro-interactions |
+| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md), Illustrated |
+| Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Vanilla CSS + gsap + lucide |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
@@ -86,7 +86,7 @@ Copy the prompt from this page or run npx vibefather add carbon-cycle-scroll-exp
 The The carbon cycle case was built by Claude Opus 5.5 in Claude Code; the The water cycle case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Carbon Cycle Scroll Explainer template use?
-Carbon Cycle Scroll Explainer is a single-page site built with GSAP and Plain HTML, with generative / canvas, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Carbon Cycle Scroll Explainer is a single-page site built with GSAP and Plain HTML, with scroll animation, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Carbon Cycle Scroll Explainer template for a client or a business?
 The Carbon Cycle Scroll Explainer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

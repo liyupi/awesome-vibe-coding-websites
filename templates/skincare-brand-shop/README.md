@@ -12,7 +12,7 @@ A single-page website for a skincare brand: the clinical-warm promise over a tex
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -79,7 +79,7 @@ Copy the prompt from this page or run npx vibefather add skincare-brand-shop, re
 The Minimal skincare line case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Skincare Brand Shop template use?
-Skincare Brand Shop is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Skincare Brand Shop is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Skincare Brand Shop template for a client or a business?
 The Skincare Brand Shop prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

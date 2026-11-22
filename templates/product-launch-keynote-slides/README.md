@@ -18,7 +18,7 @@ To adapt it, change the six variables for brand, product, category, price, ship 
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Slide Deck](../../types/slides.md) |
-| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
 | Effects | Text Animation, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + motion + lucide-react |
 | Pages | 1 |
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add product-laun
 The Portable home battery case was built by Claude Opus 5.5 in Claude Code; the Whole-room air purifier case was built by Claude Sonnet 5.5 in Claude Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Product Launch Keynote Slides template use?
-Product Launch Keynote Slides is a single-page site built with Tailwind CSS, Motion and React, with text animation, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Product Launch Keynote Slides is a single-page site built with React, Tailwind CSS and Motion, with text animation, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Product Launch Keynote Slides template free to use?
 Product Launch Keynote Slides is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

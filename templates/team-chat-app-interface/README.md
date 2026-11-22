@@ -18,7 +18,7 @@ The default content follows an independent design studio coordinating a notebook
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [App](../../types/app.md) |
-| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add team-chat-app-interface
 The Design studio workspace case was built by Kimi K3.1 Pro in Kimi Code; the Bakery team workspace case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Team Chat App Interface template use?
-Team Chat App Interface is a single-page site built with Tailwind CSS and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Team Chat App Interface is a single-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Team Chat App Interface template for a client or a business?
 The Team Chat App Interface prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

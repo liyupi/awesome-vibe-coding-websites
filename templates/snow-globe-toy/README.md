@@ -18,7 +18,7 @@ This template suits creators, designers, educators, and developers who want a sm
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md), [Playful](../../styles/playful.md) |
 | Effects | Drag & Physics, Generative / Canvas, 3D / WebGL |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + three + lucide-react |
 | Pages | 1 |

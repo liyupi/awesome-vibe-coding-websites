@@ -20,7 +20,7 @@ Change the brand, workspace, audience, measurement focus, and owner to make anot
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [Dashboard](../../types/dashboard.md) |
-| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 11 |

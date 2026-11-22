@@ -41,24 +41,10 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/q-a-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/q-a-community-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/invoice-generator-tool?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/invoice-generator-tool/3a45724d-d60f-400b-9903-4a7008d54d67/shot_desktop.0f37c1b30f.webp" width="100%" alt="Invoice Generator Tool website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/invoice-generator-tool">Invoice Generator Tool</a></b><br>
-<sub>Build, preview, and print polished invoices with reusable client details saved in your browser.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/invoice-generator-tool?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/invoice-generator-tool/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-chat-app-interface/6f8ba19b-242c-4263-8f67-b6780b46fe38/shot_desktop.831034aedc.webp" width="100%" alt="Team Chat App Interface website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/team-chat-app-interface">Team Chat App Interface</a></b><br>
 <sub>A polished team chat workspace with channels, threads, reactions, mentions, emoji, and dark and light themes.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-chat-app-interface/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/service-status-page/c8b4c8eb-d633-4e24-9936-fc8123cca4f0/shot_desktop.e0f7f3a82f.webp" width="100%" alt="Service Status Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/service-status-page">Service Status Page</a></b><br>
-<sub>A calm service status page with 90-day uptime bars, incident timelines, and local update subscriptions.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/service-status-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -73,6 +59,20 @@
 <b><a href="../templates/danmaku-video-platform">Danmaku Video Platform</a></b> <sup>PRO</sup><br>
 <sub>A dark, interactive video community with timed comments, a live density map, and a code-drawn player.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/danmaku-video-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/danmaku-video-platform/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/invoice-generator-tool?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/invoice-generator-tool/3a45724d-d60f-400b-9903-4a7008d54d67/shot_desktop.0f37c1b30f.webp" width="100%" alt="Invoice Generator Tool website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/invoice-generator-tool">Invoice Generator Tool</a></b><br>
+<sub>Build, preview, and print polished invoices with reusable client details saved in your browser.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/invoice-generator-tool?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/invoice-generator-tool/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/service-status-page/c8b4c8eb-d633-4e24-9936-fc8123cca4f0/shot_desktop.e0f7f3a82f.webp" width="100%" alt="Service Status Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/service-status-page">Service Status Page</a></b><br>
+<sub>A calm service status page with 90-day uptime bars, incident timelines, and local update subscriptions.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/service-status-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

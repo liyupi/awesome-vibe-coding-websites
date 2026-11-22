@@ -12,8 +12,8 @@ A single-page site for a high-end sushi counter, built around one idea: luxury t
 |---|---|
 | Category | [Restaurants, Hotels & Travel](../../README.md#restaurants-hotels--travel) |
 | Site type | [Restaurant](../../types/restaurant.md) |
-| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
-| Effects | Parallax, Scroll Animation, Micro-interactions |
+| Style | [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lenis + lucide-react |
 | Pages | 1 |
 | Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add sushi-omakase-restauran
 The Omakase counter case was built by GLM-5.3 in ZCode; the Coffee cupping room case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Sushi Omakase Restaurant Website template use?
-Sushi Omakase Restaurant Website is a single-page site built with Tailwind CSS, React and Lenis, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Sushi Omakase Restaurant Website is a single-page site built with React, Tailwind CSS and Lenis, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Sushi Omakase Restaurant Website template for a client or a business?
 The Sushi Omakase Restaurant Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

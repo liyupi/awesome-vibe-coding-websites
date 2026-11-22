@@ -19,7 +19,7 @@ Developers and indie hackers can ship it as static files and rename it from one 
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
 | Style | [Glass](../../styles/glass.md), [Dark](../../styles/dark.md) |
-| Effects | Micro-interactions, 3D / WebGL |
+| Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
 | Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add neon-snake-3d-game, rep
 The Night hall snake case was built by Grok 4.7 in Grok Build; the Night conservatory snake case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Neon Snake 3D Game template use?
-Neon Snake 3D Game is a single-page site built with Three.js, with micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Neon Snake 3D Game is a single-page site built with Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Neon Snake 3D Game template for a client or a business?
 The Neon Snake 3D Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -18,7 +18,7 @@ This template suits educators, creators, designers, and developers building a pl
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Interactive Toy](../../types/toy.md) |
-| Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md) |
 | Effects | Drag & Physics, Generative / Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Vanilla CSS with custom properties + lucide-react |
 | Pages | 1 |

@@ -12,7 +12,7 @@ A single-page portfolio for a developer: an intro with name, role, a two-sentenc
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md) |
-| Style | [Terminal](../../styles/terminal.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Terminal](../../styles/terminal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add minimal-developer-portf
 The Backend developer portfolio case was built by GLM-5.3 in ZCode; the Frontend developer portfolio case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Minimal Developer Portfolio template use?
-Minimal Developer Portfolio is a single-page site built with Tailwind CSS, Motion and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Minimal Developer Portfolio is a single-page site built with React, Tailwind CSS and Motion, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Minimal Developer Portfolio template for a client or a business?
 The Minimal Developer Portfolio prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

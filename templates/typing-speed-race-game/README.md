@@ -18,7 +18,7 @@ Four variables control the brand, tagline, passage pack, and ghost name. Replaci
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
-| Style | [Retro](../../styles/retro.md), [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
+| Style | [Retro](../../styles/retro.md), [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
 | Effects | Text Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 1 |

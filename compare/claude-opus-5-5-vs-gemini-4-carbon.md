@@ -23,7 +23,7 @@
 <td colspan="2"><b><a href="../templates/home-energy-dashboard">Home Energy Dashboard</a></b> — <sub>A dark home-energy dashboard with hand-built SVG charts, a range switcher and live device toggles.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/wattline/7e8de294-a31b-4fe9-8bf0-886ea034b66b/shot_desktop.f524f31d74.webp" width="100%" alt="Home Energy Dashboard built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/wattline/6e35690e-e3cd-4434-8a4e-7434040f1990/shot_desktop.ba18b931cb.webp" width="100%" alt="Home Energy Dashboard built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/home-energy-dashboard/8582df9a-5a8e-42b4-adad-913ec0b7c6a0/shot_desktop.c7f4210221.webp" width="100%" alt="Home Energy Dashboard built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 <tr>
@@ -62,11 +62,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boutique-hotel-website/96ff3519-3cba-442f-8288-f2c6b6d50631/shot_desktop.ceffab4f15.webp" width="100%" alt="Boutique Hotel Website built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b> — <sub>Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.</sub></td>
+<td colspan="2"><b><a href="../templates/bento-grid-saas-landing-page">Bento Grid SaaS Landing Page</a></b> — <sub>A warm cream bento SaaS homepage with live tiles, a working command palette and a yearly pricing switch.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/oatmeal/338c0197-e778-41ef-b62b-8633e8214053/shot_desktop.1081a0920f.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/bento-grid-saas-landing-page/83055d14-8919-423e-a3c8-8dbca3b1f008/shot_desktop.7cdfe15e49.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/3d-product-launch-page">3D Product Launch Page</a></b> — <sub>A dark, cinematic launch page where a code-built 3D lamp tilts and changes color as you scroll.</sub></td>
@@ -76,11 +76,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/3d-product-launch-page/0281f5ff-4fa7-444e-812f-7529d7ded48a/shot_desktop.991782b253.webp" width="100%" alt="3D Product Launch Page built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> — <sub>A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews.</sub></td>
+<td colspan="2"><b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b> — <sub>Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/shot_desktop.3c97e7dcfd.webp" width="100%" alt="Retro Desktop OS Portfolio built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/cea14c66-27cc-4cc6-a3bf-dde741843285/shot_desktop.0790dbc0a8.webp" width="100%" alt="Retro Desktop OS Portfolio built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b> — <sub>Step through five sorting algorithms on a live bar stage, then race any two on the same array.</sub></td>
@@ -90,11 +90,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/40ef5a2a-8c8c-4fa4-b215-cc9ea14eec89/shot_desktop.bd391f09f9.webp" width="100%" alt="Sorting Algorithms Visualizer built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/bento-grid-saas-landing-page">Bento Grid SaaS Landing Page</a></b> — <sub>A warm cream bento SaaS homepage with live tiles, a working command palette and a yearly pricing switch.</sub></td>
+<td colspan="2"><b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> — <sub>A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/oatmeal/97c3aaad-f62b-4165-b3ef-7713ff21a4f5/shot_desktop.fc5894f1e7.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/bento-grid-saas-landing-page/83055d14-8919-423e-a3c8-8dbca3b1f008/shot_desktop.7cdfe15e49.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pixelshell/9657e87b-0045-46e5-bb73-b372a125a55f/shot_desktop.69a73d9c91.webp" width="100%" alt="Retro Desktop OS Portfolio built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/cea14c66-27cc-4cc6-a3bf-dde741843285/shot_desktop.0790dbc0a8.webp" width="100%" alt="Retro Desktop OS Portfolio built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/arcade-game-studio-landing-page">Arcade Game Studio Landing Page</a></b> — <sub>Pixel-art arcade landing page for a game studio, with a playable runner in the hero and a local high-score board.</sub></td>
@@ -107,7 +107,7 @@
 <td colspan="2"><b><a href="../templates/habit-tracker-app-landing-page">Habit Tracker App Landing Page</a></b> — <sub>A pastel app landing page with a CSS phone that changes screens as you scroll and a tappable streak demo.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/daybloom/3524132d-32e3-43aa-95ac-0cf58464516d/shot_desktop.b0b9e7a6db.webp" width="100%" alt="Habit Tracker App Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/habit-tracker-app-landing-page/cc072713-b66e-45b6-90aa-f818d32bfb83/shot_desktop.90f180a13c.webp" width="100%" alt="Habit Tracker App Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/habit-tracker-app-landing-page/815fadb1-5df9-4976-a5d7-69721ff4a748/shot_desktop.59a014c55f.webp" width="100%" alt="Habit Tracker App Landing Page built by Gemini 4 Carbon"></a><br><sub><b>Gemini 4 Carbon</b> · Cursor</sub></td>
 </tr>
 </table>

@@ -18,8 +18,8 @@ Variables cover the brand, invitation line, audience, deck name, and reflection 
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
-| Effects | Micro-interactions, 3D / WebGL |
+| Style | [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Vanilla CSS with custom properties + lucide-react |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add daily-tarot-reading-pag
 The Night Field Deck case was built by Kimi K3.1 Pro in Kimi Code; the Quiet Hours Deck case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Daily Tarot Reading Page template use?
-Daily Tarot Reading Page is a single-page site built with React, with micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Daily Tarot Reading Page is a single-page site built with React, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Daily Tarot Reading Page template for a client or a business?
 The Daily Tarot Reading Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

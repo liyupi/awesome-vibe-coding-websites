@@ -16,8 +16,8 @@ The template is designed for adaptation through three variables: brand, specimen
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
-| Effects | Drag & Physics, Micro-interactions, 3D / WebGL |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + Three.js + lucide-react |
 | Pages | 3 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -87,7 +87,7 @@ Copy the prompt from this page or run npx vibefather add flower-anatomy-3d-expla
 The Oriental lily anatomy case was built by Kimi K3.1 Pro in Kimi Code; the Tulip anatomy case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Flower Anatomy 3D Explainer template use?
-Flower Anatomy 3D Explainer is a 3-page site built with Three.js and React, with drag & physics, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Flower Anatomy 3D Explainer is a 3-page site built with Three.js and React, with drag & physics, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Flower Anatomy 3D Explainer template for a client or a business?
 The Flower Anatomy 3D Explainer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

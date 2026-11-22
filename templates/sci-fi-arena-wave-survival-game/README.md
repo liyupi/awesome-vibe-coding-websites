@@ -19,7 +19,7 @@ Phones use a left move stick, a right look stick, and fire and reload buttons. N
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
 | Style | [Dark](../../styles/dark.md) |
-| Effects | Micro-interactions, 3D / WebGL |
+| Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + TypeScript + three.js + Tailwind CSS 3.4 + three |
 | Pages | 1 |
 | Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add sci-fi-arena-wave-survi
 The Sodium yard range case was built by Grok 4.7 in Grok Build; the Brick kiln range case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Sci-Fi Arena Wave Survival Game template use?
-Sci-Fi Arena Wave Survival Game is a single-page site built with Three.js and Tailwind CSS, with micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Sci-Fi Arena Wave Survival Game is a single-page site built with Three.js and Tailwind CSS, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Sci-Fi Arena Wave Survival Game template for a client or a business?
 The Sci-Fi Arena Wave Survival Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

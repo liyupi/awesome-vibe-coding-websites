@@ -19,7 +19,7 @@ Change the event name, honoree, party date, venue, theme, and gift note through 
 | Category | [Events & Communities](../../README.md#events--communities) |
 | Site type | [Event](../../types/event.md) |
 | Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md) |
-| Effects | Generative / Canvas, Scroll Animation, Micro-interactions |
+| Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 6 + TypeScript + Vanilla CSS |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add birthday-party-invitati
 The Garden disco birthday case was built by Kimi K3.1 Pro in Kimi Code; the Paper craft birthday case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Birthday Party Invitation Page template use?
-Birthday Party Invitation Page is a single-page site built with Plain HTML, with generative / canvas, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Birthday Party Invitation Page is a single-page site built with Plain HTML, with scroll animation, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Birthday Party Invitation Page template for a client or a business?
 The Birthday Party Invitation Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -37,7 +37,7 @@
 <td colspan="2"><b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> — <sub>A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/shot_desktop.3c97e7dcfd.webp" width="100%" alt="Retro Desktop OS Portfolio built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pixelshell/9657e87b-0045-46e5-bb73-b372a125a55f/shot_desktop.69a73d9c91.webp" width="100%" alt="Retro Desktop OS Portfolio built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/eec64383-7a25-4814-b3e8-a20916f5b650/shot_desktop.f97fcc04d9.webp" width="100%" alt="Retro Desktop OS Portfolio built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
 </tr>
 </table>

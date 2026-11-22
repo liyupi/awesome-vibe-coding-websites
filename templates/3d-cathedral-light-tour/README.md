@@ -18,8 +18,8 @@ Every column, arch, vault rib, glass panel, and light shape is generated in code
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
-| Effects | Scroll Animation, Micro-interactions, 3D / WebGL |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript + Vanilla CSS + three + lucide |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add 3d-cathedral-light-tour
 The Gothic cathedral light case was built by Kimi K3.1 Pro in Kimi Code; the Modernist cathedral light case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Cathedral Light Tour template use?
-3D Cathedral Light Tour is a single-page site built with Three.js, with scroll animation, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Cathedral Light Tour is a single-page site built with Three.js, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the 3D Cathedral Light Tour template for a client or a business?
 The 3D Cathedral Light Tour prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

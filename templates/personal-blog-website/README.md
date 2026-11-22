@@ -2,7 +2,7 @@
 
 > A typography-first Markdown personal blog with reading themes, auto TOC, footnotes, pull quotes, and 12 seeded essays.
 
-<a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-blog-website/5cf741d3-443c-4b19-85b8-a2351d79e9f0/webp.71e215a002.webp" width="100%" alt="Personal Blog Website — Typography-First Personal Markdown Blog Site built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-blog-website/5cf741d3-443c-4b19-85b8-a2351d79e9f0/webp.71e215a002.webp" width="100%" alt="Personal Blog Website — Typography-First Personal Markdown Blog Site built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -12,11 +12,11 @@ Personal Blog Website is a calm, reader-first literary journal and developer not
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Blog](../../types/blog.md), [Personal Site](../../types/personal.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 6 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ Personal Blog Website is a calm, reader-first literary journal and developer not
 <a href="https://vibefather.ai/templates/personal-blog-website?case=5cf741d3-443c-4b19-85b8-a2351d79e9f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-blog-website/5cf741d3-443c-4b19-85b8-a2351d79e9f0/shot_desktop.b22e916e7a.webp" width="100%" alt="Personal Blog Website — Craft &amp; small-software journal, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Craft &amp; small-software journal</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/personal-blog-website?case=5cf741d3-443c-4b19-85b8-a2351d79e9f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personal-blog-website?case=20aab8fd-b9ef-4201-af69-0f086f3dfe42&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-blog-website/20aab8fd-b9ef-4201-af69-0f086f3dfe42/shot_desktop.d20042b4b9.webp" width="100%" alt="Personal Blog Website — Type &amp; cycling notebook, built by GPT-6.2 Sol in Codex"></a><br>
+<b>Type &amp; cycling notebook</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/personal-blog-website?case=20aab8fd-b9ef-4201-af69-0f086f3dfe42&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -73,13 +78,13 @@ Each essay in the Personal Blog Website template opens with an estimated reading
 The Personal Blog Website prompt uses four variables: BRAND for the masthead title, AUTHOR_NAME for the writer, LOCATION for the city shown on the About and Now pages, and BIO_LINE for the one-sentence intro. Set those before you generate, then rewrite the sample headlines, captions and essay copy so they match your own voice and subjects.
 
 ### How do I build a personal blog website with AI?
-Copy the prompt from this page or run npx vibefather add personal-blog-website, replace [BRAND], [AUTHOR_NAME], [LOCATION] and [BIO_LINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add personal-blog-website, replace [BRAND], [AUTHOR_NAME], [LOCATION] and [BIO_LINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Personal Blog Website demo?
-The Craft & small-software journal case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Craft & small-software journal case was built by Gemini 4 Neon in Antigravity; the Type & cycling notebook case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Personal Blog Website template use?
-Personal Blog Website is a 6-page site built with Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Personal Blog Website is a 6-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Personal Blog Website template for a client or a business?
 The Personal Blog Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

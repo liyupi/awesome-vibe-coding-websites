@@ -2,7 +2,7 @@
 
 > 
 
-5 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
+10 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
 
 <table>
 <tr>
@@ -39,6 +39,40 @@
 <b><a href="../templates/short-video-feed-app">Short Video Feed App</a></b> <sup>PRO</sup><br>
 <sub>A cinematic vertical feed with snap navigation, motion stories and tactile social controls.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/short-video-feed-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/short-video-feed-app/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/online-code-playground?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/online-code-playground/74ad9e27-83c1-405f-9da1-e117e2d46732/shot_desktop.c3d947372b.webp" width="100%" alt="Online Code Playground website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/online-code-playground">Online Code Playground</a></b><br>
+<sub>Dark-mode HTML, CSS, and JS sandbox with bundled Three.js, live console, URL sharing, ZIP export, and 12 seeded pens.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/online-code-playground?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/online-code-playground/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/roguelike-deckbuilder-card-game/133a8b7a-808a-4b9e-9881-9d44563c338a/shot_desktop.4445baf84f.webp" width="100%" alt="Roguelike Deckbuilder Card Game website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/roguelike-deckbuilder-card-game">Roguelike Deckbuilder Card Game</a></b> <sup>PRO</sup><br>
+<sub>Nautical roguelike deckbuilder where a lighthouse keeper climbs storm-wrecked floating islands with 60 cards and 20 relics.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/roguelike-deckbuilder-card-game/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/online-learning-platform/4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f/shot_desktop.efbbd23f9e.webp" width="100%" alt="Online Learning Platform website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/online-learning-platform">Online Learning Platform</a></b> <sup>PRO</sup><br>
+<sub>Course platform opening mid-course on a learner dashboard with animated visual lessons, captions, notes, quizzes, and certificates.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/online-learning-platform/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/shot_desktop.c2cd3bca47.webp" width="100%" alt="Weather Forecast App website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/weather-forecast-app">Weather Forecast App</a></b><br>
+<sub>Atmospheric weather app with live animated Canvas sky scenes, 10-day bars, AQI, wind compass, radar timeline, and 6 cities.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/weather-forecast-app/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/f065f39a-f6c4-48bb-ad25-b54f90c55e18/shot_desktop.0efaa6a220.webp" width="100%" alt="Developer Utilities Toolbox website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/developer-utilities-toolbox">Developer Utilities Toolbox</a></b><br>
+<sub>15 working browser-local developer utilities with Cmd+K jumper, favorites, history, and dark mode.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/developer-utilities-toolbox/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

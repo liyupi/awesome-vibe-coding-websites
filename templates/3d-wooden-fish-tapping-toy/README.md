@@ -18,8 +18,8 @@ Use this prompt for an experimental personal site, a playful break page, or a sm
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
-| Effects | Generative / Canvas, Micro-interactions, 3D / WebGL |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |
 | Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add 3d-wooden-fish-tapping-
 The Amber walnut temple case was built by GPT-6.1 Sol in Codex; the Rainlit cedar pavilion case was built by GPT-6.1 Sol in Codex. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the 3D Wooden Fish Tapping Toy template use?
-3D Wooden Fish Tapping Toy is a single-page site built with Three.js and Plain HTML, with generative / canvas, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Wooden Fish Tapping Toy is a single-page site built with Three.js and Plain HTML, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the 3D Wooden Fish Tapping Toy template for a client or a business?
 The 3D Wooden Fish Tapping Toy prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

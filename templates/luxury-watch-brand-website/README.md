@@ -12,8 +12,8 @@ A two-page site for an independent luxury watch brand, in black, steel and one c
 |---|---|
 | Category | [Landing Pages & Product Launches](../../README.md#landing-pages--product-launches) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
-| Effects | Parallax, Scroll Animation, Micro-interactions |
+| Style | [Minimal](../../styles/minimal.md), [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md) |
+| Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
 | Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add luxury-watch
 The Luxury watch brand case was built by GLM-5.3 in ZCode; the Diver watch microbrand case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Luxury Watch Brand Website template use?
-Luxury Watch Brand Website is a 2-page site built with Tailwind CSS, Motion and React, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Luxury Watch Brand Website is a 2-page site built with React, Tailwind CSS and Motion, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Luxury Watch Brand Website template free to use?
 Luxury Watch Brand Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

@@ -17,8 +17,8 @@ React and TypeScript keep catalog and cart state predictable, while Tailwind CSS
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [Portfolio](../../types/portfolio.md), [E-commerce](../../types/ecommerce.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Site type | [E-commerce](../../types/ecommerce.md), [Portfolio](../../types/portfolio.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript 5 + Tailwind CSS 3.4 + vanilla CSS + motion + lucide-react |
 | Pages | 6 |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add painter-portfolio-and-p
 The Coastal abstract painter case was built by Kimi K3.1 Pro in Kimi Code; the Desert botanical painter case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Painter Portfolio and Print Shop template use?
-Painter Portfolio and Print Shop is a 6-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Painter Portfolio and Print Shop is a 6-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Painter Portfolio and Print Shop template for a client or a business?
 The Painter Portfolio and Print Shop prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

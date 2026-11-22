@@ -18,8 +18,8 @@ All terrain, stones, grasses, water, textures, and audio are generated locally w
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md) |
-| Effects | Drag & Physics, Micro-interactions, 3D / WebGL |
+| Style | [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md) |
+| Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + GLSL shaders + three + lucide |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add interactive-3d-stream-d
 The Woodland stream study case was built by Kimi K3.1 Pro in Kimi Code; the Highland brook study case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Interactive 3D Stream Diorama template use?
-Interactive 3D Stream Diorama is a single-page site built with Three.js and Plain HTML, with drag & physics, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Interactive 3D Stream Diorama is a single-page site built with Three.js and Plain HTML, with drag & physics, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Interactive 3D Stream Diorama template for a client or a business?
 The Interactive 3D Stream Diorama prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

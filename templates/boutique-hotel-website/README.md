@@ -18,8 +18,8 @@ To adapt it, change the hotel name, the place, the property description and the 
 |---|---|
 | Category | [Restaurants, Hotels & Travel](../../README.md#restaurants-hotels--travel) |
 | Site type | [Hotel](../../types/hotel.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
-| Effects | Parallax, Scroll Animation, Micro-interactions |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react + tailwindcss, |
 | Pages | 3 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
@@ -102,7 +102,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add boutique-hot
 The Coastal boutique hotel case was built by Claude Opus 5.5 in Cursor; the Island sauna retreat case was built by Claude Sonnet 5.5 in Cursor; the Coastal boutique hotel case was built by Gemini 4 Carbon in Cursor; the Coastal boutique hotel case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Boutique Hotel Website template use?
-Boutique Hotel Website is a 3-page site built with Tailwind CSS, Motion and React, with parallax, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Boutique Hotel Website is a 3-page site built with React, Tailwind CSS and Motion, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Boutique Hotel Website template free to use?
 Boutique Hotel Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

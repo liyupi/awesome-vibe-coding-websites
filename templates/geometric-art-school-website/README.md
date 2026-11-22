@@ -18,7 +18,7 @@ The second example changes the school, city, teaching focus, course content, fac
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Playful](../../styles/playful.md), [Swiss](../../styles/swiss.md) |
+| Style | [Swiss](../../styles/swiss.md), [Playful](../../styles/playful.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |

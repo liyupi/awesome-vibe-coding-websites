@@ -18,7 +18,7 @@ To adapt it, replace the values in one content file: names, figures, chapter cla
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md), Annual Report |
-| Style | [Editorial](../../styles/editorial.md), [Swiss](../../styles/swiss.md) |
+| Style | [Swiss](../../styles/swiss.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + TypeScript + Tailwind CSS 3.4 + gsap + pdf-lib |
 | Pages | 1 |

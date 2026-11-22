@@ -19,7 +19,7 @@ The blog index filters posts by tag and by title on the client, and the post pag
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Blog](../../types/blog.md), [Personal Site](../../types/personal.md) |
 | Style | [Brutalist](../../styles/brutalist.md), [Playful](../../styles/playful.md) |
-| Effects | Marquee, Scroll Animation, Micro-interactions |
+| Effects | Scroll Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + vanilla HTML/CSS/JS + Vanilla CSS + lucide |
 | Pages | 3 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add neo-brutalist-blog-and-
 The Writer and illustrator case was built by Claude Opus 5.5 in Cursor; the Food writer and printmaker case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Neo-Brutalist Blog and Portfolio template use?
-Neo-Brutalist Blog and Portfolio is a 3-page site built with Plain HTML, with marquee, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Neo-Brutalist Blog and Portfolio is a 3-page site built with Plain HTML, with scroll animation, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Neo-Brutalist Blog and Portfolio template for a client or a business?
 The Neo-Brutalist Blog and Portfolio prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

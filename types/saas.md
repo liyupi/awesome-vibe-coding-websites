@@ -21,16 +21,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/physics-playground-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/9126a881-09a8-4bb2-adbf-a16a6d5d143d/shot_desktop.fe52f830a1.webp" width="100%" alt="Physics Playground Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b><br>
-<sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/physics-playground-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/physics-playground-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/oatmeal/338c0197-e778-41ef-b62b-8633e8214053/shot_desktop.1081a0920f.webp" width="100%" alt="Bento Grid SaaS Landing Page website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
 <b><a href="../templates/bento-grid-saas-landing-page">Bento Grid SaaS Landing Page</a></b><br>
 <sub>A warm cream bento SaaS homepage with live tiles, a working command palette and a yearly pricing switch.</sub><br>
 <sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/bento-grid-saas-landing-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/physics-playground-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/9126a881-09a8-4bb2-adbf-a16a6d5d143d/shot_desktop.fe52f830a1.webp" width="100%" alt="Physics Playground Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b><br>
+<sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/physics-playground-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/physics-playground-landing-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -55,18 +55,18 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/cybersecurity-saas-landing-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/shot_desktop.9487c64b4e.webp" width="100%" alt="Help Center Knowledge Base website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/help-center-knowledge-base">Help Center Knowledge Base</a></b><br>
-<sub>Calm help center with instant search, six category cards, article pages with TOC rails, helpfulness voting and a contact form.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/help-center-knowledge-base/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-product-tour-page/cf555c73-30a6-4c58-9e37-1c01a352e7dc/shot_desktop.edf943e7fa.webp" width="100%" alt="Interactive Product Tour Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/interactive-product-tour-page">Interactive Product Tour Page</a></b> <sup>PRO</sup><br>
 <sub>A guided SaaS tour with chapter tabs, interactive hotspots, autoplay, and a polished code-drawn app.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-product-tour-page/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/shot_desktop.9487c64b4e.webp" width="100%" alt="Help Center Knowledge Base website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/help-center-knowledge-base">Help Center Knowledge Base</a></b><br>
+<sub>Calm help center with instant search, six category cards, article pages with TOC rails, helpfulness voting and a contact form.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/help-center-knowledge-base/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/731bb682-2ef1-44aa-966c-83d9eb71690b/shot_desktop.d069d29e32.webp" width="100%" alt="AI Agent Startup Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
@@ -97,24 +97,24 @@
 <sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-music-generator-landing-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/shot_desktop.6fc77de9e5.webp" width="100%" alt="Code Hosting Platform App website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/code-hosting-platform-app">Code Hosting Platform App</a></b> <sup>PRO</sup><br>
+<sub>A complete developer code-hosting workspace with file browser, split diffs, issues, releases, and insights.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/code-hosting-platform-app/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/shot_desktop.dbeb32fdaa.webp" width="100%" alt="Product Changelog Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/product-changelog-page">Product Changelog Page</a></b><br>
 <sub>Release-notes page with a version timeline, type filters with live counts, copyable version anchors and a drawn feed chip.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-changelog-page/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/shot_desktop.6da87800ea.webp" width="100%" alt="Team Wiki Workspace App website template — live demo built by Gemini 4 Neon"></a><br>
+<a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/shot_desktop.6da87800ea.webp" width="100%" alt="Team Wiki Workspace App website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/team-wiki-workspace-app">Team Wiki Workspace App</a></b> <sup>PRO</sup><br>
 <sub>A block-based team wiki with slash commands, nested pages, table/board/calendar database views, and Markdown export.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-wiki-workspace-app/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/shot_desktop.6fc77de9e5.webp" width="100%" alt="Code Hosting Platform App website template — live demo built by Gemini 4 Neon"></a><br>
-<b><a href="../templates/code-hosting-platform-app">Code Hosting Platform App</a></b> <sup>PRO</sup><br>
-<sub>A complete developer code-hosting workspace with file browser, split diffs, issues, releases, and insights.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/code-hosting-platform-app/prompt.md">Prompt</a></sub>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-wiki-workspace-app/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

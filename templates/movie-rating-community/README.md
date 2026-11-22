@@ -18,8 +18,8 @@ This template suits creators, community builders, and developers prototyping a r
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Dashboard](../../types/dashboard.md) |
-| Style | [Retro](../../styles/retro.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
-| Effects | Page Transitions, Scroll Animation, Micro-interactions |
+| Style | [Minimal](../../styles/minimal.md), [Retro](../../styles/retro.md), [Editorial](../../styles/editorial.md) |
+| Effects | Scroll Animation, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + hand-built SVG + lucide-react |
 | Pages | 6 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add movie-rating-community,
 The Fiction film club case was built by Kimi K3.1 Pro in Kimi Code; the Independent film circle case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Movie Rating Community template use?
-Movie Rating Community is a 6-page site built with React, with page transitions, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Movie Rating Community is a 6-page site built with React, with scroll animation, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Movie Rating Community template for a client or a business?
 The Movie Rating Community prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

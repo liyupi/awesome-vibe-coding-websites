@@ -18,8 +18,8 @@ To adapt the page, change the brand, product name, product type, price, ship win
 |---|---|
 | Category | [Landing Pages & Product Launches](../../README.md#landing-pages--product-launches) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
-| Effects | Text Animation, Scroll Animation, 3D / WebGL |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Effects | Scroll Animation, Text Animation, 3D / WebGL |
 | Stack | Vite 5 + TypeScript + three.js + Vanilla CSS + three + gsap + lenis |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add 3d-product-l
 The Smart desk lamp case was built by Claude Opus 5.5 in Claude Code; the Indoor grow light case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Product Launch Page template use?
-3D Product Launch Page is a single-page site built with Three.js, GSAP and Plain HTML, with text animation, scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Product Launch Page is a single-page site built with Three.js, GSAP and Plain HTML, with scroll animation, text animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the 3D Product Launch Page template free to use?
 3D Product Launch Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

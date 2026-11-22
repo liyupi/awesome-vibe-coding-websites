@@ -18,8 +18,8 @@ Everything ships as static files: Vite, React, Tailwind and Motion, self-hosted 
 |---|---|
 | Category | [Events & Communities](../../README.md#events--communities) |
 | Site type | [Event](../../types/event.md) |
-| Style | [Editorial](../../styles/editorial.md), [Swiss](../../styles/swiss.md) |
-| Effects | Text Animation, Cursor Effects, Marquee |
+| Style | [Swiss](../../styles/swiss.md), [Editorial](../../styles/editorial.md) |
+| Effects | Text Animation, Marquee, Cursor Effects |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add design-conference-websi
 The Web design conference case was built by Claude Opus 5.5 in Cursor; the Food systems summit case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Design Conference Website template use?
-Design Conference Website is a 2-page site built with Tailwind CSS, Motion and React, with text animation, cursor effects and marquee. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Design Conference Website is a 2-page site built with React, Tailwind CSS and Motion, with text animation, marquee and cursor effects. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Design Conference Website template for a client or a business?
 The Design Conference Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

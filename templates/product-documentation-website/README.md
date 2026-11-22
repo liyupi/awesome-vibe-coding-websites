@@ -2,7 +2,7 @@
 
 > A guides-first three-column SDK documentation site with synced code tabs, version switching, and live try-it requests.
 
-<a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/webp.dfecdd02ff.webp" width="100%" alt="Product Documentation Website — Three-Column Developer SDK Documentation Site built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/webp.dfecdd02ff.webp" width="100%" alt="Product Documentation Website — Three-Column Developer SDK Documentation Site built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -12,11 +12,11 @@ Product Documentation Website is a guides-first technical documentation template
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Docs](../../types/docs.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 4 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ Product Documentation Website is a guides-first technical documentation template
 <a href="https://vibefather.ai/templates/product-documentation-website?case=c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/shot_desktop.23d76a594f.webp" width="100%" alt="Product Documentation Website — Event routing SDK docs, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Event routing SDK docs</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/product-documentation-website?case=c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-documentation-website/dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d/shot_desktop.62b7650244.webp" width="100%" alt="Product Documentation Website — Background job queue SDK, built by GPT-6.2 Sol in Codex"></a><br>
+<b>Background job queue SDK</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -50,36 +55,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- An API platform team: set BRAND and PKG_NAME to your service, point API_BASE at your real endpoint, and replace the seeded Markdown guides with your authentication and webhook pages.
-- A developer-experience lead at a startup: keep the Quickstart layout, rewrite the numbered install steps for your package manager, and swap the parameter tables for your own request fields.
-- A technical writer documenting an internal SDK: use the five sidebar groups for your own sections, add callouts for deprecations, and repoint the edit-this-page link at your repository.
-- A founder launching a developer product: set TAGLINE to your one-line summary, use the changelog timeline for release notes, and keep the Try it panel to show a working request before signup.
+- For an internal platform team: set BRAND to your platform name, replace the API Reference group with your service endpoints, and keep the Try It panel pointed at your mock payloads.
+- For a startup shipping its first SDK: set PKG_NAME to your npm package, rewrite the Quickstart steps for your install command, and use the changelog timeline for release notes.
+- For a technical writer documenting a public API: keep the three-column shell, swap the seeded Markdown pages for your endpoint guides, and set API_BASE to your real base URL.
+- For a developer-experience lead teaching an event system: keep the architecture diagram and callouts, rename the Core Concepts group to your own topics, and adjust the parameter tables.
 
 ## FAQ
 
-### How do I add my own documentation pages to the Product Documentation Website template?
-The Product Documentation Website template stores its content in 18+ local Markdown files, so you add a page by creating a new Markdown file with front matter, headings, callouts, steps, parameter tables and code-tab groups. The parser reads those files at build time and the left sidebar groups pick them up. You edit prose and examples in Markdown rather than touching React components.
+### How do I change the SDK brand, package name, and API URL in the Product Documentation Website template?
+The Product Documentation Website template swaps through four variables: BRAND for the SDK name, PKG_NAME for the lowercase package slug, API_BASE for the endpoint shown in cURL and Try It panels, and TAGLINE for the one-line summary. The default values are RelayMesh, relaymesh, https://api.relaymesh.dev, and a short event-routing summary. Set them once, then rewrite every headline and code sample that references them so the docs stay consistent.
 
-### How does the version switcher work in the Product Documentation Website template?
-The Product Documentation Website template includes a v2 and v3 switcher in the top bar. Choosing a version genuinely swaps the page prose, the code examples and the endpoint paths, so v3 shows /v3/events and v2 shows /v2/dispatch, and a v2 selection displays an amber legacy notice banner. The chosen version is saved in local storage so it persists between visits.
+### How does the v2 and v3 version switcher work in this documentation template?
+The Product Documentation Website template ships a version dropdown that genuinely swaps page prose, code examples, endpoint paths, and parameter tables between v3 (Latest) and v2 (Legacy). Selecting v2 shows an Amber deprecation notice banner and changes the publish endpoint from /v3/events to /v2/dispatch. The active version persists in local storage, so a returning reader lands on the same version they last used.
 
-### Can I change the brand name, package slug and API base URL in the Product Documentation Website template?
-Yes. The Product Documentation Website template is built around four swap-ready variables: BRAND for the SDK name, PKG_NAME for the lowercase package and CLI slug, API_BASE for the endpoint shown in cURL and Try It panels, and TAGLINE for the one-line summary. Set them to your own values and rewrite the default copy in the same tone and length, since the seeded text is written for the default brand.
+### Can I add my own documentation pages and guides to the Product Documentation Website template?
+Yes. The Product Documentation Website template stores 18+ documentation pages as local Markdown files, organized into five guide groups: Getting Started, Core Concepts, SDK Guides, API Reference, and Operations. Adding or editing a page means writing Markdown, not touching React components. The parser handles front matter, headings, callout blocks, numbered steps, parameter tables, and synced code-tab groups, so new pages inherit the same layout.
 
-### What does the Try it request panel do in the Product Documentation Website template?
-The Try it panel on the Product Documentation Website template lets a reader edit JSON payload fields such as topic, region and idempotencyKey, choose an HTTP method and endpoint, and send a mock request. It returns a realistic mocked JSON response with an HTTP 202 status badge and a simulated latency readout. No backend or external API is called; the response is generated in the browser.
+### What does the Try it request panel do on the Product Documentation Website template?
+The Try it panel is an interactive request runner inside the Quickstart and API reference pages. Readers edit JSON payload fields such as topic, region, and idempotencyKey, pick an HTTP method and endpoint, then click Send mock request to receive a realistic mocked JSON response with an HTTP 202 status badge and a simulated latency readout. It runs entirely in the browser with no backend or external API calls, so it is safe to host as a static site.
 
-### How do the synchronized code tabs and Cmd+K search work in the Product Documentation Website template?
-The Product Documentation Website template syncs JavaScript, Python and cURL tabs across the whole page, so clicking Python switches every multi-language code block at once and remembers the choice. The Cmd+K palette indexes every document heading and supports full keyboard navigation, while the right-hand On this page column highlights the active heading as you scroll. Both are built in and need no setup.
+### How do the synchronized code tabs and Cmd+K search work in this developer docs template?
+The Product Documentation Website template keeps JavaScript, Python, and cURL examples in sync across the whole page: clicking Python switches every multi-language code block at once, and the choice persists in local storage. Each block has a one-click copy button. The Cmd+K search palette indexes every document heading with full keyboard navigation, so readers can jump straight to a section without scrolling the sidebar.
 
 ### How do I build a product documentation website with AI?
-Copy the prompt from this page or run npx vibefather add product-documentation-website, replace [BRAND], [PKG_NAME], [API_BASE] and [TAGLINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add product-documentation-website, replace [BRAND], [PKG_NAME], [API_BASE] and [TAGLINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Product Documentation Website demo?
-The Event routing SDK docs case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Event routing SDK docs case was built by Gemini 4 Neon in Antigravity; the Background job queue SDK case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Product Documentation Website template use?
-Product Documentation Website is a 4-page site built with Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Product Documentation Website is a 4-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Product Documentation Website template for a client or a business?
 The Product Documentation Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

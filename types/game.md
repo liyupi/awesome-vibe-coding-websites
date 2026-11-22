@@ -2,7 +2,7 @@
 
 > Small games that run in the browser with no server: canvas or DOM rendering, keyboard and touch controls, local high scores.
 
-20 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
+25 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
 
 <table>
 <tr>
@@ -27,18 +27,18 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/typing-speed-race-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/typing-speed-race-game/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/fd13cc6e-9f38-4665-bfa5-7b9d5de395ed/shot_desktop.187eacb401.webp" width="100%" alt="Ink Wash Mountain Adventure website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/ink-wash-mountain-adventure">Ink Wash Mountain Adventure</a></b> <sup>PRO</sup><br>
-<sub>Run a painted mountain pass, outwit three guardians, and master a precise dodge-and-combo trial.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ink-wash-mountain-adventure/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/coinslot/884b18c2-d036-476f-8c99-65397e86221e/shot_desktop.325abec805.webp" width="100%" alt="Arcade Game Studio Landing Page website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
 <b><a href="../templates/arcade-game-studio-landing-page">Arcade Game Studio Landing Page</a></b> <sup>PRO</sup><br>
 <sub>Pixel-art arcade landing page for a game studio, with a playable runner in the hero and a local high-score board.</sub><br>
 <sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/arcade-game-studio-landing-page/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/fd13cc6e-9f38-4665-bfa5-7b9d5de395ed/shot_desktop.187eacb401.webp" width="100%" alt="Ink Wash Mountain Adventure website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/ink-wash-mountain-adventure">Ink Wash Mountain Adventure</a></b> <sup>PRO</sup><br>
+<sub>Run a painted mountain pass, outwit three guardians, and master a precise dodge-and-combo trial.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ink-wash-mountain-adventure/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/island-postal-route-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/island-postal-route-game/d8a66cd7-bdcf-44ca-954a-24656d4f99fb/shot_desktop.34f4346fc3.webp" width="100%" alt="Island Postal Route Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
@@ -55,46 +55,18 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/virtual-pet-companion/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/03c4ac56-fdda-4ae0-9105-2d2ba4e5e717/shot_desktop.864294ab4c.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game website template — live demo built by Grok 4.7"></a><br>
-<b><a href="../templates/sci-fi-arena-wave-survival-game">Sci-Fi Arena Wave Survival Game</a></b><br>
-<sub>A first-person yard shooter with one carbine, pickup cells, and waves of drones.</sub><br>
-<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sci-fi-arena-wave-survival-game/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/1c82ecb7-bd14-4672-a263-176864e35bc3/shot_desktop.2b43e074e1.webp" width="100%" alt="Voxel Sandbox Building Game website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/voxel-sandbox-building-game">Voxel Sandbox Building Game</a></b><br>
+<sub>An original pastel-candy Three.js voxel sandbox opening on a sunset lakeside village with 12 materials and region copy-paste.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/voxel-sandbox-building-game/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/shot_desktop.4d791b0e09.webp" width="100%" alt="Neon Snake 3D Game website template — live demo built by Grok 4.7"></a><br>
-<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
-<sub>Steer a glowing snake on a dark grid, and take beads that pulse with a short beat.</sub><br>
-<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/neon-snake-3d-game/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game website template — live demo built by Grok 4.7"></a><br>
-<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
-<sub>Walk a dusk grid, take a pool car, and finish a porch run or a lap as night falls.</sub><br>
-<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/open-world-city-driving-game/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/cozy-isometric-farm-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/cozy-isometric-farm-game/b7da2b77-755c-4009-88b1-d0c437cc2de6/shot_desktop.497423d298.webp" width="100%" alt="Cozy Isometric Farm Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/cozy-isometric-farm-game">Cozy Isometric Farm Game</a></b><br>
-<sub>Grow a tiny garden through gentle days, with every crop and coin saved in your browser.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/cozy-isometric-farm-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/cozy-isometric-farm-game/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/6f8f2e7e-c9ee-4b0f-8880-a75fd678bb0d/shot_desktop.66cfbdba8d.webp" width="100%" alt="Browser Flight Simulator Game website template — live demo built by Gemini 4 Neon"></a><br>
+<a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/6f8f2e7e-c9ee-4b0f-8880-a75fd678bb0d/shot_desktop.66cfbdba8d.webp" width="100%" alt="Browser Flight Simulator Game website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/browser-flight-simulator-game">Browser Flight Simulator Game</a></b><br>
 <sub>An instant-play low-poly Three.js island flight game with ring courses, mail drops, scored landings, and ghost replay.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/browser-flight-simulator-game/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/3d-neon-breakout-arcade/84cd8953-5ff8-4b16-9fad-07b70e9b3a6c/shot_desktop.bc48c4a174.webp" width="100%" alt="3D Neon Breakout Arcade website template — live demo built by Grok 4.7"></a><br>
-<b><a href="../templates/3d-neon-breakout-arcade">3D Neon Breakout Arcade</a></b><br>
-<sub>Five neon rounds on a glass court, with shatter, sparks, and three pickups.</sub><br>
-<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/3d-neon-breakout-arcade/prompt.md">Prompt</a></sub>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/browser-flight-simulator-game/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dusk-track-racing-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/78a80404-72e7-4bfe-97cf-4cef2f809eb8/shot_desktop.32e27456f4.webp" width="100%" alt="Dusk Track Racing Game website template — live demo built by Grok 4.7"></a><br>
@@ -105,16 +77,72 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/neon-hovercar-city-runner?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/neon-hovercar-city-runner/18ae29db-3619-4451-b596-bf475ef1c1e4/shot_desktop.a0e4a1578d.webp" width="100%" alt="Neon Hovercar City Runner website template — live demo built by Grok 4.7"></a><br>
-<b><a href="../templates/neon-hovercar-city-runner">Neon Hovercar City Runner</a></b> <sup>PRO</sup><br>
-<sub>Pilot a hovercar up a wet neon canyon, thread surge arches, and reach the berth.</sub><br>
-<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/neon-hovercar-city-runner/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/03c4ac56-fdda-4ae0-9105-2d2ba4e5e717/shot_desktop.864294ab4c.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game website template — live demo built by Grok 4.7"></a><br>
+<b><a href="../templates/sci-fi-arena-wave-survival-game">Sci-Fi Arena Wave Survival Game</a></b><br>
+<sub>A first-person yard shooter with one carbine, pickup cells, and waves of drones.</sub><br>
+<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sci-fi-arena-wave-survival-game/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game website template — live demo built by Grok 4.7"></a><br>
+<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
+<sub>Walk a dusk grid, take a pool car, and finish a porch run or a lap as night falls.</sub><br>
+<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/open-world-city-driving-game/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/shot_desktop.4d791b0e09.webp" width="100%" alt="Neon Snake 3D Game website template — live demo built by Grok 4.7"></a><br>
+<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
+<sub>Steer a glowing snake on a dark grid, and take beads that pulse with a short beat.</sub><br>
+<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/neon-snake-3d-game/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/light-beam-lens-puzzle-game/3258c5c0-5ac5-4839-b604-2aacb16b271e/shot_desktop.6005e92553.webp" width="100%" alt="Light Beam Lens Puzzle Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/light-beam-lens-puzzle-game">Light Beam Lens Puzzle Game</a></b><br>
 <sub>A calm 3D optics puzzle with twelve handcrafted levels, glowing crystals, and thoughtful controls.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/light-beam-lens-puzzle-game/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/draw-battle-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/draw-battle-simulator-game/679f16cc-2ee2-43ff-9aa3-0cd0eb7a3caa/shot_desktop.c74646c0fa.webp" width="100%" alt="Draw Battle Simulator Game website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/draw-battle-simulator-game">Draw Battle Simulator Game</a></b><br>
+<sub>Sunny cartoon battle sandbox where you sketch rows of tiny soldiers on a meadow, paint terrain, and watch confetti clashes unfold.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/draw-battle-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/draw-battle-simulator-game/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/cozy-isometric-farm-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/cozy-isometric-farm-game/b7da2b77-755c-4009-88b1-d0c437cc2de6/shot_desktop.497423d298.webp" width="100%" alt="Cozy Isometric Farm Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/cozy-isometric-farm-game">Cozy Isometric Farm Game</a></b><br>
+<sub>Grow a tiny garden through gentle days, with every crop and coin saved in your browser.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/cozy-isometric-farm-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/cozy-isometric-farm-game/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/roguelike-deckbuilder-card-game/133a8b7a-808a-4b9e-9881-9d44563c338a/shot_desktop.4445baf84f.webp" width="100%" alt="Roguelike Deckbuilder Card Game website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/roguelike-deckbuilder-card-game">Roguelike Deckbuilder Card Game</a></b> <sup>PRO</sup><br>
+<sub>Nautical roguelike deckbuilder where a lighthouse keeper climbs storm-wrecked floating islands with 60 cards and 20 relics.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/roguelike-deckbuilder-card-game/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/spend-a-billion-dollars-game/0cd76f3c-3194-4834-b9b3-8eb205f5b4c0/shot_desktop.d1efee5d27.webp" width="100%" alt="Spend a Billion Dollars Game website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/spend-a-billion-dollars-game">Spend a Billion Dollars Game</a></b><br>
+<sub>Inherit $100B from a fictional eccentric aunt, shop 60 sticker items, print a shareable receipt, and feel the scale of $1M vs $1B vs $1T.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/spend-a-billion-dollars-game/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/3d-neon-breakout-arcade/84cd8953-5ff8-4b16-9fad-07b70e9b3a6c/shot_desktop.bc48c4a174.webp" width="100%" alt="3D Neon Breakout Arcade website template — live demo built by Grok 4.7"></a><br>
+<b><a href="../templates/3d-neon-breakout-arcade">3D Neon Breakout Arcade</a></b><br>
+<sub>Five neon rounds on a glass court, with shatter, sparks, and three pickups.</sub><br>
+<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/3d-neon-breakout-arcade/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/neon-hovercar-city-runner?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/neon-hovercar-city-runner/18ae29db-3619-4451-b596-bf475ef1c1e4/shot_desktop.a0e4a1578d.webp" width="100%" alt="Neon Hovercar City Runner website template — live demo built by Grok 4.7"></a><br>
+<b><a href="../templates/neon-hovercar-city-runner">Neon Hovercar City Runner</a></b> <sup>PRO</sup><br>
+<sub>Pilot a hovercar up a wet neon canyon, thread surge arches, and reach the berth.</sub><br>
+<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/neon-hovercar-city-runner/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -139,13 +167,19 @@
 <sub>Grok 4.7 · <a href="https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/mars-colony-builder-game/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/1c82ecb7-bd14-4672-a263-176864e35bc3/shot_desktop.2b43e074e1.webp" width="100%" alt="Voxel Sandbox Building Game website template — live demo built by Gemini 4 Neon"></a><br>
-<b><a href="../templates/voxel-sandbox-building-game">Voxel Sandbox Building Game</a></b><br>
-<sub>An original pastel-candy Three.js voxel sandbox opening on a sunset lakeside village with 12 materials and region copy-paste.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/voxel-sandbox-building-game/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/falling-sand-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/falling-sand-physics-toy/93f06f81-788b-471b-85e8-d1570cc16500/shot_desktop.9c21c18818.webp" width="100%" alt="Falling Sand Physics Toy website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/falling-sand-physics-toy">Falling Sand Physics Toy</a></b><br>
+<sub>Paint with 16 interacting elements at 60fps: lava, water, fire, plants, acid, ice, cloners, thermal heatmap view, and shareable scenes.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/falling-sand-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/falling-sand-physics-toy/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>
+
+### More
+
+| Template | What it is | Built with | |
+|---|---|---|---|
+| [First-Person Ski Run Game](../templates/first-person-ski-run-game) | Carve down a procedural 3D alpine mountain through slalom gates, moguls, pine trees, and freeride jumps with live snow spray and wind audio. | Gemini 4 Neon, GPT-6.2 Sol | [Live demo](https://vibefather.ai/templates/first-person-ski-run-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/first-person-ski-run-game/prompt.md) |
 
 ---
 

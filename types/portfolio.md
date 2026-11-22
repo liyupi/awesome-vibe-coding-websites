@@ -2,7 +2,7 @@
 
 > Personal and studio portfolios that put the work first: project grids, case-study pages and a short about section.
 
-17 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
+19 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
 
 <table>
 <tr>
@@ -21,16 +21,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/shot_desktop.3e5ee4bbb1.webp" width="100%" alt="Generative Art Studio Website website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a><br>
-<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
-<sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · GPT-6 Astra · <a href="https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/generative-art-studio-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/kinetic-typography-portfolio/9ef4ff22-e500-40af-870d-2ca57afb7a1d/shot_desktop.5e0b75f616.webp" width="100%" alt="Kinetic Typography Portfolio website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/kinetic-typography-portfolio">Kinetic Typography Portfolio</a></b> <sup>PRO</sup><br>
 <sub>A motion designer portfolio where giant variable type splits, stretches and re-forms as you scroll.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/kinetic-typography-portfolio/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/shot_desktop.3e5ee4bbb1.webp" width="100%" alt="Generative Art Studio Website website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a><br>
+<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
+<sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · GPT-6 Astra · <a href="https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/generative-art-studio-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -83,10 +83,10 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/author-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/author-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/architecture-firm-portfolio">Architecture Firm Portfolio</a></b> <sup>PRO</sup><br>
-<sub>Architecture practice site with studio photographs, a filterable project index, project pages with drawn SVG plans, awards and contact.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/architecture-firm-portfolio/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/painter-portfolio-and-print-shop/4679ba66-293e-4438-baa9-8729f597243a/shot_desktop.ca2292e1ff.webp" width="100%" alt="Painter Portfolio and Print Shop website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/painter-portfolio-and-print-shop">Painter Portfolio and Print Shop</a></b><br>
+<sub>A tactile artist portfolio with series galleries, artwork pages, and an interactive archival print shop.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/painter-portfolio-and-print-shop/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -97,32 +97,46 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ux-designer-case-study-portfolio/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/painter-portfolio-and-print-shop/4679ba66-293e-4438-baa9-8729f597243a/shot_desktop.ca2292e1ff.webp" width="100%" alt="Painter Portfolio and Print Shop website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/painter-portfolio-and-print-shop">Painter Portfolio and Print Shop</a></b><br>
-<sub>A tactile artist portfolio with series galleries, artwork pages, and an interactive archival print shop.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/painter-portfolio-and-print-shop/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interior-design-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interior-design-studio-website/06740e7f-e14f-4a49-a3fc-0dea0da94798/shot_desktop.114b5341a6.webp" width="100%" alt="Interior Design Studio Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/interior-design-studio-website">Interior Design Studio Website</a></b><br>
 <sub>Interior studio site with draggable before/after sliders, services, a five-step process, gallery of four rooms and a consultation form.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interior-design-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interior-design-studio-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/architecture-firm-portfolio">Architecture Firm Portfolio</a></b> <sup>PRO</sup><br>
+<sub>Architecture practice site with studio photographs, a filterable project index, project pages with drawn SVG plans, awards and contact.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/architecture-firm-portfolio/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/ff274814-e036-4323-af67-05a7fd27311b/shot_desktop.a37a72775c.webp" width="100%" alt="Fluid Simulation Agency Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/fluid-simulation-agency-website">Fluid Simulation Agency Website</a></b> <sup>PRO</sup><br>
+<sub>Interactive creative studio homepage with a live WebGL fluid hero, cutout wordmark mask, and scroll-reactive electric palettes.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/fluid-simulation-agency-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/tattoo-studio-website/8bc5b95a-327b-4abf-b934-5fe27ac4bc5b/shot_desktop.7cfc347a2c.webp" width="100%" alt="Tattoo Studio Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/tattoo-studio-website">Tattoo Studio Website</a></b><br>
 <sub>A dark editorial studio site with artist portfolios, SVG flash, consultations, and aftercare.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/tattoo-studio-website/prompt.md">Prompt</a></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/racing-driver-personal-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/racing-driver-personal-website/6152aaa5-b528-4309-b8fd-a7f3b97f9041/shot_desktop.7c5e9a1ded.webp" width="100%" alt="Racing Driver Personal Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/racing-driver-personal-website">Racing Driver Personal Website</a></b> <sup>PRO</sup><br>
+<sub>Interactive racing driver site with a draggable 3D helmet morphing across 3 season liveries, globe calendar, and live lap telemetry.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/racing-driver-personal-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/racing-driver-personal-website/prompt.md">Prompt</a></sub>
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/ff274814-e036-4323-af67-05a7fd27311b/shot_desktop.a37a72775c.webp" width="100%" alt="Fluid Simulation Agency Website website template — live demo built by Gemini 4 Neon"></a><br>
-<b><a href="../templates/fluid-simulation-agency-website">Fluid Simulation Agency Website</a></b> <sup>PRO</sup><br>
-<sub>Interactive creative studio homepage with a live WebGL fluid hero, cutout wordmark mask, and scroll-reactive electric palettes.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/fluid-simulation-agency-website/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/9ee24e01-d08e-4735-a4eb-b25fb5a74537/shot_desktop.f39de8d5d8.webp" width="100%" alt="Animated UI Components Gallery website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/animated-ui-components-gallery">Animated UI Components Gallery</a></b> <sup>PRO</sup><br>
+<sub>30 original animated React &amp; Tailwind UI components with live props sliders, Light/Dark previews, code snippets, Copy as Prompt, and ⌘K.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/animated-ui-components-gallery/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

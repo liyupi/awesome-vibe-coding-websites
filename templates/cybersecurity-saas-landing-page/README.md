@@ -18,8 +18,8 @@ Five variables change the brand, product category, audience, event terminology, 
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
-| Effects | Generative / Canvas, Scroll Animation, Micro-interactions |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md) |
+| Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + Tailwind + motion + lucide-react |
 | Pages | 1 |
 | Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add cybersecurity-saas-land
 The Security operations platform case was built by Kimi K3.1 Pro in Kimi Code; the Privacy operations platform case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Cybersecurity SaaS Landing Page template use?
-Cybersecurity SaaS Landing Page is a single-page site built with Tailwind CSS, Motion and React, with generative / canvas, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Cybersecurity SaaS Landing Page is a single-page site built with React, Tailwind CSS and Motion, with scroll animation, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Cybersecurity SaaS Landing Page template for a client or a business?
 The Cybersecurity SaaS Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

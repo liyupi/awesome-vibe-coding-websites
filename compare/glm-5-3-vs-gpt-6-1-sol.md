@@ -13,13 +13,6 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b> — <sub>A fluorescent print magazine with overprinted cover art, full stories, and a local print subscription demo.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b/shot_desktop.ecd561617f.webp" width="100%" alt="Risograph Indie Magazine Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b> — <sub>An acid club poster with real audio reaction, set times, a venue diagram, and local ticket planning.</sub></td>
 </tr>
 <tr>
@@ -27,11 +20,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp" width="100%" alt="Techno Club Night Event Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/sticker-shop-website">Sticker Shop Website</a></b> — <sub>A cherry-and-lemon sticker shop with original art, product photos, a six-slot pack builder, and local cart.</sub></td>
+<td colspan="2"><b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b> — <sub>A fluorescent print magazine with overprinted cover art, full stories, and a local print subscription demo.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sticker-shop-website/12310781-4659-405a-8895-93e97caed5ce/shot_desktop.b9258c986a.webp" width="100%" alt="Sticker Shop Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b/shot_desktop.ecd561617f.webp" width="100%" alt="Risograph Indie Magazine Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/kids-learning-app-landing-page">Kids Learning App Landing Page</a></b> — <sub>A bright clay learning app page with playful lessons, age-aware paths, and a useful parent view.</sub></td>
@@ -39,6 +32,13 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/08d369be-89a7-4411-9f68-a6ceb38d9bd3/shot_desktop.32ce245c1b.webp" width="100%" alt="Kids Learning App Landing Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/sticker-shop-website">Sticker Shop Website</a></b> — <sub>A cherry-and-lemon sticker shop with original art, product photos, a six-slot pack builder, and local cart.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sticker-shop-website/12310781-4659-405a-8895-93e97caed5ce/shot_desktop.b9258c986a.webp" width="100%" alt="Sticker Shop Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> — <sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub></td>

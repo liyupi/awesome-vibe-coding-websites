@@ -2,7 +2,7 @@
 
 > Low-resolution pixel graphics and bitmap fonts, often with game-like interactions.
 
-3 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/pixel?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
+4 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/pixel?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
 
 <table>
 <tr>
@@ -25,6 +25,12 @@
 <b><a href="../templates/virtual-pet-companion">Virtual Pet Companion</a></b><br>
 <sub>Care for an original pixel pet, earn coins in mini-games, and unlock outfits saved on this device.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/virtual-pet-companion/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/falling-sand-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/falling-sand-physics-toy/93f06f81-788b-471b-85e8-d1570cc16500/shot_desktop.9c21c18818.webp" width="100%" alt="Falling Sand Physics Toy website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/falling-sand-physics-toy">Falling Sand Physics Toy</a></b><br>
+<sub>Paint with 16 interacting elements at 60fps: lava, water, fire, plants, acid, ice, cloners, thermal heatmap view, and shareable scenes.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/falling-sand-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/falling-sand-physics-toy/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

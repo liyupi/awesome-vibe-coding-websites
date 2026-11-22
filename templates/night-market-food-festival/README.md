@@ -18,7 +18,7 @@ This template suits night markets, food-truck rallies, lantern festivals, and cu
 |---|---|
 | Category | [Events & Communities](../../README.md#events--communities) |
 | Site type | [Event](../../types/event.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add night-market-food-festi
 The Lantern Row Night Market case was built by GLM-5.3 in ZCode; the Winter street-food market case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Night Market Food Festival template use?
-Night Market Food Festival is a single-page site built with Tailwind CSS, Motion and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Night Market Food Festival is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Night Market Food Festival template for a client or a business?
 The Night Market Food Festival prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

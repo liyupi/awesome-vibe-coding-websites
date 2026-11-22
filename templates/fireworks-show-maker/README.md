@@ -18,7 +18,7 @@ The default content follows a fictional harbor celebration. Variables can change
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
 | Effects | Drag & Physics, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 1 |

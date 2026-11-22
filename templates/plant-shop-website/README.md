@@ -12,7 +12,7 @@ This template builds a lush, sunlit storefront for a neighborhood plant shop: a 
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md) |
-| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Playful](../../styles/playful.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add plant-shop-website, rep
 The Sunny corner plant shop case was built by GLM-5.3 in ZCode; the Candle studio shop case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Plant Shop Website template use?
-Plant Shop Website is a 2-page site built with Tailwind CSS, Motion and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Plant Shop Website is a 2-page site built with React, Tailwind CSS and Motion, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Plant Shop Website template for a client or a business?
 The Plant Shop Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

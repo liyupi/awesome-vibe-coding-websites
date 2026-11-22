@@ -38,28 +38,40 @@
 <sub>Rainlit cedar pavilion · Codex · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=8737be0f-edb7-468a-95da-7e7872787f0a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
-<sub>Independent culture magazine · Codex · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp" width="100%" alt="Techno Club Night Event Page built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b><br>
 <sub>Underground techno night · Codex · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
+<sub>Independent culture magazine · Codex · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/kids-learning-app-landing-page">Kids Learning App Landing Page</a></b><br>
+<sub>Early readers and counters · Codex · <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sticker-shop-website?case=bb9a8a84-0f24-4638-999e-cbd7715918e6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/sticker-shop-website">Sticker Shop Website</a></b><br>
 <sub>Desk sticker shop · Codex · <a href="https://vibefather.ai/templates/sticker-shop-website?case=bb9a8a84-0f24-4638-999e-cbd7715918e6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/98a734ea-5425-4d3f-934e-47bcc822c27b/shot_desktop.f1ca409b68.webp" width="100%" alt="Interactive Apartment Floor Plan Tour built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/interactive-apartment-floor-plan-tour">Interactive Apartment Floor Plan Tour</a></b> <sup>PRO</sup><br>
+<sub>Cove Court coastal apartment · Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/kids-learning-app-landing-page">Kids Learning App Landing Page</a></b><br>
-<sub>Early readers and counters · Codex · <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/ef01b8f6-ba7e-42af-b0b8-a2c800eae935/shot_desktop.31e604e972.webp" width="100%" alt="Interactive Apartment Floor Plan Tour built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/interactive-apartment-floor-plan-tour">Interactive Apartment Floor Plan Tour</a></b> <sup>PRO</sup><br>
+<sub>Alder House city apartment · Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/9eeebc23-a058-4546-a448-b29ab1146a1e/shot_desktop.07dfe4cc49.webp" width="100%" alt="Sea Salt Brand Website built by GPT-6.1 Sol in Codex"></a><br>
@@ -101,18 +113,6 @@
 <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=2e7f616b-19ae-40f6-8746-ac23e171ebc0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/jelly-squish-physics-toy/2e7f616b-19ae-40f6-8746-ac23e171ebc0/shot_desktop.c45c9d6036.webp" width="100%" alt="Jelly Squish Physics Toy built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/jelly-squish-physics-toy">Jelly Squish Physics Toy</a></b><br>
 <sub>Tropical jelly tasting room · Codex · <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=2e7f616b-19ae-40f6-8746-ac23e171ebc0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/98a734ea-5425-4d3f-934e-47bcc822c27b/shot_desktop.f1ca409b68.webp" width="100%" alt="Interactive Apartment Floor Plan Tour built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/interactive-apartment-floor-plan-tour">Interactive Apartment Floor Plan Tour</a></b> <sup>PRO</sup><br>
-<sub>Cove Court coastal apartment · Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/ef01b8f6-ba7e-42af-b0b8-a2c800eae935/shot_desktop.31e604e972.webp" width="100%" alt="Interactive Apartment Floor Plan Tour built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/interactive-apartment-floor-plan-tour">Interactive Apartment Floor Plan Tour</a></b> <sup>PRO</sup><br>
-<sub>Alder House city apartment · Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

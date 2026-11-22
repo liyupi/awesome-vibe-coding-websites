@@ -19,7 +19,7 @@ The template suits developer tools, prompt libraries, UI kit stores, component c
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Landing Page](../../types/landing-page.md) |
 | Style | [Aurora](../../styles/aurora.md), [Dark](../../styles/dark.md) |
-| Effects | Marquee, Scroll Animation |
+| Effects | Scroll Animation, Marquee |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add template-library-landin
 The Website template library case was built by Claude Opus 5.5 in Cursor; the Icon and illustration library case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Template Library Landing Page template use?
-Template Library Landing Page is a single-page site built with Tailwind CSS, Motion and React, with marquee and scroll animation. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Template Library Landing Page is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and marquee. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Template Library Landing Page template for a client or a business?
 The Template Library Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

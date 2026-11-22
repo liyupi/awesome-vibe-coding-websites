@@ -2,7 +2,7 @@
 
 > A complete developer code-hosting workspace with file browser, split diffs, issues, releases, and insights.
 
-<a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/webp.f843aa7320.webp" width="100%" alt="Code Hosting Platform App — Developer Code Hosting Web App with Diffs built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/webp.f843aa7320.webp" width="100%" alt="Code Hosting Platform App — Developer Code Hosting Web App with Diffs built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -12,11 +12,11 @@ Code Hosting Platform App is a self-contained developer workspace modeled around
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [Dashboard](../../types/dashboard.md) |
-| Style | [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 7 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -27,6 +27,11 @@ Code Hosting Platform App is a self-contained developer workspace modeled around
 <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=bfdd517b-88c6-4f77-a4e8-8948d675c670&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/shot_desktop.6fc77de9e5.webp" width="100%" alt="Code Hosting Platform App — Systems KV storage org, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Systems KV storage org</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=bfdd517b-88c6-4f77-a4e8-8948d675c670&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/20464864-d9d7-464f-b5d3-6974df1dc7ed/shot_desktop.937dc833f8.webp" width="100%" alt="Code Hosting Platform App — Audio DSP toolkit org, built by GPT-6.2 Sol in Codex"></a><br>
+<b>Audio DSP toolkit org</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -51,36 +56,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- An open-source maintainer: set ORG_HANDLE and PRIMARY_REPO to your project, then seed the file tree, issues and releases with your real roadmap so contributors see a working workspace.
-- An internal platform team: keep the repository views and insights charts but replace the public profile with your engineering org and seed internal service repos instead of open-source ones.
-- A developer-tools startup: point BRAND at your product, use the releases view to present changelogs, and link the README to your docs so the demo doubles as a product tour.
-- A coding bootcamp or course: set PRIMARY_REPO to a teaching project, seed exercises as issues, and use pull request diffs to show students how review comments work.
+- An open-source maintainer: set BRAND to your project, ORG_HANDLE and PRIMARY_REPO to your repository, and seed real issues and releases so visitors see live activity.
+- An internal platform team: keep the dark Midnight Ink theme and fill the repository tree with your services, using Insights charts to show code activity across teams.
+- A developer-tools startup: point MAINTAINER_NAME and MAINTAINER_HANDLE at your lead engineer and use the profile view as a public engineering showcase.
+- A coding bootcamp: swap the seeded source files for lesson repositories in Rust, Go and Python, and use issues as exercise threads students can reply to.
 
 ## FAQ
 
-### What can you actually do inside the Code Hosting Platform App demo?
-The Code Hosting Platform App opens on a full repository workspace: browse the file tree, switch branches, read syntax-highlighted source with clickable line numbers, and view a Markdown README. Separate views cover issues, pull request diffs in split or unified mode, commits, releases, insights charts and a maintainer profile. Stars, watches, forks, new issues, replies, reactions and inline review comments all persist in the browser.
+### How do I adapt the Code Hosting Platform App to my own engineering team or open-source project?
+The Code Hosting Platform App exposes five variables: BRAND for the platform name, ORG_HANDLE for the organization slug, PRIMARY_REPO for the repository shown on first load, and MAINTAINER_NAME plus MAINTAINER_HANDLE for the lead maintainer. Change those values, then rewrite the seeded repositories, source files, issues, pull requests, commits and releases so they describe your project. The prompt asks you to keep all copy in one content file so you can swap it without touching components.
 
-### How do I turn this developer workspace into my own project or organization's site?
-Set BRAND to your platform name, ORG_HANDLE to your organization slug, PRIMARY_REPO to the repository you want shown first, and MAINTAINER_NAME and MAINTAINER_HANDLE to your lead maintainer. Then rewrite the seeded repositories, source files, issues, pull requests, commits and releases so the commit messages and code read like your own project rather than the default sample data.
+### Can I use the Code Hosting Platform App for a client project?
+Commercial and client use of the Code Hosting Platform App needs a Pro membership, which is also how you get the full prompt and the demo source code. The published brief, stack and variables are visible to everyone, but the complete prompt and the source files of the demos are reserved for Pro members. Free prompts and every DESIGN.md are licensed for personal, non-commercial use only.
 
-### Can I change the dark theme colors and fonts to match my developer brand?
-The Code Hosting Platform App is built on Midnight Ink with Mint for additions and open states, Coral for deletions and closed items, and Amber for highlights, plus a light mode toggle. To rebrand, adjust those color values in the Tailwind theme and swap Space Grotesk, Inter and JetBrains Mono for your own typefaces, keeping the mono font for code, hashes and line numbers.
+### Where does the Code Hosting Platform App store stars, new issues and review comments without a backend?
+The Code Hosting Platform App keeps all browser persistence inside a single storage adapter, which writes to localStorage. Stars, watches, forks, new issues, issue replies, reaction counters, inline pull request review comments and the theme choice all survive a page reload. Because every write goes through that one adapter, pointing the app at a real API later means editing one file rather than hunting through components.
 
-### How does the search palette and the branch switcher work without a backend?
-The Code Hosting Platform App runs as a static single-page app with no server or external APIs. Pressing '/' or Cmd+K opens a command palette that searches repositories, files and issues in real time against seeded data. The branch switcher and every other interaction read from the same local dataset, and user actions like stars, forks and comments save through a storage adapter in the browser.
+### How does the search palette and keyboard shortcut work in the Code Hosting Platform App?
+The Code Hosting Platform App opens a global command palette when you press the slash key or Cmd+K. The palette searches across repositories, files and issues in real time as you type, so you can jump to a source file or an open issue without leaving the keyboard. The rest of the workspace uses hash routing between the Repository Code, Issues, Pull Requests, Commits, Releases, Insights and User Profile views.
 
-### Who is the Code Hosting Platform App template suited for, and can I use it for client work?
-The Code Hosting Platform App suits developer-tools teams, open-source maintainers, technical founders and anyone building an internal platform demo, documentation sandbox or engineering showcase. It is a Pro template, so commercial and client use needs Pro, which also gives you the full prompt and the demo source code. Free template prompts and every DESIGN.md are licensed for personal, non-commercial use.
+### How do I add a new issue reply or a pull request review comment in the Code Hosting Platform App?
+The Code Hosting Platform App lets you create issues, reply to existing threads, react to comments and leave inline review comments directly on a pull request diff. Every one of those actions is saved locally through the storage adapter, so the thread you build stays visible the next time you open the page. The split and unified diff views both show added lines in Mint and deleted lines in Coral.
 
 ### How do I build a code hosting platform app with AI?
-Copy the full prompt (Pro) from this page or run npx vibefather add code-hosting-platform-app, replace [BRAND], [ORG_HANDLE], [PRIMARY_REPO] and [MAINTAINER_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the full prompt (Pro) from this page or run npx vibefather add code-hosting-platform-app, replace [BRAND], [ORG_HANDLE], [PRIMARY_REPO] and [MAINTAINER_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Code Hosting Platform App demo?
-The Systems KV storage org case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Systems KV storage org case was built by Gemini 4 Neon in Antigravity; the Audio DSP toolkit org case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Code Hosting Platform App template use?
-Code Hosting Platform App is a 7-page site built with Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Code Hosting Platform App is a 7-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Code Hosting Platform App template free to use?
 Code Hosting Platform App is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

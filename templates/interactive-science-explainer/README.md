@@ -18,7 +18,7 @@ To adapt it, change the publication name, the device, the noise source, the read
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Drag & Physics, Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Plain CSS |
 | Pages | 1 |

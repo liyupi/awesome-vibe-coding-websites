@@ -18,7 +18,7 @@ The prompt defines the moving-wall and ball-contact calculations, not just their
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite + TypeScript + Vanilla CSS |
 | Pages | 1 |

@@ -18,7 +18,7 @@ Use the default fictional product studio or replace the app name, workspace, mem
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Web App](../../types/web-app.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Text Animation, Micro-interactions |
 | Stack | Vite + React + TypeScript + Tailwind CSS 4 + CSS variables + @tailwindcss/vite + react-markdown + remark-gfm |
 | Pages | 1 |
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add ai-chat-app-
 The Product studio assistant case was built by GPT-6 Astra in Codex; the Community learning assistant case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the AI Chat App Interface template use?
-AI Chat App Interface is a single-page site built with Tailwind CSS and React, with text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+AI Chat App Interface is a single-page site built with React and Tailwind CSS, with text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the AI Chat App Interface template free to use?
 AI Chat App Interface is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

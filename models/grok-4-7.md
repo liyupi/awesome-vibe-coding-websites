@@ -19,6 +19,18 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/78a80404-72e7-4bfe-97cf-4cef2f809eb8/shot_desktop.32e27456f4.webp" width="100%" alt="Dusk Track Racing Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/dusk-track-racing-game">Dusk Track Racing Game</a></b><br>
+<sub>Wickpenny dusk heat · Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/63b071cd-e5d6-42c5-ac76-8a9ecd270853/shot_desktop.2328ff1986.webp" width="100%" alt="Dusk Track Racing Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/dusk-track-racing-game">Dusk Track Racing Game</a></b><br>
+<sub>Bramble wick heat · Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/71faaa0e-9240-4b3c-a04d-6251a8fcac21/shot_desktop.85efa231e1.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/sci-fi-arena-wave-survival-game">Sci-Fi Arena Wave Survival Game</a></b><br>
 <sub>Brick kiln range · Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
@@ -31,18 +43,6 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/shot_desktop.4d791b0e09.webp" width="100%" alt="Neon Snake 3D Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
-<sub>Night hall snake · Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/fd018c27-8594-4624-964f-e5137a02f708/shot_desktop.c9e77d9aaf.webp" width="100%" alt="Neon Snake 3D Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
-<sub>Night conservatory snake · Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
 <sub>Reed Wharf Car Club · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
@@ -51,6 +51,18 @@
 <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/69acc56b-13c7-4637-aa12-27ed6565399d/shot_desktop.2deeeb2cc2.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
 <sub>Night flower market · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/shot_desktop.4d791b0e09.webp" width="100%" alt="Neon Snake 3D Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
+<sub>Night hall snake · Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/fd018c27-8594-4624-964f-e5137a02f708/shot_desktop.c9e77d9aaf.webp" width="100%" alt="Neon Snake 3D Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
+<sub>Night conservatory snake · Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -75,18 +87,6 @@
 <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?case=575ba76d-0854-424a-99dc-9830dc72d7d2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-neon-breakout-arcade/575ba76d-0854-424a-99dc-9830dc72d7d2/shot_desktop.ca9db98e36.webp" width="100%" alt="3D Neon Breakout Arcade built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/3d-neon-breakout-arcade">3D Neon Breakout Arcade</a></b><br>
 <sub>Campus rec cabinet · Grok Build · <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?case=575ba76d-0854-424a-99dc-9830dc72d7d2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/78a80404-72e7-4bfe-97cf-4cef2f809eb8/shot_desktop.32e27456f4.webp" width="100%" alt="Dusk Track Racing Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/dusk-track-racing-game">Dusk Track Racing Game</a></b><br>
-<sub>Wickpenny dusk heat · Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/63b071cd-e5d6-42c5-ac76-8a9ecd270853/shot_desktop.2328ff1986.webp" width="100%" alt="Dusk Track Racing Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/dusk-track-racing-game">Dusk Track Racing Game</a></b><br>
-<sub>Bramble wick heat · Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

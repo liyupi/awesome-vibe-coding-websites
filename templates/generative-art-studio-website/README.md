@@ -17,9 +17,9 @@ To adapt it, change the brand, artist, city, practice and product, then edit one
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [Portfolio](../../types/portfolio.md), [E-commerce](../../types/ecommerce.md) |
-| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
-| Effects | Generative / Canvas, Scroll Animation, Micro-interactions |
+| Site type | [E-commerce](../../types/ecommerce.md), [Portfolio](../../types/portfolio.md) |
+| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
+| Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Plain CSS + react, + simplex-noise + lucide-react |
 | Pages | 3 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
@@ -103,7 +103,7 @@ Copy the prompt from this page or run npx vibefather add generative-art-studio-w
 The Generative print studio case was built by Claude Opus 5.5 in Claude Code; the Imaginary terrain maps case was built by Claude Sonnet 5.5 in Cursor; the Generative print studio case was built by Gemini 4 Carbon in Cursor; the Generative print studio case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Generative Art Studio Website template use?
-Generative Art Studio Website is a 3-page site built with React, with generative / canvas, scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Generative Art Studio Website is a 3-page site built with React, with scroll animation, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Generative Art Studio Website template for a client or a business?
 The Generative Art Studio Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

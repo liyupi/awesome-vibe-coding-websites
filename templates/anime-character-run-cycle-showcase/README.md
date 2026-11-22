@@ -19,7 +19,7 @@ It suits a class handout, a small studio's public viewer, or a portfolio piece a
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Interactive Toy](../../types/toy.md) |
 | Style | [Swiss](../../styles/swiss.md) |
-| Effects | Drag & Physics, Micro-interactions, 3D / WebGL |
+| Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 2 |
 | Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add anime-character-run-cyc
 The Sprinter timing studio case was built by Grok 4.7 in Grok Build; the Courier night class case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Anime Character Run Cycle Showcase template use?
-Anime Character Run Cycle Showcase is a 2-page site built with Three.js and Plain HTML, with drag & physics, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Anime Character Run Cycle Showcase is a 2-page site built with Three.js and Plain HTML, with drag & physics, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Anime Character Run Cycle Showcase template for a client or a business?
 The Anime Character Run Cycle Showcase prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

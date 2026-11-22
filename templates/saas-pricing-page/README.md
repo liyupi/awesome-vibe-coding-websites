@@ -12,7 +12,7 @@ A single-page SaaS pricing page: three tier cards under a monthly/annual toggle 
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | Pricing Page |
-| Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Swiss](../../styles/swiss.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add saas-pricing-page, repl
 The Scheduling SaaS pricing case was built by GLM-5.3 in ZCode; the Field service SaaS pricing case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the SaaS Pricing Page template use?
-SaaS Pricing Page is a single-page site built with Tailwind CSS, Motion and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+SaaS Pricing Page is a single-page site built with React, Tailwind CSS and Motion, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the SaaS Pricing Page template for a client or a business?
 The SaaS Pricing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

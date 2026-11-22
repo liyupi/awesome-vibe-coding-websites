@@ -57,9 +57,9 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Gemini 4 Carbon in Cursor"></a><br>
-<b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b><br>
-<sub>The water cycle · Cursor · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/bento-grid-saas-landing-page/83055d14-8919-423e-a3c8-8dbca3b1f008/shot_desktop.7cdfe15e49.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Gemini 4 Carbon in Cursor"></a><br>
+<b><a href="../templates/bento-grid-saas-landing-page">Bento Grid SaaS Landing Page</a></b><br>
+<sub>Release analytics tool · Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-product-launch-page?case=0281f5ff-4fa7-444e-812f-7529d7ded48a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-product-launch-page/0281f5ff-4fa7-444e-812f-7529d7ded48a/shot_desktop.991782b253.webp" width="100%" alt="3D Product Launch Page built by Gemini 4 Carbon in Cursor"></a><br>
@@ -69,9 +69,9 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/cea14c66-27cc-4cc6-a3bf-dde741843285/shot_desktop.0790dbc0a8.webp" width="100%" alt="Retro Desktop OS Portfolio built by Gemini 4 Carbon in Cursor"></a><br>
-<b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
-<sub>Motion designer portfolio · Cursor · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Gemini 4 Carbon in Cursor"></a><br>
+<b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b><br>
+<sub>The water cycle · Cursor · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=40ef5a2a-8c8c-4fa4-b215-cc9ea14eec89&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/40ef5a2a-8c8c-4fa4-b215-cc9ea14eec89/shot_desktop.bd391f09f9.webp" width="100%" alt="Sorting Algorithms Visualizer built by Gemini 4 Carbon in Cursor"></a><br>
@@ -81,9 +81,9 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/bento-grid-saas-landing-page/83055d14-8919-423e-a3c8-8dbca3b1f008/shot_desktop.7cdfe15e49.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Gemini 4 Carbon in Cursor"></a><br>
-<b><a href="../templates/bento-grid-saas-landing-page">Bento Grid SaaS Landing Page</a></b><br>
-<sub>Release analytics tool · Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/cea14c66-27cc-4cc6-a3bf-dde741843285/shot_desktop.0790dbc0a8.webp" width="100%" alt="Retro Desktop OS Portfolio built by Gemini 4 Carbon in Cursor"></a><br>
+<b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
+<sub>Motion designer portfolio · Cursor · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=2bd3687d-f73f-4118-a336-c77efb812591&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/arcade-game-studio-landing-page/2bd3687d-f73f-4118-a336-c77efb812591/shot_desktop.2156094387.webp" width="100%" alt="Arcade Game Studio Landing Page built by Gemini 4 Carbon in Cursor"></a><br>

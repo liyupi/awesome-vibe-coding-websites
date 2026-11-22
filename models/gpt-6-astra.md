@@ -21,14 +21,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/generative-art-studio-website?case=83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/generative-art-studio-website/83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c/shot_desktop.1d23e419e9.webp" width="100%" alt="Generative Art Studio Website built by GPT-6 Astra in Codex"></a><br>
-<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
-<sub>Generative print studio · Codex · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter built by GPT-6 Astra in Codex"></a><br>
 <b><a href="../templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
 <sub>Subscription product analytics · Codex · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/generative-art-studio-website?case=83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/generative-art-studio-website/83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c/shot_desktop.1d23e419e9.webp" width="100%" alt="Generative Art Studio Website built by GPT-6 Astra in Codex"></a><br>
+<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
+<sub>Generative print studio · Codex · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

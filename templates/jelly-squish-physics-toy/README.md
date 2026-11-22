@@ -18,8 +18,8 @@ Change the fictional studio name, introductory copy, flavor collection, and acce
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
-| Effects | Drag & Physics, Micro-interactions, 3D / WebGL |
+| Style | [Minimal](../../styles/minimal.md), [Playful](../../styles/playful.md) |
+| Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |
 | Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add jelly-squish-physics-to
 The Soft fruit jelly studio case was built by GPT-6.1 Sol in Codex; the Tropical jelly tasting room case was built by GPT-6.1 Sol in Codex. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Jelly Squish Physics Toy template use?
-Jelly Squish Physics Toy is a single-page site built with Three.js and Plain HTML, with drag & physics, micro-interactions and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Jelly Squish Physics Toy is a single-page site built with Three.js and Plain HTML, with drag & physics, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Jelly Squish Physics Toy template for a client or a business?
 The Jelly Squish Physics Toy prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -13,24 +13,24 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/e-commerce-admin-dashboard/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/drone-services-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/drone-services-company-website/6ef97bed-5043-4da4-89da-33af55ce2f35/shot_desktop.45a4d961b2.webp" width="100%" alt="Drone Services Company Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/drone-services-company-website">Drone Services Company Website</a></b><br>
+<sub>A crisp drone-services site with full-bleed aerial photography and a draggable before/after mapping slider.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/drone-services-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/drone-services-company-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/gridline/2d68caf9-8ad0-44b7-8c9d-36f9c0b45125/shot_desktop.5738fd16e8.webp" width="100%" alt="Swiss Design Agency Portfolio website template — live demo built by Claude Opus 5.5"></a><br>
 <b><a href="../templates/swiss-design-agency-portfolio">Swiss Design Agency Portfolio</a></b><br>
 <sub>Swiss-style agency portfolio on a strict 12-column grid, with morphing case-study page transitions.</sub><br>
 <sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/swiss-design-agency-portfolio/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/crypto-wallet-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/crypto-wallet-landing-page/95592897-de2f-4a96-8a6b-d33becfd542f/shot_desktop.a43006bc03.webp" width="100%" alt="Crypto Wallet Landing Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/crypto-wallet-landing-page">Crypto Wallet Landing Page</a></b><br>
 <sub>A precise self-custody wallet page with interactive device mockups and original network icons.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/crypto-wallet-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/crypto-wallet-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/drone-services-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/drone-services-company-website/6ef97bed-5043-4da4-89da-33af55ce2f35/shot_desktop.45a4d961b2.webp" width="100%" alt="Drone Services Company Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/drone-services-company-website">Drone Services Company Website</a></b><br>
-<sub>A crisp drone-services site with full-bleed aerial photography and a draggable before/after mapping slider.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/drone-services-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/drone-services-company-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -49,30 +49,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/architecture-firm-portfolio">Architecture Firm Portfolio</a></b> <sup>PRO</sup><br>
-<sub>Architecture practice site with studio photographs, a filterable project index, project pages with drawn SVG plans, awards and contact.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/architecture-firm-portfolio/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/shot_desktop.9487c64b4e.webp" width="100%" alt="Help Center Knowledge Base website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/help-center-knowledge-base">Help Center Knowledge Base</a></b><br>
 <sub>Calm help center with instant search, six category cards, article pages with TOC rails, helpfulness voting and a contact form.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/help-center-knowledge-base/prompt.md">Prompt</a></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/architecture-firm-portfolio">Architecture Firm Portfolio</a></b> <sup>PRO</sup><br>
+<sub>Architecture practice site with studio photographs, a filterable project index, project pages with drawn SVG plans, awards and contact.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/architecture-firm-portfolio/prompt.md">Prompt</a></sub>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/biotech-startup-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/biotech-startup-website/0f81630c-629d-4348-aa9e-51d387481d86/shot_desktop.6dcb086baa.webp" width="100%" alt="Biotech Startup Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/biotech-startup-website">Biotech Startup Website</a></b><br>
+<sub>Lab-clean biotech platform site with a rotating code-drawn molecule, pipeline table and calm science motion.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/biotech-startup-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/biotech-startup-website/prompt.md">Prompt</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/university-admissions-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/university-admissions-website/379c9e84-9204-4956-bf7c-4d6e8d0429b0/shot_desktop.73d448dd7b.webp" width="100%" alt="University Admissions Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/university-admissions-website">University Admissions Website</a></b><br>
 <sub>A confident admissions site with a program finder, cost estimator, and visit-day sign-up.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/university-admissions-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/university-admissions-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/geometric-art-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/geometric-art-school-website/39850639-35c1-483e-9061-2a3691d12cf0/shot_desktop.bc0e4715fc.webp" width="100%" alt="Geometric Art School Website website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/geometric-art-school-website">Geometric Art School Website</a></b><br>
-<sub>A primary-color art school with original art, course filters, open-day planning, and local applications.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/geometric-art-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/geometric-art-school-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -83,24 +83,38 @@
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/annual-report-data-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/annual-report-data-story/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/geometric-art-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/geometric-art-school-website/39850639-35c1-483e-9061-2a3691d12cf0/shot_desktop.bc0e4715fc.webp" width="100%" alt="Geometric Art School Website website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
+<b><a href="../templates/geometric-art-school-website">Geometric Art School Website</a></b><br>
+<sub>A primary-color art school with original art, course filters, open-day planning, and local applications.</sub><br>
+<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/geometric-art-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/geometric-art-school-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/jet-engine-interactive-explainer/c3f78554-75a3-4b98-a3b3-d3091cea8c27/shot_desktop.b11f0a0591.webp" width="100%" alt="Jet Engine Interactive Explainer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/jet-engine-interactive-explainer">Jet Engine Interactive Explainer</a></b> <sup>PRO</sup><br>
 <sub>A scroll-driven 3D turbofan with cutaways, relative rotor speeds, live airflow, and a working throttle.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/jet-engine-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/jet-engine-interactive-explainer/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/construction-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/construction-company-website/72872f7b-1d19-45fa-964c-b43971ae8bd8/shot_desktop.ff5462445b.webp" width="100%" alt="Construction Company Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/construction-company-website">Construction Company Website</a></b><br>
 <sub>Single-page construction site with a categorized project gallery, safety credentials, a five-step process and a quote form.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/construction-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/construction-company-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/design-conference-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/overprint/03a1262c-d246-44b0-8991-7234b0e8cebb/shot_desktop.ce08edf227.webp" width="100%" alt="Design Conference Website website template — live demo built by Claude Opus 5.5"></a><br>
 <b><a href="../templates/design-conference-website">Design Conference Website</a></b><br>
 <sub>Poster-type conference site with a cursor-reactive variable headline and a filterable two-day schedule.</sub><br>
 <sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/design-conference-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/design-conference-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/3d-exploded-view-product-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/3d-exploded-view-product-showcase/695e50c5-6ec9-49bc-a87a-75221a040b5a/shot_desktop.83fbf6db5b.webp" width="100%" alt="3D Exploded View Product Showcase website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/3d-exploded-view-product-showcase">3D Exploded View Product Showcase</a></b> <sup>PRO</sup><br>
+<sub>A scroll-driven mechanical assembly with labeled parts, cutaway controls, and reversible playback.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/3d-exploded-view-product-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/3d-exploded-view-product-showcase/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -129,20 +143,6 @@
 <b><a href="../templates/anime-character-run-cycle-showcase">Anime Character Run Cycle Showcase</a></b><br>
 <sub>A toon-shaded runner loops one stride on a stage you can pause, scrub and orbit.</sub><br>
 <sub>Grok 4.7 · <a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/anime-character-run-cycle-showcase/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/biotech-startup-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/biotech-startup-website/0f81630c-629d-4348-aa9e-51d387481d86/shot_desktop.6dcb086baa.webp" width="100%" alt="Biotech Startup Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/biotech-startup-website">Biotech Startup Website</a></b><br>
-<sub>Lab-clean biotech platform site with a rotating code-drawn molecule, pipeline table and calm science motion.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/biotech-startup-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/biotech-startup-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/3d-exploded-view-product-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/3d-exploded-view-product-showcase/695e50c5-6ec9-49bc-a87a-75221a040b5a/shot_desktop.83fbf6db5b.webp" width="100%" alt="3D Exploded View Product Showcase website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/3d-exploded-view-product-showcase">3D Exploded View Product Showcase</a></b> <sup>PRO</sup><br>
-<sub>A scroll-driven mechanical assembly with labeled parts, cutaway controls, and reversible playback.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/3d-exploded-view-product-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/3d-exploded-view-product-showcase/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

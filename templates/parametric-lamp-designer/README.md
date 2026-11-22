@@ -20,7 +20,7 @@ Adapt the template by changing the content variables, tuning the palette or pres
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Dashboard](../../types/dashboard.md), [Interactive Toy](../../types/toy.md) |
-| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
 | Effects | Drag & Physics, Generative / Canvas, 3D / WebGL |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + three + lucide-react |
 | Pages | 1 |
