@@ -27,18 +27,18 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/kanban-project-board-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/kanban-project-board-app/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/music-streaming-app-with-lyrics?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/music-streaming-app-with-lyrics/61089e68-59ef-473b-8b45-62b8846d9dfd/shot_desktop.821db1147e.webp" width="100%" alt="Music Streaming App with Lyrics website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/music-streaming-app-with-lyrics">Music Streaming App with Lyrics</a></b><br>
-<sub>A complete listening room with original previews, synchronized lyrics, charts, comments, and a persistent queue.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/music-streaming-app-with-lyrics?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/music-streaming-app-with-lyrics/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/q-a-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/q-a-community-website/03153e85-e460-4f5d-947d-9f2f5a7d01d0/shot_desktop.f859dbb418.webp" width="100%" alt="Q&amp;A Community Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/q-a-community-website">Q&amp;A Community Website</a></b><br>
 <sub>A readable knowledge community with thoughtful answers, useful voting, topic following, and a working editor.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/q-a-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/q-a-community-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/music-streaming-app-with-lyrics?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/music-streaming-app-with-lyrics/61089e68-59ef-473b-8b45-62b8846d9dfd/shot_desktop.821db1147e.webp" width="100%" alt="Music Streaming App with Lyrics website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/music-streaming-app-with-lyrics">Music Streaming App with Lyrics</a></b><br>
+<sub>A complete listening room with original previews, synchronized lyrics, charts, comments, and a persistent queue.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/music-streaming-app-with-lyrics?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/music-streaming-app-with-lyrics/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/team-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-chat-app-interface/6f8ba19b-242c-4263-8f67-b6780b46fe38/shot_desktop.831034aedc.webp" width="100%" alt="Team Chat App Interface website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

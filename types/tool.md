@@ -7,16 +7,16 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/e1271149-f631-4fa3-bd29-ac3429803200/shot_desktop.8cbd8f9bac.webp" width="100%" alt="Pathfinding Algorithms Visualizer website template — live demo built by Gemini 4 Neon"></a><br>
-<b><a href="../templates/pathfinding-algorithms-visualizer">Pathfinding Algorithms Visualizer</a></b><br>
-<sub>Interactive grid, hex, maze, and city-road pathfinding lab comparing BFS, Dijkstra, Greedy Best-First, and A* with live pseudocode.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/pathfinding-algorithms-visualizer/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/online-code-playground?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/online-code-playground/74ad9e27-83c1-405f-9da1-e117e2d46732/shot_desktop.c3d947372b.webp" width="100%" alt="Online Code Playground website template — live demo built by Gemini 4 Neon"></a><br>
 <b><a href="../templates/online-code-playground">Online Code Playground</a></b><br>
 <sub>Dark-mode HTML, CSS, and JS sandbox with bundled Three.js, live console, URL sharing, ZIP export, and 12 seeded pens.</sub><br>
 <sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/online-code-playground?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/online-code-playground/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/e1271149-f631-4fa3-bd29-ac3429803200/shot_desktop.8cbd8f9bac.webp" width="100%" alt="Pathfinding Algorithms Visualizer website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/pathfinding-algorithms-visualizer">Pathfinding Algorithms Visualizer</a></b><br>
+<sub>Interactive grid, hex, maze, and city-road pathfinding lab comparing BFS, Dijkstra, Greedy Best-First, and A* with live pseudocode.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/pathfinding-algorithms-visualizer/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

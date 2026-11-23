@@ -27,32 +27,32 @@
 <sub>Grok 4.7 · <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/rocket-launch-countdown-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/hackathon-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/hackathon-event-page/d79a64fd-16da-4b5b-b8da-2a19963e97c9/shot_desktop.fb4a3323e5.webp" width="100%" alt="Hackathon Event Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/hackathon-event-page">Hackathon Event Page</a></b><br>
-<sub>Overnight-energy hackathon page with a live countdown, prize tracks, a 36-hour schedule, judges, sponsor tiles and registration.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/hackathon-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/hackathon-event-page/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/night-market-food-festival/41a9fe20-4116-4101-afb8-1377e94718e4/shot_desktop.2eeb9a4e11.webp" width="100%" alt="Night Market Food Festival website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/night-market-food-festival">Night Market Food Festival</a></b><br>
 <sub>Neon night-market page with a filterable vendor map, two-stage schedule, and token ticket tiers.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/night-market-food-festival/prompt.md">Prompt</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/design-conference-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/overprint/03a1262c-d246-44b0-8991-7234b0e8cebb/shot_desktop.ce08edf227.webp" width="100%" alt="Design Conference Website website template — live demo built by Claude Opus 5.5"></a><br>
-<b><a href="../templates/design-conference-website">Design Conference Website</a></b><br>
-<sub>Poster-type conference site with a cursor-reactive variable headline and a filterable two-day schedule.</sub><br>
-<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/design-conference-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/design-conference-website/prompt.md">Prompt</a></sub>
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/hackathon-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/hackathon-event-page/d79a64fd-16da-4b5b-b8da-2a19963e97c9/shot_desktop.fb4a3323e5.webp" width="100%" alt="Hackathon Event Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/hackathon-event-page">Hackathon Event Page</a></b><br>
+<sub>Overnight-energy hackathon page with a live countdown, prize tracks, a 36-hour schedule, judges, sponsor tiles and registration.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/hackathon-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/hackathon-event-page/prompt.md">Prompt</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/wedding-invitation-and-rsvp-website/492cbcfb-25b1-46b8-b13b-8d333717a4f0/shot_desktop.7c506955a3.webp" width="100%" alt="Wedding Invitation and RSVP Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/wedding-invitation-and-rsvp-website">Wedding Invitation and RSVP Website</a></b><br>
 <sub>Single-page wedding invite with a live countdown, story timeline, day schedule, guest logistics and a client-side RSVP.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/wedding-invitation-and-rsvp-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/design-conference-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/overprint/03a1262c-d246-44b0-8991-7234b0e8cebb/shot_desktop.ce08edf227.webp" width="100%" alt="Design Conference Website website template — live demo built by Claude Opus 5.5"></a><br>
+<b><a href="../templates/design-conference-website">Design Conference Website</a></b><br>
+<sub>Poster-type conference site with a cursor-reactive variable headline and a filterable two-day schedule.</sub><br>
+<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/design-conference-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/design-conference-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/birthday-party-invitation-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/birthday-party-invitation-page/90884f84-de54-420d-863c-34e2d42f8de2/shot_desktop.1474f4c187.webp" width="100%" alt="Birthday Party Invitation Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

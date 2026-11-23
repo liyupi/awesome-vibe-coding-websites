@@ -41,13 +41,6 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> — <sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/cf84f5ff-2a0b-4b54-a54f-d170abcdcf22/shot_desktop.7d494a10da.webp" width="100%" alt="Running Shoe Product Launch Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/quirky-gadget-product-launch-page">Quirky Gadget Product Launch Page</a></b> — <sub>A bold Memphis product launch with a draggable 3D gadget, tactile demos, and a local preorder.</sub></td>
 </tr>
 <tr>
@@ -60,6 +53,13 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/geometric-art-school-website/c23f9a62-c6ae-42ba-8f78-559767f4c2ce/shot_desktop.6ec665205d.webp" width="100%" alt="Geometric Art School Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/geometric-art-school-website/39850639-35c1-483e-9061-2a3691d12cf0/shot_desktop.bc0e4715fc.webp" width="100%" alt="Geometric Art School Website built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> — <sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/cf84f5ff-2a0b-4b54-a54f-d170abcdcf22/shot_desktop.7d494a10da.webp" width="100%" alt="Running Shoe Product Launch Page built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page built by GPT-6.1 Sol"></a><br><sub><b>GPT-6.1 Sol</b> · Codex</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> — <sub>Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow.</sub></td>

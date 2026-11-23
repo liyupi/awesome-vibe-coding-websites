@@ -21,16 +21,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/editorial-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/larder/f00ec6bf-1927-4e03-af39-033d97a6118e/shot_desktop.d0d5c59e88.webp" width="100%" alt="Editorial Restaurant Website website template — live demo built by Claude Opus 5.5"></a><br>
-<b><a href="../templates/editorial-restaurant-website">Editorial Restaurant Website</a></b><br>
-<sub>Editorial three-page restaurant site with big serif type, parallax strips, a priced menu and a drawn map.</sub><br>
-<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/editorial-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/editorial-restaurant-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/coffee-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/coffee-shop-website/1af58d10-b5fe-4f81-bcc3-f9665827c346/shot_desktop.6d9708d173.webp" width="100%" alt="Coffee Shop Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/coffee-shop-website">Coffee Shop Website</a></b><br>
 <sub>Warm three-page cafe site with a filterable menu, illustrated map and client-side order-ahead pickup.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/coffee-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/coffee-shop-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/editorial-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/larder/f00ec6bf-1927-4e03-af39-033d97a6118e/shot_desktop.d0d5c59e88.webp" width="100%" alt="Editorial Restaurant Website website template — live demo built by Claude Opus 5.5"></a><br>
+<b><a href="../templates/editorial-restaurant-website">Editorial Restaurant Website</a></b><br>
+<sub>Editorial three-page restaurant site with big serif type, parallax strips, a priced menu and a drawn map.</sub><br>
+<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/editorial-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/editorial-restaurant-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

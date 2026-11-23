@@ -55,13 +55,6 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/used-car-dealership-website/f2c404c2-e781-4f23-bd55-88cd87dd31ad/shot_desktop.2b84274732.webp" width="100%" alt="Used Car Dealership Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/pet-grooming-and-boarding-website">Pet Grooming and Boarding Website</a></b> — <sub>A cheerful grooming and boarding site with a size-and-coat price picker and a stay calculator that does the math.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pet-grooming-and-boarding-website/e45d8739-cc6f-404e-8056-9887a37ccfac/shot_desktop.027f88a279.webp" width="100%" alt="Pet Grooming and Boarding Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pet-grooming-and-boarding-website/58ee5dab-a826-42e1-8a77-28937ee0b9c2/shot_desktop.96222c22a5.webp" width="100%" alt="Pet Grooming and Boarding Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/private-k-12-school-website">Private K-12 School Website</a></b> — <sub>A bright red-and-navy school site with day-in-the-life timelines per division and a tuition-and-aid estimator that shows its math.</sub></td>
 </tr>
 <tr>
@@ -69,11 +62,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/private-k-12-school-website/bb51b48e-8b9b-40ac-9db4-97dc2d0cecec/shot_desktop.798b685623.webp" width="100%" alt="Private K-12 School Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/family-medical-clinic-website">Family Medical Clinic Website</a></b> — <sub>A warm, calm family clinic site with a filterable provider directory and same-day appointment requests.</sub></td>
+<td colspan="2"><b><a href="../templates/pet-grooming-and-boarding-website">Pet Grooming and Boarding Website</a></b> — <sub>A cheerful grooming and boarding site with a size-and-coat price picker and a stay calculator that does the math.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/family-medical-clinic-website/6afea008-4e7d-4a0f-90bd-397eb60b87ae/shot_desktop.da0ef08c26.webp" width="100%" alt="Family Medical Clinic Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/family-medical-clinic-website/1d7d72a6-48a2-4117-b3a4-c3b1452bdfeb/shot_desktop.6b33acc310.webp" width="100%" alt="Family Medical Clinic Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pet-grooming-and-boarding-website/e45d8739-cc6f-404e-8056-9887a37ccfac/shot_desktop.027f88a279.webp" width="100%" alt="Pet Grooming and Boarding Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/pet-grooming-and-boarding-website/58ee5dab-a826-42e1-8a77-28937ee0b9c2/shot_desktop.96222c22a5.webp" width="100%" alt="Pet Grooming and Boarding Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/commercial-print-shop-website">Commercial Print Shop Website</a></b> — <sub>A process-color print shop site with an instant quote calculator that shows its per-unit math on screen.</sub></td>
@@ -81,6 +74,13 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/aa8d6a06-179f-47eb-864a-877e8178bde4/shot_desktop.dd994abca6.webp" width="100%" alt="Commercial Print Shop Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/14d1e0ad-7f87-4e6f-afb3-fd05c9ab3151/shot_desktop.a25a7e5730.webp" width="100%" alt="Commercial Print Shop Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/family-medical-clinic-website">Family Medical Clinic Website</a></b> — <sub>A warm, calm family clinic site with a filterable provider directory and same-day appointment requests.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/family-medical-clinic-website/6afea008-4e7d-4a0f-90bd-397eb60b87ae/shot_desktop.da0ef08c26.webp" width="100%" alt="Family Medical Clinic Website built by GLM-5.3"></a><br><sub><b>GLM-5.3</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-3-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/family-medical-clinic-website/1d7d72a6-48a2-4117-b3a4-c3b1452bdfeb/shot_desktop.6b33acc310.webp" width="100%" alt="Family Medical Clinic Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/martial-arts-dojo-website">Martial Arts Dojo Website</a></b> — <sub>A disciplined black-and-crimson dojo site with an animating belt path, day-filterable schedule and family pricing.</sub></td>

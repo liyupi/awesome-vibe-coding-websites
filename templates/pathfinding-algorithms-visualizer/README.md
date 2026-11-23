@@ -2,7 +2,7 @@
 
 > Interactive grid, hex, maze, and city-road pathfinding lab comparing BFS, Dijkstra, Greedy Best-First, and A* with live pseudocode.
 
-<a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/e1271149-f631-4fa3-bd29-ac3429803200/webp.3772876593.webp" width="100%" alt="Pathfinding Algorithms Visualizer — Interactive Pathfinding Algorithms Visualizer built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/e1271149-f631-4fa3-bd29-ac3429803200/webp.3772876593.webp" width="100%" alt="Pathfinding Algorithms Visualizer — Interactive Pathfinding Algorithms Visualizer built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ An interactive computer-science monograph and sandbox showing how maps and games
 | Effects | Micro-interactions, Interactive Canvas |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 4 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ An interactive computer-science monograph and sandbox showing how maps and games
 <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=e1271149-f631-4fa3-bd29-ac3429803200&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/e1271149-f631-4fa3-bd29-ac3429803200/shot_desktop.8cbd8f9bac.webp" width="100%" alt="Pathfinding Algorithms Visualizer — GraphCraft Lab (Square &amp; Hex Edition), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>GraphCraft Lab (Square &amp; Hex Edition)</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=e1271149-f631-4fa3-bd29-ac3429803200&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2/shot_desktop.59b70f2857.webp" width="100%" alt="Pathfinding Algorithms Visualizer — RouteLogic Studio (Heuristic Explorer), built by GPT-6.2 Sol in Codex"></a><br>
+<b>RouteLogic Studio (Heuristic Explorer)</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -49,33 +54,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A university algorithms course: set [BRAND] to the module name and [SUBTITLE] to the week's topic, then paint obstacle presets that match each lecture's exercise.
-- A game studio onboarding deck: rename [BRAND] to your studio and use the Square Grid sandbox to show how A* handles weighted terrain in your level design.
-- A coding bootcamp demo day: set [CITY_NAME] to your city and use the road map view to walk visitors through A* versus Dijkstra on a familiar street network.
-- An educator's classroom page: keep the Maze view as a warm-up, then have students compare Manhattan and Euclidean heuristics on the same obstacle field.
+- A university algorithms course: set BRAND to your module name, SUBTITLE to graph search, and rewrite the explainer copy to match your lecture order and pseudocode.
+- A game development studio: use the maze and hex grid views as a tuning sandbox, and rename BRAND to your engine tools label so designers can test weighted terrain costs.
+- A coding bootcamp: set CITY_NAME to your campus city and use the road map view as a lesson on weighted routing before students implement Dijkstra themselves.
+- A computer science club or open day demo: keep the pre-solved A* opening frame, set SUBTITLE to a plain-language question, and let visitors paint walls and drag pins.
 
 ## FAQ
 
-### Is the Pathfinding Algorithms Visualizer template free to use?
-The Pathfinding Algorithms Visualizer template is free for personal, non-commercial use under CC BY-NC 4.0. The prompt and every DESIGN.md are free to read and adapt for learning. Commercial or client work, including source code of the demos, needs a VibeFather Pro license. You can install it with the VibeFather CLI command and start editing the four views right away.
+### Is there a free pathfinding visualizer template I can build with AI?
+Yes. The Pathfinding Algorithms Visualizer template on VibeFather is free, and its prompt and DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. You can add it with the command npx vibefather add pathfinding-algorithms-visualizer, then have an AI coding agent build the four views: the grid and hex sandbox, the heuristics comparison, the maze generator and the city road map.
 
-### What can I change first in the Pathfinding Algorithms Visualizer template to make it my own?
-Start with the four variables: set [BRAND] to your lab or course name, [SUBTITLE] to the question your site answers, and [CITY_NAME] to the fictional city used in the road map view. Then rewrite the headlines and explainer copy for your audience. The grid, hex, maze and city views keep their layout and colors, so the fastest path to a distinct site is new copy and new obstacle presets.
+### Which algorithms can students compare in the Pathfinding Algorithms Visualizer template?
+The Pathfinding Algorithms Visualizer template runs BFS, Dijkstra, Greedy Best-First and A* on both a Square Grid and an Offset Hex Grid. Students can run one algorithm or use Side-by-Side Comparison mode to watch two run in lockstep on the same map, with live Nodes Explored, Frontier Size and Path Cost counters and line-highlighted pseudocode beside the grid.
 
-### How do I add a wine club signup to a winery website built with AI?
-This page is about the Pathfinding Algorithms Visualizer, not a winery site. The template has no signup form or mailing list section, so a wine club form would need to be added separately. If you want a winery site, look at the winery and restaurant templates on VibeFather instead. For this template, the useful edits are the four views, the brush costs and the algorithm labels.
+### How do I turn the Pathfinding Algorithms Visualizer into a teaching site for my own course?
+Set BRAND to your course or lab name and SUBTITLE to the topic you teach, then rewrite the explanatory copy in the content file so the sandbox, heuristics, maze and city views match your syllabus. The pseudocode explainer, weighted terrain brushes and maze generators stay as they are, so students can still paint mud and water, drag pins and step through each algorithm.
 
-### Which pathfinding algorithms does the Pathfinding Algorithms Visualizer template demonstrate?
-The Pathfinding Algorithms Visualizer template demonstrates BFS, Dijkstra, Greedy Best-First and A*, each runnable alone or in Side-by-Side Comparison mode on the same map. The Heuristics Compared view adds Manhattan, Euclidean and Chebyshev distance with selectable weight multipliers. The Maze view generates Recursive Backtracker, Prim's and weighted terrain mazes, and the City view races A* against Dijkstra on a code-drawn road network.
+### What does the city road map view in the Pathfinding Algorithms Visualizer show?
+The city view draws a procedural SVG road network for the fictional city set in CITY_NAME, with river bridges, avenues and clickable intersections. You pick a start and destination, toggle bridge congestion to add a 3x travel weight, and watch Weighted A* against Dijkstra compute the fastest route with explored intersection markers and turn-by-turn edge distance totals.
 
-### How do I turn the Pathfinding Algorithms Visualizer into a teaching tool for a computer science course?
-Set [BRAND] to your course or department name, [SUBTITLE] to the lecture topic, and [CITY_NAME] to a fictional place your students will recognize. Use the sandbox to paint walls, mud at cost 3 and water at cost 6, then step through the line-highlighted pseudocode while students predict the next frontier. The maze and city views give you ready-made exercises on weighted search and heuristic choice.
+### How do I change the brand name and city in the Pathfinding Algorithms Visualizer template?
+The Pathfinding Algorithms Visualizer template exposes three variables: BRAND for the lab name, SUBTITLE for the short header line and CITY_NAME for the code-drawn city road network. Replace them in the prompt before you build, then update the matching headlines and labels in the single content file so every view reads consistently for your own lab or classroom.
 
 ### How do I build a pathfinding algorithms visualizer with AI?
-Copy the prompt from this page or run npx vibefather add pathfinding-algorithms-visualizer, replace [BRAND], [SUBTITLE] and [CITY_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add pathfinding-algorithms-visualizer, replace [BRAND], [SUBTITLE] and [CITY_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Pathfinding Algorithms Visualizer demo?
-The GraphCraft Lab (Square & Hex Edition) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The GraphCraft Lab (Square & Hex Edition) case was built by Gemini 4 Neon in Antigravity; the RouteLogic Studio (Heuristic Explorer) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Pathfinding Algorithms Visualizer template use?
 Pathfinding Algorithms Visualizer is a 4-page site built with React, Tailwind CSS and Typescript, with micro-interactions and interactive canvas. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

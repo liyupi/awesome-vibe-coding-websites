@@ -21,21 +21,21 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=ed16549f-37fa-48ef-96b9-ff891fae0504&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b><br>
-<sub>Creative break playground · Codex · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=ed16549f-37fa-48ef-96b9-ff891fae0504&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=5d8266b1-5c65-4c30-aa4c-ab28fb7afde8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-wooden-fish-tapping-toy/5d8266b1-5c65-4c30-aa4c-ab28fb7afde8/shot_desktop.fa5300e80e.webp" width="100%" alt="3D Wooden Fish Tapping Toy built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/3d-wooden-fish-tapping-toy">3D Wooden Fish Tapping Toy</a></b><br>
 <sub>Amber walnut temple · Codex · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=5d8266b1-5c65-4c30-aa4c-ab28fb7afde8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=8737be0f-edb7-468a-95da-7e7872787f0a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-wooden-fish-tapping-toy/8737be0f-edb7-468a-95da-7e7872787f0a/shot_desktop.b8e6c46ed2.webp" width="100%" alt="3D Wooden Fish Tapping Toy built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/3d-wooden-fish-tapping-toy">3D Wooden Fish Tapping Toy</a></b><br>
 <sub>Rainlit cedar pavilion · Codex · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=8737be0f-edb7-468a-95da-7e7872787f0a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=ed16549f-37fa-48ef-96b9-ff891fae0504&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/spinning-hexagon-physics-toy">Spinning Hexagon Physics Toy</a></b><br>
+<sub>Creative break playground · Codex · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=ed16549f-37fa-48ef-96b9-ff891fae0504&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp" width="100%" alt="Techno Club Night Event Page built by GPT-6.1 Sol in Codex"></a><br>
@@ -86,21 +86,21 @@
 <sub>Bracken Inlet salt · Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
-<sub>Everyday road runner · Codex · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=2c3de2d4-f352-42fc-9ddd-ac0a2e75995c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/quirky-gadget-product-launch-page/2c3de2d4-f352-42fc-9ddd-ac0a2e75995c/shot_desktop.b9fb7615a0.webp" width="100%" alt="Quirky Gadget Product Launch Page built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/quirky-gadget-product-launch-page">Quirky Gadget Product Launch Page</a></b> <sup>PRO</sup><br>
 <sub>Pocket celebration gadget · Codex · <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=2c3de2d4-f352-42fc-9ddd-ac0a2e75995c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/geometric-art-school-website?case=39850639-35c1-483e-9061-2a3691d12cf0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/geometric-art-school-website/39850639-35c1-483e-9061-2a3691d12cf0/shot_desktop.bc0e4715fc.webp" width="100%" alt="Geometric Art School Website built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/geometric-art-school-website">Geometric Art School Website</a></b><br>
 <sub>Independent design school · Codex · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=39850639-35c1-483e-9061-2a3691d12cf0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
+<sub>Everyday road runner · Codex · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

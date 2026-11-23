@@ -2,7 +2,7 @@
 
 > Interactive editorial explainer with 8 procedural Three.js 3D horology figures you can orbit, scrub, explode, section-cut, and wind.
 
-<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/d7bac8fa-9340-483d-977a-dbcee0b06a21/webp.faaecf20d0.webp" width="100%" alt="How a Mechanical Watch Works — Interactive 3D Mechanical Watch Explainer built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/d7bac8fa-9340-483d-977a-dbcee0b06a21/webp.faaecf20d0.webp" width="100%" alt="How a Mechanical Watch Works — Interactive 3D Mechanical Watch Explainer built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ An archival editorial long-read demystifying how a battery-free mechanical watch
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ An archival editorial long-read demystifying how a battery-free mechanical watch
 <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=d7bac8fa-9340-483d-977a-dbcee0b06a21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/d7bac8fa-9340-483d-977a-dbcee0b06a21/shot_desktop.cc978f83c8.webp" width="100%" alt="How a Mechanical Watch Works — Caliber Monograph (Caliber V-08), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Caliber Monograph (Caliber V-08)</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=d7bac8fa-9340-483d-977a-dbcee0b06a21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=32916f21-39c4-49cf-8683-b5cefc549371&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/32916f21-39c4-49cf-8683-b5cefc549371/shot_desktop.545d48c6d6.webp" width="100%" alt="How a Mechanical Watch Works — Horology Atlas (Caliber M-12), built by GPT-6.2 Sol in Codex"></a><br>
+<b>Horology Atlas (Caliber M-12)</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=32916f21-39c4-49cf-8683-b5cefc549371&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -50,33 +55,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A watchmaking school: set BRAND to your program, replace the eight chapters with your lesson sequence, and keep the gear ratio table as a tooth-count reference for students.
-- A museum horology exhibit: set CALIBER_NAME to a movement in your collection and rewrite the complications chapter to describe the pieces on display.
-- An engineering lecturer: keep the escapement and gear train chapters, swap the archival prose for your course notes, and use the slow-motion slider in lectures.
-- A watch enthusiast publication: set BRAND to your masthead, rewrite the finale around a movement you own, and link the footer credit as your own archive.
+- A design school lecturer: set BRAND to your course name, keep the 8 chapters, and rewrite the gear ratio table as a homework exercise on tooth counts.
+- A watchmaking workshop: set CALIBER_NAME to a movement you service, then use the Keyless Works chapter to teach winding versus hand-setting before students touch a real crown.
+- A science museum kiosk: set BRAND to the exhibit title, keep the Cutaway Section and Exploded View controls, and let visitors wind the Caliber V-08 movement on a touchscreen.
+- An engineering student portfolio: set BRAND to your name, keep the verifiable tooth-count table, and link the finale chapter to a write-up of your own mechanism project.
 
 ## FAQ
 
-### What is the How a Mechanical Watch Works template and what does it include?
-The How a Mechanical Watch Works template is a single-page interactive horology long-read built with Vite, React, TypeScript, Tailwind CSS and Three.js. It includes eight editorial chapters, each paired with a procedural 3D figure: spring and pendulum, mainspring and barrel, gear train, Swiss lever escapement, balance wheel and hairspring, keyless works, complications, and a complete windable Caliber V-08 movement. Every figure supports orbit, time scrubbing, exploded view and cutaway section.
+### What can readers actually do with the 3D watch figures on this page?
+The How a Mechanical Watch Works template gives every one of its 8 horology figures the same set of controls: drag to orbit 360 degrees, scrub time and phase, slow motion down to 0.1x, slide an Exploded View from 0 to 100 percent, and toggle a Cutaway Section. Readers can also switch the crown between Wind and Set Hands and click Wind Mainspring to recharge the live power reserve meter.
 
-### How do the 3D watch figures work without any external model files?
-Every 3D figure in the How a Mechanical Watch Works template is built procedurally in Three.js code, so there are no GLB or OBJ files to host. The template generates toothed brass wheels, spiral mainsprings, ruby pivot jewels, blued screws, a pallet fork, a date ring and an automatic rotor from geometry. All eight figures share one WebGL renderer, which transitions between chapters as you scroll rather than mounting separate contexts.
+### How do I change the caliber name, beat rate and power reserve to my own values?
+The How a Mechanical Watch Works template exposes four variables: BRAND for the publication title, CALIBER_NAME for the movement designation, FREQUENCY_LABEL for the beat rate in the telemetry, and POWER_RESERVE for the mainspring specification. Set them in the prompt or content file, then rewrite every headline, paragraph and label that mentions the default Caliber V-08, 28,800 vph and 48-Hour Reserve so the copy matches your invented movement.
 
-### Can I change the watch caliber name, beat frequency and power reserve in this template?
-Yes. The How a Mechanical Watch Works template exposes four variables: BRAND for the publication title, CALIBER_NAME for the fictional movement, FREQUENCY_LABEL for the beat rate shown in telemetry, and POWER_RESERVE for the mainspring specification. The defaults are Caliber Monograph, Caliber V-08, 28,800 vph (4 Hz) and 48-Hour Reserve. When you change them, rewrite the headlines, paragraphs and labels to match.
+### Is this mechanical watch explainer free to use, and can I put it on a client site?
+The How a Mechanical Watch Works template is a free template. Its prompt and DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. Commercial and client work needs a VibeFather Pro license, which also gives you the source code of the demos. You can run it with npx vibefather add how-a-mechanical-watch-works and host the static build wherever you like.
 
-### Is the How a Mechanical Watch Works template free to use?
-The How a Mechanical Watch Works template is free. Its prompt and DESIGN.md are licensed CC BY-NC 4.0 for personal, non-commercial use, so you can build and study it without paying. Commercial or client work needs a VibeFather Pro license, which also gives you the full prompt and the source code of the demos. The live demo was built by Gemini 4 Neon in Antigravity.
+### Do the gears and springs use downloaded 3D model files?
+No. The How a Mechanical Watch Works template builds all 8 horology assemblies procedurally with Three.js inside one shared renderer, including the toothed brass wheels, coiled mainspring, breathing hairspring, ruby pallet stones, blued screws, date ring and automatic rotor. There are no external model files to load or license, and the single renderer transitions between figures instead of mounting separate WebGL contexts.
 
-### How do I turn this watch explainer into a lesson or museum exhibit page?
-Start by setting BRAND to your institution and CALIBER_NAME to the movement you are teaching. Rewrite the eight chapters in the content file so each one matches your curriculum, and keep the gear ratio table with its real tooth counts. The slow-motion slider, exploded view and cutaway section make good classroom demonstrations, and the sticky figure stays beside the prose on desktop while stacking on mobile.
+### Can I turn this into a lesson or museum exhibit about clockmaking instead of a watch?
+Yes. The How a Mechanical Watch Works template is an editorial explainer with 8 chapters and synced 3D figures, so an educator can keep the structure and rewrite the chapters in the content file for pendulum clocks, marine chronometers or a specific classroom syllabus. Change BRAND and CALIBER_NAME, replace the gear ratio table with your own tooth counts, and adjust the callout numbers to match the mechanism you teach.
 
 ### How do I build a how a mechanical watch works with AI?
-Copy the prompt from this page or run npx vibefather add how-a-mechanical-watch-works, replace [BRAND], [CALIBER_NAME], [FREQUENCY_LABEL] and [POWER_RESERVE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add how-a-mechanical-watch-works, replace [BRAND], [CALIBER_NAME], [FREQUENCY_LABEL] and [POWER_RESERVE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the How a Mechanical Watch Works demo?
-The Caliber Monograph (Caliber V-08) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Caliber Monograph (Caliber V-08) case was built by Gemini 4 Neon in Antigravity; the Horology Atlas (Caliber M-12) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the How a Mechanical Watch Works template use?
 How a Mechanical Watch Works is a single-page site built with Three.js, React and Tailwind CSS, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

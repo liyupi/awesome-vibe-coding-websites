@@ -2,7 +2,7 @@
 
 > Orbit a real-time ray-marched black hole with gravitational lensing, then explore event horizons, time dilation clocks, and cosmic scales.
 
-<a href="https://vibefather.ai/templates/black-hole-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/657b7b02-ca74-479b-8ab5-00258c366622/webp.e99bed650b.webp" width="100%" alt="Black Hole Interactive Explainer — Interactive Ray-Marched Black Hole Explainer built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/black-hole-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/657b7b02-ca74-479b-8ab5-00258c366622/webp.e99bed650b.webp" width="100%" alt="Black Hole Interactive Explainer — Interactive Ray-Marched Black Hole Explainer built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/black-hole-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ An interactive astrophysics explainer opening immediately on a real-time GLSL ra
 | Effects | Scroll Animation, 3D / WebGL |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ An interactive astrophysics explainer opening immediately on a real-time GLSL ra
 <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=657b7b02-ca74-479b-8ab5-00258c366622&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/657b7b02-ca74-479b-8ab5-00258c366622/shot_desktop.0d84d6ec7f.webp" width="100%" alt="Black Hole Interactive Explainer — Event Horizon Atlas (Aurelia-X1), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Event Horizon Atlas (Aurelia-X1)</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=657b7b02-ca74-479b-8ab5-00258c366622&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=e08ad67c-5e56-4f03-b4a3-5cd6879e1641&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/e08ad67c-5e56-4f03-b4a3-5cd6879e1641/shot_desktop.aa4a468a59.webp" width="100%" alt="Black Hole Interactive Explainer — Singularity Field Notes (Cygnus-Core 9), built by GPT-6.2 Sol in Codex"></a><br>
+<b>Singularity Field Notes (Cygnus-Core 9)</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=e08ad67c-5e56-4f03-b4a3-5cd6879e1641&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -50,33 +55,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A university physics department: set [OBSERVATORY_NAME] to your lab or course name, [OBJECT_NAME] to a real catalog object, and rewrite the chapter copy for your syllabus.
-- A planetarium or science museum: keep the ray-marched hero as the kiosk opening, set [OBJECT_NAME] to your show's subject, and point the chapter jump nav at your exhibit stops.
-- An astronomy YouTuber or newsletter writer: use the template as a companion page for an episode, with [OBJECT_NAME] and [MASS_LABEL] matching the video and the VLBI lab as the interactive extra.
-- A student portfolio or coursework project: keep the six chapters, set [OBSERVATORY_NAME] to your name, and swap the cosmic scale landmarks for examples you explain in your own words.
+- A university physics department: set OBSERVATORY_NAME to your lab, OBJECT_NAME to a studied black hole, and rewrite the six chapters as course reading for students.
+- A planetarium or science museum: keep the ray-marched hero on a kiosk screen, use the preset camera angles for guided tours and swap the VLBI chapter for your own radio array.
+- An astronomy YouTube channel or newsletter: set the specimen and mass to the episode subject, then link the cosmic size comparator from the video description as a companion explainer.
+- A high-school physics teacher: simplify the copy in each chapter to plain language, keep the dual clocks and tidal stretching labs as classroom demonstrations, and add your own guided questions.
 
 ## FAQ
 
-### How do I change the black hole, observatory name and distance in the Black Hole Interactive Explainer?
-The Black Hole Interactive Explainer template uses four variables: [OBSERVATORY_NAME] for the publication name, [OBJECT_NAME] for the featured specimen, [MASS_LABEL] for the hero mass readout and [DISTANCE_LABEL] for the distance. Set them in the content file the prompt asks for, then rewrite every headline, paragraph and label that mentions the default values so the copy stays consistent with your own object.
+### What can visitors actually do in the Black Hole Interactive Explainer?
+The Black Hole Interactive Explainer opens on a real-time ray-marched black hole you can drag to orbit 360 degrees, with preset views, a Doppler beaming toggle, a disk glow slider and auto-orbit. Below the hero, six chapters let visitors probe escape velocity at the event horizon, bend light at the photon sphere, compare dual clocks under time dilation, test tidal stretching, toggle seven radio dishes in a VLBI telescope simulator and compare stellar and supermassive scales.
 
-### What do the six interactive chapters in the Black Hole Interactive Explainer cover?
-The Black Hole Interactive Explainer walks through six chapters: an Event Horizon escape-velocity probe, a Photon Sphere impact-parameter lab for curved light rays, a Time-Dilation Dual Clocks laboratory comparing distant and infalling observers, a Tidal Spaghettification simulator, an Earth-sized VLBI Virtual Telescope with 7 toggleable radio dishes, and a Stellar-to-Supermassive cosmic size comparator. Each chapter pairs plain-English physics copy with an SVG or Canvas instrument you can drag or slide.
+### How does the time dilation dual clocks chapter work?
+The Time Dilation Dual Clocks chapter in the Black Hole Interactive Explainer shows two live ticking clocks side by side: one for a distant observer and one for an infalling traveler. A slider moves the radius toward the event horizon, and both clocks update in real time from the gravitational time dilation relationship, so visitors see the traveler's clock slow as the radius approaches the horizon. The chapter is labelled as a simplified educational model.
 
-### Is there a free interactive black hole website template I can build with AI?
-Yes. The Black Hole Interactive Explainer is a free template on VibeFather, and its prompt and DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. Commercial or client use needs a Pro license. You can run the prompt in an AI coding agent such as Claude Code, Codex, Cursor or Gemini CLI, or add the template with the npx vibefather add black-hole-interactive-explainer command.
+### Is the Black Hole Interactive Explainer free to use?
+The Black Hole Interactive Explainer is a free template. Its published prompt and the DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. Commercial or client work, and the source code of the demos, need a VibeFather Pro license. The prompt, stack and variables are shown publicly on the page.
 
-### How does the Time-Dilation Dual Clocks lab work in this black hole explainer?
-The Time-Dilation Dual Clocks lab in the Black Hole Interactive Explainer shows two live clocks: one for a distant observer and one for an infalling traveler. A slider moves the traveler's radius toward r/rs = 1.01, and the clock rates follow the gravitational time dilation factor sqrt(1 - rs/r), so the traveler's clock visibly slows as it nears the horizon. The prompt labels the model as simplified educational physics.
+### How do I adapt the black hole explainer for my own observatory or science publication?
+Change four variables: OBSERVATORY_NAME sets the publication name, OBJECT_NAME sets the featured specimen, MASS_LABEL sets the mass readout and DISTANCE_LABEL sets the distance. The copy is written for the defaults, so rewrite every headline, paragraph and label to match your values at the same length and tone. Keep all text in one content file so it can be swapped later without touching components.
 
-### Can I use the Black Hole Interactive Explainer to teach general relativity in a classroom?
-The Black Hole Interactive Explainer suits physics students, educators and curious readers. Its chapters turn gravitational lensing, time dilation, tidal stretching and Earth-scale interferometry into visual instruments you can drag, and every model is labelled as simplified educational physics. The template is one page with a full-bleed WebGL hero and a stacked HUD on mobile, so it reads on a projector or a phone, and prefers-reduced-motion pauses the auto-orbit while drag controls stay active.
+### Can I add my own physics chapters to the black hole explainer?
+Yes. The Black Hole Interactive Explainer keeps all six relativity chapters and their data in one data file, with the interactive lab widgets in a separate component file, so a new chapter follows the same pattern as the existing ones. Keep the simplified educational physics label on anything you add, and keep calendar dates and four-digit years off the frontend as the prompt requires.
 
 ### How do I build a black hole interactive explainer with AI?
-Copy the prompt from this page or run npx vibefather add black-hole-interactive-explainer, replace [OBSERVATORY_NAME], [OBJECT_NAME], [MASS_LABEL] and [DISTANCE_LABEL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add black-hole-interactive-explainer, replace [OBSERVATORY_NAME], [OBJECT_NAME], [MASS_LABEL] and [DISTANCE_LABEL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Black Hole Interactive Explainer demo?
-The Event Horizon Atlas (Aurelia-X1) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Event Horizon Atlas (Aurelia-X1) case was built by Gemini 4 Neon in Antigravity; the Singularity Field Notes (Cygnus-Core 9) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Black Hole Interactive Explainer template use?
 Black Hole Interactive Explainer is a single-page site built with Three.js, React, Tailwind CSS and Webgl, with scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
