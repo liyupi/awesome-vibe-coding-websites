@@ -16,7 +16,7 @@ To adapt it, change the brand, the product, the audience and the name of the sig
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Landing Page](../../types/landing-page.md), [App Landing](../../types/app-landing.md) |
-| Style | [Minimal](../../styles/minimal.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -88,7 +88,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add smart-home-p
 The Smart home starter kit case was built by GLM-5.3 in ZCode; the Renters security kit case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Smart Home Product Landing Page template use?
-Smart Home Product Landing Page is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Smart Home Product Landing Page is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Smart Home Product Landing Page template free to use?
 Smart Home Product Landing Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

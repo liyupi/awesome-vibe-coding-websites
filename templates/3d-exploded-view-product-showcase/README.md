@@ -18,7 +18,7 @@ All product geometry is drawn in code from original primitives and custom gear g
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Dark](../../styles/dark.md), [Swiss](../../styles/swiss.md), [Editorial](../../styles/editorial.md) |
+| Style | [Swiss](../../styles/swiss.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Vanilla CSS + three + lucide-react |
 | Pages | 1 |

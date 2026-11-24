@@ -18,7 +18,7 @@ Adapt the default valley farm by changing five content variables: the game brand
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
-| Style | [Hand-drawn](../../styles/hand-drawn.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Hand-drawn](../../styles/hand-drawn.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript 5 + Vanilla CSS + inline SVG + lucide-react |
 | Pages | 1 |

@@ -63,44 +63,44 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/parametric-lamp-designer/3734c37a-222c-45e2-9be5-e3eda4088389/shot_desktop.f889e6f941.webp" width="100%" alt="Parametric Lamp Designer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/parametric-lamp-designer">Parametric Lamp Designer</a></b><br>
-<sub>Shape a glowing lattice lamp with live 3D controls, curated presets, and a downloadable spec sheet.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/parametric-lamp-designer/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/shot_desktop.6fc77de9e5.webp" width="100%" alt="Code Hosting Platform App website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/code-hosting-platform-app">Code Hosting Platform App</a></b> <sup>PRO</sup><br>
+<sub>A complete developer code-hosting workspace with file browser, split diffs, issues, releases, and insights.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/code-hosting-platform-app/prompt.md">Prompt</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/trending-topics-microblog/5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07/shot_desktop.7ac356b51e.webp" width="100%" alt="Trending Topics Microblog website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/trending-topics-microblog">Trending Topics Microblog</a></b><br>
-<sub>A warm, interactive microblog with live trend rankings, rich post cards, and a working local composer.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/trending-topics-microblog/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/shot_desktop.c2cd3bca47.webp" width="100%" alt="Weather Forecast App website template — live demo built by Gemini 4 Neon"></a><br>
 <b><a href="../templates/weather-forecast-app">Weather Forecast App</a></b><br>
 <sub>Atmospheric weather app with live animated Canvas sky scenes, 10-day bars, AQI, wind compass, radar timeline, and 6 cities.</sub><br>
 <sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/weather-forecast-app/prompt.md">Prompt</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/service-status-page/c8b4c8eb-d633-4e24-9936-fc8123cca4f0/shot_desktop.e0f7f3a82f.webp" width="100%" alt="Service Status Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/service-status-page">Service Status Page</a></b><br>
-<sub>A calm service status page with 90-day uptime bars, incident timelines, and local update subscriptions.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/service-status-page/prompt.md">Prompt</a></sub>
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/trending-topics-microblog/5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07/shot_desktop.7ac356b51e.webp" width="100%" alt="Trending Topics Microblog website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/trending-topics-microblog">Trending Topics Microblog</a></b><br>
+<sub>A warm, interactive microblog with live trend rankings, rich post cards, and a working local composer.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/trending-topics-microblog/prompt.md">Prompt</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/movie-rating-community/d8c2b3ba-0102-4aef-8833-dfb297b8ccf1/shot_desktop.219ae68ae8.webp" width="100%" alt="Movie Rating Community website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/movie-rating-community">Movie Rating Community</a></b><br>
 <sub>Rate original films, trade thoughtful reviews, and turn your watch history into a taste profile.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/movie-rating-community/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/shot_desktop.6fc77de9e5.webp" width="100%" alt="Code Hosting Platform App website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/code-hosting-platform-app">Code Hosting Platform App</a></b> <sup>PRO</sup><br>
-<sub>A complete developer code-hosting workspace with file browser, split diffs, issues, releases, and insights.</sub><br>
-<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/code-hosting-platform-app/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/parametric-lamp-designer/3734c37a-222c-45e2-9be5-e3eda4088389/shot_desktop.f889e6f941.webp" width="100%" alt="Parametric Lamp Designer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/parametric-lamp-designer">Parametric Lamp Designer</a></b><br>
+<sub>Shape a glowing lattice lamp with live 3D controls, curated presets, and a downloadable spec sheet.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/parametric-lamp-designer/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/service-status-page/c8b4c8eb-d633-4e24-9936-fc8123cca4f0/shot_desktop.e0f7f3a82f.webp" width="100%" alt="Service Status Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/service-status-page">Service Status Page</a></b><br>
+<sub>A calm service status page with 90-day uptime bars, incident timelines, and local update subscriptions.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/service-status-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

@@ -16,8 +16,8 @@ It suits promoters, venues, city weekends and community music events that want a
 |---|---|
 | Category | [Events & Communities](../../README.md#events--communities) |
 | Site type | [Event](../../types/event.md) |
-| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
-| Effects | Scroll Animation, Generative / Canvas, Marquee |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
+| Effects | Scroll Animation, Marquee, Generative / Canvas |
 | Stack | Vite 5 multi-page + vanilla TypeScript + Tailwind CSS 3.4 + tailwindcss@3.4 + gsap@3 + lucide |
 | Pages | 3 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
@@ -96,7 +96,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add music-festiv
 The Lakeside indie festival case was built by Claude Opus 5.5 in Claude Code; the Tropical bass weekend case was built by Claude Sonnet 5.5 in Claude Code; the Lakeside indie festival case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Music Festival Website template use?
-Music Festival Website is a 3-page site built with GSAP, Tailwind CSS and Plain HTML, with scroll animation, generative / canvas and marquee. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Music Festival Website is a 3-page site built with GSAP, Plain HTML and Tailwind CSS, with scroll animation, marquee and generative / canvas. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Music Festival Website template free to use?
 Music Festival Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

@@ -12,7 +12,7 @@ A single-page website for a solo musician: the artist's name in tall poster type
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Personal Site](../../types/personal.md) |
-| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add musician-website, repla
 The Ambient soul producer case was built by GLM-5.3 in ZCode; the Folk band site case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Musician Website template use?
-Musician Website is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Musician Website is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Musician Website template for a client or a business?
 The Musician Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

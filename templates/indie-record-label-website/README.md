@@ -17,9 +17,9 @@ Everything visual — sleeves, vinyl, stamps, grain, the misregistered type — 
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
 | Style | [Retro](../../styles/retro.md), [Brutalist](../../styles/brutalist.md) |
-| Effects | Generative / Canvas, Marquee, Micro-interactions |
+| Effects | Marquee, Generative / Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 3 |
 | Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add indie-record-label-webs
 The Static Bloom Records case was built by GLM-5.3 in ZCode; the Modern jazz label case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Indie Record Label Website template use?
-Indie Record Label Website is a 3-page site built with React, Tailwind CSS and Motion, with generative / canvas, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Indie Record Label Website is a 3-page site built with Motion, Tailwind CSS and React, with marquee, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Indie Record Label Website template for a client or a business?
 The Indie Record Label Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -63,24 +63,24 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
+<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
+<sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub><br>
+<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/running-shoe-product-launch-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/logistics-and-freight-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/logistics-and-freight-website/14148abf-d655-4ab3-b006-6d2413563f58/shot_desktop.a77627ced3.webp" width="100%" alt="Logistics and Freight Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/logistics-and-freight-website">Logistics and Freight Website</a></b><br>
 <sub>Bold navy-and-sand freight site with an animated route map, local tracking widget and instant quote form.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/logistics-and-freight-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/logistics-and-freight-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/startup-waitlist-landing-page/04a22c24-520c-4205-a49d-3da0206f5a85/shot_desktop.ceec09c9c5.webp" width="100%" alt="Startup Waitlist Landing Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/startup-waitlist-landing-page">Startup Waitlist Landing Page</a></b><br>
 <sub>Minimal waitlist page with an email capture, a queue-position counter, a referral mock and a short FAQ.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/startup-waitlist-landing-page/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
-<sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/running-shoe-product-launch-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/digital-marketing-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/digital-marketing-agency-website/28445029-8cd5-4ad4-9ebf-1a752f3b7531/shot_desktop.e5aca4c077.webp" width="100%" alt="Digital Marketing Agency Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>

@@ -12,8 +12,8 @@ Endless Hall is a one-page online exhibition built with three.js. Twenty-four fr
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
-| Effects | Drag & Physics, Cursor Effects, 3D / WebGL |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Effects | Cursor Effects, Drag & Physics, 3D / WebGL |
 | Stack | Vite 5 + TypeScript + three.js + Plain CSS, custom properties + three |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add 3d-photo-gallery, repla
 The Photography archive exhibition case was built by Claude Opus 5.5 in Cursor; the Landscape print shop case was built by Claude Sonnet 5.5 in Cursor; the Photography archive exhibition case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Photo Gallery template use?
-3D Photo Gallery is a single-page site built with Three.js and Plain HTML, with drag & physics, cursor effects and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Photo Gallery is a single-page site built with Three.js and Plain HTML, with cursor effects, drag & physics and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the 3D Photo Gallery template for a client or a business?
 The 3D Photo Gallery prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

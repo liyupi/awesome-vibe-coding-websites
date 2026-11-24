@@ -13,18 +13,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-neon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/ai-chat-app-interface">AI Chat App Interface</a></b> — <sub>A warm AI workspace with streaming replies, useful history, editable profiles, and local attachments.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-neon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/5fa4a07a-03b0-4879-b4eb-c4b5e9549927/shot_desktop.d558e3e743.webp" width="100%" alt="AI Chat App Interface built by Gemini 4 Neon"></a><br><sub><b>Gemini 4 Neon</b> · Antigravity</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-neon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/ai-tools-directory-website">AI Tools Directory Website</a></b> — <sub>A lime-and-lilac directory with 64 fictional tools, live filters, saved picks and useful comparisons.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-neon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/255fe86b-8d61-4894-9e62-1c7ca48842d8/shot_desktop.772c8fff54.webp" width="100%" alt="AI Tools Directory Website built by Gemini 4 Neon"></a><br><sub><b>Gemini 4 Neon</b> · Antigravity</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-neon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp" width="100%" alt="AI Tools Directory Website built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/ai-chat-app-interface">AI Chat App Interface</a></b> — <sub>A warm AI workspace with streaming replies, useful history, editable profiles, and local attachments.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-neon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/5fa4a07a-03b0-4879-b4eb-c4b5e9549927/shot_desktop.d558e3e743.webp" width="100%" alt="AI Chat App Interface built by Gemini 4 Neon"></a><br><sub><b>Gemini 4 Neon</b> · Antigravity</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/gemini-4-neon-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface built by GPT-6 Astra"></a><br><sub><b>GPT-6 Astra</b> · Codex</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/social-media-content-calendar">Social Media Content Calendar</a></b> — <sub>Plan four weeks of posts, try four formats, and move a draft from its first idea to the calendar.</sub></td>

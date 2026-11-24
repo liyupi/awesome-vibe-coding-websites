@@ -18,7 +18,7 @@ This template suits indie hackers, developers, and designers who need an adaptab
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
-| Style | [Hand-drawn](../../styles/hand-drawn.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Hand-drawn](../../styles/hand-drawn.md) |
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |

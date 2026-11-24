@@ -12,8 +12,8 @@ A focused online learning workspace opening immediately on a learner's active mi
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Dashboard](../../types/dashboard.md), [Web App](../../types/web-app.md) |
-| Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md), [Clean](../../styles/clean.md) |
-| Effects | Micro-interactions, Interactive Canvas |
+| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md), [Clean](../../styles/clean.md) |
+| Effects | Interactive Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 5 |
 | Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
@@ -78,7 +78,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add online-learn
 The Brightleaf Academy case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Online Learning Platform template use?
-Online Learning Platform is a 5-page site built with React, Tailwind CSS and Typescript, with micro-interactions and interactive canvas. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Online Learning Platform is a 5-page site built with Tailwind CSS, React and Typescript, with interactive canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Online Learning Platform template free to use?
 Online Learning Platform is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

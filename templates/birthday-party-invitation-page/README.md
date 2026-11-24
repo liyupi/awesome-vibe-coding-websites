@@ -18,7 +18,7 @@ Change the event name, honoree, party date, venue, theme, and gift note through 
 |---|---|
 | Category | [Events & Communities](../../README.md#events--communities) |
 | Site type | [Event](../../types/event.md) |
-| Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 6 + TypeScript + Vanilla CSS |
 | Pages | 1 |

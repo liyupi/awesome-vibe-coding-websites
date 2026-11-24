@@ -18,7 +18,7 @@ Change the fictional studio name, introductory copy, flavor collection, and acce
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Minimal](../../styles/minimal.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
 | Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |

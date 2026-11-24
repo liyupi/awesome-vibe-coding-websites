@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add editorial-restaurant-we
 The Small-plates restaurant case was built by Claude Opus 5.5 in Cursor; the Wood-fired bakery case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Editorial Restaurant Website template use?
-Editorial Restaurant Website is a 3-page site built with Tailwind CSS and Plain HTML, with scroll animation, text animation and parallax. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Editorial Restaurant Website is a 3-page site built with Plain HTML and Tailwind CSS, with scroll animation, text animation and parallax. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Editorial Restaurant Website template for a client or a business?
 The Editorial Restaurant Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

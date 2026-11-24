@@ -13,7 +13,7 @@ Drop into a sunlit procedural 3D alpine mountain built entirely in Three.js with
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [3d Experience](../../types/3d-experience.md), [Browser Game](../../types/game.md) |
 | Style | [Minimal](../../styles/minimal.md), Daylight |
-| Effects | Web Audio, 3D / WebGL |
+| Effects | 3D / WebGL, Web Audio |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
 | Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add first-person-ski-run-ga
 The Crestline Powder (Mount Alabaster) case was built by Gemini 4 Neon in Antigravity; the Glacier Line (Kestrel Peak) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the First-Person Ski Run Game template use?
-First-Person Ski Run Game is a single-page site built with Three.js, React, Vite and Webgl, with web audio and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+First-Person Ski Run Game is a single-page site built with Three.js, React, Vite and Webgl, with 3d / webgl and web audio. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the First-Person Ski Run Game template for a client or a business?
 The First-Person Ski Run Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

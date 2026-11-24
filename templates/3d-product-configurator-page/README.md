@@ -13,9 +13,9 @@ It suits hardware founders, small audio or gadget brands and developers who want
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
 | Style | [Minimal](../../styles/minimal.md) |
-| Effects | Drag & Physics, Scroll Animation, 3D / WebGL |
+| Effects | Scroll Animation, Drag & Physics, 3D / WebGL |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18 + three@0.169.0 + @react-three/fiber@8.17 |
 | Pages | 1 |
 | Built with | [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -87,7 +87,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add 3d-product-c
 The Studio monitor headphones case was built by Claude Sonnet 5.5 in Claude Code; the Wireless headphones case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Product Configurator Page template use?
-3D Product Configurator Page is a single-page site built with Three.js, GSAP and React, with drag & physics, scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Product Configurator Page is a single-page site built with GSAP, Three.js and React, with scroll animation, drag & physics and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the 3D Product Configurator Page template free to use?
 3D Product Configurator Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

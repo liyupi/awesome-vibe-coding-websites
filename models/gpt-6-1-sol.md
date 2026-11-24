@@ -38,21 +38,21 @@
 <sub>Creative break playground · Codex · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=ed16549f-37fa-48ef-96b9-ff891fae0504&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp" width="100%" alt="Techno Club Night Event Page built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b><br>
-<sub>Underground techno night · Codex · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
 <sub>Independent culture magazine · Codex · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/kids-learning-app-landing-page">Kids Learning App Landing Page</a></b><br>
 <sub>Early readers and counters · Codex · <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp" width="100%" alt="Techno Club Night Event Page built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/techno-club-night-event-page">Techno Club Night Event Page</a></b><br>
+<sub>Underground techno night · Codex · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -74,33 +74,9 @@
 <sub>Alder House city apartment · Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/9eeebc23-a058-4546-a448-b29ab1146a1e/shot_desktop.07dfe4cc49.webp" width="100%" alt="Sea Salt Brand Website built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/sea-salt-brand-website">Sea Salt Brand Website</a></b> <sup>PRO</sup><br>
-<sub>Alder Reach salt · Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61/shot_desktop.07962048f1.webp" width="100%" alt="Sea Salt Brand Website built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/sea-salt-brand-website">Sea Salt Brand Website</a></b> <sup>PRO</sup><br>
-<sub>Bracken Inlet salt · Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=2c3de2d4-f352-42fc-9ddd-ac0a2e75995c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/quirky-gadget-product-launch-page/2c3de2d4-f352-42fc-9ddd-ac0a2e75995c/shot_desktop.b9fb7615a0.webp" width="100%" alt="Quirky Gadget Product Launch Page built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/quirky-gadget-product-launch-page">Quirky Gadget Product Launch Page</a></b> <sup>PRO</sup><br>
 <sub>Pocket celebration gadget · Codex · <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=2c3de2d4-f352-42fc-9ddd-ac0a2e75995c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/geometric-art-school-website?case=39850639-35c1-483e-9061-2a3691d12cf0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/geometric-art-school-website/39850639-35c1-483e-9061-2a3691d12cf0/shot_desktop.bc0e4715fc.webp" width="100%" alt="Geometric Art School Website built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/geometric-art-school-website">Geometric Art School Website</a></b><br>
-<sub>Independent design school · Codex · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=39850639-35c1-483e-9061-2a3691d12cf0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
-<sub>Everyday road runner · Codex · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -113,6 +89,30 @@
 <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=2e7f616b-19ae-40f6-8746-ac23e171ebc0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/jelly-squish-physics-toy/2e7f616b-19ae-40f6-8746-ac23e171ebc0/shot_desktop.c45c9d6036.webp" width="100%" alt="Jelly Squish Physics Toy built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/jelly-squish-physics-toy">Jelly Squish Physics Toy</a></b><br>
 <sub>Tropical jelly tasting room · Codex · <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=2e7f616b-19ae-40f6-8746-ac23e171ebc0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/9eeebc23-a058-4546-a448-b29ab1146a1e/shot_desktop.07dfe4cc49.webp" width="100%" alt="Sea Salt Brand Website built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/sea-salt-brand-website">Sea Salt Brand Website</a></b> <sup>PRO</sup><br>
+<sub>Alder Reach salt · Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61/shot_desktop.07962048f1.webp" width="100%" alt="Sea Salt Brand Website built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/sea-salt-brand-website">Sea Salt Brand Website</a></b> <sup>PRO</sup><br>
+<sub>Bracken Inlet salt · Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
+<sub>Everyday road runner · Codex · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/geometric-art-school-website?case=39850639-35c1-483e-9061-2a3691d12cf0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/geometric-art-school-website/39850639-35c1-483e-9061-2a3691d12cf0/shot_desktop.bc0e4715fc.webp" width="100%" alt="Geometric Art School Website built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/geometric-art-school-website">Geometric Art School Website</a></b><br>
+<sub>Independent design school · Codex · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=39850639-35c1-483e-9061-2a3691d12cf0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

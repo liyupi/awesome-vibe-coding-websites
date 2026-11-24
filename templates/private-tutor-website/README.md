@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add private-tutor-website, 
 The Math and physics tutor case was built by Kimi K3.1 Pro in Kimi Code; the Writing and study tutor case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Private Tutor Website template use?
-Private Tutor Website is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Private Tutor Website is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Private Tutor Website template for a client or a business?
 The Private Tutor Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

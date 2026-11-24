@@ -18,7 +18,7 @@ Consistent photographic-style images show the original products, a pack layout, 
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md) |
-| Style | [Brutalist](../../styles/brutalist.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Brutalist](../../styles/brutalist.md) |
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |

@@ -11,8 +11,8 @@ Code Hosting Platform App is a self-contained developer workspace modeled around
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [SaaS](../../types/saas.md), [Dashboard](../../types/dashboard.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md) |
+| Site type | [Dashboard](../../types/dashboard.md), [SaaS](../../types/saas.md) |
+| Style | [Minimal](../../styles/minimal.md), [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 7 |
@@ -85,7 +85,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add code-hosting
 The Systems KV storage org case was built by Gemini 4 Neon in Antigravity; the Audio DSP toolkit org case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Code Hosting Platform App template use?
-Code Hosting Platform App is a 7-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Code Hosting Platform App is a 7-page site built with Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Code Hosting Platform App template free to use?
 Code Hosting Platform App is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

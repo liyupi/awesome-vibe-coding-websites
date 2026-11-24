@@ -11,7 +11,7 @@ Used Car Dealership Website is a full storefront for an independent used-car dea
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
 | Style | [Minimal](../../styles/minimal.md), [Bold](../../styles/bold.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
@@ -85,7 +85,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add used-car-dea
 The Independent dealer, Bellhaven case was built by GLM-5.3 in ZCode; the Fleet and family dealer, Port Aldan case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Used Car Dealership Website template use?
-Used Car Dealership Website is a 5-page site built with React, Tailwind CSS and Motion, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Used Car Dealership Website is a 5-page site built with Motion, Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Used Car Dealership Website template free to use?
 Used Car Dealership Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

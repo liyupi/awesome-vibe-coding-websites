@@ -18,7 +18,7 @@ To adapt it, change the name, the tagline, the voice names, the starter pattern 
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
 | Effects | Drag & Physics, Web Audio, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Plain CSS + lucide |
 | Pages | 1 |

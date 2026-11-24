@@ -12,7 +12,7 @@ Product Documentation Website is a guides-first technical documentation template
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Docs](../../types/docs.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 4 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add product-documentation-w
 The Event routing SDK docs case was built by Gemini 4 Neon in Antigravity; the Background job queue SDK case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Product Documentation Website template use?
-Product Documentation Website is a 4-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Product Documentation Website is a 4-page site built with Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Product Documentation Website template for a client or a business?
 The Product Documentation Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

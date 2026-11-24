@@ -12,7 +12,7 @@ A single-page website for a digital marketing agency: a declaration-sized hero w
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Agency](../../types/agency.md) |
-| Style | [Brutalist](../../styles/brutalist.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Brutalist](../../styles/brutalist.md) |
 | Effects | Scroll Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add digital-marketing-agenc
 The Eight-person growth studio case was built by GLM-5.3 in ZCode; the Brand content studio case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Digital Marketing Agency Website template use?
-Digital Marketing Agency Website is a single-page site built with React, Tailwind CSS and Motion, with scroll animation, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Digital Marketing Agency Website is a single-page site built with Motion, Tailwind CSS and React, with scroll animation, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Digital Marketing Agency Website template for a client or a business?
 The Digital Marketing Agency Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

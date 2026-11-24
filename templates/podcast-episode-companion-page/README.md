@@ -18,7 +18,7 @@ To adapt it, change the show name, title, subject, hosts and runtime, then rewri
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Blog](../../types/blog.md), [Interactive Explainer](../../types/explainer.md) |
-| Style | [Hand-drawn](../../styles/hand-drawn.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Hand-drawn](../../styles/hand-drawn.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add podcast-episode-compani
 The Ice company history case was built by Claude Opus 5.5 in Cursor; the Street lighting history case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Podcast Episode Companion Page template use?
-Podcast Episode Companion Page is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Podcast Episode Companion Page is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Podcast Episode Companion Page template for a client or a business?
 The Podcast Episode Companion Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

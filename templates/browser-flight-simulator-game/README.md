@@ -12,7 +12,7 @@ Browser Flight Simulator Game is a full-viewport low-poly Three.js flying experi
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md), [Browser Game](../../types/game.md) |
-| Style | [Minimal](../../styles/minimal.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add browser-flight-simulato
 The Golden-hour coastal archipelago case was built by Gemini 4 Neon in Antigravity; the Nordic fjord mailplane run case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Browser Flight Simulator Game template use?
-Browser Flight Simulator Game is a single-page site built with Three.js, React and Tailwind CSS, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Browser Flight Simulator Game is a single-page site built with Three.js, Tailwind CSS and React, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Browser Flight Simulator Game template for a client or a business?
 The Browser Flight Simulator Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

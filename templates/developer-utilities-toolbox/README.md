@@ -13,7 +13,7 @@ A fast, offline-first developer utilities web app featuring 15 genuinely functio
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Web App](../../types/web-app.md), [Tool](../../types/tool.md) |
 | Style | [Minimal](../../styles/minimal.md), [Technical](../../styles/technical.md) |
-| Effects | Micro-interactions, Dark Mode |
+| Effects | Dark Mode, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 16 |
 | Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
@@ -79,7 +79,7 @@ Copy the prompt from this page or run npx vibefather add developer-utilities-too
 The BenchKit case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Developer Utilities Toolbox template use?
-Developer Utilities Toolbox is a 16-page site built with React, Tailwind CSS and Vite, with micro-interactions and dark mode. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Developer Utilities Toolbox is a 16-page site built with Tailwind CSS, React and Vite, with dark mode and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Developer Utilities Toolbox template for a client or a business?
 The Developer Utilities Toolbox prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

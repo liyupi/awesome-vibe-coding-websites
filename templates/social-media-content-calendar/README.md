@@ -16,7 +16,7 @@ A media contact sheet shows which posts use each photograph. The sample insights
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Dashboard](../../types/dashboard.md), [Web App](../../types/web-app.md) |
-| Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md) |
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 4 |

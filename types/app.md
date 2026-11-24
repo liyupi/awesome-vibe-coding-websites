@@ -49,16 +49,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/conference-talk-slide-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/conference-talk-slide-deck/7d0ae8ba-325d-4156-8dbc-05d47da9f4c2/shot_desktop.45600786f7.webp" width="100%" alt="Conference Talk Slide Deck website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/conference-talk-slide-deck">Conference Talk Slide Deck</a></b><br>
-<sub>Stage-black slide website with keyboard navigation, code slides with hand-rolled highlighting, an overview grid and a print handout.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/conference-talk-slide-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/conference-talk-slide-deck/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/danmaku-video-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/danmaku-video-platform/535046de-a278-40e9-9659-db8811b188a7/shot_desktop.619c4f8fdf.webp" width="100%" alt="Danmaku Video Platform website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/danmaku-video-platform">Danmaku Video Platform</a></b> <sup>PRO</sup><br>
 <sub>A dark, interactive video community with timed comments, a live density map, and a code-drawn player.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/danmaku-video-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/danmaku-video-platform/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/conference-talk-slide-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/conference-talk-slide-deck/7d0ae8ba-325d-4156-8dbc-05d47da9f4c2/shot_desktop.45600786f7.webp" width="100%" alt="Conference Talk Slide Deck website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/conference-talk-slide-deck">Conference Talk Slide Deck</a></b><br>
+<sub>Stage-black slide website with keyboard navigation, code slides with hand-rolled highlighting, an overview grid and a print handout.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/conference-talk-slide-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/conference-talk-slide-deck/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

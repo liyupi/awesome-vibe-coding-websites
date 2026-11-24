@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add travel-agenc
 The Nordic and Highland tours case was built by GLM-5.3 in ZCode; the Iberian and Moroccan tours case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Travel Agency Tour Packages Website template use?
-Travel Agency Tour Packages Website is a 3-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Travel Agency Tour Packages Website is a 3-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Travel Agency Tour Packages Website template free to use?
 Travel Agency Tour Packages Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

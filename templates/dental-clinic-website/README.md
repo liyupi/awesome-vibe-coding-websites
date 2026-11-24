@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add dental-clinic-website, 
 The Family dental clinic case was built by Claude Opus 5.5 in Cursor; the Neighborhood vet clinic case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Dental Clinic Website template use?
-Dental Clinic Website is a 2-page site built with React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Dental Clinic Website is a 2-page site built with Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Dental Clinic Website template for a client or a business?
 The Dental Clinic Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

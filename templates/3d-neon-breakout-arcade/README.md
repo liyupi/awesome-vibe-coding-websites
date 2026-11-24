@@ -18,7 +18,7 @@ Developers and indie hackers can ship the game as static files. Five variables r
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
-| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |

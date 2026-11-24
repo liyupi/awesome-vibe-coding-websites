@@ -18,7 +18,7 @@ To adapt it, change the variables and rewrite the copy in the one content file. 
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Hand-drawn](../../styles/hand-drawn.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Hand-drawn](../../styles/hand-drawn.md) |
 | Effects | Scroll Animation, Text Animation, Micro-interactions |
 | Stack | Vite 5 + TypeScript + Vanilla CSS + gsap |
 | Pages | 1 |

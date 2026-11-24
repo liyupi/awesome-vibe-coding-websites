@@ -13,7 +13,7 @@ An interactive computer-science monograph and sandbox showing how maps and games
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Tool](../../types/tool.md) |
 | Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Clean](../../styles/clean.md) |
-| Effects | Micro-interactions, Interactive Canvas |
+| Effects | Interactive Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 4 |
 | Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
@@ -83,7 +83,7 @@ Copy the prompt from this page or run npx vibefather add pathfinding-algorithms-
 The GraphCraft Lab (Square & Hex Edition) case was built by Gemini 4 Neon in Antigravity; the RouteLogic Studio (Heuristic Explorer) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Pathfinding Algorithms Visualizer template use?
-Pathfinding Algorithms Visualizer is a 4-page site built with React, Tailwind CSS and Typescript, with micro-interactions and interactive canvas. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Pathfinding Algorithms Visualizer is a 4-page site built with Tailwind CSS, React and Typescript, with interactive canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Pathfinding Algorithms Visualizer template for a client or a business?
 The Pathfinding Algorithms Visualizer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

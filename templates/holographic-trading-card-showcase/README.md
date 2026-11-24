@@ -11,8 +11,8 @@ Holographic Trading Card Showcase is a tactile collector showcase and pre-order 
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md) |
 | Effects | Cursor Effects, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add holographic-
 The Deep-sea bioluminescent card set case was built by Gemini 4 Neon in Antigravity; the Bathyal drift creature card set case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Holographic Trading Card Showcase template use?
-Holographic Trading Card Showcase is a single-page site built with React and Tailwind CSS, with cursor effects, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Holographic Trading Card Showcase is a single-page site built with Tailwind CSS and React, with cursor effects, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Holographic Trading Card Showcase template free to use?
 Holographic Trading Card Showcase is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

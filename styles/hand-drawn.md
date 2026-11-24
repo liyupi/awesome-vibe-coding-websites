@@ -21,16 +21,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/fd13cc6e-9f38-4665-bfa5-7b9d5de395ed/shot_desktop.187eacb401.webp" width="100%" alt="Ink Wash Mountain Adventure website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/ink-wash-mountain-adventure">Ink Wash Mountain Adventure</a></b> <sup>PRO</sup><br>
-<sub>Run a painted mountain pass, outwit three guardians, and master a precise dodge-and-combo trial.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ink-wash-mountain-adventure/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/hand-drawn-scroll-explainer/2a75af7e-817b-4a70-ad93-7fef287c34fc/shot_desktop.294ea30624.webp" width="100%" alt="Hand-Drawn Scroll Explainer website template — live demo built by Claude Opus 5.5"></a><br>
 <b><a href="../templates/hand-drawn-scroll-explainer">Hand-Drawn Scroll Explainer</a></b> <sup>PRO</sup><br>
 <sub>A six-scene scroll explainer where a hand-drawn stick figure sketches any process while you scroll.</sub><br>
 <sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/hand-drawn-scroll-explainer/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ink-wash-mountain-adventure/fd13cc6e-9f38-4665-bfa5-7b9d5de395ed/shot_desktop.187eacb401.webp" width="100%" alt="Ink Wash Mountain Adventure website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/ink-wash-mountain-adventure">Ink Wash Mountain Adventure</a></b> <sup>PRO</sup><br>
+<sub>Run a painted mountain pass, outwit three guardians, and master a precise dodge-and-combo trial.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ink-wash-mountain-adventure?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ink-wash-mountain-adventure/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -63,24 +63,24 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/summer-camp-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/summer-camp-website/550093fc-fe7e-4242-9ca5-0e3b797427b6/shot_desktop.bd2a310f67.webp" width="100%" alt="Summer Camp Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/summer-camp-website">Summer Camp Website</a></b><br>
-<sub>Paper-cut lake-camp charm: age-group programs, a week-at-camp schedule, and sign-ups saved in the browser.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/summer-camp-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/summer-camp-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cozy-isometric-farm-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/cozy-isometric-farm-game/b7da2b77-755c-4009-88b1-d0c437cc2de6/shot_desktop.497423d298.webp" width="100%" alt="Cozy Isometric Farm Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/cozy-isometric-farm-game">Cozy Isometric Farm Game</a></b><br>
 <sub>Grow a tiny garden through gentle days, with every crop and coin saved in your browser.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/cozy-isometric-farm-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/cozy-isometric-farm-game/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/shot_desktop.cb7bf16b09.webp" width="100%" alt="Craft Brewery Taproom Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/craft-brewery-taproom-website">Craft Brewery Taproom Website</a></b><br>
 <sub>A screen-print label-art brewery site with a filterable tap list and a flight builder that pours in code.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/craft-brewery-taproom-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/summer-camp-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/summer-camp-website/550093fc-fe7e-4242-9ca5-0e3b797427b6/shot_desktop.bd2a310f67.webp" width="100%" alt="Summer Camp Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/summer-camp-website">Summer Camp Website</a></b><br>
+<sub>Paper-cut lake-camp charm: age-group programs, a week-at-camp schedule, and sign-ups saved in the browser.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/summer-camp-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/summer-camp-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/food-truck-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/food-truck-website/f0a156d0-f605-45dd-acea-b1437bee0527/shot_desktop.5a2ebd7b37.webp" width="100%" alt="Food Truck Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

@@ -18,7 +18,7 @@ Change the team name, code, discipline, home city, and season through the variab
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md), Esports |
-| Style | [Brutalist](../../styles/brutalist.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Brutalist](../../styles/brutalist.md) |
 | Effects | Scroll Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript 5 + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 5 |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add esports-team-website, r
 The Tactical arena team case was built by Kimi K3.1 Pro in Kimi Code; the Survival arena team case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Esports Team Website template use?
-Esports Team Website is a 5-page site built with React, Tailwind CSS and Motion, with scroll animation, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Esports Team Website is a 5-page site built with Motion, Tailwind CSS and React, with scroll animation, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Esports Team Website template for a client or a business?
 The Esports Team Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

@@ -12,7 +12,7 @@ Carbon Cycle Scroll Explainer is a single-page science story built around one il
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md), Illustrated |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md), Illustrated |
 | Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Vanilla CSS + gsap + lucide |
 | Pages | 1 |

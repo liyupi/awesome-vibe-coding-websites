@@ -79,7 +79,7 @@ Copy the prompt from this page or run npx vibefather add weather-forecast-app, r
 The Skyloom Weather case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Weather Forecast App template use?
-Weather Forecast App is a 2-page site built with React, Tailwind CSS, Vite and Canvas, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Weather Forecast App is a 2-page site built with Tailwind CSS, React, Vite and Canvas, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Weather Forecast App template for a client or a business?
 The Weather Forecast App prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

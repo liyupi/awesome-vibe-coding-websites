@@ -12,7 +12,7 @@ Make unfathomable wealth tangible in a playful browser game. Inherit $100,000,00
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/interactive-toy.md), [Browser Game](../../types/game.md) |
-| Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md), [Colorful](../../styles/colorful.md) |
+| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md), [Colorful](../../styles/colorful.md) |
 | Effects | Number Counter, Canvas Export, Interactive Scale |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 2 |

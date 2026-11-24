@@ -12,7 +12,7 @@ A single-page sales page for an online course: a hero with the promise over a dr
 |---|---|
 | Category | [More Landing Pages](../../README.md#more-landing-pages) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -79,7 +79,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add online-cours
 The 2D game making course case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Online Course Sales Page template use?
-Online Course Sales Page is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Online Course Sales Page is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Online Course Sales Page template free to use?
 Online Course Sales Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

@@ -12,7 +12,7 @@ A single-page landing site for a meal kit subscription: the brand's promise over
 |---|---|
 | Category | [Landing Pages & Product Launches](../../README.md#landing-pages--product-launches) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -79,7 +79,7 @@ Copy the prompt from this page or run npx vibefather add meal-kit-subscription-l
 The Farm-to-table meal kit case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Meal Kit Subscription Landing Page template use?
-Meal Kit Subscription Landing Page is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Meal Kit Subscription Landing Page is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Meal Kit Subscription Landing Page template for a client or a business?
 The Meal Kit Subscription Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

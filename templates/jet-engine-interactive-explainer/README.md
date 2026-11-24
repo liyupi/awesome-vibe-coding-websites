@@ -18,7 +18,7 @@ Everything is drawn from original Three.js primitives, instanced blade geometry,
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Dark](../../styles/dark.md), [Swiss](../../styles/swiss.md) |
+| Style | [Swiss](../../styles/swiss.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Vanilla CSS + three + lucide-react |
 | Pages | 1 |

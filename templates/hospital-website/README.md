@@ -79,7 +79,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add hospital-web
 The Harborview Regional Medical case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Hospital Website template use?
-Hospital Website is a 7-page site built with React, Tailwind CSS and Typescript, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Hospital Website is a 7-page site built with Tailwind CSS, React and Typescript, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Hospital Website template free to use?
 Hospital Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

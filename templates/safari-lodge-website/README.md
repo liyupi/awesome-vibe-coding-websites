@@ -12,7 +12,7 @@ A single-page site for a high-end safari lodge, built like a film: charcoal grou
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md) |
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add safari-lodge
 The Safari lodge case was built by GLM-5.3 in ZCode; the Photo safari lodge case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Safari Lodge Website template use?
-Safari Lodge Website is a single-page site built with React, Tailwind CSS and Motion, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Safari Lodge Website is a single-page site built with Motion, Tailwind CSS and React, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Safari Lodge Website template free to use?
 Safari Lodge Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

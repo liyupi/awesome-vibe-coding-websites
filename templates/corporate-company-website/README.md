@@ -12,7 +12,7 @@ Corporate Company Website is a multi-page enterprise template designed for diver
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Agency](../../types/agency.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 6 |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add corporate-co
 The Swiss industrial rail & energy group case was built by Gemini 4 Neon in Antigravity; the Dutch materials & grid storage group case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Corporate Company Website template use?
-Corporate Company Website is a 6-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Corporate Company Website is a 6-page site built with Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Corporate Company Website template free to use?
 Corporate Company Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

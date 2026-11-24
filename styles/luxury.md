@@ -21,24 +21,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/daily-tarot-reading-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/daily-tarot-reading-page/fec5a5dc-3797-419f-a4d0-15fa9cf849df/shot_desktop.a405c56e1b.webp" width="100%" alt="Daily Tarot Reading Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/daily-tarot-reading-page">Daily Tarot Reading Page</a></b><br>
-<sub>Shuffle an original deck, reveal a daily reading, and save a shareable card.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/daily-tarot-reading-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/daily-tarot-reading-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sushi-omakase-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/sushi-omakase-restaurant-website/d7a34626-11e3-4939-b7a6-4095c4af279e/shot_desktop.507511a2d2.webp" width="100%" alt="Sushi Omakase Restaurant Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/sushi-omakase-restaurant-website">Sushi Omakase Restaurant Website</a></b><br>
 <sub>A dark, quiet-luxury omakase counter site with scroll-served courses and a seat-picker diagram.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/sushi-omakase-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/sushi-omakase-restaurant-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/fashion-online-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/fashion-online-store/4a4dd574-4bb6-4841-83cb-2236363d986f/shot_desktop.0c7958f7e9.webp" width="100%" alt="Fashion Online Store website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/fashion-online-store">Fashion Online Store</a></b> <sup>PRO</sup><br>
-<sub>Four-page fashion storefront with filterable collections, variant product pages, a cart drawer and a mock checkout.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/fashion-online-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/fashion-online-store/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/corporate-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/corporate-company-website/328fc7d5-d87a-45a3-b0f4-6d8ac04ae1b3/shot_desktop.4e53083f58.webp" width="100%" alt="Corporate Company Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
@@ -49,30 +35,44 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/daily-tarot-reading-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/daily-tarot-reading-page/fec5a5dc-3797-419f-a4d0-15fa9cf849df/shot_desktop.a405c56e1b.webp" width="100%" alt="Daily Tarot Reading Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/daily-tarot-reading-page">Daily Tarot Reading Page</a></b><br>
+<sub>Shuffle an original deck, reveal a daily reading, and save a shareable card.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/daily-tarot-reading-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/daily-tarot-reading-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/video-production-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/video-production-company-website/112c0594-b12d-48a4-b20c-6cd9cf08d4b7/shot_desktop.bc9001e7a3.webp" width="100%" alt="Video Production Company Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/video-production-company-website">Video Production Company Website</a></b> <sup>PRO</sup><br>
 <sub>A cinematic studio site with a still-frame reel, filterable work, and a practical project brief.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/video-production-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/video-production-company-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/holographic-trading-card-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/dfbae922-946c-4490-abc6-3f402f0a4b25/shot_desktop.0ac6a4b243.webp" width="100%" alt="Holographic Trading Card Showcase website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/holographic-trading-card-showcase">Holographic Trading Card Showcase</a></b> <sup>PRO</sup><br>
+<sub>An interactive 3D holographic foil card showcase with six optical finishes, pack opening, binder, and deck builder.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/holographic-trading-card-showcase/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/fashion-online-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/fashion-online-store/4a4dd574-4bb6-4841-83cb-2236363d986f/shot_desktop.0c7958f7e9.webp" width="100%" alt="Fashion Online Store website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/fashion-online-store">Fashion Online Store</a></b> <sup>PRO</sup><br>
+<sub>Four-page fashion storefront with filterable collections, variant product pages, a cart drawer and a mock checkout.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/fashion-online-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/fashion-online-store/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/family-winery-and-vineyard-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/family-winery-and-vineyard-website/26f122e7-6259-4198-ad90-8503bf18dbd9/shot_desktop.06d1b651b6.webp" width="100%" alt="Family Winery and Vineyard Website website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
 <b><a href="../templates/family-winery-and-vineyard-website">Family Winery and Vineyard Website</a></b><br>
 <sub>Three-page winery site with vineyard photos, a client-side wine shop, tasting bookings and an SVG estate map.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/family-winery-and-vineyard-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/family-winery-and-vineyard-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/golf-club-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/golf-club-website/63935f1c-ada6-494a-9453-52e3bcbbe792/shot_desktop.6acc5fd006.webp" width="100%" alt="Golf Club Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/golf-club-website">Golf Club Website</a></b><br>
 <sub>An elegant deep-green golf club site with SVG hole cards, a tee-time grid and membership tiers.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/golf-club-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/golf-club-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/holographic-trading-card-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/dfbae922-946c-4490-abc6-3f402f0a4b25/shot_desktop.0ac6a4b243.webp" width="100%" alt="Holographic Trading Card Showcase website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/holographic-trading-card-showcase">Holographic Trading Card Showcase</a></b> <sup>PRO</sup><br>
-<sub>An interactive 3D holographic foil card showcase with six optical finishes, pack opening, binder, and deck builder.</sub><br>
-<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/holographic-trading-card-showcase/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -91,10 +91,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/single-property-listing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/single-property-listing-page/1c450602-4ae5-433b-a46f-6cffc55c8d2b/shot_desktop.664e928b24.webp" width="100%" alt="Single Property Listing Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/single-property-listing-page">Single Property Listing Page</a></b><br>
-<sub>A photo-led listing with room hotspots, a mortgage estimator, and open-house RSVP.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/single-property-listing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/single-property-listing-page/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/tattoo-studio-website/8bc5b95a-327b-4abf-b934-5fe27ac4bc5b/shot_desktop.7cfc347a2c.webp" width="100%" alt="Tattoo Studio Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/tattoo-studio-website">Tattoo Studio Website</a></b><br>
+<sub>A dark editorial studio site with artist portfolios, SVG flash, consultations, and aftercare.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/tattoo-studio-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/jewelry-online-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/jewelry-online-store/a676e73c-e9fe-4cbb-a24e-1594a6219efc/shot_desktop.77a1bb727c.webp" width="100%" alt="Jewelry Online Store website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
@@ -105,10 +105,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/tattoo-studio-website/8bc5b95a-327b-4abf-b934-5fe27ac4bc5b/shot_desktop.7cfc347a2c.webp" width="100%" alt="Tattoo Studio Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/tattoo-studio-website">Tattoo Studio Website</a></b><br>
-<sub>A dark editorial studio site with artist portfolios, SVG flash, consultations, and aftercare.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/tattoo-studio-website/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/single-property-listing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/single-property-listing-page/1c450602-4ae5-433b-a46f-6cffc55c8d2b/shot_desktop.664e928b24.webp" width="100%" alt="Single Property Listing Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/single-property-listing-page">Single Property Listing Page</a></b><br>
+<sub>A photo-led listing with room hotspots, a mortgage estimator, and open-house RSVP.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/single-property-listing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/single-property-listing-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
@@ -125,24 +125,24 @@
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/new-home-development-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/new-home-development-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ski-resort-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ski-resort-website/937241b1-4372-4b55-aaaa-e53b2168f7f3/shot_desktop.a94a2da66f.webp" width="100%" alt="Ski Resort Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/ski-resort-website">Ski Resort Website</a></b> <sup>PRO</sup><br>
+<sub>Ski resort site with sample conditions, an interactive trail map, lift tickets, lessons and lodging.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ski-resort-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ski-resort-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/event-venue-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/event-venue-website/52beb175-42c7-4ba2-b6de-7cf4ab5a779a/shot_desktop.b1c851bb0e.webp" width="100%" alt="Event Venue Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/event-venue-website">Event Venue Website</a></b><br>
 <sub>Single-page venue site with capacity tables, an interactive seating floor plan, gallery, packages and an availability enquiry.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/event-venue-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/event-venue-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hair-salon-and-barbershop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/hair-salon-and-barbershop-website/1e62ab47-62c3-4532-a480-90135fb6d382/shot_desktop.8fbc379701.webp" width="100%" alt="Hair Salon and Barbershop Website website template — live demo built by DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/hair-salon-and-barbershop-website">Hair Salon and Barbershop Website</a></b><br>
 <sub>Two-page salon site with stylist portraits, services with prices, a four-step booking flow stored in the browser.</sub><br>
 <sub>DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/hair-salon-and-barbershop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/hair-salon-and-barbershop-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/yacht-charter-website/4193f25b-2a96-4a84-afca-87848d4bb6ae/shot_desktop.a338e0af30.webp" width="100%" alt="Yacht Charter Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/yacht-charter-website">Yacht Charter Website</a></b> <sup>PRO</sup><br>
-<sub>A crisp navy-and-brass yacht charter site with fleet filters, SVG deck plans and route maps.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/yacht-charter-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -153,18 +153,18 @@
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/bridal-boutique-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/bridal-boutique-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/safari-lodge-website/14085ac1-2add-4057-b03b-83a7c24e18ca/shot_desktop.84dab84837.webp" width="100%" alt="Safari Lodge Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/safari-lodge-website">Safari Lodge Website</a></b> <sup>PRO</sup><br>
-<sub>A golden-hour safari lodge site with suites gallery, day timeline and seasonal rates.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/safari-lodge-website/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/yacht-charter-website/4193f25b-2a96-4a84-afca-87848d4bb6ae/shot_desktop.a338e0af30.webp" width="100%" alt="Yacht Charter Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/yacht-charter-website">Yacht Charter Website</a></b> <sup>PRO</sup><br>
+<sub>A crisp navy-and-brass yacht charter site with fleet filters, SVG deck plans and route maps.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/yacht-charter-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ski-resort-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/ski-resort-website/937241b1-4372-4b55-aaaa-e53b2168f7f3/shot_desktop.a94a2da66f.webp" width="100%" alt="Ski Resort Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/ski-resort-website">Ski Resort Website</a></b> <sup>PRO</sup><br>
-<sub>Ski resort site with sample conditions, an interactive trail map, lift tickets, lessons and lodging.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ski-resort-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/ski-resort-website/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/safari-lodge-website/14085ac1-2add-4057-b03b-83a7c24e18ca/shot_desktop.84dab84837.webp" width="100%" alt="Safari Lodge Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/safari-lodge-website">Safari Lodge Website</a></b> <sup>PRO</sup><br>
+<sub>A golden-hour safari lodge site with suites gallery, day timeline and seasonal rates.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/safari-lodge-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/apartment-leasing-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/apartment-leasing-website/6c7aa740-d2c6-412d-aa7d-6fee8f186b83/shot_desktop.8d9ff17027.webp" width="100%" alt="Apartment Leasing Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

@@ -27,18 +27,18 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/drone-services-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/drone-services-company-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/gridline/2d68caf9-8ad0-44b7-8c9d-36f9c0b45125/shot_desktop.5738fd16e8.webp" width="100%" alt="Swiss Design Agency Portfolio website template — live demo built by Claude Opus 5.5"></a><br>
-<b><a href="../templates/swiss-design-agency-portfolio">Swiss Design Agency Portfolio</a></b><br>
-<sub>Swiss-style agency portfolio on a strict 12-column grid, with morphing case-study page transitions.</sub><br>
-<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/swiss-design-agency-portfolio/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/corporate-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/corporate-company-website/328fc7d5-d87a-45a3-b0f4-6d8ac04ae1b3/shot_desktop.4e53083f58.webp" width="100%" alt="Corporate Company Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/corporate-company-website">Corporate Company Website</a></b> <sup>PRO</sup><br>
 <sub>An enterprise corporate site for a diversified industrial group with investor charts, global map, and newsroom.</sub><br>
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/corporate-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/corporate-company-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/gridline/2d68caf9-8ad0-44b7-8c9d-36f9c0b45125/shot_desktop.5738fd16e8.webp" width="100%" alt="Swiss Design Agency Portfolio website template — live demo built by Claude Opus 5.5"></a><br>
+<b><a href="../templates/swiss-design-agency-portfolio">Swiss Design Agency Portfolio</a></b><br>
+<sub>Swiss-style agency portfolio on a strict 12-column grid, with morphing case-study page transitions.</sub><br>
+<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/swiss-design-agency-portfolio/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/video-production-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/video-production-company-website/112c0594-b12d-48a4-b20c-6cd9cf08d4b7/shot_desktop.bc9001e7a3.webp" width="100%" alt="Video Production Company Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
@@ -55,18 +55,18 @@
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/fluid-simulation-agency-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/management-consulting-firm-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/management-consulting-firm-website/7ff67974-82dc-4a61-af56-070318957247/shot_desktop.beca9ccb06.webp" width="100%" alt="Management Consulting Firm Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/management-consulting-firm-website">Management Consulting Firm Website</a></b><br>
-<sub>Single-page consulting firm site with practice areas, an insights grid, anonymized sample cases, partner portraits and contact.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/management-consulting-firm-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/management-consulting-firm-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/tattoo-studio-website/8bc5b95a-327b-4abf-b934-5fe27ac4bc5b/shot_desktop.7cfc347a2c.webp" width="100%" alt="Tattoo Studio Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/tattoo-studio-website">Tattoo Studio Website</a></b><br>
 <sub>A dark editorial studio site with artist portfolios, SVG flash, consultations, and aftercare.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/tattoo-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/tattoo-studio-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/management-consulting-firm-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/management-consulting-firm-website/7ff67974-82dc-4a61-af56-070318957247/shot_desktop.beca9ccb06.webp" width="100%" alt="Management Consulting Firm Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/management-consulting-firm-website">Management Consulting Firm Website</a></b><br>
+<sub>Single-page consulting firm site with practice areas, an insights grid, anonymized sample cases, partner portraits and contact.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/management-consulting-firm-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/management-consulting-firm-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/insurance-agency-quote-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/insurance-agency-quote-website/1bdc8876-1a58-4160-8cf5-99dac712ae60/shot_desktop.45fd83ddaf.webp" width="100%" alt="Insurance Agency Quote Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

@@ -12,7 +12,7 @@ Team Wiki Workspace App is a self-contained collaborative notes, documentation, 
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [Docs](../../types/docs.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add team-wiki-wo
 The Design studio product wiki case was built by Gemini 4 Neon in Antigravity; the Robotics lab engineering wiki case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Team Wiki Workspace App template use?
-Team Wiki Workspace App is a single-page site built with React and Tailwind CSS, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Team Wiki Workspace App is a single-page site built with Tailwind CSS and React, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Team Wiki Workspace App template free to use?
 Team Wiki Workspace App is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

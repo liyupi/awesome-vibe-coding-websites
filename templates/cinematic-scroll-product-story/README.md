@@ -11,8 +11,8 @@ This is a single-page launch site for a physical product that plays like a short
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
+| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, Text Animation, Parallax |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + gsap + lenis + lucide |
 | Pages | 1 |
@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add cinematic-sc
 The Electric commuter bike case was built by Claude Opus 5.5 in Claude Code; the Electric gravel bike case was built by Claude Sonnet 5.5 in Claude Code; the Electric commuter bike case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Cinematic Scroll Product Story template use?
-Cinematic Scroll Product Story is a single-page site built with GSAP, Tailwind CSS and Plain HTML, with scroll animation, text animation and parallax. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Cinematic Scroll Product Story is a single-page site built with GSAP, Plain HTML and Tailwind CSS, with scroll animation, text animation and parallax. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Cinematic Scroll Product Story template free to use?
 Cinematic Scroll Product Story is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

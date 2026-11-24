@@ -57,7 +57,7 @@ Copy the prompt from this page or run npx vibefather add online-code-playground,
 The SparkBench case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Online Code Playground template use?
-Online Code Playground is a 2-page site built with Three.js, React and Tailwind CSS, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Online Code Playground is a 2-page site built with Three.js, Tailwind CSS and React, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Online Code Playground template for a client or a business?
 The Online Code Playground prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

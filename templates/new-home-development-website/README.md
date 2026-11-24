@@ -11,8 +11,8 @@ An architectural real-estate sales website for a fictional 48-townhome residenti
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add new-home-dev
 The Alder Row (48 Townhomes) case was built by Gemini 4 Neon in Antigravity; the Linden Terrace (48 Townhomes) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the New Home Development Website template use?
-New Home Development Website is a single-page site built with Three.js, React and Tailwind CSS, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+New Home Development Website is a single-page site built with Three.js, Tailwind CSS and React, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the New Home Development Website template free to use?
 New Home Development Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

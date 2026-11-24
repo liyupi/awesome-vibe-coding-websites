@@ -18,7 +18,7 @@ Variables cover the brand, city, audience, and the school's one-line promise; qu
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -85,7 +85,7 @@ Copy the prompt from this page or run npx vibefather add driving-school-website,
 The Greenlight Driving School case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Driving School Website template use?
-Driving School Website is a single-page site built with React, Tailwind CSS and Motion, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Driving School Website is a single-page site built with Motion, Tailwind CSS and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Driving School Website template for a client or a business?
 The Driving School Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

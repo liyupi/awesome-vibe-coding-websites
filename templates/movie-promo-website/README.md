@@ -12,8 +12,8 @@ The official promotional website for a fictional near-future mystery feature fil
 |---|---|
 | Category | [More Landing Pages](../../README.md#more-landing-pages) |
 | Site type | [Landing](../../types/landing.md) |
-| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md), Cinematic |
-| Effects | Parallax, Micro-interactions, Audio |
+| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), Cinematic |
+| Effects | Parallax, Audio, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
 | Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
@@ -79,7 +79,7 @@ Copy the prompt from this page or run npx vibefather add movie-promo-website, re
 The THE NIGHT MERIDIAN case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Movie Promo Website template use?
-Movie Promo Website is a single-page site built with React, Tailwind CSS and Typescript, with parallax, micro-interactions and audio. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Movie Promo Website is a single-page site built with Tailwind CSS, React and Typescript, with parallax, audio and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Movie Promo Website template for a client or a business?
 The Movie Promo Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

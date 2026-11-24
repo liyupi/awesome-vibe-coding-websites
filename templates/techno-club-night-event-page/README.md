@@ -18,7 +18,7 @@ A strict door-policy card puts age requirements, identification, respectful cond
 |---|---|
 | Category | [Events & Communities](../../README.md#events--communities) |
 | Site type | [Event](../../types/event.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Retro](../../styles/retro.md), [Brutalist](../../styles/brutalist.md), [Dark](../../styles/dark.md) |
+| Style | [Retro](../../styles/retro.md), [Dark](../../styles/dark.md), [Brutalist](../../styles/brutalist.md) |
 | Effects | Text Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |

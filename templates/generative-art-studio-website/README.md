@@ -17,8 +17,8 @@ To adapt it, change the brand, artist, city, practice and product, then edit one
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Portfolio](../../types/portfolio.md) |
-| Style | [Dark](../../styles/dark.md), [Playful](../../styles/playful.md) |
+| Site type | [Portfolio](../../types/portfolio.md), [E-commerce](../../types/ecommerce.md) |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Plain CSS + react, + simplex-noise + lucide-react |
 | Pages | 3 |

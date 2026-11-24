@@ -12,7 +12,7 @@ A kinetic creative agency website driven by a full-viewport real-time WebGL Navi
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md), [Agency](../../types/agency.md) |
-| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md), Neon |
+| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), Neon |
 | Effects | Webgl Fluid, Scroll Color Shift, Cursor Reactive |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |

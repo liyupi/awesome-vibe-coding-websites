@@ -83,18 +83,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/startup-pitch-deck-website/4eebe086-da2d-4d44-ae08-a0716dc01894/shot_desktop.ac625097c5.webp" width="100%" alt="Startup Pitch Deck Website built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/compound-interest-interactive-explainer">Compound Interest Interactive Explainer</a></b> — <sub>A calm, scroll-driven explainer where three sliders redraw a live chart of deposits versus compound interest.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/3b638669-26ee-49d6-85fd-1d49e9af5c2e/shot_desktop.22fe085210.webp" width="100%" alt="Compound Interest Interactive Explainer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/c55e7688-8b85-44e2-beaf-9053c5d1819f/shot_desktop.fb9e0f36ff.webp" width="100%" alt="Compound Interest Interactive Explainer built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/how-the-internet-works-explainer">How the Internet Works Explainer</a></b> — <sub>Follow one web request from laptop to server and back in seven scroll scenes, each with a hands-on control.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/52f411f9-da8c-475b-b65b-45ce35470384/shot_desktop.85379ff973.webp" width="100%" alt="How the Internet Works Explainer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/5426ad22-6680-4bfa-aabb-e00c834ae0d7/shot_desktop.17ef0f82fe.webp" width="100%" alt="How the Internet Works Explainer built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/compound-interest-interactive-explainer">Compound Interest Interactive Explainer</a></b> — <sub>A calm, scroll-driven explainer where three sliders redraw a live chart of deposits versus compound interest.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/3b638669-26ee-49d6-85fd-1d49e9af5c2e/shot_desktop.22fe085210.webp" width="100%" alt="Compound Interest Interactive Explainer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/c55e7688-8b85-44e2-beaf-9053c5d1819f/shot_desktop.fb9e0f36ff.webp" width="100%" alt="Compound Interest Interactive Explainer built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/dark-developer-tool-launch-page">Dark Developer Tool Launch Page</a></b> — <sub>Dark CLI launch page with a typing terminal, streaming diff comments, a bar race and a ? shortcut overlay.</sub></td>

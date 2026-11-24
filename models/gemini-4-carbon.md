@@ -38,28 +38,28 @@
 <sub>Glass room speaker · Cursor · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=89dc8bdc-f96b-411d-a68c-a0e7a4d82a34&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon in Cursor"></a><br>
-<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
-<sub>Generative print studio · Cursor · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-festival-website?case=7d2fa76f-4f83-4c69-aba1-386bcbe506eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/music-festival-website/7d2fa76f-4f83-4c69-aba1-386bcbe506eb/shot_desktop.9d1e0fa7b3.webp" width="100%" alt="Music Festival Website built by Gemini 4 Carbon in Cursor"></a><br>
 <b><a href="../templates/music-festival-website">Music Festival Website</a></b> <sup>PRO</sup><br>
 <sub>Lakeside indie festival · Cursor · <a href="https://vibefather.ai/templates/music-festival-website?case=7d2fa76f-4f83-4c69-aba1-386bcbe506eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/cea14c66-27cc-4cc6-a3bf-dde741843285/shot_desktop.0790dbc0a8.webp" width="100%" alt="Retro Desktop OS Portfolio built by Gemini 4 Carbon in Cursor"></a><br>
-<b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
-<sub>Motion designer portfolio · Cursor · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon in Cursor"></a><br>
+<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
+<sub>Generative print studio · Cursor · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/boutique-hotel-website?case=96ff3519-3cba-442f-8288-f2c6b6d50631&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/boutique-hotel-website/96ff3519-3cba-442f-8288-f2c6b6d50631/shot_desktop.ceffab4f15.webp" width="100%" alt="Boutique Hotel Website built by Gemini 4 Carbon in Cursor"></a><br>
 <b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> <sup>PRO</sup><br>
 <sub>Coastal boutique hotel · Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=96ff3519-3cba-442f-8288-f2c6b6d50631&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/cea14c66-27cc-4cc6-a3bf-dde741843285/shot_desktop.0790dbc0a8.webp" width="100%" alt="Retro Desktop OS Portfolio built by Gemini 4 Carbon in Cursor"></a><br>
+<b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
+<sub>Motion designer portfolio · Cursor · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/bento-grid-saas-landing-page/83055d14-8919-423e-a3c8-8dbca3b1f008/shot_desktop.7cdfe15e49.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Gemini 4 Carbon in Cursor"></a><br>
@@ -86,16 +86,16 @@
 <sub>Sorting index tiles · Cursor · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=40ef5a2a-8c8c-4fa4-b215-cc9ea14eec89&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=2bd3687d-f73f-4118-a336-c77efb812591&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/arcade-game-studio-landing-page/2bd3687d-f73f-4118-a336-c77efb812591/shot_desktop.2156094387.webp" width="100%" alt="Arcade Game Studio Landing Page built by Gemini 4 Carbon in Cursor"></a><br>
-<b><a href="../templates/arcade-game-studio-landing-page">Arcade Game Studio Landing Page</a></b> <sup>PRO</sup><br>
-<sub>Retro arcade bar · Cursor · <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=2bd3687d-f73f-4118-a336-c77efb812591&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=815fadb1-5df9-4976-a5d7-69721ff4a748&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/habit-tracker-app-landing-page/815fadb1-5df9-4976-a5d7-69721ff4a748/shot_desktop.59a014c55f.webp" width="100%" alt="Habit Tracker App Landing Page built by Gemini 4 Carbon in Cursor"></a><br>
+<b><a href="../templates/habit-tracker-app-landing-page">Habit Tracker App Landing Page</a></b> <sup>PRO</sup><br>
+<sub>Habit tracker app · Cursor · <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=815fadb1-5df9-4976-a5d7-69721ff4a748&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=815fadb1-5df9-4976-a5d7-69721ff4a748&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/habit-tracker-app-landing-page/815fadb1-5df9-4976-a5d7-69721ff4a748/shot_desktop.59a014c55f.webp" width="100%" alt="Habit Tracker App Landing Page built by Gemini 4 Carbon in Cursor"></a><br>
-<b><a href="../templates/habit-tracker-app-landing-page">Habit Tracker App Landing Page</a></b> <sup>PRO</sup><br>
-<sub>Habit tracker app · Cursor · <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=815fadb1-5df9-4976-a5d7-69721ff4a748&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=2bd3687d-f73f-4118-a336-c77efb812591&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/arcade-game-studio-landing-page/2bd3687d-f73f-4118-a336-c77efb812591/shot_desktop.2156094387.webp" width="100%" alt="Arcade Game Studio Landing Page built by Gemini 4 Carbon in Cursor"></a><br>
+<b><a href="../templates/arcade-game-studio-landing-page">Arcade Game Studio Landing Page</a></b> <sup>PRO</sup><br>
+<sub>Retro arcade bar · Cursor · <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=2bd3687d-f73f-4118-a336-c77efb812591&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 </table>

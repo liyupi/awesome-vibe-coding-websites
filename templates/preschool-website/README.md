@@ -12,7 +12,7 @@ A single-page website for a preschool: the school's promise over a bright classr
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Playful](../../styles/playful.md) |
+| Style | [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add preschool-website, repl
 The Neighborhood preschool case was built by GLM-5.3 in ZCode; the Bilingual preschool case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Preschool Website template use?
-Preschool Website is a single-page site built with React, Tailwind CSS and Motion, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Preschool Website is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Preschool Website template for a client or a business?
 The Preschool Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.
