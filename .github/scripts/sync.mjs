@@ -55,6 +55,21 @@ if (run("git", "status", "--porcelain")) {
   console.log("no changes");
 }
 
+// Keep the GitHub repository description aligned with the live catalog counts & model families.
+// Uses REPO_META_TOKEN when configured (the default GITHUB_TOKEN only has contents:write).
+if (manifest.repoDescription) {
+  try {
+    const metaEnv = { ...process.env, GH_TOKEN: process.env.REPO_META_TOKEN || process.env.GH_TOKEN };
+    const current = JSON.parse(execFileSync("gh", ["repo", "view", "--json", "description"], { encoding: "utf8", env: metaEnv })).description || "";
+    if (current.trim() !== manifest.repoDescription.trim()) {
+      execFileSync("gh", ["repo", "edit", "--description", manifest.repoDescription], { encoding: "utf8", env: metaEnv });
+      console.log(`updated description: ${manifest.repoDescription}`);
+    }
+  } catch (err) {
+    console.warn(`skipped description sync (add REPO_META_TOKEN secret with repo metadata write to automate): ${err.message}`);
+  }
+}
+
 // Releases start once the repository is public: first a launch release, then one per model that wasn't there yesterday
 if (JSON.parse(run("gh", "repo", "view", "--json", "visibility")).visibility !== "PUBLIC") {
   console.log("private repository: no releases yet");

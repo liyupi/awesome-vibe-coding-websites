@@ -27,3 +27,4 @@ jobs:
         env:
           VF_EXPORT_TOKEN: ${{ secrets.VF_EXPORT_TOKEN }}
           GH_TOKEN: ${{ github.token }}
+          REPO_META_TOKEN: ${{ secrets.REPO_META_TOKEN }}
