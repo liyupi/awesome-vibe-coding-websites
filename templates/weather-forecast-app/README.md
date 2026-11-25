@@ -2,7 +2,7 @@
 
 > Atmospheric weather app with live animated Canvas sky scenes, 10-day bars, AQI, wind compass, radar timeline, and 6 cities.
 
-<a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/webp.cd1ce1a36e.webp" width="100%" alt="Weather Forecast App — Animated Atmospheric Weather Dashboard App built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/webp.cd1ce1a36e.webp" width="100%" alt="Weather Forecast App — Animated Atmospheric Weather Dashboard App built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A vivid atmospheric weather forecast web app powered by a real-time HTML5 Canvas
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 2 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ A vivid atmospheric weather forecast web app powered by a real-time HTML5 Canvas
 <a href="https://vibefather.ai/templates/weather-forecast-app?case=37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/shot_desktop.c2cd3bca47.webp" width="100%" alt="Weather Forecast App — Skyloom Weather, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Skyloom Weather</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/weather-forecast-app?case=37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/weather-forecast-app?case=dde3ed94-1f57-47db-ba84-1b321162e232&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/weather-forecast-app/dde3ed94-1f57-47db-ba84-1b321162e232/shot_desktop.15e702e7c7.webp" width="100%" alt="Weather Forecast App — Cirrus Forecast, built by GPT-6.2 Sol in Codex"></a><br>
+<b>Cirrus Forecast</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/weather-forecast-app?case=dde3ed94-1f57-47db-ba84-1b321162e232&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -50,36 +55,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A local tourism board: set [BRAND] to your region, make [DEFAULT_CITY] your town and use the radar map to show incoming weather for visitors planning outdoor days.
-- A sailing or hiking club: keep the wind compass and UV meter, then rewrite the condition summaries for trip planning and pin your meeting point as the default city.
-- A smart-home dashboard: reuse the telemetry bento for indoor sensors, swap the 10-day bars for room readings and keep the sky Canvas as an ambient background.
-- A university weather course: point the adapter at teaching sample data, label it in [ADAPTER_LABEL] and use the seven sky scenes to demonstrate how conditions map to visuals.
+- A travel planning site: set BRAND to your agency, make DEFAULT_CITY your most-booked destination, and use the 10-day bars to show typical conditions for each trip.
+- A commuter utility for one city: set DEFAULT_CITY to your city, keep the 24-hour strip and AQI gauge, and swap the radar legend labels for your local districts.
+- A school science project: keep the seven preview sky scenes and wind compass, rename BRAND to the class name, and let students compare conditions across the six seeded cities.
+- A developer starter kit: keep the weatherAdapter.ts interface, replace the seeded cities with your own API responses, and use the radar timeline as a pattern for any animated data map.
 
 ## FAQ
 
 ### Is the Weather Forecast App template free to use?
-The Weather Forecast App template is free. Its prompt and DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0, so you can build and experiment with the animated Canvas sky, 10-day bars, AQI gauge and radar timeline for yourself. Commercial or client work needs Pro, which also unlocks the full prompt and the demo source code.
+The Weather Forecast App template is free for personal, non-commercial use, including its prompt and DESIGN.md under CC BY-NC 4.0. Commercial use, client work and the demo source code require Pro. The page shows the brief, stack and variables publicly, and the full prompt is available to Pro members.
 
 ### How do I connect the Weather Forecast App to a real weather API?
-The Weather Forecast App template keeps all six seeded cities, 24-hour series, 10-day forecasts and radar storm tracks inside one weatherAdapter module with a clean WeatherAdapter interface. Replace the seeded data in that adapter with calls to your chosen weather API and keep the same shape, so the sky Canvas, gauges and forecast bars keep working without changes.
+All six seeded cities, the 24-hour series, 10-day forecasts and radar storm cells sit behind one weatherAdapter.ts file with a clean WeatherAdapter interface. Replace the seeded data inside that adapter with calls to your chosen weather service, keeping the same shape, and every card, bar and dial updates without touching the interface components.
 
-### What can I change first in the Weather Forecast App template?
-Start with the variables: set [BRAND] to your app name, [TAGLINE] to your subtitle, [DEFAULT_CITY] to the city loaded on first visit and [ADAPTER_LABEL] to describe your data source. Then rewrite the copy for the forecast and saved cities pages in the single content file, and adjust the daytime sky, storm slate and night indigo colors to your own palette.
+### What does the animated sky scene in the Weather Forecast App actually show?
+The Weather Forecast App draws a full-viewport HTML5 Canvas sky that changes palette and particle motion across seven conditions: Sunny, Cloudy, Rain, Snow, Fog, Thunderstorm, and Clear Night with Stars. Expect drifting clouds, slanted rain, snowflakes, mist bands, lightning flashes, sun rays and twinkling stars, with a static scene when reduced motion is preferred.
 
-### How does the animated sky background work in the Weather Forecast App?
-The Weather Forecast App template draws its full-viewport background with an HTML5 Canvas scene that matches seven conditions: Sunny, Cloudy, Rain, Snow, Fog, Thunderstorm and Clear Night with Stars. The Preview Sky Scene pill bar lets visitors switch between all seven live scenes, and the app respects prefers-reduced-motion by rendering a static atmospheric scene with no flashing.
+### Can I change the default city and brand name in the Weather Forecast App?
+Yes. The Weather Forecast App exposes four variables: BRAND for the app name, TAGLINE for the Saved Cities header, DEFAULT_CITY for the city loaded on first visit, and ADAPTER_LABEL for the footer badge naming the data adapter. Set them in the prompt before you generate, or edit the single content file afterward.
 
-### Which AI coding agents can build the Weather Forecast App from the prompt?
-The Weather Forecast App demo was built with Gemini 4 Neon in Antigravity. The published prompt is plain, specific instructions about the stack, sections and motion, so you can also paste it into Claude Code, Codex, Cursor, GitHub Copilot, Windsurf or Gemini CLI. VibeFather has model comparison pages if you want to see how other templates were built.
+### How do saved cities and the °C/°F toggle work in the Weather Forecast App?
+The Weather Forecast App keeps saved cities and your Celsius or Fahrenheit preference in localStorage. The Saved Cities view lists each city as a card with its sky gradient, temperature, condition and high/low, lets you pin one as default or remove it, and offers a shelf of the six seeded cities to add back.
 
 ### How do I build a weather forecast app with AI?
-Copy the prompt from this page or run npx vibefather add weather-forecast-app, replace [BRAND], [TAGLINE], [DEFAULT_CITY] and [ADAPTER_LABEL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add weather-forecast-app, replace [BRAND], [TAGLINE], [DEFAULT_CITY] and [ADAPTER_LABEL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Weather Forecast App demo?
-The Skyloom Weather case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Skyloom Weather case was built by Gemini 4 Neon in Antigravity; the Cirrus Forecast case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Weather Forecast App template use?
-Weather Forecast App is a 2-page site built with Tailwind CSS, React, Vite and Canvas, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Weather Forecast App is a 2-page site built with React, Tailwind CSS, Vite and Canvas, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Weather Forecast App template for a client or a business?
 The Weather Forecast App prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

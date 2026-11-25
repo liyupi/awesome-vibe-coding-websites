@@ -18,7 +18,7 @@ To adapt it, change the brand, product, audience, headline and main call to acti
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Minimal](../../styles/minimal.md), [Bento Grid](../../styles/bento.md) |
+| Style | [Bento Grid](../../styles/bento.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + motion + lucide-react |
 | Pages | 1 |
@@ -98,7 +98,7 @@ Copy the prompt from this page or run npx vibefather add bento-grid-saas-landing
 The Team analytics tool case was built by Claude Opus 5.5 in Cursor; the Small-shop cash-flow app case was built by Claude Opus 5.5 in Cursor; the Release analytics tool case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Bento Grid SaaS Landing Page template use?
-Bento Grid SaaS Landing Page is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Bento Grid SaaS Landing Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Bento Grid SaaS Landing Page template for a client or a business?
 The Bento Grid SaaS Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

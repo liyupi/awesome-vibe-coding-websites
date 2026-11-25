@@ -18,8 +18,8 @@ To adapt it, change the brand, slug, product and audience. The builder rewrites 
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Aurora](../../styles/aurora.md), [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md) |
-| Effects | Scroll Animation, Cursor Effects, Generative / Canvas |
+| Style | [Aurora](../../styles/aurora.md), [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md) |
+| Effects | Scroll Animation, Generative / Canvas, Cursor Effects |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + ogl + motion + lucide-react |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -97,7 +97,7 @@ Copy the prompt from this page or run npx vibefather add webgl-gradient-saas-lan
 The Finance close software case was built by Claude Opus 5.5 in Claude Code; the Feature flag platform case was built by Claude Sonnet 5.5 in Claude Code; the Finance close software case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the WebGL Gradient SaaS Landing Page template use?
-WebGL Gradient SaaS Landing Page is a single-page site built with Motion, Tailwind CSS and React, with scroll animation, cursor effects and generative / canvas. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+WebGL Gradient SaaS Landing Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, generative / canvas and cursor effects. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the WebGL Gradient SaaS Landing Page template for a client or a business?
 The WebGL Gradient SaaS Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

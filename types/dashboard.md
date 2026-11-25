@@ -2,9 +2,23 @@
 
 > Data-dense app screens with sidebars, charts, tables and filters, built with sample data and no backend.
 
-14 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
+19 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/e-commerce-admin-dashboard">E-commerce Admin Dashboard</a></b><br>
+<sub>Clean store-admin app: KPI cards, a hand-rolled revenue chart, orders table with filters, product editor and inventory alerts.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/e-commerce-admin-dashboard/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter website template — live demo built by GPT-6 Astra and Gemini 4 Neon"></a><br>
+<b><a href="../templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
+<sub>A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.</sub><br>
+<sub>GPT-6 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/saas-app-dashboard-starter/prompt.md">Prompt</a></sub>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/home-energy-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/wattline/6e35690e-e3cd-4434-8a4e-7434040f1990/shot_desktop.ba18b931cb.webp" width="100%" alt="Home Energy Dashboard website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
@@ -13,46 +27,18 @@
 <sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/home-energy-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/home-energy-dashboard/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/e-commerce-admin-dashboard">E-commerce Admin Dashboard</a></b><br>
-<sub>Clean store-admin app: KPI cards, a hand-rolled revenue chart, orders table with filters, product editor and inventory alerts.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/e-commerce-admin-dashboard/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter website template — live demo built by GPT-6 Astra and Gemini 4 Neon"></a><br>
-<b><a href="../templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
-<sub>A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.</sub><br>
-<sub>GPT-6 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/saas-app-dashboard-starter/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-budget-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personal-budget-dashboard/32da5ac6-1443-4006-82fb-157c5b37bb13/shot_desktop.3f483f59c3.webp" width="100%" alt="Personal Budget Dashboard website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/personal-budget-dashboard">Personal Budget Dashboard</a></b><br>
-<sub>Track spending, search transactions, and adjust goals in a warm budget workspace saved in your browser.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personal-budget-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personal-budget-dashboard/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/kanban-project-board-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/kanban-project-board-app/41e91195-a32d-4a66-a866-f8da7451b18d/shot_desktop.096dbcaa57.webp" width="100%" alt="Kanban Project Board App website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/kanban-project-board-app">Kanban Project Board App</a></b><br>
 <sub>Warm board app with hand-rolled drag-and-drop across four columns, labels, due chips, card detail modal, filters and local persistence.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/kanban-project-board-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/kanban-project-board-app/prompt.md">Prompt</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/shot_desktop.b83af4015f.webp" width="100%" alt="Social Media Content Calendar website template — live demo built by GPT-6 Astra and Gemini 4 Neon"></a><br>
-<b><a href="../templates/social-media-content-calendar">Social Media Content Calendar</a></b> <sup>PRO</sup><br>
-<sub>Plan four weeks of posts, try four formats, and move a draft from its first idea to the calendar.</sub><br>
-<sub>GPT-6 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/social-media-content-calendar/prompt.md">Prompt</a></sub>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/online-learning-platform/4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f/shot_desktop.efbbd23f9e.webp" width="100%" alt="Online Learning Platform website template — live demo built by Gemini 4 Neon"></a><br>
-<b><a href="../templates/online-learning-platform">Online Learning Platform</a></b> <sup>PRO</sup><br>
-<sub>Course platform opening mid-course on a learner dashboard with animated visual lessons, captions, notes, quizzes, and certificates.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/online-learning-platform/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/personal-budget-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personal-budget-dashboard/32da5ac6-1443-4006-82fb-157c5b37bb13/shot_desktop.3f483f59c3.webp" width="100%" alt="Personal Budget Dashboard website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/personal-budget-dashboard">Personal Budget Dashboard</a></b><br>
+<sub>Track spending, search transactions, and adjust goals in a warm budget workspace saved in your browser.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personal-budget-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personal-budget-dashboard/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sales-crm-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sales-crm-dashboard/1e2e9d16-d5f8-40d9-b40a-990a16dc2746/shot_desktop.746188a5d3.webp" width="100%" alt="Sales CRM Dashboard website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
@@ -63,30 +49,72 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/online-learning-platform/4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f/shot_desktop.efbbd23f9e.webp" width="100%" alt="Online Learning Platform website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/online-learning-platform">Online Learning Platform</a></b> <sup>PRO</sup><br>
+<sub>Course platform opening mid-course on a learner dashboard with animated visual lessons, captions, notes, quizzes, and certificates.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/online-learning-platform/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/shot_desktop.b83af4015f.webp" width="100%" alt="Social Media Content Calendar website template — live demo built by GPT-6 Astra and Gemini 4 Neon"></a><br>
+<b><a href="../templates/social-media-content-calendar">Social Media Content Calendar</a></b> <sup>PRO</sup><br>
+<sub>Plan four weeks of posts, try four formats, and move a draft from its first idea to the calendar.</sub><br>
+<sub>GPT-6 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/social-media-content-calendar/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/shot_desktop.6fc77de9e5.webp" width="100%" alt="Code Hosting Platform App website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/code-hosting-platform-app">Code Hosting Platform App</a></b> <sup>PRO</sup><br>
 <sub>A complete developer code-hosting workspace with file browser, split diffs, issues, releases, and insights.</sub><br>
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/code-hosting-platform-app/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/shot_desktop.c2cd3bca47.webp" width="100%" alt="Weather Forecast App website template — live demo built by Gemini 4 Neon"></a><br>
+<a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/shot_desktop.c2cd3bca47.webp" width="100%" alt="Weather Forecast App website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/weather-forecast-app">Weather Forecast App</a></b><br>
 <sub>Atmospheric weather app with live animated Canvas sky scenes, 10-day bars, AQI, wind compass, radar timeline, and 6 cities.</sub><br>
-<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/weather-forecast-app/prompt.md">Prompt</a></sub>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/weather-forecast-app/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/website-analytics-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/website-analytics-dashboard/c408f5e6-8c5b-4c85-bcdd-c81a9eb6e9da/shot_desktop.f7352b2ba6.webp" width="100%" alt="Website Analytics Dashboard website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/website-analytics-dashboard">Website Analytics Dashboard</a></b><br>
+<sub>Follow a publication’s traffic from the overview to the article, referral or campaign behind it.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/website-analytics-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/website-analytics-dashboard/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/email-inbox-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/email-inbox-app-interface/a501119e-6ea5-4003-8e6d-f2a6c15e9aed/shot_desktop.5d05c4a210.webp" width="100%" alt="Email Inbox App Interface website template — live demo built by GLM-5.4 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/email-inbox-app-interface">Email Inbox App Interface</a></b> <sup>PRO</sup><br>
+<sub>Three-pane email client for a fictional mail service, with a seeded mailbox, split inbox, composer and shortcuts.</sub><br>
+<sub>GLM-5.4 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/email-inbox-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/email-inbox-app-interface/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/movie-rating-community/d8c2b3ba-0102-4aef-8833-dfb297b8ccf1/shot_desktop.219ae68ae8.webp" width="100%" alt="Movie Rating Community website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/movie-rating-community">Movie Rating Community</a></b><br>
+<sub>Rate original films, trade thoughtful reviews, and turn your watch history into a taste profile.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/movie-rating-community/prompt.md">Prompt</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/trending-topics-microblog/5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07/shot_desktop.7ac356b51e.webp" width="100%" alt="Trending Topics Microblog website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/trending-topics-microblog">Trending Topics Microblog</a></b><br>
 <sub>A warm, interactive microblog with live trend rankings, rich post cards, and a working local composer.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/trending-topics-microblog/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/movie-rating-community/d8c2b3ba-0102-4aef-8833-dfb297b8ccf1/shot_desktop.219ae68ae8.webp" width="100%" alt="Movie Rating Community website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/movie-rating-community">Movie Rating Community</a></b><br>
-<sub>Rate original films, trade thoughtful reviews, and turn your watch history into a taste profile.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/movie-rating-community?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/movie-rating-community/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/service-status-page/c8b4c8eb-d633-4e24-9936-fc8123cca4f0/shot_desktop.e0f7f3a82f.webp" width="100%" alt="Service Status Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/service-status-page">Service Status Page</a></b><br>
+<sub>A calm service status page with 90-day uptime bars, incident timelines, and local update subscriptions.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/service-status-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/stock-trading-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/stock-trading-dashboard/c63a370b-d7c4-489c-b2a8-9cb6c824e65f/shot_desktop.fab7e3a5c4.webp" width="100%" alt="Stock Trading Dashboard website template — live demo built by GPT-6.2 Astra and Gemini 4 Neon"></a><br>
+<b><a href="../templates/stock-trading-dashboard">Stock Trading Dashboard</a></b> <sup>PRO</sup><br>
+<sub>Explore a fictional market, read its tape, and follow a paper order from ticket to fill.</sub><br>
+<sub>GPT-6.2 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/stock-trading-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/stock-trading-dashboard/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -97,10 +125,18 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/parametric-lamp-designer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/parametric-lamp-designer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/service-status-page/c8b4c8eb-d633-4e24-9936-fc8123cca4f0/shot_desktop.e0f7f3a82f.webp" width="100%" alt="Service Status Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/service-status-page">Service Status Page</a></b><br>
-<sub>A calm service status page with 90-day uptime bars, incident timelines, and local update subscriptions.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/service-status-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/service-status-page/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/property-search-map-portal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/property-search-map-portal/c64daf5c-c0ed-495c-be2d-6d2d8da85d4f/shot_desktop.f05ad7e1e7.webp" width="100%" alt="Property Search Map Portal website template — live demo built by GLM-5.4 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/property-search-map-portal">Property Search Map Portal</a></b> <sup>PRO</sup><br>
+<sub>Home search portal with a code-drawn price map, URL-synced filters, listing pages with a mortgage estimate.</sub><br>
+<sub>GLM-5.4 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/property-search-map-portal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/property-search-map-portal/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/spreadsheet-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/spreadsheet-web-app/967c200e-e802-4f7a-91ad-e44f5c98b64e/shot_desktop.7fedddb82a.webp" width="100%" alt="Spreadsheet Web App website template — live demo built by Gemini 4 Neon"></a><br>
+<b><a href="../templates/spreadsheet-web-app">Spreadsheet Web App</a></b> <sup>PRO</sup><br>
+<sub>Edit bakery sales, trace ingredient costs and chart a selected range in a working three-sheet workbook.</sub><br>
+<sub>Gemini 4 Neon · <a href="https://vibefather.ai/templates/spreadsheet-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/spreadsheet-web-app/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

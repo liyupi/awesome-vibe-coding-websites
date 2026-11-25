@@ -21,44 +21,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personal-blog-website/5cf741d3-443c-4b19-85b8-a2351d79e9f0/shot_desktop.b22e916e7a.webp" width="100%" alt="Personal Blog Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/personal-blog-website">Personal Blog Website</a></b><br>
+<sub>A typography-first Markdown personal blog with reading themes, auto TOC, footnotes, pull quotes, and 12 seeded essays.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personal-blog-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/d7bac8fa-9340-483d-977a-dbcee0b06a21/shot_desktop.cc978f83c8.webp" width="100%" alt="How a Mechanical Watch Works website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/how-a-mechanical-watch-works">How a Mechanical Watch Works</a></b><br>
 <sub>Interactive editorial explainer with 8 procedural Three.js 3D horology figures you can orbit, scrub, explode, section-cut, and wind.</sub><br>
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/how-a-mechanical-watch-works/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
 <b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
 <sub>A fluorescent print magazine with overprinted cover art, full stories, and a local print subscription demo.</sub><br>
 <sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/risograph-indie-magazine-website/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/q-a-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/q-a-community-website/03153e85-e460-4f5d-947d-9f2f5a7d01d0/shot_desktop.f859dbb418.webp" width="100%" alt="Q&amp;A Community Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/q-a-community-website">Q&amp;A Community Website</a></b><br>
 <sub>A readable knowledge community with thoughtful answers, useful voting, topic following, and a working editor.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/q-a-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/q-a-community-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personal-blog-website/5cf741d3-443c-4b19-85b8-a2351d79e9f0/shot_desktop.b22e916e7a.webp" width="100%" alt="Personal Blog Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/personal-blog-website">Personal Blog Website</a></b><br>
-<sub>A typography-first Markdown personal blog with reading themes, auto TOC, footnotes, pull quotes, and 12 seeded essays.</sub><br>
-<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personal-blog-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-review-blog/cbad1a43-b5c3-4df8-91ae-d070c2fe83a3/shot_desktop.a6466e9ebc.webp" width="100%" alt="Product Review Blog website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/product-review-blog">Product Review Blog</a></b><br>
-<sub>Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-review-blog/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/trending-topics-microblog/5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07/shot_desktop.7ac356b51e.webp" width="100%" alt="Trending Topics Microblog website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/trending-topics-microblog">Trending Topics Microblog</a></b><br>
-<sub>A warm, interactive microblog with live trend rankings, rich post cards, and a working local composer.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/trending-topics-microblog/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -67,6 +53,20 @@
 <b><a href="../templates/podcast-episode-companion-page">Podcast Episode Companion Page</a></b><br>
 <sub>An illustrated, chapter-by-chapter companion for a long podcast episode, with charts and pulled-out lessons.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/podcast-episode-companion-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-review-blog/cbad1a43-b5c3-4df8-91ae-d070c2fe83a3/shot_desktop.a6466e9ebc.webp" width="100%" alt="Product Review Blog website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/product-review-blog">Product Review Blog</a></b><br>
+<sub>Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-review-blog/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/trending-topics-microblog/5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07/shot_desktop.7ac356b51e.webp" width="100%" alt="Trending Topics Microblog website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/trending-topics-microblog">Trending Topics Microblog</a></b><br>
+<sub>A warm, interactive microblog with live trend rankings, rich post cards, and a working local composer.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/trending-topics-microblog/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/recipe-blog-website/74802fd1-44b5-48bf-8d4d-2c7eb759a848/shot_desktop.785d5e8dcc.webp" width="100%" alt="Recipe Blog Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>

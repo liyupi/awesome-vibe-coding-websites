@@ -16,7 +16,7 @@ To adapt it, change the name, tagline, opening season, number of koi and session
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Generative / Canvas, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + TypeScript, no UI framework + Vanilla CSS + lucide-static |
 | Pages | 1 |

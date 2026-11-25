@@ -17,7 +17,7 @@ Adapt the brand, city, specialty, lead time, pickup address, and order email thr
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [Restaurant](../../types/restaurant.md), [E-commerce](../../types/ecommerce.md) |
+| Site type | [E-commerce](../../types/ecommerce.md), [Restaurant](../../types/restaurant.md) |
 | Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + Motion + lucide-react |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add custom-cake-bakery-webs
 The Garden celebration cakes case was built by Kimi K3.1 Pro in Kimi Code; the Retro cake bakery case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Custom Cake Bakery Website template use?
-Custom Cake Bakery Website is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Custom Cake Bakery Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Custom Cake Bakery Website template for a client or a business?
 The Custom Cake Bakery Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

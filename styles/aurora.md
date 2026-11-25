@@ -49,16 +49,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/light-beam-lens-puzzle-game/3258c5c0-5ac5-4839-b604-2aacb16b271e/shot_desktop.6005e92553.webp" width="100%" alt="Light Beam Lens Puzzle Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/light-beam-lens-puzzle-game">Light Beam Lens Puzzle Game</a></b><br>
-<sub>A calm 3D optics puzzle with twelve handcrafted levels, glowing crystals, and thoughtful controls.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/light-beam-lens-puzzle-game/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/coming-soon-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/coming-soon-page/d4f337b5-61a0-47e9-9121-fbb9cb4dd13f/shot_desktop.cb2e827ce6.webp" width="100%" alt="Coming Soon Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/coming-soon-page">Coming Soon Page</a></b><br>
 <sub>Single-screen coming-soon page with a drifting CSS aurora, live countdown, honest email capture and a three-feature teaser.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/coming-soon-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/coming-soon-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/light-beam-lens-puzzle-game/3258c5c0-5ac5-4839-b604-2aacb16b271e/shot_desktop.6005e92553.webp" width="100%" alt="Light Beam Lens Puzzle Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/light-beam-lens-puzzle-game">Light Beam Lens Puzzle Game</a></b><br>
+<sub>A calm 3D optics puzzle with twelve handcrafted levels, glowing crystals, and thoughtful controls.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/light-beam-lens-puzzle-game/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

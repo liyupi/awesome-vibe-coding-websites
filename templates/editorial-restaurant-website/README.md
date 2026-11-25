@@ -18,7 +18,7 @@ To adapt it, change the brand, concept, neighbourhood, season, phone number and 
 |---|---|
 | Category | [Restaurants, Hotels & Travel](../../README.md#restaurants-hotels--travel) |
 | Site type | [Restaurant](../../types/restaurant.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Text Animation, Parallax |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + lenis + lucide |
 | Pages | 3 |

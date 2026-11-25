@@ -2,7 +2,7 @@
 
 > A studio site where every background is seeded code, with a live gallery and a framed print shop.
 
-<a href="https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/webp.b0573e73a0.webp" width="100%" alt="Generative Art Studio Website — Seeded Generative Art Studio with Print Shop built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a>
+<a href="https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/webp.b0573e73a0.webp" width="100%" alt="Generative Art Studio Website — Seeded Generative Art Studio with Print Shop built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon, GPT-6 Astra and GLM-5.4"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -17,12 +17,12 @@ To adapt it, change the brand, artist, city, practice and product, then edit one
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [Portfolio](../../types/portfolio.md), [E-commerce](../../types/ecommerce.md) |
+| Site type | [E-commerce](../../types/ecommerce.md), [Portfolio](../../types/portfolio.md) |
 | Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Plain CSS + react, + simplex-noise + lucide-react |
 | Pages | 3 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
+| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -52,6 +52,13 @@ To adapt it, change the brand, artist, city, practice and product, then edit one
 <sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/generative-art-studio-website?case=d631edcf-3aa2-4f7e-8f19-fcd427ae2a11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/generative-art-studio-website/d631edcf-3aa2-4f7e-8f19-fcd427ae2a11/shot_desktop.84e4a19b3c.webp" width="100%" alt="Generative Art Studio Website — Generative print studio, built by GLM-5.4 in ZCode"></a><br>
+<b>Generative print studio</b><br>
+<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=d631edcf-3aa2-4f7e-8f19-fcd427ae2a11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
 </table>
 
 ## Variables
@@ -74,33 +81,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A solo creative coder: set BRAND and ARTIST to your own name, PRACTICE to the algorithms you write, and keep the seed dock as the first thing visitors touch.
-- An imaginary map seller: use the second case, set PRODUCT to a terrain map print, and retitle the gallery pieces around regions and elevations.
-- A design studio selling editioned prints: set BRAND to the studio, PRACTICE to your print line, and adjust piece titles and prices in the content file.
-- A workshop teacher: set PRACTICE to teaching code-based drawing, and rewrite the FAQ answers to cover sessions, materials and how seeds are shared.
+- A creative coder selling plotter drawings: set BRAND and ARTIST to your studio, make PRACTICE pen-plotted line work, and swap the shop PRODUCT for a signed plotter sheet.
+- A map artist: keep the terrain case, set PRODUCT to a framed contour map, and replace the gallery titles and prices with your own imaginary places.
+- A design studio portfolio: set BRAND to the studio, drop the cart link from the top bar, and use the gallery pieces as case study covers.
+- A print shop for a single series: set PRODUCT to one print size, edit the content file to list only that series, and point the cart at your mailing list.
 
 ## FAQ
 
-### How does the seed system work on the Generative Art Studio Website template?
-The Generative Art Studio Website template draws every section background from one number. A visitor types a seed or presses regenerate, and the flow fields, circle packing, noise contours and subdivision all redraw. The same seed always returns the same picture, and the seed travels in the URL, so a shared link opens the exact artwork. A missing or invalid seed falls back to the default 4417.
+### How does the seed work on the Generative Art Studio Website and can I share a specific artwork?
+The Generative Art Studio Website draws every section background from one global seed, a single number you can type into the seed dock or replace with the regenerate button. The same seed always returns the same picture, and it travels in the URL hash, so copying the link gives someone the exact artwork you were looking at. Pressing R regenerates the seed when focus is not inside an input.
 
-### Can I sell prints directly from the Generative Art Studio Website template?
-The Generative Art Studio Website template includes a Print Shop page that draws the chosen seed inside CSS frames on a code-drawn wall. Visitors pick a size, frame and wall color, see live prices and add the piece to a cart stored in the browser. The shop sells one product type, set by the PRODUCT variable, so it suits a single print line rather than a full catalog.
+### Can I sell prints directly from the Generative Art Studio Website without a server or payment backend?
+The Generative Art Studio Website includes a print shop that draws the chosen seed inside CSS frames on a code-drawn wall, with size, frame and wall color selectors and live prices. The cart is stored in the browser under a key derived from the brand name, so no server is involved. Orders are not processed by the template itself; you connect the cart to your own checkout or email.
 
-### How do I change the studio name, artist and city on this template?
-The Generative Art Studio Website template exposes five variables: BRAND, ARTIST, CITY, PRACTICE and PRODUCT. Set them to your studio name, your name, your city, what you make and what the shop sells. Then rewrite the copy in the single content file, which holds piece titles, prices and FAQ answers, so the wording matches your practice rather than the defaults.
+### What can I change first in the Generative Art Studio Website template to make it my own studio?
+Start with the five variables: set BRAND to your studio name, ARTIST to your name, CITY to your city, PRACTICE to what you make and PRODUCT to what the shop sells. Then edit the single content file for piece titles, prices and FAQ answers. The layout, palettes and canvas effects stay as they are, and the brand slug updates the email address, cart storage key and PNG file names.
 
-### What do visitors see in the gallery on the Generative Art Studio Website template?
-The gallery page of the Generative Art Studio Website template renders 24 pieces from fixed seeds as thumbnails. Opening a piece shows a large view with its seed, palette and parameters, and the seed can be carried into the shop. Thumbnails render through a single queue and are cached, so the gallery, overlay, shop and cart reuse the same drawn results.
+### Is the Generative Art Studio Website template free, and what does Pro include?
+The Generative Art Studio Website is a free template. Its prompt and DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. Commercial or client work needs Pro, which also gives Pro members the full prompt for Pro templates and the source code of the demos. You can add it with the command npx vibefather add generative-art-studio-website.
 
-### Can I add my own drawing algorithm to the Generative Art Studio Website template?
-Yes. The Generative Art Studio Website template runs four algorithms: flow field, circle packing, noise contours and recursive subdivision. You add another by writing one module that follows the same render interface, then exposing it in the shop and gallery. You can also replace the six committed palettes, which rotate by seed and section, to change the color of every canvas at once.
+### Which AI coding tools built the Generative Art Studio Website demos and can I rebuild it in another model?
+The live demos of the Generative Art Studio Website were built by Claude Opus 5.5 in Claude Code, Claude Sonnet 5.5 and Gemini 4 Carbon in Cursor, GPT-6 Astra in Codex, and GLM-5.4 in ZCode. The published prompt and DESIGN.md are written so any capable AI coding agent can follow them. The comparison pages on VibeFather show the demos side by side.
 
 ### How do I build a generative art studio website with AI?
 Copy the prompt from this page or run npx vibefather add generative-art-studio-website, replace [BRAND], [ARTIST], [CITY] and [PRACTICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Generative Art Studio Website demo?
-The Generative print studio case was built by Claude Opus 5.5 in Claude Code; the Imaginary terrain maps case was built by Claude Sonnet 5.5 in Cursor; the Generative print studio case was built by Gemini 4 Carbon in Cursor; the Generative print studio case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Generative print studio case was built by Claude Opus 5.5 in Claude Code; the Imaginary terrain maps case was built by Claude Sonnet 5.5 in Cursor; the Generative print studio case was built by Gemini 4 Carbon in Cursor; the Generative print studio case was built by GPT-6 Astra in Codex; the Generative print studio case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Generative Art Studio Website template use?
 Generative Art Studio Website is a 3-page site built with React, with scroll animation, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

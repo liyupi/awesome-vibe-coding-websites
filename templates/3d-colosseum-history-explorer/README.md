@@ -18,7 +18,7 @@ The prompt suits educators, museum prototypes and architecture studies that need
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Vanilla CSS + three |
 | Pages | 1 |
@@ -90,7 +90,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add 3d-colosseum
 The Architectural field study case was built by GPT-6.1 Sol in Codex; the Museum learning edition case was built by GPT-6.1 Sol in Codex. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the 3D Colosseum History Explorer template use?
-3D Colosseum History Explorer is a single-page site built with Three.js and Plain HTML, with drag & physics, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Colosseum History Explorer is a single-page site built with Plain HTML and Three.js, with drag & physics, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the 3D Colosseum History Explorer template free to use?
 3D Colosseum History Explorer is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

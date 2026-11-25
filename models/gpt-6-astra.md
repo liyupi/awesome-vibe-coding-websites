@@ -4,19 +4,19 @@
 
 [See them live on VibeFather →](https://vibefather.ai/models/gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model)
 
-**Compare GPT-6 Astra with:** [Gemini 4 Carbon](../compare/gemini-4-carbon-vs-gpt-6-astra.md) <sub>5</sub> · [Gemini 4 Neon](../compare/gemini-4-neon-vs-gpt-6-astra.md) <sub>5</sub> · [Claude Opus 5.5](../compare/claude-opus-5-5-vs-gpt-6-astra.md) <sub>5</sub> · [Claude Sonnet 5.5](../compare/claude-sonnet-5-5-vs-gpt-6-astra.md) <sub>4</sub>
+**Compare GPT-6 Astra with:** [Gemini 4 Carbon](../compare/gemini-4-carbon-vs-gpt-6-astra.md) <sub>5</sub> · [Gemini 4 Neon](../compare/gemini-4-neon-vs-gpt-6-astra.md) <sub>5</sub> · [Claude Opus 5.5](../compare/claude-opus-5-5-vs-gpt-6-astra.md) <sub>5</sub> · [GLM-5.4](../compare/glm-5-4-vs-gpt-6-astra.md) <sub>4</sub> · [Claude Sonnet 5.5](../compare/claude-sonnet-5-5-vs-gpt-6-astra.md) <sub>4</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp" width="100%" alt="Solar System 3D Explainer built by GPT-6 Astra in Codex"></a><br>
-<b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> <sup>PRO</sup><br>
-<sub>The Solar System · Codex · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter built by GPT-6 Astra in Codex"></a><br>
 <b><a href="../templates/saas-app-dashboard-starter">SaaS App Dashboard Starter</a></b> <sup>PRO</sup><br>
 <sub>Subscription product analytics · Codex · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp" width="100%" alt="Solar System 3D Explainer built by GPT-6 Astra in Codex"></a><br>
+<b><a href="../templates/solar-system-3d-explainer">Solar System 3D Explainer</a></b> <sup>PRO</sup><br>
+<sub>The Solar System · Codex · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -38,21 +38,21 @@
 <sub>Coastal boutique hotel · Codex · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/eec64383-7a25-4814-b3e8-a20916f5b650/shot_desktop.f97fcc04d9.webp" width="100%" alt="Retro Desktop OS Portfolio built by GPT-6 Astra in Codex"></a><br>
-<b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
-<sub>Motion designer portfolio · Codex · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=83a6661d-9e30-4bee-b47a-ebeea56efd3b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp" width="100%" alt="AI Tools Directory Website built by GPT-6 Astra in Codex"></a><br>
 <b><a href="../templates/ai-tools-directory-website">AI Tools Directory Website</a></b><br>
 <sub>Independent AI tools · Codex · <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=83a6661d-9e30-4bee-b47a-ebeea56efd3b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface built by GPT-6 Astra in Codex"></a><br>
 <b><a href="../templates/ai-chat-app-interface">AI Chat App Interface</a></b> <sup>PRO</sup><br>
 <sub>Product studio assistant · Codex · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/eec64383-7a25-4814-b3e8-a20916f5b650/shot_desktop.f97fcc04d9.webp" width="100%" alt="Retro Desktop OS Portfolio built by GPT-6 Astra in Codex"></a><br>
+<b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
+<sub>Motion designer portfolio · Codex · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

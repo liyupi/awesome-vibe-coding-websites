@@ -2,7 +2,7 @@
 
 > Raw, loud layouts: hard borders, system fonts or heavy grotesques, visible structure and no polish for its own sake.
 
-13 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/brutalist?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
+14 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/brutalist?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles)
 
 <table>
 <tr>
@@ -63,10 +63,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
-<sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/running-shoe-product-launch-page/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/digital-marketing-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/digital-marketing-agency-website/28445029-8cd5-4ad4-9ebf-1a752f3b7531/shot_desktop.e5aca4c077.webp" width="100%" alt="Digital Marketing Agency Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/digital-marketing-agency-website">Digital Marketing Agency Website</a></b><br>
+<sub>Bold single-page marketing agency with studio photography, sample-data case studies, services, process, team and a proposal form.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/digital-marketing-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/digital-marketing-agency-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/logistics-and-freight-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/logistics-and-freight-website/14148abf-d655-4ab3-b006-6d2413563f58/shot_desktop.a77627ced3.webp" width="100%" alt="Logistics and Freight Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
@@ -83,18 +83,24 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/startup-waitlist-landing-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/digital-marketing-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/digital-marketing-agency-website/28445029-8cd5-4ad4-9ebf-1a752f3b7531/shot_desktop.e5aca4c077.webp" width="100%" alt="Digital Marketing Agency Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/digital-marketing-agency-website">Digital Marketing Agency Website</a></b><br>
-<sub>Bold single-page marketing agency with studio photography, sample-data case studies, services, process, team and a proposal form.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/digital-marketing-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/digital-marketing-agency-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/climbing-gym-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/climbing-gym-website/45248244-bf0e-4cfe-84b4-3ad1666f4e21/shot_desktop.3b62d290f3.webp" width="100%" alt="Climbing Gym Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/climbing-gym-website">Climbing Gym Website</a></b><br>
 <sub>A chalk-white climbing gym site with a grade-filterable wall map and busy-times chart.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/climbing-gym-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/climbing-gym-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
+<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
+<sub>An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools.</sub><br>
+<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/running-shoe-product-launch-page/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/flash-sale-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/c4bf71ee-4b86-47cf-97cf-7ff5855e5f65/shot_desktop.fab85b1df2.webp" width="100%" alt="Flash Sale Landing Page website template — live demo built by GLM-5.4 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/flash-sale-landing-page">Flash Sale Landing Page</a></b><br>
+<sub>Evergreen homeware sale page with a countdown, tiered discounts, deal cards, a bundle builder and a gift guide.</sub><br>
+<sub>GLM-5.4 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/flash-sale-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/flash-sale-landing-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

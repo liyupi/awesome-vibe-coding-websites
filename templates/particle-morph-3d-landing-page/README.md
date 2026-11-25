@@ -13,7 +13,7 @@ A flagship 3D product landing page for an original spatial-audio headset powered
 | Category | [More Landing Pages](../../README.md#more-landing-pages) |
 | Site type | [Landing Page](../../types/landing-page.md), Product |
 | Style | [Dark](../../styles/dark.md), Futuristic |
-| Effects | 3D / WebGL, Particle Morph, Scroll 3d, Webgl Shaders |
+| Effects | Particle Morph, Scroll 3d, Webgl Shaders, 3D / WebGL |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
 | Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add particle-morph-3d-landi
 The Auralis One (Spatial Audio Headset) case was built by Gemini 4 Neon in Antigravity; the Velvet Arc (Studio Reference Wireless Headset) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Particle Morph 3D Landing Page template use?
-Particle Morph 3D Landing Page is a single-page site built with Three.js, React and Vite, with 3d / webgl, particle morph, scroll 3d and webgl shaders. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Particle Morph 3D Landing Page is a single-page site built with React, Three.js and Vite, with particle morph, scroll 3d, webgl shaders and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Particle Morph 3D Landing Page template for a client or a business?
 The Particle Morph 3D Landing Page prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

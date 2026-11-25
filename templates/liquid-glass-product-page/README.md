@@ -2,7 +2,7 @@
 
 > A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.
 
-<a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/webp.e1c9a712d7.webp" width="100%" alt="Liquid Glass Product Page — Liquid Glass Product Landing Page built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a>
+<a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/webp.e1c9a712d7.webp" width="100%" alt="Liquid Glass Product Page — Liquid Glass Product Landing Page built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon, GPT-6 Astra and GLM-5.4"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -17,12 +17,12 @@ To adapt it, change the brand, product name, what the product is, the starting p
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
-| Style | [Minimal](../../styles/minimal.md), [Glass](../../styles/glass.md), [Editorial](../../styles/editorial.md) |
+| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
+| Style | [Glass](../../styles/glass.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Cursor Effects, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
+| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -52,6 +52,13 @@ To adapt it, change the brand, product name, what the product is, the starting p
 <sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=cc1b4850-ba96-4073-aa05-ec1ebefa21fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/liquid-glass-product-page?case=39e4619c-9ed0-4e4a-a60e-ca611f8032ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/39e4619c-9ed0-4e4a-a60e-ca611f8032ff/shot_desktop.274353f5b5.webp" width="100%" alt="Liquid Glass Product Page — Glass room speaker, built by GLM-5.4 in ZCode"></a><br>
+<b>Glass room speaker</b><br>
+<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=39e4619c-9ed0-4e4a-a60e-ca611f8032ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
 </table>
 
 ## Variables
@@ -74,36 +81,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A boutique audio studio: set BRAND to your label, PRODUCT to your speaker and PRODUCT_KIND to its material story, then swap the six photos and the spec sheet rows for your own drivers and finishes.
-- A crowdfunding campaign page: keep the preorder panel and live totals, set PRICE and SHIP_WINDOW to your batch, and rewrite the four story chapters around your prototype and production timeline.
-- A design studio pitching a concept: use the editions block to show three finish or configuration options, and replace the press quotes and room hotspots with your client's concept renders and material samples.
-- A small-batch homeware maker: change PRODUCT_KIND to your object, keep the materials grid and self-drawing line drawing, and rewrite the FAQ to answer questions about care, lead times and returns.
+- A small-batch furniture studio: set BRAND and PRODUCT to your piece, make PRODUCT_KIND a material-led description, and rewrite the four story chapters around joinery, finish and grain.
+- A crowdfunding hardware campaign: keep the preorder panel and editions, set SHIP_WINDOW to your batch date, and replace the press quotes and spec rows with your own prototype numbers.
+- A design studio pitching a product concept to a client: change BRAND to the client, swap PRODUCT_KIND for the concept, and use the room photo and hotspots to show the object in context.
+- A specialty coffee roaster launching a brewing device: set PRODUCT to the device, rewrite the sound chapter as a brew chapter, and swap the spec sheet for dimensions, capacity and materials.
 
 ## FAQ
 
-### What sections does the Liquid Glass Product Page include for launching a hardware product?
-The Liquid Glass Product Page is a single page that opens with a counting loader, then a full-bleed hero with a pointer-following lens, a pinned four-chapter story, a materials grid, a room photo with tappable glass hotspots, a twelve-row spec sheet beside a self-drawing line drawing, three editions, a preorder panel with live totals, an FAQ and a footer. Every section is reached by hash anchors without leaving the page.
+### How do I use the Liquid Glass Product Page template to sell my own product?
+The Liquid Glass Product Page template is a single-page preorder site. Set BRAND to your studio name, PRODUCT to your product, PRODUCT_KIND to what the object is, PRICE to your starting price and SHIP_WINDOW to your delivery phrase, then replace the six product photos and rewrite the copy in the content file. The layout, glass surfaces, type and motion stay as written.
 
-### How do I change the product, brand and price in the Liquid Glass Product Page template?
-Set the five variables BRAND, PRODUCT, PRODUCT_KIND, PRICE and SHIP_WINDOW, then swap the six product photos for your own. BRAND drives the wordmark, loader, title and footer; PRODUCT appears in the hero eyebrow, preorder headline and edition names; PRICE sets the base Clear edition and the other editions and totals are written relative to it. All copy lives in one content file.
+### What sections does the Liquid Glass Product Page template include?
+The Liquid Glass Product Page template runs from a counting loader into a full-bleed hero with a pointer-following lens, a pinned four-chapter story, a materials grid, a room photo with tappable glass hotspots, a twelve-row spec sheet beside a self-drawing line drawing, three editions, a preorder panel with live totals, an FAQ and a footer. Every section is reached by hash anchors on the one page.
 
-### Can I use the Liquid Glass Product Page for a crowdfunding campaign or a client product concept?
-The Liquid Glass Product Page suits hardware founders running a first production batch, design-led device brands, crowdfunding campaigns that want their own page, and studios pitching a product concept to clients. It reads as a small studio taking real reservations, with concrete numbers, invented press quotes and precise specs, so a campaign can collect refundable deposits through the preorder panel on its own page.
+### Can I change the glass speaker to a different product, like a cold brew tower?
+Yes. One of the live demos of the Liquid Glass Product Page template sells a cold brew tower instead of the default glass room speaker, which shows how far the copy can move. Change PRODUCT and PRODUCT_KIND, then rewrite the four story chapters, specs, edition names and FAQ answers for your object. Pick something with a visible material story, since the glass panels sit over product photography.
 
-### What does the glass effect look like in browsers that don't support refraction?
-The Liquid Glass Product Page renders every panel, chip and pricing card as a blurred, slightly refracting surface with a thin iridescent rim whose brightest point turns toward the cursor. In Chromium browsers the edges refract through an SVG displacement map generated for each panel's exact size; other browsers get a clean frosted version of the same surface, so the layout and type stay intact.
+### Do I need Pro to use the Liquid Glass Product Page template for a client project?
+Yes. The Liquid Glass Product Page template is a Pro template, so commercial and client work needs Pro. Pro also shows the full prompt and includes the source code of the demos, while free templates' prompts and every DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. The brief, stack and variables are visible publicly either way.
 
-### How does the preorder panel calculate the deposit and total?
-The preorder panel tracks the selected edition, finish and quantity and shows a live total, with a refundable $50 deposit as the primary call to action. Editions and totals are written relative to the base price, so when you change PRICE you recalculate the other two editions and the totals. The page has no backend, so reservations are collected the way you wire the form.
+### What should I change first in the Liquid Glass Product Page template?
+Start with the five variables in the content file: BRAND, PRODUCT, PRODUCT_KIND, PRICE and SHIP_WINDOW. PRICE drives the base edition, and the other two editions and the preorder totals are written relative to it, so recalculate them when it changes. Then swap the six product photos and check that the spec sheet and FAQ still match your product.
 
 ### How do I build a liquid glass product page with AI?
 Copy the full prompt (Pro) from this page or run npx vibefather add liquid-glass-product-page, replace [BRAND], [PRODUCT], [PRODUCT_KIND] and [PRICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Liquid Glass Product Page demo?
-The Glass room speaker case was built by Claude Opus 5.5 in Cursor; the Cold brew tower case was built by Claude Sonnet 5.5 in Cursor; the Glass room speaker case was built by Gemini 4 Carbon in Cursor; the Glass room speaker case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Glass room speaker case was built by Claude Opus 5.5 in Cursor; the Cold brew tower case was built by Claude Sonnet 5.5 in Cursor; the Glass room speaker case was built by Gemini 4 Carbon in Cursor; the Glass room speaker case was built by GPT-6 Astra in Codex; the Glass room speaker case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Liquid Glass Product Page template use?
-Liquid Glass Product Page is a single-page site built with Motion, Tailwind CSS and React, with scroll animation, cursor effects and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Liquid Glass Product Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, cursor effects and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Liquid Glass Product Page template free to use?
 Liquid Glass Product Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

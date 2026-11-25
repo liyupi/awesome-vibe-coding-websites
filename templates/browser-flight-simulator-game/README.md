@@ -2,7 +2,7 @@
 
 > An instant-play low-poly Three.js island flight game with ring courses, mail drops, scored landings, and ghost replay.
 
-<a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/6f8f2e7e-c9ee-4b0f-8880-a75fd678bb0d/webp.21807cd980.webp" width="100%" alt="Browser Flight Simulator Game — Low-Poly 3D Three.js Island Flight Game built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/6f8f2e7e-c9ee-4b0f-8880-a75fd678bb0d/webp.21807cd980.webp" width="100%" alt="Browser Flight Simulator Game — Low-Poly 3D Three.js Island Flight Game built by Gemini 4 Neon, GPT-6.2 Sol and GLM-5.4"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Browser Flight Simulator Game is a full-viewport low-poly Three.js flying experi
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,6 +32,13 @@ Browser Flight Simulator Game is a full-viewport low-poly Three.js flying experi
 <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=b8db1754-8a53-40cf-a553-5dd051d79882&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/b8db1754-8a53-40cf-a553-5dd051d79882/shot_desktop.59e12a4f07.webp" width="100%" alt="Browser Flight Simulator Game — Nordic fjord mailplane run, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Nordic fjord mailplane run</b><br>
 <sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=b8db1754-8a53-40cf-a553-5dd051d79882&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=7d56e1cc-5ba7-408f-91f4-4c3fe212eccd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/7d56e1cc-5ba7-408f-91f4-4c3fe212eccd/shot_desktop.25bb054c41.webp" width="100%" alt="Browser Flight Simulator Game — Golden-hour coastal archipelago, built by GLM-5.4 in ZCode"></a><br>
+<b>Golden-hour coastal archipelago</b><br>
+<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=7d56e1cc-5ba7-408f-91f4-4c3fe212eccd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -55,36 +62,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A flight school or aviation club: set BRAND and AIRCRAFT_NAME to your organization and trainer, then rewrite the Mail Delivery brief as a first-solo milestone so students fly the ring course before booking.
-- A tourism board for an island region: set ARCHIPELAGO_NAME and HARBOR_NAME to real place names, keep the free-flight cruise as the hook and use Photo Mode snapshots as shareable trip imagery.
-- A game studio portfolio piece: keep the procedural low-poly world, rename the brand to your studio and point the runway landing score at a demo reel so visitors test the flight model themselves.
-- A children's aviation museum exhibit: set BRAND to the museum, simplify the mission labels to friendly names and leave the touch controls and chase camera as the default kiosk setup.
+- A flight school or flying club: set BRAND to your school, AIRCRAFT_NAME to your trainer and HARBOR_NAME to your home airfield, then keep the Ring Course as a practice drill.
+- A tourism board for an island region: rename ARCHIPELAGO_NAME to your real chain, relabel the Mail Delivery harbor markers as your ports and towns, and feature the Runway Landing as an arrival challenge.
+- A game studio promoting a coastal flying title: use BRAND as the game name, tune the aircraft and island names to your world, and keep Photo Mode for shareable screenshots.
+- A creative developer's portfolio piece: set BRAND to your studio, keep the procedural archipelago, and point visitors to the Ring Course and Ghost Replay as the standout technical demo.
 
 ## FAQ
 
-### What can you actually do in the Browser Flight Simulator Game?
-The Browser Flight Simulator Game opens already airborne over a procedural low-poly archipelago, so you can cruise freely from the first frame or launch one of three activities. The Ring Course is a timed run through eight glowing golden rings with a ghost replay of your best path. Mail Delivery asks you to drop mail over three harbor markers, and Runway Landing grades your touchdown glide slope and centerline alignment out of 100.
+### What activities and game modes are included in the Browser Flight Simulator Game?
+The Browser Flight Simulator Game includes Free Flight plus three playable activities you can start at any time: a timed Ring Course with eight glowing rings and a saved Best-Run Ghost Plane replay, Mail Delivery with three harbor drop zones and a drop score, and Runway Landing graded out of 100 on touchdown glide slope and centerline alignment. All four run in the same full-viewport Three.js scene.
 
-### Does the Browser Flight Simulator Game need external 3D models or audio files to run?
-No. The Browser Flight Simulator Game builds every island, beach, pine forest, harbor town, lighthouse, runway and cloud cluster procedurally in Three.js, and the ocean waves and shoreline foam come from a custom shader. Propeller hum, wind rush, ring chimes and mail drop sounds are synthesized with the Web Audio API. There are no external model, texture or audio files and no backend server, so the build stays small and loads fast.
+### Do I need any 3D models, sound files or a server to run this flight simulator?
+No. The Browser Flight Simulator Game builds every island, beach, pine forest, harbor town, lighthouse, runway, cloud and aircraft procedurally in Three.js, synthesizes propeller, wind, ring and mail sounds with Web Audio, and ships as static files with no backend or external APIs. The build is a Vite project that outputs static files you can host anywhere.
 
-### How do I change the flight club name, archipelago and aircraft in this template?
-The Browser Flight Simulator Game uses four variables: BRAND for the flight club, ARCHIPELAGO_NAME for the island chain, HARBOR_NAME for the main harbor town and AIRCRAFT_NAME for the aircraft. Replace them in the prompt before you generate, then rewrite the headlines, mission readouts and labels to match. The template keeps copy in one content file so you can swap names and text later without touching the 3D scene code.
+### How do I turn the Browser Flight Simulator Game into a branded game for my own studio or project?
+Set the four variables in the prompt: BRAND for your flight club name, ARCHIPELAGO_NAME for your island chain, AIRCRAFT_NAME for your plane and HARBOR_NAME for your main harbor town. Then rewrite every headline, label and mission readout in the content file to match, keeping the same length and tone. The layout, colors and motion stay as described.
 
-### Is there a free browser flight simulator game template I can build with AI?
-Yes. The Browser Flight Simulator Game template is free, and its prompt and DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. You can generate the site with an AI coding agent such as Claude Code, Codex, Cursor, Windsurf or Gemini CLI. Commercial or client work needs a VibeFather Pro license, which also gives you the source code of the demos.
+### What controls does the flight simulator use on desktop and on a phone?
+On desktop the Browser Flight Simulator Game flies with W and S for pitch, A and D for roll, Shift and Ctrl for throttle, C to switch camera and Space to drop mail, with mouse steering also supported. On phones it swaps the legend for an on-screen touch pad with a virtual pitch and roll stick, throttle plus and minus buttons and a drop button.
 
-### How do the controls and HUD work on a phone in the Browser Flight Simulator Game?
-On phones the Browser Flight Simulator Game swaps the desktop key legend for an on-screen touch pad with a virtual pitch and roll stick, throttle plus and minus buttons and a mail drop button. The HUD compacts into two rows on a 390px viewport, and the radar minimap, airspeed, altitude, throttle bar and stall warning stay visible. You can still switch cameras, lighting and sound from the top icon bar.
+### Is the Browser Flight Simulator Game template free to use?
+The Browser Flight Simulator Game prompt and its DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. Commercial or client work needs a VibeFather Pro license, which also gives Pro members the full prompt and the source code of the demos. You can add it to a project with the VibeFather command line.
 
 ### How do I build a browser flight simulator game with AI?
 Copy the prompt from this page or run npx vibefather add browser-flight-simulator-game, replace [BRAND], [ARCHIPELAGO_NAME], [AIRCRAFT_NAME] and [HARBOR_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Browser Flight Simulator Game demo?
-The Golden-hour coastal archipelago case was built by Gemini 4 Neon in Antigravity; the Nordic fjord mailplane run case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Golden-hour coastal archipelago case was built by Gemini 4 Neon in Antigravity; the Nordic fjord mailplane run case was built by GPT-6.2 Sol in Codex; the Golden-hour coastal archipelago case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Browser Flight Simulator Game template use?
-Browser Flight Simulator Game is a single-page site built with Three.js, Tailwind CSS and React, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Browser Flight Simulator Game is a single-page site built with React, Tailwind CSS and Three.js, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Browser Flight Simulator Game template for a client or a business?
 The Browser Flight Simulator Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

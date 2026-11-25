@@ -2,7 +2,7 @@
 
 > Marketing sites for software products: product screenshots, feature grids, integrations, pricing tiers and changelog-style sections.
 
-16 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/saas?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
+18 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/saas?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
 
 <table>
 <tr>
@@ -49,30 +49,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/cybersecurity-saas-landing-page/26d457ce-90e7-418d-847a-7d3a67be9d7d/shot_desktop.a9208b3cfb.webp" width="100%" alt="Cybersecurity SaaS Landing Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/cybersecurity-saas-landing-page">Cybersecurity SaaS Landing Page</a></b><br>
-<sub>A dark security landing page with an animated threat map, product tabs, trust controls, and a demo form.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/cybersecurity-saas-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/731bb682-2ef1-44aa-966c-83d9eb71690b/shot_desktop.d069d29e32.webp" width="100%" alt="AI Agent Startup Landing Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/ai-agent-startup-landing-page">AI Agent Startup Landing Page</a></b> <sup>PRO</sup><br>
 <sub>A dark agent-platform landing page where task cards travel a live node graph and steps pin on scroll.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-agent-startup-landing-page/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-product-tour-page/cf555c73-30a6-4c58-9e37-1c01a352e7dc/shot_desktop.edf943e7fa.webp" width="100%" alt="Interactive Product Tour Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/interactive-product-tour-page">Interactive Product Tour Page</a></b> <sup>PRO</sup><br>
-<sub>A guided SaaS tour with chapter tabs, interactive hotspots, autoplay, and a polished code-drawn app.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-product-tour-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/shot_desktop.9487c64b4e.webp" width="100%" alt="Help Center Knowledge Base website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/help-center-knowledge-base">Help Center Knowledge Base</a></b><br>
-<sub>Calm help center with instant search, six category cards, article pages with TOC rails, helpfulness voting and a contact form.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/help-center-knowledge-base/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/cybersecurity-saas-landing-page/26d457ce-90e7-418d-847a-7d3a67be9d7d/shot_desktop.a9208b3cfb.webp" width="100%" alt="Cybersecurity SaaS Landing Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/cybersecurity-saas-landing-page">Cybersecurity SaaS Landing Page</a></b><br>
+<sub>A dark security landing page with an animated threat map, product tabs, trust controls, and a demo form.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/cybersecurity-saas-landing-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -91,16 +77,44 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/15acfef5-dfae-4eae-846f-b3f9fd1188b5/shot_desktop.613ab5367e.webp" width="100%" alt="AI Music Generator Landing Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> <sup>PRO</sup><br>
-<sub>Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-music-generator-landing-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/api-reference-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/api-reference-docs-site/7038a60e-8b6b-4f16-8ac8-76f606642c10/shot_desktop.d97b5d37f5.webp" width="100%" alt="API Reference Docs Site website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/api-reference-docs-site">API Reference Docs Site</a></b> <sup>PRO</sup><br>
 <sub>Three-column API reference with instant search, parameter tables, tabbed code samples with copy buttons and response examples.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/api-reference-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/api-reference-docs-site/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/shot_desktop.9487c64b4e.webp" width="100%" alt="Help Center Knowledge Base website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/help-center-knowledge-base">Help Center Knowledge Base</a></b><br>
+<sub>Calm help center with instant search, six category cards, article pages with TOC rails, helpfulness voting and a contact form.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/help-center-knowledge-base/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/email-inbox-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/email-inbox-app-interface/a501119e-6ea5-4003-8e6d-f2a6c15e9aed/shot_desktop.5d05c4a210.webp" width="100%" alt="Email Inbox App Interface website template — live demo built by GLM-5.4 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/email-inbox-app-interface">Email Inbox App Interface</a></b> <sup>PRO</sup><br>
+<sub>Three-pane email client for a fictional mail service, with a seeded mailbox, split inbox, composer and shortcuts.</sub><br>
+<sub>GLM-5.4 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/email-inbox-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/email-inbox-app-interface/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-product-tour-page/cf555c73-30a6-4c58-9e37-1c01a352e7dc/shot_desktop.edf943e7fa.webp" width="100%" alt="Interactive Product Tour Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/interactive-product-tour-page">Interactive Product Tour Page</a></b> <sup>PRO</sup><br>
+<sub>A guided SaaS tour with chapter tabs, interactive hotspots, autoplay, and a polished code-drawn app.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-product-tour-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-product-tour-page/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/shot_desktop.6da87800ea.webp" width="100%" alt="Team Wiki Workspace App website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/team-wiki-workspace-app">Team Wiki Workspace App</a></b> <sup>PRO</sup><br>
+<sub>A block-based team wiki with slash commands, nested pages, table/board/calendar database views, and Markdown export.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-wiki-workspace-app/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/15acfef5-dfae-4eae-846f-b3f9fd1188b5/shot_desktop.613ab5367e.webp" width="100%" alt="AI Music Generator Landing Page website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
+<b><a href="../templates/ai-music-generator-landing-page">AI Music Generator Landing Page</a></b> <sup>PRO</sup><br>
+<sub>Holographic music software with original bundled audio, a real spectrum, and an honest local demo workflow.</sub><br>
+<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-music-generator-landing-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -111,10 +125,10 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-changelog-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/shot_desktop.6da87800ea.webp" width="100%" alt="Team Wiki Workspace App website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/team-wiki-workspace-app">Team Wiki Workspace App</a></b> <sup>PRO</sup><br>
-<sub>A block-based team wiki with slash commands, nested pages, table/board/calendar database views, and Markdown export.</sub><br>
-<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-wiki-workspace-app/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/discussion-forum-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/discussion-forum-website/eab43f74-04f8-4f22-adcd-5ffe6e15fe88/shot_desktop.904ad477bb.webp" width="100%" alt="Discussion Forum Website website template — live demo built by GLM-5.4 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/discussion-forum-website">Discussion Forum Website</a></b><br>
+<sub>Community forum for an amateur astronomy club, with 40 seeded threads, polls, profiles, notifications and moderation.</sub><br>
+<sub>GLM-5.4 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/discussion-forum-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/discussion-forum-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

@@ -84,7 +84,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add racing-drive
 The Kaelen Vance #47 (Voltara Motorsport) case was built by Gemini 4 Neon in Antigravity; the Tomasz Lind #19 (Nordring Racing) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Racing Driver Personal Website template use?
-Racing Driver Personal Website is a single-page site built with Three.js, React, Vite and Webgl, with 3d / webgl and scroll scrub. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Racing Driver Personal Website is a single-page site built with React, Three.js, Vite and Webgl, with 3d / webgl and scroll scrub. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Racing Driver Personal Website template free to use?
 Racing Driver Personal Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

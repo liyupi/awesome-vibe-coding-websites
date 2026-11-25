@@ -91,7 +91,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add danmaku-vide
 The Visual culture films case was built by Kimi K3.1 Pro in Kimi Code; the Travel and food films case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Danmaku Video Platform template use?
-Danmaku Video Platform is a 2-page site built with Tailwind CSS and React, with generative / canvas, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Danmaku Video Platform is a 2-page site built with React and Tailwind CSS, with generative / canvas, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Danmaku Video Platform template free to use?
 Danmaku Video Platform is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

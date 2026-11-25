@@ -12,7 +12,7 @@ A precision dark gallery of 30 original animated UI components engineered for la
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Portfolio](../../types/portfolio.md), [Docs](../../types/docs.md) |
-| Style | [Minimal](../../styles/minimal.md), [Bento Grid](../../styles/bento.md), [Dark](../../styles/dark.md) |
+| Style | [Bento Grid](../../styles/bento.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Text Animation, Cursor Effects, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
@@ -83,7 +83,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add animated-ui-
 The KineticKit (Electric Violet #7C5CFF) case was built by Gemini 4 Neon in Antigravity; the MotionForge (Cyber Cyan #00D4FF) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Animated UI Components Gallery template use?
-Animated UI Components Gallery is a single-page site built with Tailwind CSS and React, with text animation, cursor effects and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Animated UI Components Gallery is a single-page site built with React and Tailwind CSS, with text animation, cursor effects and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Animated UI Components Gallery template free to use?
 Animated UI Components Gallery is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

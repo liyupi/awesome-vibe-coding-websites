@@ -2,7 +2,7 @@
 
 > Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.
 
-<a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/webp.1457bd9164.webp" width="100%" alt="Solar System 3D Explainer — 3D Solar System Explainer with Scroll Tour built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GPT-6 Astra"></a>
+<a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/webp.1457bd9164.webp" width="100%" alt="Solar System 3D Explainer — 3D Solar System Explainer with Scroll Tour built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon, GPT-6 Astra and GLM-5.4"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,11 +16,11 @@ It suits science teachers, museums, planetariums, science publishers and develop
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + three.js + Tailwind CSS 3.4 + three + gsap + lucide |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
+| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -50,6 +50,13 @@ It suits science teachers, museums, planetariums, science publishers and develop
 <sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=b81ab903-7e4c-4f47-8f5e-35b9eba251d5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/b81ab903-7e4c-4f47-8f5e-35b9eba251d5/shot_desktop.877cdf65ca.webp" width="100%" alt="Solar System 3D Explainer — The Solar System, built by GLM-5.4 in ZCode"></a><br>
+<b>The Solar System</b><br>
+<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=b81ab903-7e4c-4f47-8f5e-35b9eba251d5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
 </table>
 
 ## Variables
@@ -73,36 +80,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A science museum microsite: set BRAND to the museum, AUDIENCE to visiting families, and rewrite each stop caption as a gallery label visitors read while the camera flies.
-- A classroom teaching tool: set AUDIENCE to middle school students, keep HOME_BODY as Earth, and swap the street table for a schoolyard pacing exercise your class can run.
-- An exoplanet publisher: set SYSTEM to a red dwarf and BODIES to its known worlds, then rewrite facts like day length and moons for each planet.
-- A planetarium preview page: set BRAND to the planetarium, use CENTER_BODY for the star, and turn the tour captions into show times and seating notes.
+- A school science department: set BRAND to your school, keep the Solar System, and set AUDIENCE to your year group so captions and facts match what students already know.
+- A planetarium or museum microsite: keep the nine-stop tour, swap the street-pacing table for a walking route through your gallery, and set HOME_BODY to the body your exhibits feature.
+- A science publisher covering exoplanets: set SYSTEM to a red dwarf, list its seven planets in BODIES, and set CENTER_BODY to the star with real published figures.
+- A developer portfolio piece: keep the true-scale switch and time slider, set BRAND to your own name, and set AUDIENCE to hiring managers who want to see a Three.js build.
 
 ## FAQ
 
-### What does the scale switch in the Solar System 3D Explainer actually do?
-The scale switch animates the planets from readable scale, where each world is large enough to study, to true scale, where real distances and sizes apply and every planet shrinks below one pixel. A live readout shows how many pixels wide Earth is on screen at that moment. The tour ends by revealing true scale, then a table explains how to pace the whole system out on a real street.
+### How does the true scale switch work in the Solar System 3D Explainer?
+In readable scale the planets are large enough to study. Flip to true scale and distances and sizes animate to their real proportions until every planet shrinks below one pixel, while a live readout shows how wide Earth is on screen. The tour ends by revealing true scale, followed by a table for pacing the whole system on a real street.
 
-### Can I point the Solar System 3D Explainer at a different star system or set of exoplanets?
-Yes. The Solar System 3D Explainer template keeps all body data in one content file, so you can set SYSTEM, CENTER_BODY and BODIES to another star and its worlds, such as a set of exoplanets around a small red star. Your coding agent restates the real published figures in the same fields and keeps the same look, surface recipes and tour structure.
+### Can I use the Solar System 3D Explainer for a different star system or exoplanets?
+Yes. All body data lives in one content file, and the scene reads only that data, so a different system needs no scene changes. Set SYSTEM, CENTER_BODY, BODIES and HOME_BODY, and your coding agent restates the real published figures in the same fields, with one tour stop per body and a recomputed readable-scale table.
 
-### How do I change the brand, audience and home planet in this 3D explainer?
-Set BRAND to your publisher, school or museum name, AUDIENCE to who the copy speaks to, and HOME_BODY to the planet used for the live pixel readout. Then have your AI coding agent rewrite every headline, caption and fact for those values, keeping the same calm tone and length. The variables sit alongside SYSTEM, CENTER_BODY and BODIES in the template brief.
+### What is the scroll tour in the Solar System 3D Explainer?
+The tour is a nine-stop scroll journey from the Sun to Neptune with a scripted camera move at each stop. Each stop carries a caption and chips, and the tour ends with the true-scale reveal and the street-pacing table. Visitors can leave the tour at any time and return to Explore mode to drag, click planets or move the time slider.
 
-### Does the Solar System 3D Explainer need a server or image files to run?
-No. The Solar System 3D Explainer template builds to static files with no backend, no server code and no external APIs. Planet surfaces are drawn entirely in code, so no image files are needed. You can host the built output on any static host, and the scene runs in the browser from the first frame.
+### How do I change the planets' facts and surfaces in the Solar System 3D Explainer?
+Each body in the content file holds its name, kicker, note, facts, diameter, distance, orbit and rotation, tilt, surface recipe and palette, atmosphere, rings and tour stop. Edit those fields and your agent rewrites the copy and restates the figures. Surfaces are drawn entirely in code, so no image files are needed and palettes come from the same recipe set.
 
-### What happens in the scroll tour and how long is it?
-The Solar System 3D Explainer tour is a nine-stop scroll journey from the Sun to Neptune with a scripted camera move at each stop. Each stop pairs a caption with chips of key numbers, and the tour ends by revealing true scale plus a table for pacing the system out on a real street. If you change BODIES, the tour gets one stop for the center body plus one per body.
+### Who is the Solar System 3D Explainer template designed for?
+The Solar System 3D Explainer suits science teachers, museums, planetariums, science publishers and developers who want an ambitious Three.js showcase. The default audience is middle school classrooms and curious adults, and the tone is calm and exact, with real numbers in US units and no cosmic hype words. The prompt is Pro, and commercial or client use needs Pro.
 
 ### How do I build a solar system 3D explainer with AI?
 Copy the full prompt (Pro) from this page or run npx vibefather add solar-system-3d-explainer, replace [BRAND], [SYSTEM], [CENTER_BODY] and [BODIES] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Solar System 3D Explainer demo?
-The The Solar System case was built by Claude Opus 5.5 in Claude Code; the A red dwarf's seven planets case was built by Claude Sonnet 5.5 in Claude Code; the The Solar System case was built by Gemini 4 Carbon in Cursor; the The Solar System case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The The Solar System case was built by Claude Opus 5.5 in Claude Code; the A red dwarf's seven planets case was built by Claude Sonnet 5.5 in Claude Code; the The Solar System case was built by Gemini 4 Carbon in Cursor; the The Solar System case was built by GPT-6 Astra in Codex; the The Solar System case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Solar System 3D Explainer template use?
-Solar System 3D Explainer is a single-page site built with GSAP, Three.js and Tailwind CSS, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Solar System 3D Explainer is a single-page site built with GSAP, Tailwind CSS and Three.js, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Solar System 3D Explainer template free to use?
 Solar System 3D Explainer is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

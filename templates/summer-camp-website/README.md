@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add summer-camp-website, re
 The Lakeside sleepaway camp case was built by GLM-5.3 in ZCode; the Farm day camp case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Summer Camp Website template use?
-Summer Camp Website is a single-page site built with Motion, Tailwind CSS and React, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Summer Camp Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Summer Camp Website template for a client or a business?
 The Summer Camp Website prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

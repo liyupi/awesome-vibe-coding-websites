@@ -55,13 +55,6 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/4edc802b-655b-4054-bdcc-a26954ea1622/shot_desktop.a9991bd95a.webp" width="100%" alt="AI Image Generator Landing Page built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/how-large-language-models-work">How Large Language Models Work</a></b> — <sub>A scrolling explainer that shows, step by step, how a language model chooses the next word.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/f5d8001a-e9d6-467b-a9a0-13a61c5c85fb/shot_desktop.1788a05307.webp" width="100%" alt="How Large Language Models Work built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/ai-agent-startup-landing-page">AI Agent Startup Landing Page</a></b> — <sub>A dark agent-platform landing page where task cards travel a live node graph and steps pin on scroll.</sub></td>
 </tr>
 <tr>
@@ -88,6 +81,13 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/ef527a4d-234b-4c29-923d-6ef9bc1765f5/shot_desktop.9b56a8e723.webp" width="100%" alt="Compound Interest Interactive Explainer built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/c55e7688-8b85-44e2-beaf-9053c5d1819f/shot_desktop.fb9e0f36ff.webp" width="100%" alt="Compound Interest Interactive Explainer built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/how-large-language-models-work">How Large Language Models Work</a></b> — <sub>A scrolling explainer that shows, step by step, how a language model chooses the next word.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-deepseek-v4-1-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/f5d8001a-e9d6-467b-a9a0-13a61c5c85fb/shot_desktop.1788a05307.webp" width="100%" alt="How Large Language Models Work built by DeepSeek V4.1 Flash"></a><br><sub><b>DeepSeek V4.1 Flash</b> · DeepSeek Harness</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/dark-developer-tool-launch-page">Dark Developer Tool Launch Page</a></b> — <sub>Dark CLI launch page with a typing terminal, streaming diff comments, a bar race and a ? shortcut overlay.</sub></td>

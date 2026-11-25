@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add 3d-animal-cell-explaine
 The Cellfolio Press · Inside the Animal Cell case was built by Gemini 4 Neon in Antigravity; the Biofield Studio · The Living Cell Cutaway case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Animal Cell Explainer template use?
-3D Animal Cell Explainer is a single-page site built with Three.js, React and Vite, with 3d model, scroll camera and interactive diagram. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Animal Cell Explainer is a single-page site built with React, Three.js and Vite, with 3d model, scroll camera and interactive diagram. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the 3D Animal Cell Explainer template for a client or a business?
 The 3D Animal Cell Explainer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

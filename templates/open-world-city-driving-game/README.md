@@ -91,7 +91,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add open-world-c
 The Reed Wharf Car Club case was built by Grok 4.7 in Grok Build; the Night flower market case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Open World City Driving Game template use?
-Open World City Driving Game is a single-page site built with Three.js and Plain HTML, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Open World City Driving Game is a single-page site built with Plain HTML and Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Open World City Driving Game template free to use?
 Open World City Driving Game is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

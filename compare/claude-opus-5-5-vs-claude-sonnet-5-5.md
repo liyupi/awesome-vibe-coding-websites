@@ -62,6 +62,27 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kinetic-typography-portfolio/ea4661ec-3a34-4021-9c13-d929ecec85ea/shot_desktop.8bd8fef2b7.webp" width="100%" alt="Kinetic Typography Portfolio built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/isometric-3d-room-portfolio">Isometric 3D Room Portfolio</a></b> — <sub>A developer portfolio set in a cozy 3D room where each object opens a section and a lamp turns on night.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/b2acc2a0-84ad-4fc3-a6d3-85fe9f297357/shot_desktop.28bc0f01af.webp" width="100%" alt="Isometric 3D Room Portfolio built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/dc8cd063-aafa-4706-bcd2-023c5f4ca154/shot_desktop.04a7c40c57.webp" width="100%" alt="Isometric 3D Room Portfolio built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/boxing-and-strength-gym-website">Boxing and Strength Gym Website</a></b> — <sub>Gritty two-page gym site with a filterable class timetable, pricing toggle and free-trial booking form.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boxing-and-strength-gym-website/334702f0-0981-4390-9b1a-60e47104f5c3/shot_desktop.5491103041.webp" width="100%" alt="Boxing and Strength Gym Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boxing-and-strength-gym-website/6ab01a75-3c61-48a3-b60a-d3b532f16e53/shot_desktop.c125ac4f14.webp" width="100%" alt="Boxing and Strength Gym Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/interactive-lesson-slides">Interactive Lesson Slides</a></b> — <sub>A working lesson deck with instant quizzes, a live code slide, drawing tools and a link to every slide.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/4188fe48-fb9e-4033-8327-bb2c87c97d5c/shot_desktop.3985efd5ef.webp" width="100%" alt="Interactive Lesson Slides built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/b51fae47-e4fe-41cb-9421-fb764515c109/shot_desktop.7003d11fcd.webp" width="100%" alt="Interactive Lesson Slides built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/music-festival-website">Music Festival Website</a></b> — <sub>A three-page festival site with a sound-reactive hero, filterable line-up, illustrated map and ticket table.</sub></td>
 </tr>
 <tr>
@@ -76,25 +97,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/isometric-3d-room-portfolio">Isometric 3D Room Portfolio</a></b> — <sub>A developer portfolio set in a cozy 3D room where each object opens a section and a lamp turns on night.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/b2acc2a0-84ad-4fc3-a6d3-85fe9f297357/shot_desktop.28bc0f01af.webp" width="100%" alt="Isometric 3D Room Portfolio built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/dc8cd063-aafa-4706-bcd2-023c5f4ca154/shot_desktop.04a7c40c57.webp" width="100%" alt="Isometric 3D Room Portfolio built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> — <sub>A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boutique-hotel-website/00d2a3dd-1494-4691-af41-5459b63ac59f/shot_desktop.be357e04f8.webp" width="100%" alt="Boutique Hotel Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/tidestone/b5845f86-1106-4039-b50c-5a82815cd67c/shot_desktop.3328b4e17b.webp" width="100%" alt="Boutique Hotel Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/boxing-and-strength-gym-website">Boxing and Strength Gym Website</a></b> — <sub>Gritty two-page gym site with a filterable class timetable, pricing toggle and free-trial booking form.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boxing-and-strength-gym-website/334702f0-0981-4390-9b1a-60e47104f5c3/shot_desktop.5491103041.webp" width="100%" alt="Boxing and Strength Gym Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boxing-and-strength-gym-website/6ab01a75-3c61-48a3-b60a-d3b532f16e53/shot_desktop.c125ac4f14.webp" width="100%" alt="Boxing and Strength Gym Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/infinite-canvas-moodboard">Infinite Canvas Moodboard</a></b> — <sub>A studio table you can pan, zoom and rearrange: boards, notes and swatches that move like real paper.</sub></td>
@@ -111,67 +118,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/0f9133ad-e1bd-4bf7-9ab6-57813f009509/shot_desktop.bb67d69864.webp" width="100%" alt="Physics Playground Landing Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/interactive-lesson-slides">Interactive Lesson Slides</a></b> — <sub>A working lesson deck with instant quizzes, a live code slide, drawing tools and a link to every slide.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/4188fe48-fb9e-4033-8327-bb2c87c97d5c/shot_desktop.3985efd5ef.webp" width="100%" alt="Interactive Lesson Slides built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/b51fae47-e4fe-41cb-9421-fb764515c109/shot_desktop.7003d11fcd.webp" width="100%" alt="Interactive Lesson Slides built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b> — <sub>Step through five sorting algorithms on a live bar stage, then race any two on the same array.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b/shot_desktop.4ffd6302fd.webp" width="100%" alt="Sorting Algorithms Visualizer built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/76f85520-c654-47a3-aeec-90c064767b20/shot_desktop.abf37cd30b.webp" width="100%" alt="Sorting Algorithms Visualizer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/interactive-synth-web-toy">Interactive Synth Web Toy</a></b> — <sub>A playable neon browser synth with a 16-step sequencer, live scope and patterns that share as a link.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-synth-web-toy/58b0d596-64c6-4ab4-8213-d577a8fe4c23/shot_desktop.06115fd807.webp" width="100%" alt="Interactive Synth Web Toy built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-synth-web-toy/4a782699-beb9-44f3-9eea-f63df852fa40/shot_desktop.23ebd8c0c3.webp" width="100%" alt="Interactive Synth Web Toy built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/music-theory-interactive-lesson">Music Theory Interactive Lesson</a></b> — <sub>Press a key, hear the interval, watch the theory light up: a playable lesson on one long page.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/af0603c9-6944-49b1-a393-b071ab0ea5ca/shot_desktop.28b8e07783.webp" width="100%" alt="Music Theory Interactive Lesson built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/38377d38-e8ed-461d-be34-647da90d5d68/shot_desktop.793ad02847.webp" width="100%" alt="Music Theory Interactive Lesson built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/how-the-human-heart-works">How the Human Heart Works</a></b> — <sub>A beating SVG heart with a BPM slider, scroll steps along the blood path and a live ECG trace.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-human-heart-works/f30c9872-d1dc-4886-995b-5fe9452eb4a4/shot_desktop.911915bfac.webp" width="100%" alt="How the Human Heart Works built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-human-heart-works/65ef426f-9f72-4f45-8338-84b4b54c9fec/shot_desktop.dfe6c2fa94.webp" width="100%" alt="How the Human Heart Works built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/ai-image-generator-landing-page">AI Image Generator Landing Page</a></b> — <sub>A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/ad255b62-71d1-4921-9d6b-f983931801d8/shot_desktop.3dbef1625c.webp" width="100%" alt="AI Image Generator Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/e72e4b30-2d6f-4086-91a9-2b73f043c8cf/shot_desktop.77e2a323f0.webp" width="100%" alt="AI Image Generator Landing Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/family-winery-and-vineyard-website">Family Winery and Vineyard Website</a></b> — <sub>Three-page winery site with vineyard photos, a client-side wine shop, tasting bookings and an SVG estate map.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/family-winery-and-vineyard-website/26f122e7-6259-4198-ad90-8503bf18dbd9/shot_desktop.06d1b651b6.webp" width="100%" alt="Family Winery and Vineyard Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/family-winery-and-vineyard-website/7ed042d7-bfef-403f-b9d5-11389086041a/shot_desktop.45ea862242.webp" width="100%" alt="Family Winery and Vineyard Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/product-launch-keynote-slides">Product Launch Keynote Slides</a></b> — <sub>A 14-slide launch keynote on true black, where the product and key numbers glide from slide to slide.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/5c2491c8-a860-4985-b5b5-31f489c773e3/shot_desktop.6a045106d7.webp" width="100%" alt="Product Launch Keynote Slides built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/c50393d5-08e3-4844-99f6-641d92df7981/shot_desktop.23e337081e.webp" width="100%" alt="Product Launch Keynote Slides built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/how-large-language-models-work">How Large Language Models Work</a></b> — <sub>A scrolling explainer that shows, step by step, how a language model chooses the next word.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/a9e9d1f1-f3ec-483c-9d84-aadf37fce515/shot_desktop.961761ed90.webp" width="100%" alt="How Large Language Models Work built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/ai-agent-startup-landing-page">AI Agent Startup Landing Page</a></b> — <sub>A dark agent-platform landing page where task cards travel a live node graph and steps pin on scroll.</sub></td>
@@ -181,25 +132,25 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/2e6396f1-38a0-49a9-b648-8ccc1197f2f5/shot_desktop.4c0ac456ba.webp" width="100%" alt="AI Agent Startup Landing Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b> — <sub>Step through five sorting algorithms on a live bar stage, then race any two on the same array.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b/shot_desktop.4ffd6302fd.webp" width="100%" alt="Sorting Algorithms Visualizer built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/76f85520-c654-47a3-aeec-90c064767b20/shot_desktop.abf37cd30b.webp" width="100%" alt="Sorting Algorithms Visualizer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/music-theory-interactive-lesson">Music Theory Interactive Lesson</a></b> — <sub>Press a key, hear the interval, watch the theory light up: a playable lesson on one long page.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/af0603c9-6944-49b1-a393-b071ab0ea5ca/shot_desktop.28b8e07783.webp" width="100%" alt="Music Theory Interactive Lesson built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/38377d38-e8ed-461d-be34-647da90d5d68/shot_desktop.793ad02847.webp" width="100%" alt="Music Theory Interactive Lesson built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/startup-pitch-deck-website">Startup Pitch Deck Website</a></b> — <sub>A 12-slide investor deck as a website: keyboard and swipe slides, live charts, presenter notes, PDF print.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/startup-pitch-deck-website/71004dcd-1792-4e38-b493-83be9a119b89/shot_desktop.ac1bb15bce.webp" width="100%" alt="Startup Pitch Deck Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/startup-pitch-deck-website/11e95ed0-caa5-4cbe-b4ad-a7fe998423cf/shot_desktop.d01455156e.webp" width="100%" alt="Startup Pitch Deck Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/annual-report-data-story">Annual Report Data Story</a></b> — <sub>A scrolling annual report with count-up numbers, charts that draw themselves and a dot-grid office map.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/358dff4a-4625-4046-8601-4e6d1fe10b5e/shot_desktop.e88877d996.webp" width="100%" alt="Annual Report Data Story built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/53661be3-9259-42a3-a6e2-f280aa2c5f20/shot_desktop.11f7c3fd05.webp" width="100%" alt="Annual Report Data Story built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/editorial-law-firm-website">Editorial Law Firm Website</a></b> — <sub>Editorial two-page law firm site: big serif type, case results in figures and a multi-step intake form.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/editorial-law-firm-website/1e98ec9c-c2c2-4fbc-9355-ca6e2a3c5877/shot_desktop.dfb96e8ee8.webp" width="100%" alt="Editorial Law Firm Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/editorial-law-firm-website/0f3b0c66-62c5-417b-8e5a-b292c751e382/shot_desktop.1ac22a3324.webp" width="100%" alt="Editorial Law Firm Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/how-the-internet-works-explainer">How the Internet Works Explainer</a></b> — <sub>Follow one web request from laptop to server and back in seven scroll scenes, each with a hands-on control.</sub></td>
@@ -209,11 +160,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/52f411f9-da8c-475b-b65b-45ce35470384/shot_desktop.85379ff973.webp" width="100%" alt="How the Internet Works Explainer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/coastal-real-estate-agency-website">Coastal Real Estate Agency Website</a></b> — <sub>A coastal estate agency site with filterable listings, SVG floor plans and a live mortgage calculator.</sub></td>
+<td colspan="2"><b><a href="../templates/interactive-synth-web-toy">Interactive Synth Web Toy</a></b> — <sub>A playable neon browser synth with a 16-step sequencer, live scope and patterns that share as a link.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/coastal-real-estate-agency-website/e88bec2a-1fe1-4cf6-81c0-b22972a1d304/shot_desktop.4ea2b3d139.webp" width="100%" alt="Coastal Real Estate Agency Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/coastal-real-estate-agency-website/e90efbec-5653-479d-9e99-8708929ea181/shot_desktop.ee03589e7f.webp" width="100%" alt="Coastal Real Estate Agency Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-synth-web-toy/58b0d596-64c6-4ab4-8213-d577a8fe4c23/shot_desktop.06115fd807.webp" width="100%" alt="Interactive Synth Web Toy built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-synth-web-toy/4a782699-beb9-44f3-9eea-f63df852fa40/shot_desktop.23ebd8c0c3.webp" width="100%" alt="Interactive Synth Web Toy built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/how-the-human-heart-works">How the Human Heart Works</a></b> — <sub>A beating SVG heart with a BPM slider, scroll steps along the blood path and a live ECG trace.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-human-heart-works/f30c9872-d1dc-4886-995b-5fe9452eb4a4/shot_desktop.911915bfac.webp" width="100%" alt="How the Human Heart Works built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-human-heart-works/65ef426f-9f72-4f45-8338-84b4b54c9fec/shot_desktop.dfe6c2fa94.webp" width="100%" alt="How the Human Heart Works built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/podcast-episode-companion-page">Podcast Episode Companion Page</a></b> — <sub>An illustrated, chapter-by-chapter companion for a long podcast episode, with charts and pulled-out lessons.</sub></td>
@@ -223,11 +181,53 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/fieldnotes/cb84d95f-c999-4c60-9896-a4f434efa1ca/shot_desktop.1e510e4c89.webp" width="100%" alt="Podcast Episode Companion Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/product-launch-keynote-slides">Product Launch Keynote Slides</a></b> — <sub>A 14-slide launch keynote on true black, where the product and key numbers glide from slide to slide.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/5c2491c8-a860-4985-b5b5-31f489c773e3/shot_desktop.6a045106d7.webp" width="100%" alt="Product Launch Keynote Slides built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/c50393d5-08e3-4844-99f6-641d92df7981/shot_desktop.23e337081e.webp" width="100%" alt="Product Launch Keynote Slides built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/family-winery-and-vineyard-website">Family Winery and Vineyard Website</a></b> — <sub>Three-page winery site with vineyard photos, a client-side wine shop, tasting bookings and an SVG estate map.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/family-winery-and-vineyard-website/26f122e7-6259-4198-ad90-8503bf18dbd9/shot_desktop.06d1b651b6.webp" width="100%" alt="Family Winery and Vineyard Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/family-winery-and-vineyard-website/7ed042d7-bfef-403f-b9d5-11389086041a/shot_desktop.45ea862242.webp" width="100%" alt="Family Winery and Vineyard Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/compound-interest-interactive-explainer">Compound Interest Interactive Explainer</a></b> — <sub>A calm, scroll-driven explainer where three sliders redraw a live chart of deposits versus compound interest.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/ef527a4d-234b-4c29-923d-6ef9bc1765f5/shot_desktop.9b56a8e723.webp" width="100%" alt="Compound Interest Interactive Explainer built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/3b638669-26ee-49d6-85fd-1d49e9af5c2e/shot_desktop.22fe085210.webp" width="100%" alt="Compound Interest Interactive Explainer built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/how-large-language-models-work">How Large Language Models Work</a></b> — <sub>A scrolling explainer that shows, step by step, how a language model chooses the next word.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/a9e9d1f1-f3ec-483c-9d84-aadf37fce515/shot_desktop.961761ed90.webp" width="100%" alt="How Large Language Models Work built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/annual-report-data-story">Annual Report Data Story</a></b> — <sub>A scrolling annual report with count-up numbers, charts that draw themselves and a dot-grid office map.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/358dff4a-4625-4046-8601-4e6d1fe10b5e/shot_desktop.e88877d996.webp" width="100%" alt="Annual Report Data Story built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/53661be3-9259-42a3-a6e2-f280aa2c5f20/shot_desktop.11f7c3fd05.webp" width="100%" alt="Annual Report Data Story built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/coastal-real-estate-agency-website">Coastal Real Estate Agency Website</a></b> — <sub>A coastal estate agency site with filterable listings, SVG floor plans and a live mortgage calculator.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/coastal-real-estate-agency-website/e88bec2a-1fe1-4cf6-81c0-b22972a1d304/shot_desktop.4ea2b3d139.webp" width="100%" alt="Coastal Real Estate Agency Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/coastal-real-estate-agency-website/e90efbec-5653-479d-9e99-8708929ea181/shot_desktop.ee03589e7f.webp" width="100%" alt="Coastal Real Estate Agency Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/editorial-law-firm-website">Editorial Law Firm Website</a></b> — <sub>Editorial two-page law firm site: big serif type, case results in figures and a multi-step intake form.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/editorial-law-firm-website/1e98ec9c-c2c2-4fbc-9355-ca6e2a3c5877/shot_desktop.dfb96e8ee8.webp" width="100%" alt="Editorial Law Firm Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/editorial-law-firm-website/0f3b0c66-62c5-417b-8e5a-b292c751e382/shot_desktop.1ac22a3324.webp" width="100%" alt="Editorial Law Firm Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/dark-developer-tool-launch-page">Dark Developer Tool Launch Page</a></b> — <sub>Dark CLI launch page with a typing terminal, streaming diff comments, a bar race and a ? shortcut overlay.</sub></td>

@@ -2,15 +2,15 @@
 
 > Documentation sites with a sidebar, search-style navigation, code blocks and long-form reading layouts.
 
-8 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/docs?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
+10 templates, each with a live demo, the exact prompt and a DESIGN.md. [See them live on VibeFather →](https://vibefather.ai/tags/docs?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types)
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/shot_desktop.9487c64b4e.webp" width="100%" alt="Help Center Knowledge Base website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/help-center-knowledge-base">Help Center Knowledge Base</a></b><br>
-<sub>Calm help center with instant search, six category cards, article pages with TOC rails, helpfulness voting and a contact form.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/help-center-knowledge-base/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/shot_desktop.23d76a594f.webp" width="100%" alt="Product Documentation Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/product-documentation-website">Product Documentation Website</a></b><br>
+<sub>A guides-first three-column SDK documentation site with synced code tabs, version switching, and live try-it requests.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-documentation-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/9ee24e01-d08e-4735-a4eb-b25fb5a74537/shot_desktop.f39de8d5d8.webp" width="100%" alt="Animated UI Components Gallery website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
@@ -21,30 +21,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/shot_desktop.23d76a594f.webp" width="100%" alt="Product Documentation Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/product-documentation-website">Product Documentation Website</a></b><br>
-<sub>A guides-first three-column SDK documentation site with synced code tabs, version switching, and live try-it requests.</sub><br>
-<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-documentation-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/225a18de-afff-4c97-a66b-41f58f071275/shot_desktop.a39fe3d8d6.webp" width="100%" alt="Terminal-Style Docs Site website template — live demo built by Claude Opus 5.5"></a><br>
-<b><a href="../templates/terminal-style-docs-site">Terminal-Style Docs Site</a></b><br>
-<sub>A dark, monospace docs site for a command-line tool, with an amber accent, copyable commands and / search.</sub><br>
-<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/terminal-style-docs-site/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/api-reference-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/api-reference-docs-site/7038a60e-8b6b-4f16-8ac8-76f606642c10/shot_desktop.d97b5d37f5.webp" width="100%" alt="API Reference Docs Site website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/api-reference-docs-site">API Reference Docs Site</a></b> <sup>PRO</sup><br>
 <sub>Three-column API reference with instant search, parameter tables, tabbed code samples with copy buttons and response examples.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/api-reference-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/api-reference-docs-site/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/shot_desktop.dbeb32fdaa.webp" width="100%" alt="Product Changelog Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/product-changelog-page">Product Changelog Page</a></b><br>
-<sub>Release-notes page with a version timeline, type filters with live counts, copyable version anchors and a drawn feed chip.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-changelog-page/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/shot_desktop.9487c64b4e.webp" width="100%" alt="Help Center Knowledge Base website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/help-center-knowledge-base">Help Center Knowledge Base</a></b><br>
+<sub>Calm help center with instant search, six category cards, article pages with TOC rails, helpfulness voting and a contact form.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/help-center-knowledge-base/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/open-source-project-homepage/8a911742-c560-4e29-ad52-8c3a8fa8760e/shot_desktop.24a3cbc8c5.webp" width="100%" alt="Open Source Project Homepage website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/open-source-project-homepage">Open Source Project Homepage</a></b><br>
+<sub>Homepage for an open-source library: copyable install command, tabbed code example, feature grid, contributors and sponsor tiers.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/open-source-project-homepage/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/academic-researcher-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/academic-researcher-website/a761e99d-209a-412a-aa33-dbf549fc1c43/shot_desktop.c42d9daf32.webp" width="100%" alt="Academic Researcher Website website template — live demo built by GLM-5.4 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/academic-researcher-website">Academic Researcher Website</a></b><br>
+<sub>Professor's homepage with filterable publications, copy-BibTeX, teaching, talks, a printable CV and the lab.</sub><br>
+<sub>GLM-5.4 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/academic-researcher-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/academic-researcher-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -55,10 +55,24 @@
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/team-wiki-workspace-app/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/open-source-project-homepage/8a911742-c560-4e29-ad52-8c3a8fa8760e/shot_desktop.24a3cbc8c5.webp" width="100%" alt="Open Source Project Homepage website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/open-source-project-homepage">Open Source Project Homepage</a></b><br>
-<sub>Homepage for an open-source library: copyable install command, tabbed code example, feature grid, contributors and sponsor tiers.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/open-source-project-homepage/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/brand-guidelines-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/brand-guidelines-website/a7f069aa-7c0d-438c-8118-edaf78962d2c/shot_desktop.d9ab12200f.webp" width="100%" alt="Brand Guidelines Website website template — live demo built by GLM-5.4 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/brand-guidelines-website">Brand Guidelines Website</a></b> <sup>PRO</sup><br>
+<sub>Living brand book with copyable colours, live type specimens, playable easing and real downloads.</sub><br>
+<sub>GLM-5.4 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/brand-guidelines-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/brand-guidelines-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/225a18de-afff-4c97-a66b-41f58f071275/shot_desktop.a39fe3d8d6.webp" width="100%" alt="Terminal-Style Docs Site website template — live demo built by Claude Opus 5.5"></a><br>
+<b><a href="../templates/terminal-style-docs-site">Terminal-Style Docs Site</a></b><br>
+<sub>A dark, monospace docs site for a command-line tool, with an amber accent, copyable commands and / search.</sub><br>
+<sub>Claude Opus 5.5 · <a href="https://vibefather.ai/templates/terminal-style-docs-site?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/terminal-style-docs-site/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/shot_desktop.dbeb32fdaa.webp" width="100%" alt="Product Changelog Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/product-changelog-page">Product Changelog Page</a></b><br>
+<sub>Release-notes page with a version timeline, type filters with live counts, copyable version anchors and a drawn feed chip.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-changelog-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

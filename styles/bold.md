@@ -7,10 +7,10 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/roofing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/roofing-company-website/fdccef11-0f1f-4aa1-81e0-331e289a53f3/shot_desktop.d6af76005b.webp" width="100%" alt="Roofing Company Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
+<a href="https://vibefather.ai/templates/roofing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/roofing-company-website/fdccef11-0f1f-4aa1-81e0-331e289a53f3/shot_desktop.d6af76005b.webp" width="100%" alt="Roofing Company Website website template — live demo built by GLM-5.3, Kimi K3.1 Pro and GLM-5.4"></a><br>
 <b><a href="../templates/roofing-company-website">Roofing Company Website</a></b><br>
 <sub>A confident charcoal-and-orange contractor site with a roof cost estimator homeowners can actually trust.</sub><br>
-<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/roofing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/roofing-company-website/prompt.md">Prompt</a></sub>
+<sub>GLM-5.3 · Kimi K3.1 Pro · GLM-5.4 · <a href="https://vibefather.ai/templates/roofing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/roofing-company-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp" width="100%" alt="Car Wash and Detailing Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>

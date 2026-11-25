@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add 3d-neon-breakout-arcade
 The Pier arcade cabinet case was built by Grok 4.7 in Grok Build; the Campus rec cabinet case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the 3D Neon Breakout Arcade template use?
-3D Neon Breakout Arcade is a single-page site built with Three.js and Plain HTML, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+3D Neon Breakout Arcade is a single-page site built with Plain HTML and Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the 3D Neon Breakout Arcade template for a client or a business?
 The 3D Neon Breakout Arcade prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

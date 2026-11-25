@@ -17,8 +17,8 @@ This is suited to a small food maker that needs both atmosphere and understandab
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
-| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
+| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
+| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Cursor Effects, 3D / WebGL |
 | Stack | Vite + TypeScript + Vanilla CSS + three |
 | Pages | 1 |
@@ -91,7 +91,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add sea-salt-bra
 The Alder Reach salt case was built by GPT-6.1 Sol in Codex; the Bracken Inlet salt case was built by GPT-6.1 Sol in Codex. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Sea Salt Brand Website template use?
-Sea Salt Brand Website is a single-page site built with Three.js and Plain HTML, with scroll animation, cursor effects and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Sea Salt Brand Website is a single-page site built with Plain HTML and Three.js, with scroll animation, cursor effects and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Sea Salt Brand Website template free to use?
 Sea Salt Brand Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

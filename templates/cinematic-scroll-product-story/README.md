@@ -11,7 +11,7 @@ This is a single-page launch site for a physical product that plays like a short
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
+| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
 | Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
 | Effects | Scroll Animation, Text Animation, Parallax |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + gsap + lenis + lucide |

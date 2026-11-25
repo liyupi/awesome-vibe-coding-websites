@@ -1,14 +1,36 @@
 [
   {
+    "slug": "glm-5-4",
+    "name": "GLM-5.4",
+    "vendor": "Zhipu AI",
+    "sites": 25,
+    "templates": 25,
+    "tools": [
+      "ZCode"
+    ],
+    "url": "https://vibefather.ai/models/glm-5-4"
+  },
+  {
     "slug": "gpt-6-2-sol",
     "name": "GPT-6.2 Sol",
     "vendor": "OpenAI",
-    "sites": 24,
-    "templates": 24,
+    "sites": 30,
+    "templates": 30,
     "tools": [
       "Codex"
     ],
     "url": "https://vibefather.ai/models/gpt-6-2-sol"
+  },
+  {
+    "slug": "gpt-6-2-astra",
+    "name": "GPT-6.2 Astra",
+    "vendor": "OpenAI",
+    "sites": 2,
+    "templates": 2,
+    "tools": [
+      "Codex"
+    ],
+    "url": "https://vibefather.ai/models/gpt-6-2-astra"
   },
   {
     "slug": "gemini-4-carbon",
@@ -25,10 +47,11 @@
     "slug": "gemini-4-neon",
     "name": "Gemini 4 Neon",
     "vendor": "Google",
-    "sites": 33,
-    "templates": 33,
+    "sites": 40,
+    "templates": 40,
     "tools": [
-      "Antigravity"
+      "Antigravity",
+      "Cursor"
     ],
     "url": "https://vibefather.ai/models/gemini-4-neon"
   },
@@ -36,8 +59,8 @@
     "slug": "kimi-k3-1-pro",
     "name": "Kimi K3.1 Pro",
     "vendor": "Moonshot AI",
-    "sites": 90,
-    "templates": 90,
+    "sites": 105,
+    "templates": 105,
     "tools": [
       "Kimi Code"
     ],
@@ -73,6 +96,7 @@
     "sites": 20,
     "templates": 10,
     "tools": [
+      "Cursor",
       "Grok Build"
     ],
     "url": "https://vibefather.ai/models/grok-4-7"

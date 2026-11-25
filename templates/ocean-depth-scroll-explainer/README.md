@@ -13,7 +13,7 @@ Fathom is a long-scroll explainer in which every pixel of scrolling takes the re
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
 | Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
-| Effects | Scroll Animation, Cursor Effects, Generative / Canvas |
+| Effects | Scroll Animation, Generative / Canvas, Cursor Effects |
 | Stack | Vite 5 + vanilla TypeScript + Plain CSS, custom properties + gsap + lenis |
 | Pages | 1 |
 | Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
@@ -85,7 +85,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add ocean-depth-
 The Ocean science centre case was built by Claude Opus 5.5 in Cursor; the Trench expedition film case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Ocean Depth Scroll Explainer template use?
-Ocean Depth Scroll Explainer is a single-page site built with GSAP and Plain HTML, with scroll animation, cursor effects and generative / canvas. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Ocean Depth Scroll Explainer is a single-page site built with GSAP and Plain HTML, with scroll animation, generative / canvas and cursor effects. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Ocean Depth Scroll Explainer template free to use?
 Ocean Depth Scroll Explainer is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

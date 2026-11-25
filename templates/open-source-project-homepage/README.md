@@ -12,7 +12,7 @@ A single-page homepage for an open-source library: the name and one-line pitch o
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Docs](../../types/docs.md) |
-| Style | [Minimal](../../styles/minimal.md), [Terminal](../../styles/terminal.md) |
+| Style | [Terminal](../../styles/terminal.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add open-source-project-hom
 The Config validation library case was built by GLM-5.3 in ZCode; the Cron scheduler library case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Open Source Project Homepage template use?
-Open Source Project Homepage is a single-page site built with Motion, Tailwind CSS and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Open Source Project Homepage is a single-page site built with Motion, React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Open Source Project Homepage template for a client or a business?
 The Open Source Project Homepage prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

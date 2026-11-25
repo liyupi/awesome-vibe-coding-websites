@@ -2,7 +2,7 @@
 
 > Calm, high-contrast regional hospital portal with sample ER wait times, doctor directory, appointments, and patient portal preview.
 
-<a href="https://vibefather.ai/templates/hospital-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/hospital-website/bac74a33-fde2-49bb-abca-d0e259eb59e3/webp.8f81715787.webp" width="100%" alt="Hospital Website — Modern Regional Hospital &amp; Care Portal built by GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/hospital-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/hospital-website/836108b7-1cfd-4d50-9103-94378f82f139/webp.10f8eb6654.webp" width="100%" alt="Hospital Website — Modern Regional Hospital &amp; Care Portal built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/hospital-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -12,17 +12,22 @@ A calm, accessible regional hospital website built around big readable typograph
 |---|---|
 | Category | [More Landing Pages](../../README.md#more-landing-pages) |
 | Site type | Corporate, Portal |
-| Style | [Minimal](../../styles/minimal.md), [Clean](../../styles/clean.md), Modern |
+| Style | [Minimal](../../styles/minimal.md), [Clean](../../styles/clean.md), [Modern](../../styles/modern.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 7 |
-| Built with | [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/hospital-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/hospital-website?case=836108b7-1cfd-4d50-9103-94378f82f139&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hospital-website/836108b7-1cfd-4d50-9103-94378f82f139/shot_desktop.d8fc029649.webp" width="100%" alt="Hospital Website — Meridian Valley Health, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Meridian Valley Health</b><br>
+<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/hospital-website?case=836108b7-1cfd-4d50-9103-94378f82f139&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hospital-website?case=bac74a33-fde2-49bb-abca-d0e259eb59e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hospital-website/bac74a33-fde2-49bb-abca-d0e259eb59e3/shot_desktop.3809c7053e.webp" width="100%" alt="Hospital Website — Harborview Regional Medical, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Harborview Regional Medical</b><br>
@@ -50,36 +55,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A single-campus community clinic: set HOSPITAL_NAME and REGION_NAME, cut the three-campus wait strip to one, and rewrite the departments cards for your own services.
-- A regional cancer center: keep the calm layout, swap the doctor directory filters for treatment type and consult language, and point appointment pre-fill at your intake team.
-- A children's hospital: adjust the emergency banner copy for pediatric guidance, and rewrite the Health Library articles and visitor guide in family-friendly plain English.
-- A rural health network: use the locations page for clinic sites and transit notes, and replace the careers listings with your open roles and foundation giving tiers.
+- A regional clinic network: set [HOSPITAL_NAME] and [REGION_NAME] to your group, keep the doctor directory and appointment flow, and cut the Locations page to your sites.
+- A maternity and family center: lead with the Maternity & Family department view, rewrite the hero for expecting parents, and point the appointment flow at your prenatal intake.
+- A community health nonprofit: repurpose the Foundation Giving tiers for donation drives and keep the Health Library for plain-English preventive articles.
+- A hospital careers page: keep the Careers listings and clinician profiles, swap the emergency banner for recruitment contact details, and simplify the portal preview.
 
 ## FAQ
 
-### How do I change the hospital name, region and phone numbers in the template?
-The Hospital Website template keeps four variables at the top of its prompt: HOSPITAL_NAME, REGION_NAME, PHONE_MAIN and EMERGENCY_LINE. Set them to your own hospital system, service region, main desk number and emergency banner copy, then ask your AI agent to rewrite every headline, paragraph and label that mentions the old values. The prompt asks for all copy in one content file, so the swap stays consistent across the home, departments, doctors, locations, appointments, portal and library pages.
+### How do I change the ER wait times and emergency banner on the hospital website?
+The Hospital Website template keeps the top emergency banner copy in the [EMERGENCY_LINE] variable, so you can replace the sample guidance with your own triage line and emergency instructions. The three campus ER wait times are sample data written into the content file, so edit those values or point them at your own figures. Keep the note that wait times are samples unless you have a live source feeding them.
 
-### What does the sample ER wait time banner show and can I connect it to real hospital data?
-The Hospital Website template shows a persistent top emergency banner with sample ER wait times for three regional campuses, plus a wait-time strip on the home page. The demo is a static build with no backend, so the numbers are labeled sample data. To show live figures you would replace those values with your own feed, but the template itself does not include a data connection and makes no medical claims.
+### Can I use the hospital website template for a clinic or private practice instead of a full hospital?
+Yes. The Hospital Website template works for a clinic or practice if you trim the scope: set [HOSPITAL_NAME] and [REGION_NAME] to your practice and area, keep the Find a Doctor directory and Appointment Request flow, and reduce the Locations page to your single site. The Department & Service views can become your service lines, and the Foundation Giving page can be dropped or repurposed for community programs.
 
-### How does the Find a Doctor directory filter work for patients?
-The Hospital Website template's Find a Doctor page filters a physician directory by specialty, campus location, spoken language, an accepting new patients toggle and keyword search. Each result opens a full clinician profile panel with a direct appointment pre-fill, so a patient can move from search to a request without retyping details. All profiles are fictional sample data, and you replace them with your own clinicians and specialties.
+### What does the Find a Doctor directory let patients filter by?
+The Find a Doctor directory in the Hospital Website template filters by specialty, campus location, spoken language and an accepting-new-patients toggle, plus a keyword search. Each result opens a full clinician profile with a direct appointment pre-fill, so a patient can move from search to a request without retyping. All profiles are fictional sample data, so replace them with your own clinicians before publishing.
 
-### Can I use the Hospital Website template for a clinic or a client project?
-The Hospital Website template is a Pro template, so commercial and client use needs Pro. Pro members see the full prompt and get the source code of the demos. A single-campus clinic can use it too by setting HOSPITAL_NAME and REGION_NAME, trimming the three-campus wait-time strip and adjusting the departments list to your services. Free prompts and DESIGN.md files are for personal, non-commercial use only.
+### Is there a hospital website template I can build with AI and host as static files?
+The Hospital Website template on VibeFather builds to static files with no backend, server code or external APIs, so it can be hosted on any static host. It uses Vite with React, TypeScript and Tailwind CSS, and the build output is a folder of static assets. The appointment flow and patient portal are front-end previews with sample confirmations, so connect your own booking system if you need live requests.
 
-### What should I change first in the Hospital Website template?
-Start with the four variables: HOSPITAL_NAME, REGION_NAME, PHONE_MAIN and EMERGENCY_LINE. Then replace the sample ER wait times, the fictional doctor profiles and the mock patient portal records with your own content or clearly labeled placeholders. Check the locations page for parking decks, visiting hours and transit directions, since those are the details stressed visitors look for first. Keep the sample-data transparency note until real data is in place.
+### How do I add a patient portal signup or link the mock portal to our real system?
+The Patient Portal in the Hospital Website template is an interactive preview with tabbed sample lab results, care messages and billing statements, not a working login. To use it for real, keep the layout and replace the sample records with links to your existing portal, or point the portal call-to-action at your vendor's sign-in page. The care message reply composer is a front-end demo, so it should not be presented as a live inbox.
 
 ### How do I build a hospital website with AI?
-Copy the full prompt (Pro) from this page or run npx vibefather add hospital-website, replace [HOSPITAL_NAME], [REGION_NAME], [PHONE_MAIN] and [EMERGENCY_LINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the full prompt (Pro) from this page or run npx vibefather add hospital-website, replace [HOSPITAL_NAME], [REGION_NAME], [PHONE_MAIN] and [EMERGENCY_LINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Hospital Website demo?
-The Harborview Regional Medical case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added.
+The Meridian Valley Health case was built by Gemini 4 Neon in Antigravity; the Harborview Regional Medical case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Hospital Website template use?
-Hospital Website is a 7-page site built with Tailwind CSS, React and Typescript, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Hospital Website is a 7-page site built with React, Tailwind CSS and Typescript, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Hospital Website template free to use?
 Hospital Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

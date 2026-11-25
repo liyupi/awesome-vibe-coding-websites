@@ -2,7 +2,7 @@
 
 > A precision machine-shop site with spec-sheet capabilities, an equipment table and an RFQ flow that estimates lead time.
 
-<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/16080d09-ae32-4fdc-846e-ad95636eb935/webp.5fcf70574f.webp" width="100%" alt="Industrial Manufacturing Company Website — Precision Machine Shop Site with RFQ Tool built by GLM-5.3 and Kimi K3.1 Pro"></a>
+<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/16080d09-ae32-4fdc-846e-ad95636eb935/webp.5fcf70574f.webp" width="100%" alt="Industrial Manufacturing Company Website — Precision Machine Shop Site with RFQ Tool built by GLM-5.3, Kimi K3.1 Pro and GLM-5.4"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Industrial Manufacturing Company Website is a single-page B2B site for a CNC mac
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,6 +32,13 @@ Industrial Manufacturing Company Website is a single-page B2B site for a CNC mac
 <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=f20265aa-e228-4b03-baed-1be140e39a8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/f20265aa-e228-4b03-baed-1be140e39a8a/shot_desktop.c23c241173.webp" width="100%" alt="Industrial Manufacturing Company Website — Fabrication shop, Ridgeway, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Fabrication shop, Ridgeway</b><br>
 <sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=f20265aa-e228-4b03-baed-1be140e39a8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/4d629633-6003-45d0-aef8-33f0bef7eb6d/shot_desktop.57670a297e.webp" width="100%" alt="Industrial Manufacturing Company Website — CNC machine shop, Halbrook, built by GLM-5.4 in ZCode"></a><br>
+<b>CNC machine shop, Halbrook</b><br>
+<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -56,36 +63,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A metal fabricator: set BRAND and CITY to your shop, swap the CNC capability cards for welding, bending and assembly tolerances, and rewrite the equipment table with your press brakes and shears.
-- A plastic injection molder: keep the RFQ and estimator, change the material options and multipliers to your resins, and replace the case studies with molded parts and tooling projects.
-- A contract printing house: retitle the capabilities to sheet sizes, inks and finishing, and relabel the drawing upload as artwork files for the quote desk.
-- A precision job shop owner: set FOUNDER, PHONE and EXPERIENCE to your own details, then replace the careers shifts with your real openings and hours.
+- A mold-making shop: set BRAND and CITY, then rewrite the capability cards around tool steel and mold bases and swap the equipment table for your press and EDM capacity.
+- A metal printing house: keep the RFQ and estimator, change the process base days to your print and finishing steps, and replace case-study parts with printed brackets and housings.
+- A fabrication and welding contractor: lead with the fabrication process in the estimator, retitle the equipment table for press brakes and weld cells, and show structural steel case studies.
+- A precision turning supplier: drop CNC milling from the estimator options, feature turned parts in the case studies, and set the equipment table to your lathes and bar feeders.
 
 ## FAQ
 
-### How does the lead-time and price estimator work on the Industrial Manufacturing Company Website?
-The estimator adds working days from the selected process, quantity tier and finish, then shows a planning unit price band from the quantity base price times the material multiplier, rounded to whole dollars with a ±15% spread. Every rule it used is listed beside the result, and a firm-quote disclaimer sits underneath. Inputs are saved in the browser under the shop's own storage key.
+### How does the RFQ lead-time estimator work on the Industrial Manufacturing Company Website template?
+The estimator adds working days from three visible rules: a process base (CNC milling 3, CNC turning 2, fabrication 4, finishing only 1), a quantity tier (1 pc adds 0, 1,000 adds 14), and a finish add (bead blast 2, passivate 3, anodize 4). It shows every rule it used and a ±15% planning price band, with a firm-quote disclaimer.
 
-### Can I add a real file upload to the RFQ form instead of the sample chip?
-The Industrial Manufacturing Company Website ships with a deliberately simulated drawing upload: clicking the dashed chip attaches a fixed sample file named bracket-rev3.step with a remove button and a note that nothing uploads. There is no backend or server code in the template, so a real upload means connecting your own form service or quote system to the RFQ section.
+### Can I use the Industrial Manufacturing Company Website template for a client's machine shop?
+Commercial and client work on the Industrial Manufacturing Company Website template needs Pro, which also gives you the full prompt and the demo source code. Free use covers the published brief, stack and variables for personal, non-commercial projects, and every DESIGN.md is free to read. The estimator math, equipment table and RFQ flow all come with the Pro template.
 
-### What should I change first when adapting this template to my machine shop?
-Start with the five variables: shop name, city, owner, phone and years of experience, which appear in the hero, quality copy, footer and careers block. Then replace the invented capabilities, equipment rows, case studies and estimator rule table with your own tolerances, machines, materials and pricing, since every machine, part and price in the demo is sample data.
+### What do I change first to make the Industrial Manufacturing Company Website template my own shop?
+Set the five variables first: BRAND for the shop name, CITY for the floor location, FOUNDER for the owner named in the hero and quality copy, PHONE for the quote desk line, and EXPERIENCE for the years in the stats. Then replace the invented machines, case-study parts, tolerances and estimator prices in the content file with your real data.
 
-### What sections does the Industrial Manufacturing Company Website include?
-The single page covers a hero with the crosshair logomark, capability cards with tolerances, finishes and materials, an equipment table with travel and spindle columns, industries served, an inspection-led quality section, case studies with part photos, an RFQ form with quantity tiers, the lead-time and price-band estimator, and a careers block with shift details.
+### Does the Industrial Manufacturing Company Website template actually upload drawings?
+No. The drawing upload on the Industrial Manufacturing Company Website template is honestly simulated: clicking the dashed drop-chip attaches a fixed sample file labeled bracket-rev3.step · 2.4 MB with an X to remove it, and a small note says nothing uploads. There is no backend, so pair it with your own quote inbox or form service before going live.
 
-### Can I use this template for a fabrication shop or a molder rather than a CNC machine shop?
-Industrial Manufacturing Company Website suits any business that quotes by drawing, including fabricators, molders and printing houses. Keep the RFQ flow and estimator, then rewrite the capability cards, equipment table and case studies for your processes, and adjust the process options and base days in the estimator rules so they match how your shop actually schedules work.
+### What sections come with the Industrial Manufacturing Company Website template?
+The single page carries capabilities with tolerances, surface finishes and materials; an equipment table with travel and spindle columns; industries served; an inspection-led quality section covering CMM, first-article and material certs; case studies with part photos; the RFQ form with quantity tiers; the lead-time and price-band estimator; and a careers block with shift details.
 
 ### How do I build an industrial manufacturing company website with AI?
 Copy the full prompt (Pro) from this page or run npx vibefather add industrial-manufacturing-company-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Industrial Manufacturing Company Website demo?
-The CNC machine shop, Halbrook case was built by GLM-5.3 in ZCode; the Fabrication shop, Ridgeway case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The CNC machine shop, Halbrook case was built by GLM-5.3 in ZCode; the Fabrication shop, Ridgeway case was built by Kimi K3.1 Pro in Kimi Code; the CNC machine shop, Halbrook case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Industrial Manufacturing Company Website template use?
-Industrial Manufacturing Company Website is a single-page site built with Motion, Tailwind CSS and React, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Industrial Manufacturing Company Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Industrial Manufacturing Company Website template free to use?
 Industrial Manufacturing Company Website is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

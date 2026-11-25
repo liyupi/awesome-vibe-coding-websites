@@ -89,7 +89,7 @@ Copy the prompt from this page or run npx vibefather add mars-colony-builder-gam
 The Hearthline Crater Colony case was built by Grok 4.7 in Grok Build; the Saltmere Rim Outpost case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Mars Colony Builder Game template use?
-Mars Colony Builder Game is a single-page site built with Tailwind CSS and React, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Mars Colony Builder Game is a single-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Mars Colony Builder Game template for a client or a business?
 The Mars Colony Builder Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

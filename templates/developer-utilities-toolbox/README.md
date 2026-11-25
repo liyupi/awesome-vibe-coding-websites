@@ -2,7 +2,7 @@
 
 > 15 working browser-local developer utilities with Cmd+K jumper, favorites, history, and dark mode.
 
-<a href="https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/f065f39a-f6c4-48bb-ad25-b54f90c55e18/webp.36d9218742.webp" width="100%" alt="Developer Utilities Toolbox — Local Developer Utilities &amp; Converters Suite built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/f065f39a-f6c4-48bb-ad25-b54f90c55e18/webp.36d9218742.webp" width="100%" alt="Developer Utilities Toolbox — Local Developer Utilities &amp; Converters Suite built by Gemini 4 Neon and GPT-6.2 Sol"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A fast, offline-first developer utilities web app featuring 15 genuinely functio
 | Effects | Dark Mode, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 16 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -27,6 +27,11 @@ A fast, offline-first developer utilities web app featuring 15 genuinely functio
 <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=f065f39a-f6c4-48bb-ad25-b54f90c55e18&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/f065f39a-f6c4-48bb-ad25-b54f90c55e18/shot_desktop.0efaa6a220.webp" width="100%" alt="Developer Utilities Toolbox — BenchKit, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>BenchKit</b><br>
 <sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=f065f39a-f6c4-48bb-ad25-b54f90c55e18&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=1d175a60-c7f8-4a4b-a287-ea49b16d69ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/1d175a60-c7f8-4a4b-a287-ea49b16d69ee/shot_desktop.f9478fbd40.webp" width="100%" alt="Developer Utilities Toolbox — Kestrel Tools, built by GPT-6.2 Sol in Codex"></a><br>
+<b>Kestrel Tools</b><br>
+<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=1d175a60-c7f8-4a4b-a287-ea49b16d69ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -50,36 +55,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- An internal platform team: set [BRAND] to your engineering portal name and keep the JSON, Base64 and JWT tools as the first favorites so support engineers stop pasting payloads into public sites.
-- A security consultancy: use [DOMAIN_HINT] for your own sample tokens, keep the Web Crypto hash generator and JWT inspector, and point [SUPPORT_EMAIL] at your intake address.
-- A frontend design studio: lean on the color converter with WCAG contrast checker and the regex tester, and rename [TAGLINE] to describe your accessibility review workflow.
-- A solo developer's side project: set [BRAND] to your own name, trim the directory to the tools you actually use and keep the privacy badge to show nothing is uploaded.
+- An internal platform team: set BRAND to your engineering portal name, keep the privacy banner, and point SUPPORT_EMAIL at your platform on-call alias.
+- A security consultancy: rewrite the JWT and hash sample payloads for your own domains, and use the regex tester as a client-facing pattern validation demo.
+- A frontend course or bootcamp: set TAGLINE to your curriculum line, use the diff viewer and case converter as teaching aids, and link the footer to your course site.
+- A design systems team: rebrand the color converter and WCAG contrast checker with your palette tokens and share it as a self-hosted accessibility companion.
 
 ## FAQ
 
-### Does the Developer Utilities Toolbox send my data anywhere?
-No. Every one of the 15 utilities in the Developer Utilities Toolbox runs entirely in the browser with no network calls or uploads, so JSON payloads, JWTs, regex test strings and hashes never leave the page. Favorites, recent history and the light or dark theme preference are stored in localStorage under keys derived from your brand name, which means the app also keeps working offline after the first load.
+### What developer tools are included in the Developer Utilities Toolbox template?
+The Developer Utilities Toolbox template includes 15 working utilities: a JSON formatter and validator, Base64 encoder and decoder, URL parser with query parameter editor, JWT decoder, live regex highlighter, line-by-line diff viewer, UUID and password generator, color converter with WCAG contrast checker, Unix timestamp converter, cron explainer, Markdown preview, image-to-Data-URI encoder, case converter, lorem ipsum generator, and a Web Crypto hash generator. Each utility has its own hash route with a synced page title.
 
-### How do I rename the app and change the sample domain in the Developer Utilities Toolbox?
-Set the four variables in the prompt before you hand it to your agent: [BRAND] becomes the app name shown in the sidebar header, page titles and command palette, [TAGLINE] is the subtitle on the home directory and privacy banner, [DOMAIN_HINT] fills the sample JSON, JWT, URL and email snippets, and [SUPPORT_EMAIL] appears in payloads and the footer. Rewrite the default copy for your values, keeping the same length and tone.
+### Does the Developer Utilities Toolbox template run offline and keep my data private?
+The Developer Utilities Toolbox template runs every operation locally in the browser with no network calls or uploads. You can format JSON, decode JWTs, test regex, hash files and convert images without sending sensitive payloads to a server. Favorites, recent history and your theme choice are stored in localStorage under keys derived from your brand name. You can build the static files and host them anywhere, including offline environments.
 
-### Is there a free developer tools website template I can build with AI?
-Yes. The Developer Utilities Toolbox on VibeFather is a free template with 16 pages, and its prompt plus the DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. Commercial or client work needs Pro, which also unlocks the full prompt and the source code of the demos. The live BenchKit demo was built with Gemini 4 Neon in Antigravity, so you can see the finished app before you start.
+### How do I change the brand name, tagline and sample data in the Developer Utilities Toolbox template?
+Set the four variables in the prompt before building: BRAND is the app name shown in the sidebar and page titles, TAGLINE is the subtitle on the home directory and privacy banner, DOMAIN_HINT appears inside sample JSON, JWT, URL and email snippets, and SUPPORT_EMAIL is used in payloads and the footer. The prompt asks the AI agent to keep utility metadata and sample inputs in one content file so you can swap copy later without touching components.
 
-### What can I change first in the Developer Utilities Toolbox to make it mine?
-Start with the brand variables, then the tool metadata and default sample inputs that sit in one data file, since those drive the sidebar directory, the home bento grid and the preloaded payloads inside each utility. Next adjust the lime accent and the paper-white and ink-black palette in the Tailwind theme, and finally edit the footer copy. Layout, type and motion can stay as described.
+### Can I add my own utility to the Developer Utilities Toolbox template?
+Yes. The Developer Utilities Toolbox template organizes its 15 utilities into five sidebar categories, each on its own hash route with a matching document title and description. To add a sixteenth tool, ask your AI agent to follow the same pattern: a route, a workbench layout, a sample input, and an entry in the tool directory and command palette. Favorites, recent history and the Cmd+K jumper pick up new tools once they are listed in the shared tool metadata.
 
-### How do the Cmd+K jumper, favorites and history work in the Developer Utilities Toolbox?
-The Developer Utilities Toolbox opens each of its 15 utilities on its own hash route, and the persistent sidebar groups them into Formatting and Code, Encoding and Web, Security and Crypto, Text and Regex, and Design and Time. Pressing Cmd+K or Ctrl+K opens a command palette you can drive with the arrow keys and Enter, while pinned favorites and the last five tools you used are saved in localStorage and shown in the sidebar.
+### How does the Cmd+K command palette and favorites system work in the Developer Utilities Toolbox template?
+The Developer Utilities Toolbox template opens a command palette with Cmd+K or Ctrl+K, where you can search all 15 utilities and jump with the arrow keys and Enter. The sidebar shows pinned favorites and the last five tools you used, both saved in localStorage so they survive a refresh. A star button on every utility card adds it to favorites, and the theme toggle switches between paper-white and ink-black modes.
 
 ### How do I build a developer utilities toolbox with AI?
-Copy the prompt from this page or run npx vibefather add developer-utilities-toolbox, replace [BRAND], [TAGLINE], [DOMAIN_HINT] and [SUPPORT_EMAIL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add developer-utilities-toolbox, replace [BRAND], [TAGLINE], [DOMAIN_HINT] and [SUPPORT_EMAIL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Developer Utilities Toolbox demo?
-The BenchKit case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The BenchKit case was built by Gemini 4 Neon in Antigravity; the Kestrel Tools case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Developer Utilities Toolbox template use?
-Developer Utilities Toolbox is a 16-page site built with Tailwind CSS, React and Vite, with dark mode and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Developer Utilities Toolbox is a 16-page site built with React, Tailwind CSS and Vite, with dark mode and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Developer Utilities Toolbox template for a client or a business?
 The Developer Utilities Toolbox prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

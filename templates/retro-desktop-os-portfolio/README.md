@@ -2,7 +2,7 @@
 
 > A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews.
 
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/webp.32946bf4dc.webp" width="100%" alt="Retro Desktop OS Portfolio — Retro Desktop OS Portfolio Template with Draggable Windows and Start Menu built by Claude Opus 5.5, Gemini 4 Carbon and GPT-6 Astra"></a>
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/webp.32946bf4dc.webp" width="100%" alt="Retro Desktop OS Portfolio — Retro Desktop OS Portfolio Template with Draggable Windows and Start Menu built by Claude Opus 5.5, Gemini 4 Carbon, GPT-6 Astra and GLM-5.4"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ To adapt it, change the brand, name, discipline, city and email, then rewrite th
 | Effects | Text Animation, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
+| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -52,6 +52,13 @@ To adapt it, change the brand, name, discipline, city and email, then rewrite th
 <sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=5f93470a-85e7-44ca-ab00-6be1ec174037&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/5f93470a-85e7-44ca-ab00-6be1ec174037/shot_desktop.10e397d27b.webp" width="100%" alt="Retro Desktop OS Portfolio — Motion designer portfolio, built by GLM-5.4 in ZCode"></a><br>
+<b>Motion designer portfolio</b><br>
+<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=5f93470a-85e7-44ca-ab00-6be1ec174037&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
 </table>
 
 ## Variables
@@ -74,36 +81,36 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A freelance animator: set BRAND to your studio name, DISCIPLINE to animation, and replace the six project previews with your own loops so the Work browser shows your reel.
-- An illustrator's personal site: keep the desktop shell, set OWNER_NAME and CITY, and rewrite the About window copy around drawing rather than frames and render times.
-- A small motion studio: point BRAND at the studio, widen the Work window to list client projects, and route the Contact window and start menu to the studio inbox.
-- A creative developer portfolio: keep the canvas previews, swap in your own generative sketches, and change the wallpaper switcher options to match your color palette.
+- An animator's personal site: set BRAND to your reel name, OWNER_NAME to yourself and DISCIPLINE to animation, then rewrite the six Work projects around your own loops and title cards.
+- An illustrator's portfolio: keep the desktop frame, set DISCIPLINE to illustration and replace the Work previews with your own SVG drawings so the file browser shows your series and commissions.
+- A small motion studio: set BRAND to the studio name, put a shared CONTACT_EMAIL in the Contact window and use the start menu About entry for your team and the work you take on.
+- A creative developer's site: keep the canvas and easing-curve previews, set DISCIPLINE to creative development and point the Work window at interaction experiments and code-drawn pieces.
 
 ## FAQ
 
-### What can visitors actually do on the Retro Desktop OS Portfolio, and what do they see first?
-Visitors land on a short typed boot log, then a teal-gray desktop with a column of pixel icons and a taskbar with a live clock. They can drag windows by their title bars, click one to bring it to the front while the others dim, minimize windows to the taskbar, maximize on a double-click and open the start menu for About, Work, Showreel, Contact, a wallpaper switcher and a shut-down item that ends on a goodbye screen.
+### How do I change the name, city and email on the Retro Desktop OS Portfolio?
+The Retro Desktop OS Portfolio template exposes five variables: BRAND, OWNER_NAME, DISCIPLINE, CITY and CONTACT_EMAIL. Set BRAND to your studio name, OWNER_NAME to yourself, DISCIPLINE to your practice and CITY to where you work, then rewrite the copy in the single content file so the boot log, About window, start menu banner and Contact window all match the new person. The prompt notes that if your values differ from the defaults, every headline, paragraph and label should be rewritten at the same length and tone.
 
-### How do the project previews work if there are no video files on the page?
-Each of the six projects in the Work file browser opens in its own window with a looping preview drawn in CSS, SVG or canvas: sine-wave title cards, orbiting shapes, bouncing type, easing curves side by side, a rotating grid and equalizer bars. The showreel window plays all six in turn. Because nothing is a video file, the build stays small and every loop can be restyled in code.
+### Can I replace the looping project previews with my own animations?
+Yes. Each of the six project previews in the Retro Desktop OS Portfolio is its own small component drawn in CSS, SVG or canvas, so you swap one component to change one loop. None of the previews is a video file, which keeps the build small and means every loop can be restyled in code. The showreel window plays all six in turn, so any preview you replace also appears there. Canvas previews cancel their frame loop when they stop playing or unmount.
 
-### What should I change first after downloading the Retro Desktop OS Portfolio prompt?
-Set the five variables first: BRAND, OWNER_NAME, DISCIPLINE, CITY and CONTACT_EMAIL. The brand appears as "[BRAND] Shell" in the boot log, start menu banner and desktop watermark, while the discipline drives the About copy and the project types. Then rewrite the project list and the boot log lines in the single content file, keeping the same lengths and structure.
+### What is the start menu and Scraps bin in this template?
+The Retro Desktop OS Portfolio start menu holds About, Work, Showreel, Contact, a wallpaper switcher and a shut-down item that ends on a goodbye screen. The Scraps bin is an extra desktop icon you can empty after a small confirmation dialog. Both are part of the fictional late-nineties operating system framing, so visitors can explore the site before they read it. All the labels and dialog text live in the content file and can be rewritten for your own studio.
 
-### Can I use the Retro Desktop OS Portfolio for a client project or a studio site?
-The Retro Desktop OS Portfolio is a Pro template, so commercial and client use is covered by Pro membership, which also gives you the full prompt and the source code of the demos. Free templates' prompts and every DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. The brief, stack and variables of this template are shown publicly before you join.
+### Who is the Retro Desktop OS Portfolio template made for?
+The Retro Desktop OS Portfolio template suits motion designers, animators, illustrators and creative developers who want a personal site people remember that still reads quickly. It is aimed at studios, agencies and art directors hiring a freelancer, who have a minute to spare and like to explore a site before they read it. The goal is to get a visitor to open at least one project window, watch a loop play and then reach your email from the Contact window or the start menu.
 
-### Does the Retro Desktop OS Portfolio still work for visitors who prefer reduced motion or have slow connections?
-Yes. The build respects the reduced-motion preference: visitors who set it skip the boot log and see still frames instead of the looping previews, and all keyframes are switched off. The site is a static build with no backend and no external APIs, and every icon, preview and wallpaper is drawn in code, so there are no heavy image or video downloads to wait for.
+### How do the draggable windows behave on a phone or with reduced motion turned on?
+On phones the Retro Desktop OS Portfolio desktop becomes a stacked list of accordion windows above a fixed taskbar, and dragging is disabled below 768 pixels wide. On larger screens you drag windows by their title bars, clicking a window brings it to the front and dims the others, windows minimize to the taskbar and maximize on a double-click. Visitors who prefer reduced motion skip the typed boot log and see still frames instead of the looping previews.
 
 ### How do I build a retro desktop OS portfolio with AI?
 Copy the full prompt (Pro) from this page or run npx vibefather add retro-desktop-os-portfolio, replace [BRAND], [OWNER_NAME], [DISCIPLINE] and [CITY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Retro Desktop OS Portfolio demo?
-The Motion designer portfolio case was built by Claude Opus 5.5 in Cursor; the Illustrator portfolio case was built by Claude Opus 5.5 in Cursor; the Motion designer portfolio case was built by Gemini 4 Carbon in Cursor; the Motion designer portfolio case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Motion designer portfolio case was built by Claude Opus 5.5 in Cursor; the Illustrator portfolio case was built by Claude Opus 5.5 in Cursor; the Motion designer portfolio case was built by Gemini 4 Carbon in Cursor; the Motion designer portfolio case was built by GPT-6 Astra in Codex; the Motion designer portfolio case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Retro Desktop OS Portfolio template use?
-Retro Desktop OS Portfolio is a single-page site built with Motion, Tailwind CSS and React, with text animation, drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Retro Desktop OS Portfolio is a single-page site built with Motion, React and Tailwind CSS, with text animation, drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Retro Desktop OS Portfolio template free to use?
 Retro Desktop OS Portfolio is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

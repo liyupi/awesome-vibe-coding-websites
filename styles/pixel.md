@@ -7,10 +7,10 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/shot_desktop.3c97e7dcfd.webp" width="100%" alt="Retro Desktop OS Portfolio website template — live demo built by Claude Opus 5.5, Gemini 4 Carbon and GPT-6 Astra"></a><br>
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/shot_desktop.3c97e7dcfd.webp" width="100%" alt="Retro Desktop OS Portfolio website template — live demo built by Claude Opus 5.5, Gemini 4 Carbon, GPT-6 Astra and GLM-5.4"></a><br>
 <b><a href="../templates/retro-desktop-os-portfolio">Retro Desktop OS Portfolio</a></b> <sup>PRO</sup><br>
 <sub>A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews.</sub><br>
-<sub>Claude Opus 5.5 · Gemini 4 Carbon · GPT-6 Astra · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/retro-desktop-os-portfolio/prompt.md">Prompt</a></sub>
+<sub>Claude Opus 5.5 · Gemini 4 Carbon · GPT-6 Astra · GLM-5.4 · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/retro-desktop-os-portfolio/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/virtual-pet-companion/a2c27a78-f8c4-45bc-b368-d5668767ab28/shot_desktop.6c453759a7.webp" width="100%" alt="Virtual Pet Companion website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

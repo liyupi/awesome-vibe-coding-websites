@@ -18,7 +18,7 @@ To adapt it, change the brand, community topic, audience, featured trend, and co
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Blog](../../types/blog.md), [Dashboard](../../types/dashboard.md) |
-| Style | [Minimal](../../styles/minimal.md), [Bento Grid](../../styles/bento.md), [Editorial](../../styles/editorial.md) |
+| Style | [Bento Grid](../../styles/bento.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 3 |
@@ -91,7 +91,7 @@ Copy the prompt from this page or run npx vibefather add trending-topics-microbl
 The Urban nature community case was built by Kimi K3.1 Pro in Kimi Code; the Tabletop game makers case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Trending Topics Microblog template use?
-Trending Topics Microblog is a 3-page site built with Tailwind CSS and React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Trending Topics Microblog is a 3-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Trending Topics Microblog template for a client or a business?
 The Trending Topics Microblog prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

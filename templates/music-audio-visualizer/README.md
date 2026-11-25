@@ -12,7 +12,7 @@ Transform sound into luminous Three.js geometry right in the browser. Start the 
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [App Landing](../../types/app-landing.md), [Interactive Toy](../../types/toy.md) |
-| Style | [Aurora](../../styles/aurora.md), [Minimal](../../styles/minimal.md), [Dark](../../styles/dark.md) |
+| Style | [Aurora](../../styles/aurora.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
@@ -83,7 +83,7 @@ Copy the prompt from this page or run npx vibefather add music-audio-visualizer,
 The SynapseWave (Midnight Neon) case was built by Gemini 4 Neon in Antigravity; the ChromaBeat (Solar Pulse) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Music Audio Visualizer template use?
-Music Audio Visualizer is a single-page site built with Three.js, Tailwind CSS and React, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Music Audio Visualizer is a single-page site built with React, Tailwind CSS and Three.js, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Music Audio Visualizer template for a client or a business?
 The Music Audio Visualizer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.
