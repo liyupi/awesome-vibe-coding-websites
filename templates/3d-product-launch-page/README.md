@@ -22,7 +22,7 @@ To adapt the page, change the brand, product name, product type, price, ship win
 | Effects | Scroll Animation, Text Animation, 3D / WebGL |
 | Stack | Vite 5 + TypeScript + three.js + Vanilla CSS + three + gsap + lenis |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/3d-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt the page, change the brand, product name, product type, price, ship win
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-product-launch-page?case=565fdd79-8b10-42f0-95b2-661affda944f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-product-launch-page/565fdd79-8b10-42f0-95b2-661affda944f/shot_desktop.9274cd092a.webp" width="100%" alt="3D Product Launch Page — Smart desk lamp, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Smart desk lamp</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/3d-product-launch-page?case=565fdd79-8b10-42f0-95b2-661affda944f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/3d-product-launch-page?case=565fdd79-8b10-42f0-95b2-661affda944f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-product-launch-page?case=0281f5ff-4fa7-444e-812f-7529d7ded48a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-product-launch-page/0281f5ff-4fa7-444e-812f-7529d7ded48a/shot_desktop.991782b253.webp" width="100%" alt="3D Product Launch Page — Indoor grow light, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Indoor grow light</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/3d-product-launch-page?case=0281f5ff-4fa7-444e-812f-7529d7ded48a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/3d-product-launch-page?case=0281f5ff-4fa7-444e-812f-7529d7ded48a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

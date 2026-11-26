@@ -16,7 +16,7 @@ A playful cartoon battle sandbox set on a bright meadow. Pick from 10 original u
 | Effects | Canvas Simulation, Flocking, Confetti |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A playful cartoon battle sandbox set on a bright meadow. Pick from 10 original u
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/draw-battle-simulator-game?case=679f16cc-2ee2-43ff-9aa3-0cd0eb7a3caa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/draw-battle-simulator-game/679f16cc-2ee2-43ff-9aa3-0cd0eb7a3caa/shot_desktop.c74646c0fa.webp" width="100%" alt="Draw Battle Simulator Game — Meadow Clash (Crimson vs Cobalt), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Meadow Clash (Crimson vs Cobalt)</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/draw-battle-simulator-game?case=679f16cc-2ee2-43ff-9aa3-0cd0eb7a3caa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/draw-battle-simulator-game?case=679f16cc-2ee2-43ff-9aa3-0cd0eb7a3caa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/draw-battle-simulator-game?case=3a770449-ae99-4794-91f7-f34aebc9a3ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/draw-battle-simulator-game/3a770449-ae99-4794-91f7-f34aebc9a3ae/shot_desktop.0821c6e640.webp" width="100%" alt="Draw Battle Simulator Game — Banner Sketch (Scarlet vs Azure), built by GPT-6.2 Sol in Codex"></a><br>
 <b>Banner Sketch (Scarlet vs Azure)</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/draw-battle-simulator-game?case=3a770449-ae99-4794-91f7-f34aebc9a3ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/draw-battle-simulator-game?case=3a770449-ae99-4794-91f7-f34aebc9a3ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

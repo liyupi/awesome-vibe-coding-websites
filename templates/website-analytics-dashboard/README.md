@@ -20,7 +20,7 @@ Editors can define a goal around an article or action, assemble the steps that l
 | Effects | Micro-interactions |
 | Stack | React 19 + Vite + Vanilla CSS |
 | Pages | 4 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,7 +30,7 @@ Editors can define a goal around an article or action, assemble the steps that l
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/website-analytics-dashboard?case=c408f5e6-8c5b-4c85-bcdd-c81a9eb6e9da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/website-analytics-dashboard/c408f5e6-8c5b-4c85-bcdd-c81a9eb6e9da/shot_desktop.f7352b2ba6.webp" width="100%" alt="Website Analytics Dashboard — Timber journal, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Timber journal</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/website-analytics-dashboard?case=c408f5e6-8c5b-4c85-bcdd-c81a9eb6e9da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/website-analytics-dashboard?case=c408f5e6-8c5b-4c85-bcdd-c81a9eb6e9da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

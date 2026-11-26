@@ -22,7 +22,7 @@ Change the brand, pet name, species, habitat, or coin name in one content file a
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite 7 + React 19 + TypeScript 5 + Tailwind CSS 3.4 + custom CSS + lucide-react |
 | Pages | 3 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Change the brand, pet name, species, habitat, or coin name in one content file a
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/virtual-pet-companion?case=a2c27a78-f8c4-45bc-b368-d5668767ab28&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/virtual-pet-companion/a2c27a78-f8c4-45bc-b368-d5668767ab28/shot_desktop.6c453759a7.webp" width="100%" alt="Virtual Pet Companion — Moss bunny companion, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Moss bunny companion</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/virtual-pet-companion?case=a2c27a78-f8c4-45bc-b368-d5668767ab28&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/virtual-pet-companion?case=a2c27a78-f8c4-45bc-b368-d5668767ab28&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/virtual-pet-companion?case=00eabf65-540a-46aa-a6ad-5d0b14e25ad1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/virtual-pet-companion/00eabf65-540a-46aa-a6ad-5d0b14e25ad1/shot_desktop.ec296b346f.webp" width="100%" alt="Virtual Pet Companion — Star cat companion, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Star cat companion</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/virtual-pet-companion?case=00eabf65-540a-46aa-a6ad-5d0b14e25ad1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/virtual-pet-companion?case=00eabf65-540a-46aa-a6ad-5d0b14e25ad1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

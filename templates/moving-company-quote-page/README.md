@@ -20,7 +20,7 @@ The prompt includes exact inventory presets, cubic-foot values, calculation rule
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4 + @tailwindcss/vite + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,12 +30,12 @@ The prompt includes exact inventory presets, cubic-foot values, calculation rule
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/moving-company-quote-page?case=4769861d-18b6-4837-a102-422a3477c892&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/moving-company-quote-page/4769861d-18b6-4837-a102-422a3477c892/shot_desktop.929a7e01e8.webp" width="100%" alt="Moving Company Quote Page — Portland home movers, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Portland home movers</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/moving-company-quote-page?case=4769861d-18b6-4837-a102-422a3477c892&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/moving-company-quote-page?case=4769861d-18b6-4837-a102-422a3477c892&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/moving-company-quote-page?case=5acec1bc-5ec0-4753-adfb-4536ca76a28c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/moving-company-quote-page/5acec1bc-5ec0-4753-adfb-4536ca76a28c/shot_desktop.4f7ad660d6.webp" width="100%" alt="Moving Company Quote Page — Austin apartment movers, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Austin apartment movers</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/moving-company-quote-page?case=5acec1bc-5ec0-4753-adfb-4536ca76a28c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/moving-company-quote-page?case=5acec1bc-5ec0-4753-adfb-4536ca76a28c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

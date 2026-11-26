@@ -16,7 +16,7 @@ Used Car Dealership Website is a full storefront for an independent used-car dea
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 5 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Used Car Dealership Website is a full storefront for an independent used-car dea
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/used-car-dealership-website?case=b251be65-1825-4174-8904-d8e717428311&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp" width="100%" alt="Used Car Dealership Website — Independent dealer, Bellhaven, built by GLM-5.3 in ZCode"></a><br>
 <b>Independent dealer, Bellhaven</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/used-car-dealership-website?case=b251be65-1825-4174-8904-d8e717428311&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/used-car-dealership-website?case=b251be65-1825-4174-8904-d8e717428311&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/used-car-dealership-website?case=f2c404c2-e781-4f23-bd55-88cd87dd31ad&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/used-car-dealership-website/f2c404c2-e781-4f23-bd55-88cd87dd31ad/shot_desktop.2b84274732.webp" width="100%" alt="Used Car Dealership Website — Fleet and family dealer, Port Aldan, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Fleet and family dealer, Port Aldan</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/used-car-dealership-website?case=f2c404c2-e781-4f23-bd55-88cd87dd31ad&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/used-car-dealership-website?case=f2c404c2-e781-4f23-bd55-88cd87dd31ad&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -22,7 +22,7 @@ Six generated architectural images create one consistent property shoot. Brand, 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/apartment-leasing-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Six generated architectural images create one consistent property shoot. Brand, 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/apartment-leasing-website?case=6c7aa740-d2c6-412d-aa7d-6fee8f186b83&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/apartment-leasing-website/6c7aa740-d2c6-412d-aa7d-6fee8f186b83/shot_desktop.8d9ff17027.webp" width="100%" alt="Apartment Leasing Website — Courtyard apartment residences, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Courtyard apartment residences</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/apartment-leasing-website?case=6c7aa740-d2c6-412d-aa7d-6fee8f186b83&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/apartment-leasing-website?case=6c7aa740-d2c6-412d-aa7d-6fee8f186b83&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/apartment-leasing-website?case=a8a78feb-6fe2-4d85-95b5-4663751ba32b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/apartment-leasing-website/a8a78feb-6fe2-4d85-95b5-4663751ba32b/shot_desktop.0610c9d9ba.webp" width="100%" alt="Apartment Leasing Website — Waterfront loft residences, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Waterfront loft residences</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/apartment-leasing-website?case=a8a78feb-6fe2-4d85-95b5-4663751ba32b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/apartment-leasing-website?case=a8a78feb-6fe2-4d85-95b5-4663751ba32b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

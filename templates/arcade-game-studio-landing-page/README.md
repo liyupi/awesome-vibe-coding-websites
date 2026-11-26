@@ -20,7 +20,7 @@ Below the hero are a scrolling ticker of game titles, a grid of cartridge-shaped
 | Effects | Text Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Hand-written vanilla CSS |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/arcade-game-studio-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,12 +30,12 @@ Below the hero are a scrolling ticker of game titles, a grid of cartridge-shaped
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=884b18c2-d036-476f-8c99-65397e86221e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/coinslot/884b18c2-d036-476f-8c99-65397e86221e/shot_desktop.325abec805.webp" width="100%" alt="Arcade Game Studio Landing Page — Indie game studio, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Indie game studio</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=884b18c2-d036-476f-8c99-65397e86221e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=884b18c2-d036-476f-8c99-65397e86221e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=2bd3687d-f73f-4118-a336-c77efb812591&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/arcade-game-studio-landing-page/2bd3687d-f73f-4118-a336-c77efb812591/shot_desktop.2156094387.webp" width="100%" alt="Arcade Game Studio Landing Page — Retro arcade bar, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Retro arcade bar</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=2bd3687d-f73f-4118-a336-c77efb812591&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/arcade-game-studio-landing-page?case=2bd3687d-f73f-4118-a336-c77efb812591&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

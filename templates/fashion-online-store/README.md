@@ -16,7 +16,7 @@ A four-page storefront for a small fashion label: a campaign home with new arriv
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/fashion-online-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A four-page storefront for a small fashion label: a campaign home with new arriv
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fashion-online-store?case=4a4dd574-4bb6-4841-83cb-2236363d986f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fashion-online-store/4a4dd574-4bb6-4841-83cb-2236363d986f/shot_desktop.0c7958f7e9.webp" width="100%" alt="Fashion Online Store — Linen label in Lisbon, built by GLM-5.3 in ZCode"></a><br>
 <b>Linen label in Lisbon</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/fashion-online-store?case=4a4dd574-4bb6-4841-83cb-2236363d986f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/fashion-online-store?case=4a4dd574-4bb6-4841-83cb-2236363d986f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fashion-online-store?case=106e7582-2eb4-4e08-8635-cce354cb7848&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fashion-online-store/106e7582-2eb4-4e08-8635-cce354cb7848/shot_desktop.d46d1129ac.webp" width="100%" alt="Fashion Online Store — Cotton label in Portland, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Cotton label in Portland</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/fashion-online-store?case=106e7582-2eb4-4e08-8635-cce354cb7848&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/fashion-online-store?case=106e7582-2eb4-4e08-8635-cce354cb7848&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

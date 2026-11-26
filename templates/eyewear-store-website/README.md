@@ -16,7 +16,7 @@ This template builds a clean, fashion-forward storefront for an independent eyew
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ This template builds a clean, fashion-forward storefront for an independent eyew
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/eyewear-store-website?case=524accc2-1c40-41a6-a24f-7af7b92419f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/eyewear-store-website/524accc2-1c40-41a6-a24f-7af7b92419f2/shot_desktop.d145d9c1e8.webp" width="100%" alt="Eyewear Store Website — Boutique optical shop, built by GLM-5.3 in ZCode"></a><br>
 <b>Boutique optical shop</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/eyewear-store-website?case=524accc2-1c40-41a6-a24f-7af7b92419f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/eyewear-store-website?case=524accc2-1c40-41a6-a24f-7af7b92419f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/eyewear-store-website?case=15331f25-45e2-4b17-8fb9-f11582e56437&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/eyewear-store-website/15331f25-45e2-4b17-8fb9-f11582e56437/shot_desktop.e448b15b39.webp" width="100%" alt="Eyewear Store Website — Coastal sunglasses shop, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Coastal sunglasses shop</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/eyewear-store-website?case=15331f25-45e2-4b17-8fb9-f11582e56437&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/eyewear-store-website?case=15331f25-45e2-4b17-8fb9-f11582e56437&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

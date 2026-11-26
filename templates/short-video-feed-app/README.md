@@ -22,7 +22,7 @@ Change the brand, editorial theme, audience and accent to adapt it for a maker j
 | Effects | Parallax, Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4 + motion + lucide-react |
 | Pages | 3 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/short-video-feed-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Change the brand, editorial theme, audience and accent to adapt it for a maker j
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/short-video-feed-app?case=aded2cec-2ac0-4992-92e8-e943c5cb7adf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/short-video-feed-app/aded2cec-2ac0-4992-92e8-e943c5cb7adf/shot_desktop.577a2fce25.webp" width="100%" alt="Short Video Feed App — Slow craft stories, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Slow craft stories</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/short-video-feed-app?case=aded2cec-2ac0-4992-92e8-e943c5cb7adf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/short-video-feed-app?case=aded2cec-2ac0-4992-92e8-e943c5cb7adf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/short-video-feed-app?case=be87457c-5d83-4789-a783-76a09abba88f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/short-video-feed-app/be87457c-5d83-4789-a783-76a09abba88f/shot_desktop.eadadc481a.webp" width="100%" alt="Short Video Feed App — Weekend maker journal, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Weekend maker journal</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/short-video-feed-app?case=be87457c-5d83-4789-a783-76a09abba88f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/short-video-feed-app?case=be87457c-5d83-4789-a783-76a09abba88f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -22,7 +22,7 @@ Brand, positioning, location, audience, specialty, and contact email are variabl
 | Effects | Scroll Animation, Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4 + motion + lucide-react |
 | Pages | 5 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/video-production-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Brand, positioning, location, audience, specialty, and contact email are variabl
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/video-production-company-website?case=112c0594-b12d-48a4-b20c-6cd9cf08d4b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/video-production-company-website/112c0594-b12d-48a4-b20c-6cd9cf08d4b7/shot_desktop.bc9001e7a3.webp" width="100%" alt="Video Production Company Website — Commercial film studio, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Commercial film studio</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/video-production-company-website?case=112c0594-b12d-48a4-b20c-6cd9cf08d4b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/video-production-company-website?case=112c0594-b12d-48a4-b20c-6cd9cf08d4b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/video-production-company-website?case=9ac1455d-1149-483f-820a-35b9830bb652&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/video-production-company-website/9ac1455d-1149-483f-820a-35b9830bb652/shot_desktop.272525a72b.webp" width="100%" alt="Video Production Company Website — Event film collective, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Event film collective</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/video-production-company-website?case=9ac1455d-1149-483f-820a-35b9830bb652&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/video-production-company-website?case=9ac1455d-1149-483f-820a-35b9830bb652&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

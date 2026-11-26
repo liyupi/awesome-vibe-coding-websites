@@ -16,7 +16,7 @@ Hot Air Balloon Rides Website is a dawn-soft landing page for a fictional ride c
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Hot Air Balloon Rides Website is a dawn-soft landing page for a fictional ride c
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=73abf288-de33-43b2-9df1-81b49295e5c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hot-air-balloon-rides-website/73abf288-de33-43b2-9df1-81b49295e5c7/shot_desktop.5932818c17.webp" width="100%" alt="Hot Air Balloon Rides Website — Dawn balloon ride company, built by GLM-5.3 in ZCode"></a><br>
 <b>Dawn balloon ride company</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=73abf288-de33-43b2-9df1-81b49295e5c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=73abf288-de33-43b2-9df1-81b49295e5c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=28d42bfe-2a84-4e6a-8bcf-143a8e44eae2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hot-air-balloon-rides-website/28d42bfe-2a84-4e6a-8bcf-143a8e44eae2/shot_desktop.eea08dfd9a.webp" width="100%" alt="Hot Air Balloon Rides Website — Olive-grove balloon flights, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Olive-grove balloon flights</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=28d42bfe-2a84-4e6a-8bcf-143a8e44eae2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?case=28d42bfe-2a84-4e6a-8bcf-143a8e44eae2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

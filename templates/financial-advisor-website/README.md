@@ -16,7 +16,7 @@ A single-page website for an independent financial advisor: the advisor's plain 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/financial-advisor-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page website for an independent financial advisor: the advisor's plain 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/financial-advisor-website?case=9e891b67-b342-4934-9551-2c48b7ddd7e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/financial-advisor-website/9e891b67-b342-4934-9551-2c48b7ddd7e8/shot_desktop.cff7d75e06.webp" width="100%" alt="Financial Advisor Website — Fee-only independent advisor, built by GLM-5.3 in ZCode"></a><br>
 <b>Fee-only independent advisor</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/financial-advisor-website?case=9e891b67-b342-4934-9551-2c48b7ddd7e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/financial-advisor-website?case=9e891b67-b342-4934-9551-2c48b7ddd7e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/financial-advisor-website?case=18f66f24-5cae-4904-a153-f2da8269bff1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/financial-advisor-website/18f66f24-5cae-4904-a153-f2da8269bff1/shot_desktop.479be46f88.webp" width="100%" alt="Financial Advisor Website — Tax-focused advisor, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Tax-focused advisor</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/financial-advisor-website?case=18f66f24-5cae-4904-a153-f2da8269bff1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/financial-advisor-website?case=18f66f24-5cae-4904-a153-f2da8269bff1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

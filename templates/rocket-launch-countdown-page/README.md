@@ -22,7 +22,7 @@ It suits a studio, a club, or a product team planning a premiere. Change the com
 | Effects | Drag & Physics, 3D / WebGL |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18.3.1 + three@0.169.0 + @react-three/fiber@8.17.14 |
 | Pages | 1 |
-| Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="13" height="13" alt=""></picture> [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/rocket-launch-countdown-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ It suits a studio, a club, or a product team planning a premiere. Change the com
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=4e7310b0-872d-4c1b-a07a-b2e0679d7e6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/rocket-launch-countdown-page/4e7310b0-872d-4c1b-a07a-b2e0679d7e6d/shot_desktop.1bcce69d0a.webp" width="100%" alt="Rocket Launch Countdown Page — Coastal satellite launch, built by Grok 4.7 in Grok Build"></a><br>
 <b>Coastal satellite launch</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=4e7310b0-872d-4c1b-a07a-b2e0679d7e6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=4e7310b0-872d-4c1b-a07a-b2e0679d7e6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=fa814c6f-3008-470a-a981-fa281b5da08f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/rocket-launch-countdown-page/fa814c6f-3008-470a-a981-fa281b5da08f/shot_desktop.7fb326ae9f.webp" width="100%" alt="Rocket Launch Countdown Page — Crop imaging launch, built by Grok 4.7 in Grok Build"></a><br>
 <b>Crop imaging launch</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=fa814c6f-3008-470a-a981-fa281b5da08f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/rocket-launch-countdown-page?case=fa814c6f-3008-470a-a981-fa281b5da08f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

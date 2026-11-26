@@ -22,7 +22,7 @@ Everything runs as a static Vite and React build. User comments, saved films, fo
 | Effects | Generative / Canvas, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 2 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/danmaku-video-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Everything runs as a static Vite and React build. User comments, saved films, fo
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/danmaku-video-platform?case=535046de-a278-40e9-9659-db8811b188a7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/danmaku-video-platform/535046de-a278-40e9-9659-db8811b188a7/shot_desktop.619c4f8fdf.webp" width="100%" alt="Danmaku Video Platform — Visual culture films, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Visual culture films</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/danmaku-video-platform?case=535046de-a278-40e9-9659-db8811b188a7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/danmaku-video-platform?case=535046de-a278-40e9-9659-db8811b188a7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/danmaku-video-platform?case=3379484a-220f-4f66-9724-c10cfb8b5a8f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/danmaku-video-platform/3379484a-220f-4f66-9724-c10cfb8b5a8f/shot_desktop.7b240b9eeb.webp" width="100%" alt="Danmaku Video Platform — Travel and food films, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Travel and food films</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/danmaku-video-platform?case=3379484a-220f-4f66-9724-c10cfb8b5a8f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/danmaku-video-platform?case=3379484a-220f-4f66-9724-c10cfb8b5a8f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

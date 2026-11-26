@@ -16,7 +16,7 @@ A single-page website for an independent bookstore: the shop's promise over the 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page website for an independent bookstore: the shop's promise over the 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/independent-bookstore-website?case=83c160d1-b6ce-4d00-9af3-c94c0e8c0da4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/independent-bookstore-website/83c160d1-b6ce-4d00-9af3-c94c0e8c0da4/shot_desktop.369d1e6cc2.webp" width="100%" alt="Independent Bookstore Website — Corner indie bookstore, built by GLM-5.3 in ZCode"></a><br>
 <b>Corner indie bookstore</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/independent-bookstore-website?case=83c160d1-b6ce-4d00-9af3-c94c0e8c0da4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/independent-bookstore-website?case=83c160d1-b6ce-4d00-9af3-c94c0e8c0da4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/independent-bookstore-website?case=8dec5db2-0202-4fda-a8e3-30e2ae870394&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/independent-bookstore-website/8dec5db2-0202-4fda-a8e3-30e2ae870394/shot_desktop.921314589f.webp" width="100%" alt="Independent Bookstore Website — Sci-fi specialty bookstore, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Sci-fi specialty bookstore</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/independent-bookstore-website?case=8dec5db2-0202-4fda-a8e3-30e2ae870394&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/independent-bookstore-website?case=8dec5db2-0202-4fda-a8e3-30e2ae870394&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

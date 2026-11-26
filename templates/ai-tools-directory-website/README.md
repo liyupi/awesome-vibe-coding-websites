@@ -22,7 +22,7 @@ The template suits indie makers, small editorial teams and founders planning a f
 | Effects | Micro-interactions |
 | Stack | Vite + React + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 8 |
-| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ The template suits indie makers, small editorial teams and founders planning a f
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=83a6661d-9e30-4bee-b47a-ebeea56efd3b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp" width="100%" alt="AI Tools Directory Website — Independent AI tools, built by GPT-6 Astra in Codex"></a><br>
 <b>Independent AI tools</b><br>
-<sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=83a6661d-9e30-4bee-b47a-ebeea56efd3b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=83a6661d-9e30-4bee-b47a-ebeea56efd3b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=255fe86b-8d61-4894-9e62-1c7ca48842d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/255fe86b-8d61-4894-9e62-1c7ca48842d8/shot_desktop.772c8fff54.webp" width="100%" alt="AI Tools Directory Website — Creative studio tools, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Creative studio tools</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=255fe86b-8d61-4894-9e62-1c7ca48842d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=255fe86b-8d61-4894-9e62-1c7ca48842d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

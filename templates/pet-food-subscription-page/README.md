@@ -16,7 +16,7 @@ This template builds a friendly, colorful subscription page for a pet food brand
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ This template builds a friendly, colorful subscription page for a pet food brand
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pet-food-subscription-page?case=0680225a-5114-487c-a4db-ccac071f0cac&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pet-food-subscription-page/0680225a-5114-487c-a4db-ccac071f0cac/shot_desktop.b2cef04172.webp" width="100%" alt="Pet Food Subscription Page — Fresh dog food brand, built by GLM-5.3 in ZCode"></a><br>
 <b>Fresh dog food brand</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/pet-food-subscription-page?case=0680225a-5114-487c-a4db-ccac071f0cac&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/pet-food-subscription-page?case=0680225a-5114-487c-a4db-ccac071f0cac&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pet-food-subscription-page?case=a3a95bb9-643b-41c2-b145-09860f34a43c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pet-food-subscription-page/a3a95bb9-643b-41c2-b145-09860f34a43c/shot_desktop.4815eb749b.webp" width="100%" alt="Pet Food Subscription Page — Cat food subscription, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Cat food subscription</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/pet-food-subscription-page?case=a3a95bb9-643b-41c2-b145-09860f34a43c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/pet-food-subscription-page?case=a3a95bb9-643b-41c2-b145-09860f34a43c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

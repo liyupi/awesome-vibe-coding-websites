@@ -16,7 +16,7 @@ A sale page for a fictional homeware brand, made to be reused for every seasonal
 | Effects | Text Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A sale page for a fictional homeware brand, made to be reused for every seasonal
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/flash-sale-landing-page?case=c4bf71ee-4b86-47cf-97cf-7ff5855e5f65&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/c4bf71ee-4b86-47cf-97cf-7ff5855e5f65/shot_desktop.fab85b1df2.webp" width="100%" alt="Flash Sale Landing Page — Cosy home sale, built by GLM-5.4 in ZCode"></a><br>
 <b>Cosy home sale</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/flash-sale-landing-page?case=c4bf71ee-4b86-47cf-97cf-7ff5855e5f65&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/flash-sale-landing-page?case=c4bf71ee-4b86-47cf-97cf-7ff5855e5f65&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/flash-sale-landing-page?case=1c42d554-88f9-464c-990c-deae3fd49a38&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/1c42d554-88f9-464c-990c-deae3fd49a38/shot_desktop.36aec23b8b.webp" width="100%" alt="Flash Sale Landing Page — Fresh start homeware sale, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Fresh start homeware sale</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/flash-sale-landing-page?case=1c42d554-88f9-464c-990c-deae3fd49a38&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/flash-sale-landing-page?case=1c42d554-88f9-464c-990c-deae3fd49a38&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

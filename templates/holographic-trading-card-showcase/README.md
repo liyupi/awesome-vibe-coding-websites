@@ -16,7 +16,7 @@ Holographic Trading Card Showcase is a tactile collector showcase and pre-order 
 | Effects | Cursor Effects, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/holographic-trading-card-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Holographic Trading Card Showcase is a tactile collector showcase and pre-order 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=dfbae922-946c-4490-abc6-3f402f0a4b25&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/dfbae922-946c-4490-abc6-3f402f0a4b25/shot_desktop.0ac6a4b243.webp" width="100%" alt="Holographic Trading Card Showcase — Deep-sea bioluminescent card set, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Deep-sea bioluminescent card set</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=dfbae922-946c-4490-abc6-3f402f0a4b25&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=dfbae922-946c-4490-abc6-3f402f0a4b25&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=f72ddf3e-b875-4025-a4d4-3b09b4463b2b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/f72ddf3e-b875-4025-a4d4-3b09b4463b2b/shot_desktop.92071b17ab.webp" width="100%" alt="Holographic Trading Card Showcase — Bathyal drift creature card set, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Bathyal drift creature card set</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=f72ddf3e-b875-4025-a4d4-3b09b4463b2b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=f72ddf3e-b875-4025-a4d4-3b09b4463b2b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

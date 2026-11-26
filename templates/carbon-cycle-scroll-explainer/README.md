@@ -16,7 +16,7 @@ Carbon Cycle Scroll Explainer is a single-page science story built around one il
 | Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Vanilla CSS + gsap + lucide |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Carbon Cycle Scroll Explainer is a single-page science story built around one il
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb01a183-6ea2-49da-b6d8-8cb5a4f948aa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer — The carbon cycle, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>The carbon cycle</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb01a183-6ea2-49da-b6d8-8cb5a4f948aa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb01a183-6ea2-49da-b6d8-8cb5a4f948aa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp" width="100%" alt="Carbon Cycle Scroll Explainer — The water cycle, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>The water cycle</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

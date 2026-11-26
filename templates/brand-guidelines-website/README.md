@@ -16,7 +16,7 @@ A living brand book for a fictional company, built so that a team could publish 
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 11 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/brand-guidelines-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A living brand book for a fictional company, built so that a team could publish 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/brand-guidelines-website?case=a7f069aa-7c0d-438c-8118-edaf78962d2c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/brand-guidelines-website/a7f069aa-7c0d-438c-8118-edaf78962d2c/shot_desktop.d9ab12200f.webp" width="100%" alt="Brand Guidelines Website — Osier brand book, built by GLM-5.4 in ZCode"></a><br>
 <b>Osier brand book</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/brand-guidelines-website?case=a7f069aa-7c0d-438c-8118-edaf78962d2c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/brand-guidelines-website?case=a7f069aa-7c0d-438c-8118-edaf78962d2c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/brand-guidelines-website?case=37bca8f4-8938-4f6f-8730-dc4788366a97&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/brand-guidelines-website/37bca8f4-8938-4f6f-8730-dc4788366a97/shot_desktop.879895076b.webp" width="100%" alt="Brand Guidelines Website — Larchwood brand book, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Larchwood brand book</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/brand-guidelines-website?case=37bca8f4-8938-4f6f-8730-dc4788366a97&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/brand-guidelines-website?case=37bca8f4-8938-4f6f-8730-dc4788366a97&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

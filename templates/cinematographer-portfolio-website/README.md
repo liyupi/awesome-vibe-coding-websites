@@ -16,7 +16,7 @@ A portfolio for a director of photography, built the way a reel is cut: the imag
 | Effects | Scroll Animation, Cursor Effects, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/cinematographer-portfolio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A portfolio for a director of photography, built the way a reel is cut: the imag
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cinematographer-portfolio-website?case=8e2c112d-d02b-4638-a8da-0b20744566ef&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cinematographer-portfolio-website/8e2c112d-d02b-4638-a8da-0b20744566ef/shot_desktop.1e3ffd5f65.webp" width="100%" alt="Cinematographer Portfolio Website — Lisbon cinematographer, built by GLM-5.4 in ZCode"></a><br>
 <b>Lisbon cinematographer</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/cinematographer-portfolio-website?case=8e2c112d-d02b-4638-a8da-0b20744566ef&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/cinematographer-portfolio-website?case=8e2c112d-d02b-4638-a8da-0b20744566ef&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cinematographer-portfolio-website?case=7f67e2c4-b495-4349-bd63-ddb654d96f11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cinematographer-portfolio-website/7f67e2c4-b495-4349-bd63-ddb654d96f11/shot_desktop.5bbb910069.webp" width="100%" alt="Cinematographer Portfolio Website — Warsaw cinematographer, music films, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Warsaw cinematographer, music films</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/cinematographer-portfolio-website?case=7f67e2c4-b495-4349-bd63-ddb654d96f11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/cinematographer-portfolio-website?case=7f67e2c4-b495-4349-bd63-ddb654d96f11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

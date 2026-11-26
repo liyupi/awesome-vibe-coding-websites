@@ -24,7 +24,7 @@ Change the brand, workspace, audience, measurement focus, and owner to make anot
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 11 |
-| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -34,12 +34,12 @@ Change the brand, workspace, audience, measurement focus, and owner to make anot
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter — Subscription product analytics, built by GPT-6 Astra in Codex"></a><br>
 <b>Subscription product analytics</b><br>
-<sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=a64a33a3-7965-4275-a61a-ca072cb99b5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/a64a33a3-7965-4275-a61a-ca072cb99b5c/shot_desktop.0c1e1249dd.webp" width="100%" alt="SaaS App Dashboard Starter — Commerce operations analytics, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Commerce operations analytics</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=a64a33a3-7965-4275-a61a-ca072cb99b5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=a64a33a3-7965-4275-a61a-ca072cb99b5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

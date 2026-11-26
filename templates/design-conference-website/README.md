@@ -22,7 +22,7 @@ Everything ships as static files: Vite, React, Tailwind and Motion, self-hosted 
 | Effects | Text Animation, Marquee, Cursor Effects |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Everything ships as static files: Vite, React, Tailwind and Motion, self-hosted 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/design-conference-website?case=03a1262c-d246-44b0-8991-7234b0e8cebb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/overprint/03a1262c-d246-44b0-8991-7234b0e8cebb/shot_desktop.ce08edf227.webp" width="100%" alt="Design Conference Website — Web design conference, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Web design conference</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/design-conference-website?case=03a1262c-d246-44b0-8991-7234b0e8cebb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/design-conference-website?case=03a1262c-d246-44b0-8991-7234b0e8cebb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/design-conference-website?case=bbf63e45-2cf3-4d9d-ac6d-4bdca1bfcee4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/overprint/bbf63e45-2cf3-4d9d-ac6d-4bdca1bfcee4/shot_desktop.a91e597060.webp" width="100%" alt="Design Conference Website — Food systems summit, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Food systems summit</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/design-conference-website?case=bbf63e45-2cf3-4d9d-ac6d-4bdca1bfcee4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/design-conference-website?case=bbf63e45-2cf3-4d9d-ac6d-4bdca1bfcee4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

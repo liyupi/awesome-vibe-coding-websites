@@ -16,7 +16,7 @@ A single-page site for a high-end safari lodge, built like a film: charcoal grou
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page site for a high-end safari lodge, built like a film: charcoal grou
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/safari-lodge-website?case=14085ac1-2add-4057-b03b-83a7c24e18ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/safari-lodge-website/14085ac1-2add-4057-b03b-83a7c24e18ca/shot_desktop.84dab84837.webp" width="100%" alt="Safari Lodge Website — Safari lodge, built by GLM-5.3 in ZCode"></a><br>
 <b>Safari lodge</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/safari-lodge-website?case=14085ac1-2add-4057-b03b-83a7c24e18ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/safari-lodge-website?case=14085ac1-2add-4057-b03b-83a7c24e18ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/safari-lodge-website?case=c4beddcc-e093-4ae4-98f0-25fddc28572e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/safari-lodge-website/c4beddcc-e093-4ae4-98f0-25fddc28572e/shot_desktop.8f65261e8c.webp" width="100%" alt="Safari Lodge Website — Photo safari lodge, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Photo safari lodge</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/safari-lodge-website?case=c4beddcc-e093-4ae4-98f0-25fddc28572e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/safari-lodge-website?case=c4beddcc-e093-4ae4-98f0-25fddc28572e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

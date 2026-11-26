@@ -20,7 +20,7 @@ The order ticket connects to the same synthetic market as the chart. Market orde
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |
-| Built with | [GPT-6.2 Astra](../../models/gpt-6-2-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Astra](../../models/gpt-6-2-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/stock-trading-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,12 +30,12 @@ The order ticket connects to the same synthetic market as the chart. Market orde
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/stock-trading-dashboard?case=c63a370b-d7c4-489c-b2a8-9cb6c824e65f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/stock-trading-dashboard/c63a370b-d7c4-489c-b2a8-9cb6c824e65f/shot_desktop.fab7e3a5c4.webp" width="100%" alt="Stock Trading Dashboard — Industrial equities desk, built by GPT-6.2 Astra in Codex"></a><br>
 <b>Industrial equities desk</b><br>
-<sub>Built by <b>GPT-6.2 Astra</b> in Codex · <a href="https://vibefather.ai/templates/stock-trading-dashboard?case=c63a370b-d7c4-489c-b2a8-9cb6c824e65f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Astra in Codex · <a href="https://vibefather.ai/templates/stock-trading-dashboard?case=c63a370b-d7c4-489c-b2a8-9cb6c824e65f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/stock-trading-dashboard?case=fd7e58ff-c565-4a21-b0c6-6223436af45b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/stock-trading-dashboard/fd7e58ff-c565-4a21-b0c6-6223436af45b/shot_desktop.a07efa2ea5.webp" width="100%" alt="Stock Trading Dashboard — Maritime equities desk, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Maritime equities desk</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/stock-trading-dashboard?case=fd7e58ff-c565-4a21-b0c6-6223436af45b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/stock-trading-dashboard?case=fd7e58ff-c565-4a21-b0c6-6223436af45b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

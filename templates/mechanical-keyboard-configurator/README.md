@@ -2,7 +2,7 @@
 
 > Shape a working keyboard in 3D, hear its switches and compare two builds.
 
-<a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/mechanical-keyboard-configurator/7137f71b-db9f-4e94-85dd-5156fa4e8c50/webp.7dfbe01304.webp" width="100%" alt="Mechanical Keyboard Configurator — Interactive 3D Switch and Keycap Studio built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/mechanical-keyboard-configurator/80b7609f-06d5-4837-903c-072e7f9833ec/webp.7f62677ecc.webp" width="100%" alt="Mechanical Keyboard Configurator — Interactive 3D Switch and Keycap Studio built by GPT-6.2 Astra and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/mechanical-keyboard-configurator?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -20,7 +20,7 @@ A build can be saved on the device or shared in a link that reconstructs the sam
 | Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | React 19 + Vite + Vanilla CSS + Three.js |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Astra](../../models/gpt-6-2-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/mechanical-keyboard-configurator?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -28,9 +28,14 @@ A build can be saved on the device or shared in a link that reconstructs the sam
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?case=80b7609f-06d5-4837-903c-072e7f9833ec&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/mechanical-keyboard-configurator/80b7609f-06d5-4837-903c-072e7f9833ec/shot_desktop.3d2beb2841.webp" width="100%" alt="Mechanical Keyboard Configurator — Studio keyboard, built by GPT-6.2 Astra in Codex"></a><br>
+<b>Studio keyboard</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Astra in Codex · <a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?case=80b7609f-06d5-4837-903c-072e7f9833ec&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?case=7137f71b-db9f-4e94-85dd-5156fa4e8c50&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/mechanical-keyboard-configurator/7137f71b-db9f-4e94-85dd-5156fa4e8c50/shot_desktop.f4f5672b97.webp" width="100%" alt="Mechanical Keyboard Configurator — Foundry keyboard, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Foundry keyboard</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?case=7137f71b-db9f-4e94-85dd-5156fa4e8c50&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?case=7137f71b-db9f-4e94-85dd-5156fa4e8c50&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -53,33 +58,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A custom keycap studio: set BRAND to your workshop, swap the colorway swatches for your material range and rewrite the price differences beside each choice.
-- A switch retailer: replace the switch options with your stock, keep the typing test and let the sound envelopes sell linear, tactile and clicky sets.
-- A product design portfolio: use the geometry and finish controls to show one case in many combinations, and turn the order sheet into a spec summary.
-- A group-buy organiser: set BOARD to your upcoming board, keep the shared build link and comparison sheet so buyers can compare layouts before joining.
+- A custom keyboard builder: set BRAND to your workshop, BOARD to your flagship layout and swap the catalog for your plates, switches and keycap sets.
+- A keycap artisan shop: keep the 3D workbench, replace COLORWAY with your latest sculpted set and point the comparison sheet at two of your own colorways.
+- A product design studio portfolio: use the geometry and finish controls to show how one set of parts reads across layouts, and link the order flow to a contact form.
+- A keyboard retail store: fill the pricing table with your real component prices and let the shared build link double as a wishlist customers send to friends.
 
 ## FAQ
 
-### How do I change the keyboard brand, board name and default keycap colorway in this template?
-The Mechanical Keyboard Configurator template uses three variables: BRAND, BOARD and COLORWAY. Set BRAND to your studio name, BOARD to your board family and COLORWAY to your default keycap set, then rewrite every headline, label and paragraph that mentions the defaults so the copy matches your values. The catalog, material definitions and pricing table sit in one content module, so a new board family updates the renderer, sections and order snapshots together.
+### How does the switch sound preview work in the Mechanical Keyboard Configurator template?
+The Mechanical Keyboard Configurator template includes a typing test that plays short synthesized sound envelopes for linear, tactile and clicky switches. Visitors type into a text field, hear the switch they selected and see the words and errors counted from what they actually entered. The sound is generated locally in the browser, so no audio files or external services are needed.
 
-### Can visitors hear the switches before they order a keyboard?
-Yes. The Mechanical Keyboard Configurator template includes a typing test that plays a linear, tactile or clicky switch sound as visitors type. The sound comes from short synthesized envelopes rather than audio files, and the test counts the words and errors in the text actually entered. A side view shows the plate and the profile of the sculpted caps while the sound plays, so a choice of switch and plate can be judged together.
+### Can visitors save a keyboard build and share it with someone else?
+Yes. In the Mechanical Keyboard Configurator template a build can be saved on the visitor's device or packed into a shareable link. Opening that link reconstructs the same layout, finish, plate, switch and keycap choices for the next visitor. A comparison sheet then places two boards, their prices and their differing parts side by side, and an itemized local order closes the flow.
 
-### How does the two-build comparison and shared link work?
-The Mechanical Keyboard Configurator template saves a build on the visitor's device or shares it as a link that reconstructs the same choices for another visitor. A comparison sheet puts two boards side by side with their prices and the parts that differ, and an itemized local order closes the experience. All of this runs in the browser with no backend, so the saved build and the order stay on the device.
+### What can I customize in the Mechanical Keyboard Configurator template for my own keyboard brand?
+The Mechanical Keyboard Configurator template is driven by one catalog. Set BRAND, BOARD and COLORWAY to your studio name, board family and default keycap set, then edit the catalog, material definitions and pricing table in one place to match your real parts. Every swatch, section, render and cart snapshot reads from that catalog, so a change to a finish or switch appears throughout the experience.
 
-### What should I change first to sell my own keyboards with this template?
-Start with the catalog: the layouts, finishes, plates, switches, keycaps and their price differences all come from one place, so replacing the default Relay One parts with your own range changes the inspector, the 3D model and the order totals at once. Then set BRAND, BOARD and COLORWAY and rewrite the copy. Check the compact and tenkeyless layouts on a phone before publishing.
+### Can I use the Mechanical Keyboard Configurator for client work or a commercial keyboard shop?
+Commercial and client use of the Mechanical Keyboard Configurator template needs Pro. Pro members see the full prompt and get the source code of the demos. The published brief, stack and variables are visible to everyone, and every DESIGN.md is free for personal, non-commercial use under CC BY-NC 4.0. The template ships as one page built with React, Vite, Vanilla CSS and Three.js.
 
-### Can I use the Mechanical Keyboard Configurator for a client project?
-Commercial and client use of the Mechanical Keyboard Configurator template needs Pro. Pro members see the full prompt, the brief, stack and variables, and get the source code of the demos. The free DESIGN.md and the prompts of free templates are licensed for personal, non-commercial use only. A keyboard studio or product designer building a configurator for a paying client should work from the Pro version.
+### Which parts of the Mechanical Keyboard Configurator should I change first?
+Start with the catalog: replace the default board family, keycap set and switch options with the parts you actually sell, and align the pricing table so each swatch shows the right difference. Then rewrite the headlines and labels for your brand and check the side view, typing test and comparison sheet with your own combinations. Keep the studio lighting and the single orange escape key as the visual reference point.
 
 ### How do I build a mechanical keyboard configurator with AI?
-Copy the full prompt (Pro) from this page or run npx vibefather add mechanical-keyboard-configurator, replace [BRAND], [BOARD] and [COLORWAY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the full prompt (Pro) from this page or run npx vibefather add mechanical-keyboard-configurator, replace [BRAND], [BOARD] and [COLORWAY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Mechanical Keyboard Configurator demo?
-The Foundry keyboard case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Studio keyboard case was built by GPT-6.2 Astra in Codex; the Foundry keyboard case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Mechanical Keyboard Configurator template use?
 Mechanical Keyboard Configurator is a single-page site built with React and Three.js, with drag & physics, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

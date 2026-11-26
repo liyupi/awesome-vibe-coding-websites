@@ -16,7 +16,7 @@ A portfolio for a freelance copywriter in which the words are the design. The fi
 | Effects | Scroll Animation, Text Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A portfolio for a freelance copywriter in which the words are the design. The fi
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/copywriter-portfolio-website?case=f033bd0d-3b58-4dc6-91cd-a64367cc0596&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/copywriter-portfolio-website/f033bd0d-3b58-4dc6-91cd-a64367cc0596/shot_desktop.634aaa7593.webp" width="100%" alt="Copywriter Portfolio Website — Website and email copywriter, built by GLM-5.4 in ZCode"></a><br>
 <b>Website and email copywriter</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/copywriter-portfolio-website?case=f033bd0d-3b58-4dc6-91cd-a64367cc0596&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/copywriter-portfolio-website?case=f033bd0d-3b58-4dc6-91cd-a64367cc0596&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/copywriter-portfolio-website?case=111af787-dda2-4388-b00b-67f772928873&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/copywriter-portfolio-website/111af787-dda2-4388-b00b-67f772928873/shot_desktop.d960049a2f.webp" width="100%" alt="Copywriter Portfolio Website — Tagline and long-form copywriter, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Tagline and long-form copywriter</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/copywriter-portfolio-website?case=111af787-dda2-4388-b00b-67f772928873&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/copywriter-portfolio-website?case=111af787-dda2-4388-b00b-67f772928873&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

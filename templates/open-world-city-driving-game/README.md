@@ -22,7 +22,7 @@ Developers and indie hackers can ship the game as static files. Five variables r
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
-| Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="13" height="13" alt=""></picture> [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Developers and indie hackers can ship the game as static files. Five variables r
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game — Reed Wharf Car Club, built by Grok 4.7 in Grok Build"></a><br>
 <b>Reed Wharf Car Club</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/69acc56b-13c7-4637-aa12-27ed6565399d/shot_desktop.2deeeb2cc2.webp" width="100%" alt="Open World City Driving Game — Night flower market, built by Grok 4.7 in Grok Build"></a><br>
 <b>Night flower market</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

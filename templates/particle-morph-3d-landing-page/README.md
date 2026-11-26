@@ -16,7 +16,7 @@ A flagship 3D product landing page for an original spatial-audio headset powered
 | Effects | Particle Morph, Scroll 3d, Webgl Shaders, 3D / WebGL |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A flagship 3D product landing page for an original spatial-audio headset powered
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=5720080b-3112-4119-8634-28317faf526a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/particle-morph-3d-landing-page/5720080b-3112-4119-8634-28317faf526a/shot_desktop.ee290fdade.webp" width="100%" alt="Particle Morph 3D Landing Page — Auralis One (Spatial Audio Headset), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Auralis One (Spatial Audio Headset)</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=5720080b-3112-4119-8634-28317faf526a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=5720080b-3112-4119-8634-28317faf526a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/particle-morph-3d-landing-page/abc2cbe9-f726-47c1-bd32-8272071d1bb8/shot_desktop.d7b226b20f.webp" width="100%" alt="Particle Morph 3D Landing Page — Velvet Arc (Studio Reference Wireless Headset), built by GPT-6.2 Sol in Codex"></a><br>
 <b>Velvet Arc (Studio Reference Wireless Headset)</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

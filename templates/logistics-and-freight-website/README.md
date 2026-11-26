@@ -16,7 +16,7 @@ Logistics and Freight Website is a bold B2B site for an invented carrier. The fi
 | Effects | Scroll Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Logistics and Freight Website is a bold B2B site for an invented carrier. The fi
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/logistics-and-freight-website?case=14148abf-d655-4ab3-b006-6d2413563f58&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/logistics-and-freight-website/14148abf-d655-4ab3-b006-6d2413563f58/shot_desktop.a77627ced3.webp" width="100%" alt="Logistics and Freight Website — Trucking freight carrier, built by GLM-5.3 in ZCode"></a><br>
 <b>Trucking freight carrier</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/logistics-and-freight-website?case=14148abf-d655-4ab3-b006-6d2413563f58&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/logistics-and-freight-website?case=14148abf-d655-4ab3-b006-6d2413563f58&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/logistics-and-freight-website?case=30fb5d88-a3bb-4f43-92ca-467a74e49074&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/logistics-and-freight-website/30fb5d88-a3bb-4f43-92ca-467a74e49074/shot_desktop.c4f68f520a.webp" width="100%" alt="Logistics and Freight Website — Cold chain ocean forwarder, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Cold chain ocean forwarder</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/logistics-and-freight-website?case=30fb5d88-a3bb-4f43-92ca-467a74e49074&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/logistics-and-freight-website?case=30fb5d88-a3bb-4f43-92ca-467a74e49074&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

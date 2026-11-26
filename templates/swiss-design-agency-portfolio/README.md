@@ -22,7 +22,7 @@ To adapt it, change the brand, city, discipline, featured project and contact em
 | Effects | Scroll Animation, Text Animation, Page Transitions |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + motion |
 | Pages | 2 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt it, change the brand, city, discipline, featured project and contact em
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?case=2d68caf9-8ad0-44b7-8c9d-36f9c0b45125&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/gridline/2d68caf9-8ad0-44b7-8c9d-36f9c0b45125/shot_desktop.5738fd16e8.webp" width="100%" alt="Swiss Design Agency Portfolio — Graphic design studio, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Graphic design studio</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?case=2d68caf9-8ad0-44b7-8c9d-36f9c0b45125&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?case=2d68caf9-8ad0-44b7-8c9d-36f9c0b45125&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?case=574065d4-90d7-4b93-8359-f78f9caac988&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/gridline/574065d4-90d7-4b93-8359-f78f9caac988/shot_desktop.7823a352d8.webp" width="100%" alt="Swiss Design Agency Portfolio — Architecture practice, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Architecture practice</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?case=574065d4-90d7-4b93-8359-f78f9caac988&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/swiss-design-agency-portfolio?case=574065d4-90d7-4b93-8359-f78f9caac988&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@ This template is a single-page launch site for a limited clothing release, and i
 | Effects | Marquee, Drag & Physics, 3D / WebGL |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18 + three@0.169.0 + @react-three/fiber@8.17.10 |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,19 +26,19 @@ This template is a single-page launch site for a limited clothing release, and i
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?case=d0990008-2054-41e5-bc6e-c4cf61b7b61f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/y2k-chrome-fashion-drop-page/d0990008-2054-41e5-bc6e-c4cf61b7b61f/shot_desktop.3ec57d41a5.webp" width="100%" alt="Y2K Chrome Fashion Drop Page — Streetwear label capsule, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Streetwear label capsule</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?case=d0990008-2054-41e5-bc6e-c4cf61b7b61f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?case=d0990008-2054-41e5-bc6e-c4cf61b7b61f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?case=b06af3eb-fb53-4fcb-8638-8352264b2366&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/y2k-chrome-fashion-drop-page/b06af3eb-fb53-4fcb-8638-8352264b2366/shot_desktop.d549dc4584.webp" width="100%" alt="Y2K Chrome Fashion Drop Page — Indie game studio merch, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Indie game studio merch</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?case=b06af3eb-fb53-4fcb-8638-8352264b2366&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?case=b06af3eb-fb53-4fcb-8638-8352264b2366&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?case=c2380ec9-9c0a-4c6f-80da-eb30533bc8fd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/y2k-chrome-fashion-drop-page/c2380ec9-9c0a-4c6f-80da-eb30533bc8fd/shot_desktop.560e910a95.webp" width="100%" alt="Y2K Chrome Fashion Drop Page — Streetwear label capsule, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Streetwear label capsule</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?case=c2380ec9-9c0a-4c6f-80da-eb30533bc8fd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/y2k-chrome-fashion-drop-page?case=c2380ec9-9c0a-4c6f-80da-eb30533bc8fd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

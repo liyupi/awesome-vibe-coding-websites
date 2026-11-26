@@ -24,7 +24,7 @@ Adapt the invented residence, unit name, setting, material story, and contact de
 | Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -34,12 +34,12 @@ Adapt the invented residence, unit name, setting, material story, and contact de
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/ef01b8f6-ba7e-42af-b0b8-a2c800eae935/shot_desktop.31e604e972.webp" width="100%" alt="Interactive Apartment Floor Plan Tour — Alder House city apartment, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Alder House city apartment</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/98a734ea-5425-4d3f-934e-47bcc822c27b/shot_desktop.f1ca409b68.webp" width="100%" alt="Interactive Apartment Floor Plan Tour — Cove Court coastal apartment, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Cove Court coastal apartment</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

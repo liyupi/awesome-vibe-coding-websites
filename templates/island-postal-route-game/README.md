@@ -22,7 +22,7 @@ This template suits indie hackers, developers, and designers who need an adaptab
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/island-postal-route-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ This template suits indie hackers, developers, and designers who need an adaptab
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/island-postal-route-game?case=d8a66cd7-bdcf-44ca-954a-24656d4f99fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/island-postal-route-game/d8a66cd7-bdcf-44ca-954a-24656d4f99fb/shot_desktop.34f4346fc3.webp" width="100%" alt="Island Postal Route Game — Amberwick Autumn Route, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Amberwick Autumn Route</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/island-postal-route-game?case=d8a66cd7-bdcf-44ca-954a-24656d4f99fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/island-postal-route-game?case=d8a66cd7-bdcf-44ca-954a-24656d4f99fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/island-postal-route-game?case=ee41c2ad-638c-422a-af30-e2f1f2c46001&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/island-postal-route-game/ee41c2ad-638c-422a-af30-e2f1f2c46001/shot_desktop.5df97bb1c3.webp" width="100%" alt="Island Postal Route Game — Mossbell Evergreen Route, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Mossbell Evergreen Route</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/island-postal-route-game?case=ee41c2ad-638c-422a-af30-e2f1f2c46001&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/island-postal-route-game?case=ee41c2ad-638c-422a-af30-e2f1f2c46001&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

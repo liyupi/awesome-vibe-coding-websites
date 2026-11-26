@@ -16,7 +16,7 @@ A two-page recipe blog: a home with a lead recipe card over a filterable grid (c
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A two-page recipe blog: a home with a lead recipe card over a filterable grid (c
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/recipe-blog-website?case=74802fd1-44b5-48bf-8d4d-2c7eb759a848&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/recipe-blog-website/74802fd1-44b5-48bf-8d4d-2c7eb759a848/shot_desktop.785d5e8dcc.webp" width="100%" alt="Recipe Blog Website — Weeknight home cooking blog, built by GLM-5.3 in ZCode"></a><br>
 <b>Weeknight home cooking blog</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/recipe-blog-website?case=74802fd1-44b5-48bf-8d4d-2c7eb759a848&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/recipe-blog-website?case=74802fd1-44b5-48bf-8d4d-2c7eb759a848&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/recipe-blog-website?case=66133727-6936-4cb2-b968-0ae074b54993&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/recipe-blog-website/66133727-6936-4cb2-b968-0ae074b54993/shot_desktop.be9b8a4130.webp" width="100%" alt="Recipe Blog Website — Sourdough baking blog, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Sourdough baking blog</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/recipe-blog-website?case=66133727-6936-4cb2-b968-0ae074b54993&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/recipe-blog-website?case=66133727-6936-4cb2-b968-0ae074b54993&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

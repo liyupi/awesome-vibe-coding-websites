@@ -22,7 +22,7 @@ All artwork is made in SVG and CSS, so there are no external photographs to lice
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 2 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ All artwork is made in SVG and CSS, so there are no external photographs to lice
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website — Independent culture magazine, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Independent culture magazine</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b/shot_desktop.ecd561617f.webp" width="100%" alt="Risograph Indie Magazine Website — Design and making journal, built by GLM-5.3 in ZCode"></a><br>
 <b>Design and making journal</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=a199e53a-5aa0-4bc8-bd3a-3a8cdc1a650b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

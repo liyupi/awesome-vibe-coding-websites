@@ -16,7 +16,7 @@ A single-page website for a coworking space: a hero with the space's promise ove
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page website for a coworking space: a hero with the space's promise ove
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/coworking-space-website?case=3a3bbd03-44b1-4e7b-b983-ff6a98b520ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/coworking-space-website/3a3bbd03-44b1-4e7b-b983-ff6a98b520ee/shot_desktop.b3676ad9d9.webp" width="100%" alt="Coworking Space Website — Forty-desk coworking space, built by GLM-5.3 in ZCode"></a><br>
 <b>Forty-desk coworking space</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/coworking-space-website?case=3a3bbd03-44b1-4e7b-b983-ff6a98b520ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/coworking-space-website?case=3a3bbd03-44b1-4e7b-b983-ff6a98b520ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/coworking-space-website?case=1a775efd-34f1-4de9-b6d6-ac537cfa24e0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/coworking-space-website/1a775efd-34f1-4de9-b6d6-ac537cfa24e0/shot_desktop.de6650756b.webp" width="100%" alt="Coworking Space Website — Riverside studio coworking, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Riverside studio coworking</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/coworking-space-website?case=1a775efd-34f1-4de9-b6d6-ac537cfa24e0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/coworking-space-website?case=1a775efd-34f1-4de9-b6d6-ac537cfa24e0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

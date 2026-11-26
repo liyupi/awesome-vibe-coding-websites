@@ -16,7 +16,7 @@ This template builds a calm, earthy shop for a loose-leaf tea seller: warm paper
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ This template builds a calm, earthy shop for a loose-leaf tea seller: warm paper
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/tea-shop-website?case=36b73c96-be02-4765-9444-89323d6302cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/tea-shop-website/36b73c96-be02-4765-9444-89323d6302cd/shot_desktop.62de41ca72.webp" width="100%" alt="Tea Shop Website — Loose-leaf tea shop, built by GLM-5.3 in ZCode"></a><br>
 <b>Loose-leaf tea shop</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/tea-shop-website?case=36b73c96-be02-4765-9444-89323d6302cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/tea-shop-website?case=36b73c96-be02-4765-9444-89323d6302cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/tea-shop-website?case=7177c224-de13-48e2-a3de-39a82660d9d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/tea-shop-website/7177c224-de13-48e2-a3de-39a82660d9d4/shot_desktop.03b2366b26.webp" width="100%" alt="Tea Shop Website — Craft coffee roaster, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Craft coffee roaster</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/tea-shop-website?case=7177c224-de13-48e2-a3de-39a82660d9d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/tea-shop-website?case=7177c224-de13-48e2-a3de-39a82660d9d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

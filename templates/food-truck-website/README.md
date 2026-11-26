@@ -20,7 +20,7 @@ The defaults present Ember & Route, an invented Sonoran street-food truck in Tuc
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,12 +30,12 @@ The defaults present Ember & Route, an invented Sonoran street-food truck in Tuc
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/food-truck-website?case=f0a156d0-f605-45dd-acea-b1437bee0527&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/food-truck-website/f0a156d0-f605-45dd-acea-b1437bee0527/shot_desktop.5a2ebd7b37.webp" width="100%" alt="Food Truck Website — Sonoran taco truck, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Sonoran taco truck</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/food-truck-website?case=f0a156d0-f605-45dd-acea-b1437bee0527&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/food-truck-website?case=f0a156d0-f605-45dd-acea-b1437bee0527&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/food-truck-website?case=9e9f180b-7cb9-478c-91d3-5b3369ee8a68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/food-truck-website/9e9f180b-7cb9-478c-91d3-5b3369ee8a68/shot_desktop.bab083ff25.webp" width="100%" alt="Food Truck Website — Santa Fe taco truck, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Santa Fe taco truck</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/food-truck-website?case=9e9f180b-7cb9-478c-91d3-5b3369ee8a68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/food-truck-website?case=9e9f180b-7cb9-478c-91d3-5b3369ee8a68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

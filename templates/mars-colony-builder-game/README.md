@@ -20,7 +20,7 @@ The HUD is dark glass with one copper accent for the sol, the forecast, the stoc
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="13" height="13" alt=""></picture> [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,12 +30,12 @@ The HUD is dark glass with one copper accent for the sol, the forecast, the stoc
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=5f787637-e0bf-460e-aeb8-9abdb3b13dc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/5f787637-e0bf-460e-aeb8-9abdb3b13dc7/shot_desktop.52b18247a0.webp" width="100%" alt="Mars Colony Builder Game — Hearthline Crater Colony, built by Grok 4.7 in Grok Build"></a><br>
 <b>Hearthline Crater Colony</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=5f787637-e0bf-460e-aeb8-9abdb3b13dc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=5f787637-e0bf-460e-aeb8-9abdb3b13dc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/2f70789f-9773-471c-966c-2ca42c3a3c09/shot_desktop.3202ab7b44.webp" width="100%" alt="Mars Colony Builder Game — Saltmere Rim Outpost, built by Grok 4.7 in Grok Build"></a><br>
 <b>Saltmere Rim Outpost</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

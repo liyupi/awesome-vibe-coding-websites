@@ -16,7 +16,7 @@ A four-page website for an architecture practice: a home page with one large her
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A four-page website for an architecture practice: a home page with one large her
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio — Seven-person architecture practice, built by GLM-5.3 in ZCode"></a><br>
 <b>Seven-person architecture practice</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=67943fdd-a9ae-4fcf-a72b-b152158ac07a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/67943fdd-a9ae-4fcf-a72b-b152158ac07a/shot_desktop.4697621ec9.webp" width="100%" alt="Architecture Firm Portfolio — Landscape architecture practice, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Landscape architecture practice</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=67943fdd-a9ae-4fcf-a72b-b152158ac07a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=67943fdd-a9ae-4fcf-a72b-b152158ac07a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

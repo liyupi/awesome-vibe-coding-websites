@@ -16,7 +16,7 @@ This is a one-page landing site for a design tool where the first screen is some
 | Effects | Marquee, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + lucide |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,19 +26,19 @@ This is a one-page landing site for a design tool where the first screen is some
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=9126a881-09a8-4bb2-adbf-a16a6d5d143d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/9126a881-09a8-4bb2-adbf-a16a6d5d143d/shot_desktop.fe52f830a1.webp" width="100%" alt="Physics Playground Landing Page — Collaborative design canvas, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Collaborative design canvas</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=9126a881-09a8-4bb2-adbf-a16a6d5d143d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=9126a881-09a8-4bb2-adbf-a16a6d5d143d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=0f9133ad-e1bd-4bf7-9ab6-57813f009509&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/0f9133ad-e1bd-4bf7-9ab6-57813f009509/shot_desktop.bb67d69864.webp" width="100%" alt="Physics Playground Landing Page — Beat-making app, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>Beat-making app</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=0f9133ad-e1bd-4bf7-9ab6-57813f009509&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=0f9133ad-e1bd-4bf7-9ab6-57813f009509&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=b60d4481-c4c7-4a1e-9fa5-1def068bc955&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/b60d4481-c4c7-4a1e-9fa5-1def068bc955/shot_desktop.abce2af1a8.webp" width="100%" alt="Physics Playground Landing Page — Collaborative design canvas, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Collaborative design canvas</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=b60d4481-c4c7-4a1e-9fa5-1def068bc955&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=b60d4481-c4c7-4a1e-9fa5-1def068bc955&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

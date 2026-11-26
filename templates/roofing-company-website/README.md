@@ -16,7 +16,7 @@ Roofing Company Website is a single-page site for a residential roofing contract
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,19 +26,19 @@ Roofing Company Website is a single-page site for a residential roofing contract
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/roofing-company-website/fdccef11-0f1f-4aa1-81e0-331e289a53f3/shot_desktop.d6af76005b.webp" width="100%" alt="Roofing Company Website — Residential roofer, Harlow Springs, built by GLM-5.3 in ZCode"></a><br>
 <b>Residential roofer, Harlow Springs</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/roofing-company-website?case=fdccef11-0f1f-4aa1-81e0-331e289a53f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/roofing-company-website?case=9c05f4e9-0093-4132-a823-835f3af3e7e2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/roofing-company-website/9c05f4e9-0093-4132-a823-835f3af3e7e2/shot_desktop.f045ca8abb.webp" width="100%" alt="Roofing Company Website — Commercial roofer, Vesper Bay, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Commercial roofer, Vesper Bay</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/roofing-company-website?case=9c05f4e9-0093-4132-a823-835f3af3e7e2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/roofing-company-website?case=9c05f4e9-0093-4132-a823-835f3af3e7e2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/roofing-company-website?case=989de33c-8321-4d80-81eb-9321570757b0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/roofing-company-website/989de33c-8321-4d80-81eb-9321570757b0/shot_desktop.f3b61b14db.webp" width="100%" alt="Roofing Company Website — Residential roofer, Harlow Springs, built by GLM-5.4 in ZCode"></a><br>
 <b>Residential roofer, Harlow Springs</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/roofing-company-website?case=989de33c-8321-4d80-81eb-9321570757b0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/roofing-company-website?case=989de33c-8321-4d80-81eb-9321570757b0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

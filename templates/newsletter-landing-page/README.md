@@ -16,7 +16,7 @@ A single-page sign-up page for a writer's newsletter: the name and one-line prom
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page sign-up page for a writer's newsletter: the name and one-line prom
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/newsletter-landing-page?case=22ff8f0c-a2ed-4776-85bc-476994c677bc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/newsletter-landing-page/22ff8f0c-a2ed-4776-85bc-476994c677bc/shot_desktop.ce0d643709.webp" width="100%" alt="Newsletter Landing Page — Software-craft newsletter, built by GLM-5.3 in ZCode"></a><br>
 <b>Software-craft newsletter</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/newsletter-landing-page?case=22ff8f0c-a2ed-4776-85bc-476994c677bc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/newsletter-landing-page?case=22ff8f0c-a2ed-4776-85bc-476994c677bc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/newsletter-landing-page?case=be54a155-c4e3-49ab-8a79-efd076ceaa8d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/newsletter-landing-page/be54a155-c4e3-49ab-8a79-efd076ceaa8d/shot_desktop.b821aa1248.webp" width="100%" alt="Newsletter Landing Page — Rail travel newsletter, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Rail travel newsletter</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/newsletter-landing-page?case=be54a155-c4e3-49ab-8a79-efd076ceaa8d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/newsletter-landing-page?case=be54a155-c4e3-49ab-8a79-efd076ceaa8d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

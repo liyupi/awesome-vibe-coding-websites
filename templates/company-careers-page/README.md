@@ -16,7 +16,7 @@ A careers site for one employer, a fictional company that makes home heat pumps.
 | Effects | Scroll Animation |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A careers site for one employer, a fictional company that makes home heat pumps.
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/company-careers-page?case=b8e2b5cf-2094-46ca-b193-233eadf64655&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/company-careers-page/b8e2b5cf-2094-46ca-b193-233eadf64655/shot_desktop.67b11eb257.webp" width="100%" alt="Company Careers Page — Burlington climate-tech careers, built by GLM-5.4 in ZCode"></a><br>
 <b>Burlington climate-tech careers</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/company-careers-page?case=b8e2b5cf-2094-46ca-b193-233eadf64655&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/company-careers-page?case=b8e2b5cf-2094-46ca-b193-233eadf64655&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/company-careers-page?case=9f8d2258-fa92-4446-947c-c49649861fca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/company-careers-page/9f8d2258-fa92-4446-947c-c49649861fca/shot_desktop.bdb022ba8d.webp" width="100%" alt="Company Careers Page — Portland heat-pump company, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Portland heat-pump company</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/company-careers-page?case=9f8d2258-fa92-4446-947c-c49649861fca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/company-careers-page?case=9f8d2258-fa92-4446-947c-c49649861fca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

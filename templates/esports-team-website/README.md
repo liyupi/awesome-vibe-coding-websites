@@ -22,7 +22,7 @@ Change the team name, code, discipline, home city, and season through the variab
 | Effects | Scroll Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript 5 + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 5 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Change the team name, code, discipline, home city, and season through the variab
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/esports-team-website?case=127e7932-0288-40b9-b7eb-2e7ce690ceb9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/esports-team-website/127e7932-0288-40b9-b7eb-2e7ce690ceb9/shot_desktop.dfc2308224.webp" width="100%" alt="Esports Team Website — Tactical arena team, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Tactical arena team</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/esports-team-website?case=127e7932-0288-40b9-b7eb-2e7ce690ceb9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/esports-team-website?case=127e7932-0288-40b9-b7eb-2e7ce690ceb9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/esports-team-website?case=ea812d2c-3884-42ab-a5ba-5619a1909363&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/esports-team-website/ea812d2c-3884-42ab-a5ba-5619a1909363/shot_desktop.cb935c3c78.webp" width="100%" alt="Esports Team Website — Survival arena team, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Survival arena team</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/esports-team-website?case=ea812d2c-3884-42ab-a5ba-5619a1909363&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/esports-team-website?case=ea812d2c-3884-42ab-a5ba-5619a1909363&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

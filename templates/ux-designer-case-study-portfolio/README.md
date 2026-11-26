@@ -22,7 +22,7 @@ About and contact pages complete the portfolio with a fictional studio portrait,
 | Effects | Scroll Animation, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/ux-designer-case-study-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ About and contact pages complete the portfolio with a fictional studio portrait,
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?case=d98c9cd5-3c35-49ef-b8f1-e7259817ea29&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ux-designer-case-study-portfolio/d98c9cd5-3c35-49ef-b8f1-e7259817ea29/shot_desktop.bd206106cf.webp" width="100%" alt="UX Designer Case Study Portfolio — Healthcare UX portfolio, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Healthcare UX portfolio</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?case=d98c9cd5-3c35-49ef-b8f1-e7259817ea29&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?case=d98c9cd5-3c35-49ef-b8f1-e7259817ea29&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?case=67bc1f66-55d1-4a22-a92e-4ecbf10d48da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ux-designer-case-study-portfolio/67bc1f66-55d1-4a22-a92e-4ecbf10d48da/shot_desktop.63a51b0a12.webp" width="100%" alt="UX Designer Case Study Portfolio — Climate UX portfolio, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Climate UX portfolio</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?case=67bc1f66-55d1-4a22-a92e-4ecbf10d48da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/ux-designer-case-study-portfolio?case=67bc1f66-55d1-4a22-a92e-4ecbf10d48da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

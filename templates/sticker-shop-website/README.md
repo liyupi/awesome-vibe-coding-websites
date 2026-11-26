@@ -22,7 +22,7 @@ Consistent photographic-style images show the original products, a pack layout, 
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Consistent photographic-style images show the original products, a pack layout, 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sticker-shop-website?case=bb9a8a84-0f24-4638-999e-cbd7715918e6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website — Desk sticker shop, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Desk sticker shop</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/sticker-shop-website?case=bb9a8a84-0f24-4638-999e-cbd7715918e6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/sticker-shop-website?case=bb9a8a84-0f24-4638-999e-cbd7715918e6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sticker-shop-website?case=12310781-4659-405a-8895-93e97caed5ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sticker-shop-website/12310781-4659-405a-8895-93e97caed5ce/shot_desktop.b9258c986a.webp" width="100%" alt="Sticker Shop Website — Craft club sticker studio, built by GLM-5.3 in ZCode"></a><br>
 <b>Craft club sticker studio</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/sticker-shop-website?case=12310781-4659-405a-8895-93e97caed5ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/sticker-shop-website?case=12310781-4659-405a-8895-93e97caed5ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

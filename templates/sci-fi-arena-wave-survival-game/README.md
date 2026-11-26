@@ -22,7 +22,7 @@ Phones use a left move stick, a right look stick, and fire and reload buttons. N
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + TypeScript + three.js + Tailwind CSS 3.4 + three |
 | Pages | 1 |
-| Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="13" height="13" alt=""></picture> [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Phones use a left move stick, a right look stick, and fire and reload buttons. N
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=03c4ac56-fdda-4ae0-9105-2d2ba4e5e717&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/03c4ac56-fdda-4ae0-9105-2d2ba4e5e717/shot_desktop.864294ab4c.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game — Sodium yard range, built by Grok 4.7 in Grok Build"></a><br>
 <b>Sodium yard range</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=03c4ac56-fdda-4ae0-9105-2d2ba4e5e717&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=03c4ac56-fdda-4ae0-9105-2d2ba4e5e717&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/71faaa0e-9240-4b3c-a04d-6251a8fcac21/shot_desktop.85efa231e1.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game — Brick kiln range, built by Grok 4.7 in Grok Build"></a><br>
 <b>Brick kiln range</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

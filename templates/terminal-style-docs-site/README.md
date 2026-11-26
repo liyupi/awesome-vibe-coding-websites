@@ -20,7 +20,7 @@ To adapt it, change five values: the tool's name, its binary, a one-line purpose
 | Effects | Text Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 4 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,12 +30,12 @@ To adapt it, change five values: the tool's name, its binary, a one-line purpose
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/terminal-style-docs-site?case=225a18de-afff-4c97-a66b-41f58f071275&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/225a18de-afff-4c97-a66b-41f58f071275/shot_desktop.a39fe3d8d6.webp" width="100%" alt="Terminal-Style Docs Site — Task runner CLI, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Task runner CLI</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/terminal-style-docs-site?case=225a18de-afff-4c97-a66b-41f58f071275&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/terminal-style-docs-site?case=225a18de-afff-4c97-a66b-41f58f071275&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/terminal-style-docs-site?case=8ff8cf98-2fb0-47e6-8649-f9b5bd0b244a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/terminal-style-docs-site/8ff8cf98-2fb0-47e6-8649-f9b5bd0b244a/shot_desktop.3c32ae7e32.webp" width="100%" alt="Terminal-Style Docs Site — Database migration CLI, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Database migration CLI</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/terminal-style-docs-site?case=8ff8cf98-2fb0-47e6-8649-f9b5bd0b244a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/terminal-style-docs-site?case=8ff8cf98-2fb0-47e6-8649-f9b5bd0b244a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

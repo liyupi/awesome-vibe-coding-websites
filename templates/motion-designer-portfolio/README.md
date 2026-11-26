@@ -16,7 +16,7 @@ A portfolio for a motion designer where the work itself moves. The first screen 
 | Effects | Text Animation, Marquee, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/motion-designer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A portfolio for a motion designer where the work itself moves. The first screen 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/motion-designer-portfolio?case=2bf77e59-4e56-444a-8484-75eeedd6664e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/motion-designer-portfolio/2bf77e59-4e56-444a-8484-75eeedd6664e/shot_desktop.0eda199819.webp" width="100%" alt="Motion Designer Portfolio — Rotterdam motion designer, built by GLM-5.4 in ZCode"></a><br>
 <b>Rotterdam motion designer</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/motion-designer-portfolio?case=2bf77e59-4e56-444a-8484-75eeedd6664e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/motion-designer-portfolio?case=2bf77e59-4e56-444a-8484-75eeedd6664e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/motion-designer-portfolio?case=850f6cec-ba5e-44b7-b35b-ea56f4b4120e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/motion-designer-portfolio/850f6cec-ba5e-44b7-b35b-ea56f4b4120e/shot_desktop.4f86b8dd65.webp" width="100%" alt="Motion Designer Portfolio — Oslo motion designer, UI focus, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Oslo motion designer, UI focus</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/motion-designer-portfolio?case=850f6cec-ba5e-44b7-b35b-ea56f4b4120e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/motion-designer-portfolio?case=850f6cec-ba5e-44b7-b35b-ea56f4b4120e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

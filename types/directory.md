@@ -10,13 +10,13 @@
 <a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp" width="100%" alt="AI Tools Directory Website website template — live demo built by GPT-6 Astra and Gemini 4 Neon"></a><br>
 <b><a href="../templates/ai-tools-directory-website">AI Tools Directory Website</a></b><br>
 <sub>A lime-and-lilac directory with 64 fictional tools, live filters, saved picks and useful comparisons.</sub><br>
-<sub>GPT-6 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-tools-directory-website/prompt.md">Prompt</a></sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra · <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/ai-tools-directory-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/job-board-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/job-board-website/e083ef43-0282-488c-a054-6b0d57f65a20/shot_desktop.0d44d6e73f.webp" width="100%" alt="Job Board Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/job-board-website">Job Board Website</a></b><br>
 <sub>Broadsheet job board with live salary and remote filters, job detail pages, company pages, saved jobs and a post-a-job form.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/job-board-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/job-board-website/prompt.md">Prompt</a></sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/job-board-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/job-board-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -24,7 +24,7 @@
 <a href="https://vibefather.ai/templates/freelancer-marketplace-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/freelancer-marketplace-homepage/5ffef769-18f0-44f5-a7b8-8cc75f349418/shot_desktop.4b1b7e6df1.webp" width="100%" alt="Freelancer Marketplace Homepage website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/freelancer-marketplace-homepage">Freelancer Marketplace Homepage</a></b><br>
 <sub>A warm, people-first marketplace with talent search, category filters, and a guided project brief.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/freelancer-marketplace-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/freelancer-marketplace-homepage/prompt.md">Prompt</a></sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/freelancer-marketplace-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/freelancer-marketplace-homepage/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

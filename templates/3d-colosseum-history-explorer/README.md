@@ -22,7 +22,7 @@ The prompt suits educators, museum prototypes and architecture studies that need
 | Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Vanilla CSS + three |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/3d-colosseum-history-explorer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ The prompt suits educators, museum prototypes and architecture studies that need
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-colosseum-history-explorer/a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de/shot_desktop.3a065c18ec.webp" width="100%" alt="3D Colosseum History Explorer — Architectural field study, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Architectural field study</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=04a321bf-5690-4326-98f6-63a388271897&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-colosseum-history-explorer/04a321bf-5690-4326-98f6-63a388271897/shot_desktop.6c21ea225c.webp" width="100%" alt="3D Colosseum History Explorer — Museum learning edition, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Museum learning edition</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=04a321bf-5690-4326-98f6-63a388271897&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?case=04a321bf-5690-4326-98f6-63a388271897&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

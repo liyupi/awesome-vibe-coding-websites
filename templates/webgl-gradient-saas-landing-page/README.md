@@ -22,7 +22,7 @@ To adapt it, change the brand, slug, product and audience. The builder rewrites 
 | Effects | Scroll Animation, Generative / Canvas, Cursor Effects |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + ogl + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,19 +32,19 @@ To adapt it, change the brand, slug, product and audience. The builder rewrites 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=1b3140e8-b296-4551-9fb2-bc60de751b4f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/1b3140e8-b296-4551-9fb2-bc60de751b4f/shot_desktop.a80541f05b.webp" width="100%" alt="WebGL Gradient SaaS Landing Page — Finance close software, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Finance close software</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=1b3140e8-b296-4551-9fb2-bc60de751b4f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=1b3140e8-b296-4551-9fb2-bc60de751b4f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=c5f7014e-6d01-4bfa-93c7-92bbe64893d9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/c5f7014e-6d01-4bfa-93c7-92bbe64893d9/shot_desktop.5bec1bfb24.webp" width="100%" alt="WebGL Gradient SaaS Landing Page — Feature flag platform, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Feature flag platform</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=c5f7014e-6d01-4bfa-93c7-92bbe64893d9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=c5f7014e-6d01-4bfa-93c7-92bbe64893d9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=5f321903-a1da-4195-b0ac-cd5bc9422bb2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/webgl-gradient-saas-landing-page/5f321903-a1da-4195-b0ac-cd5bc9422bb2/shot_desktop.2cf1433f55.webp" width="100%" alt="WebGL Gradient SaaS Landing Page — Finance close software, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Finance close software</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=5f321903-a1da-4195-b0ac-cd5bc9422bb2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/webgl-gradient-saas-landing-page?case=5f321903-a1da-4195-b0ac-cd5bc9422bb2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

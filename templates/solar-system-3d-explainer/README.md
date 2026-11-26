@@ -20,7 +20,7 @@ It suits science teachers, museums, planetariums, science publishers and develop
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + three.js + Tailwind CSS 3.4 + three + gsap + lucide |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,31 +30,31 @@ It suits science teachers, museums, planetariums, science publishers and develop
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=11049830-8ae2-40ca-a87d-b6af68c8820b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/shot_desktop.72d6d6d017.webp" width="100%" alt="Solar System 3D Explainer — The Solar System, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>The Solar System</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=11049830-8ae2-40ca-a87d-b6af68c8820b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=11049830-8ae2-40ca-a87d-b6af68c8820b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=248f7a6f-7d72-46f6-bf19-a842a2442f20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/248f7a6f-7d72-46f6-bf19-a842a2442f20/shot_desktop.f66964e52f.webp" width="100%" alt="Solar System 3D Explainer — A red dwarf's seven planets, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>A red dwarf's seven planets</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=248f7a6f-7d72-46f6-bf19-a842a2442f20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=248f7a6f-7d72-46f6-bf19-a842a2442f20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=90fb5510-12de-4417-8ec4-9cb119db17d9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/90fb5510-12de-4417-8ec4-9cb119db17d9/shot_desktop.90dc4ecc64.webp" width="100%" alt="Solar System 3D Explainer — The Solar System, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>The Solar System</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=90fb5510-12de-4417-8ec4-9cb119db17d9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=90fb5510-12de-4417-8ec4-9cb119db17d9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/afeec784-5e8a-4169-9110-820e2908e1cb/shot_desktop.5f7f3ea3d4.webp" width="100%" alt="Solar System 3D Explainer — The Solar System, built by GPT-6 Astra in Codex"></a><br>
 <b>The Solar System</b><br>
-<sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=afeec784-5e8a-4169-9110-820e2908e1cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=b81ab903-7e4c-4f47-8f5e-35b9eba251d5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/b81ab903-7e4c-4f47-8f5e-35b9eba251d5/shot_desktop.877cdf65ca.webp" width="100%" alt="Solar System 3D Explainer — The Solar System, built by GLM-5.4 in ZCode"></a><br>
 <b>The Solar System</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=b81ab903-7e4c-4f47-8f5e-35b9eba251d5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?case=b81ab903-7e4c-4f47-8f5e-35b9eba251d5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

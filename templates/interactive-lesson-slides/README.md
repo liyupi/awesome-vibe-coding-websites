@@ -22,7 +22,7 @@ To adapt it, change the school, lesson title, course label, instructor and audie
 | Effects | Drag & Physics, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + codemirror + @codemirror/view + @codemirror/state |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt it, change the school, lesson title, course label, instructor and audie
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-lesson-slides?case=4188fe48-fb9e-4033-8327-bb2c87c97d5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/4188fe48-fb9e-4033-8327-bb2c87c97d5c/shot_desktop.3985efd5ef.webp" width="100%" alt="Interactive Lesson Slides — Sorting lesson for beginners, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Sorting lesson for beginners</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/interactive-lesson-slides?case=4188fe48-fb9e-4033-8327-bb2c87c97d5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/interactive-lesson-slides?case=4188fe48-fb9e-4033-8327-bb2c87c97d5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-lesson-slides?case=b51fae47-e4fe-41cb-9421-fb764515c109&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/b51fae47-e4fe-41cb-9421-fb764515c109/shot_desktop.7003d11fcd.webp" width="100%" alt="Interactive Lesson Slides — Statistics session for teens, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Statistics session for teens</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/interactive-lesson-slides?case=b51fae47-e4fe-41cb-9421-fb764515c109&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/interactive-lesson-slides?case=b51fae47-e4fe-41cb-9421-fb764515c109&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

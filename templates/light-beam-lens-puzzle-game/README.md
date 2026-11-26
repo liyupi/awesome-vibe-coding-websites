@@ -22,7 +22,7 @@ Adapt the four variables to rename the game, replace its world, change the audie
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + Three.js + lucide-react |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Adapt the four variables to rename the game, replace its world, change the audie
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?case=3258c5c0-5ac5-4839-b604-2aacb16b271e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/light-beam-lens-puzzle-game/3258c5c0-5ac5-4839-b604-2aacb16b271e/shot_desktop.6005e92553.webp" width="100%" alt="Light Beam Lens Puzzle Game — Crystal cave optics, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Crystal cave optics</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?case=3258c5c0-5ac5-4839-b604-2aacb16b271e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?case=3258c5c0-5ac5-4839-b604-2aacb16b271e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?case=df96bbfb-78ca-4475-aece-da2093871b69&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/light-beam-lens-puzzle-game/df96bbfb-78ca-4475-aece-da2093871b69/shot_desktop.017f681f46.webp" width="100%" alt="Light Beam Lens Puzzle Game — Moonlit glass desert, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Moonlit glass desert</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?case=df96bbfb-78ca-4475-aece-da2093871b69&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?case=df96bbfb-78ca-4475-aece-da2093871b69&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

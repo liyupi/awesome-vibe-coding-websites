@@ -22,7 +22,7 @@ To adapt it, replace the values in one content file: names, figures, chapter cla
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + TypeScript + Tailwind CSS 3.4 + gsap + pdf-lib |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/annual-report-data-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt it, replace the values in one content file: names, figures, chapter cla
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/annual-report-data-story?case=358dff4a-4625-4046-8601-4e6d1fe10b5e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/annual-report-data-story/358dff4a-4625-4046-8601-4e6d1fe10b5e/shot_desktop.e88877d996.webp" width="100%" alt="Annual Report Data Story — Cold chain freight company, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Cold chain freight company</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/annual-report-data-story?case=358dff4a-4625-4046-8601-4e6d1fe10b5e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/annual-report-data-story?case=358dff4a-4625-4046-8601-4e6d1fe10b5e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/annual-report-data-story?case=53661be3-9259-42a3-a6e2-f280aa2c5f20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/annual-report-data-story/53661be3-9259-42a3-a6e2-f280aa2c5f20/shot_desktop.11f7c3fd05.webp" width="100%" alt="Annual Report Data Story — Clean water nonprofit, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Clean water nonprofit</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/annual-report-data-story?case=53661be3-9259-42a3-a6e2-f280aa2c5f20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/annual-report-data-story?case=53661be3-9259-42a3-a6e2-f280aa2c5f20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

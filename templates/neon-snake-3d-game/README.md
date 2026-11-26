@@ -22,7 +22,7 @@ Developers and indie hackers can ship it as static files and rename it from one 
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
-| Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="13" height="13" alt=""></picture> [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Developers and indie hackers can ship it as static files and rename it from one 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/shot_desktop.4d791b0e09.webp" width="100%" alt="Neon Snake 3D Game — Night hall snake, built by Grok 4.7 in Grok Build"></a><br>
 <b>Night hall snake</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/fd018c27-8594-4624-964f-e5137a02f708/shot_desktop.c9e77d9aaf.webp" width="100%" alt="Neon Snake 3D Game — Night conservatory snake, built by Grok 4.7 in Grok Build"></a><br>
 <b>Night conservatory snake</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -20,7 +20,7 @@ Default copy is a night courier shift: Lumenlane, desk 4 on the lower quay of Am
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
-| Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="13" height="13" alt=""></picture> [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/neon-hovercar-city-runner?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,12 +30,12 @@ Default copy is a night courier shift: Lumenlane, desk 4 on the lower quay of Am
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=18ae29db-3619-4451-b596-bf475ef1c1e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/neon-hovercar-city-runner/18ae29db-3619-4451-b596-bf475ef1c1e4/shot_desktop.a0e4a1578d.webp" width="100%" alt="Neon Hovercar City Runner — Amberwharf courier run, built by Grok 4.7 in Grok Build"></a><br>
 <b>Amberwharf courier run</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=18ae29db-3619-4451-b596-bf475ef1c1e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=18ae29db-3619-4451-b596-bf475ef1c1e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=92c5f293-19cd-49af-9a03-a4c61d741ae9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/neon-hovercar-city-runner/92c5f293-19cd-49af-9a03-a4c61d741ae9/shot_desktop.831f889ecc.webp" width="100%" alt="Neon Hovercar City Runner — Saltarcade salvage run, built by Grok 4.7 in Grok Build"></a><br>
 <b>Saltarcade salvage run</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=92c5f293-19cd-49af-9a03-a4c61d741ae9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/neon-hovercar-city-runner?case=92c5f293-19cd-49af-9a03-a4c61d741ae9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

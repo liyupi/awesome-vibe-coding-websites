@@ -16,7 +16,7 @@ A kinetic creative agency website driven by a full-viewport real-time WebGL Navi
 | Effects | Webgl Fluid, Scroll Color Shift, Cursor Reactive |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A kinetic creative agency website driven by a full-viewport real-time WebGL Navi
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=ff274814-e036-4323-af67-05a7fd27311b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/ff274814-e036-4323-af67-05a7fd27311b/shot_desktop.a37a72775c.webp" width="100%" alt="Fluid Simulation Agency Website — KINETIK LAB (Creative Tech Studio), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>KINETIK LAB (Creative Tech Studio)</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=ff274814-e036-4323-af67-05a7fd27311b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=ff274814-e036-4323-af67-05a7fd27311b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f/shot_desktop.dff1230feb.webp" width="100%" alt="Fluid Simulation Agency Website — SOLSTICE MOTION (Kinetic Brand &amp; Audio Lab), built by GPT-6.2 Sol in Codex"></a><br>
 <b>SOLSTICE MOTION (Kinetic Brand &amp; Audio Lab)</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

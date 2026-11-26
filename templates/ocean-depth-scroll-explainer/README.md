@@ -16,7 +16,7 @@ Fathom is a long-scroll explainer in which every pixel of scrolling takes the re
 | Effects | Scroll Animation, Generative / Canvas, Cursor Effects |
 | Stack | Vite 5 + vanilla TypeScript + Plain CSS, custom properties + gsap + lenis |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/ocean-depth-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Fathom is a long-scroll explainer in which every pixel of scrolling takes the re
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?case=d9722129-d76c-4c97-8194-fe9508ceece6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ocean-depth-scroll-explainer/d9722129-d76c-4c97-8194-fe9508ceece6/shot_desktop.893040a1f1.webp" width="100%" alt="Ocean Depth Scroll Explainer — Ocean science centre, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Ocean science centre</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?case=d9722129-d76c-4c97-8194-fe9508ceece6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?case=d9722129-d76c-4c97-8194-fe9508ceece6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?case=f3fd4504-41a5-4d04-a723-ce41dc19f44e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ocean-depth-scroll-explainer/f3fd4504-41a5-4d04-a723-ce41dc19f44e/shot_desktop.b1e196139d.webp" width="100%" alt="Ocean Depth Scroll Explainer — Trench expedition film, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>Trench expedition film</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?case=f3fd4504-41a5-4d04-a723-ce41dc19f44e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/ocean-depth-scroll-explainer?case=f3fd4504-41a5-4d04-a723-ce41dc19f44e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

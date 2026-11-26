@@ -22,7 +22,7 @@ Developers and indie hackers can reskin the heat from one content file: club, ri
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three |
 | Pages | 1 |
-| Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="13" height="13" alt=""></picture> [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Developers and indie hackers can reskin the heat from one content file: club, ri
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/78a80404-72e7-4bfe-97cf-4cef2f809eb8/shot_desktop.32e27456f4.webp" width="100%" alt="Dusk Track Racing Game — Wickpenny dusk heat, built by Grok 4.7 in Grok Build"></a><br>
 <b>Wickpenny dusk heat</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=78a80404-72e7-4bfe-97cf-4cef2f809eb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/dusk-track-racing-game/63b071cd-e5d6-42c5-ac76-8a9ecd270853/shot_desktop.2328ff1986.webp" width="100%" alt="Dusk Track Racing Game — Bramble wick heat, built by Grok 4.7 in Grok Build"></a><br>
 <b>Bramble wick heat</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/dusk-track-racing-game?case=63b071cd-e5d6-42c5-ac76-8a9ecd270853&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

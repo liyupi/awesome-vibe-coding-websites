@@ -16,7 +16,7 @@ Driftline is a single-page fundraising site for a small community campaign, buil
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Driftline is a single-page fundraising site for a small community campaign, buil
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/nonprofit-donation-page?case=e0eafca1-2a9d-4df2-936a-c9d46d00715e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/driftline/e0eafca1-2a9d-4df2-936a-c9d46d00715e/shot_desktop.81d0668f91.webp" width="100%" alt="Nonprofit Donation Page — River clean-up campaign, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>River clean-up campaign</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/nonprofit-donation-page?case=e0eafca1-2a9d-4df2-936a-c9d46d00715e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/nonprofit-donation-page?case=e0eafca1-2a9d-4df2-936a-c9d46d00715e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/nonprofit-donation-page?case=eacd0bbb-90eb-4bdb-9165-c4eb846e01cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/driftline/eacd0bbb-90eb-4bdb-9165-c4eb846e01cd/shot_desktop.5c9b497764.webp" width="100%" alt="Nonprofit Donation Page — Street tree planting, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Street tree planting</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/nonprofit-donation-page?case=eacd0bbb-90eb-4bdb-9165-c4eb846e01cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/nonprofit-donation-page?case=eacd0bbb-90eb-4bdb-9165-c4eb846e01cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@ A single-page SaaS pricing page: three tier cards under a monthly/annual toggle 
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page SaaS pricing page: three tier cards under a monthly/annual toggle 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/saas-pricing-page?case=966f4b78-ec1c-4594-9253-f958e677c9c4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-pricing-page/966f4b78-ec1c-4594-9253-f958e677c9c4/shot_desktop.c425a1eb4b.webp" width="100%" alt="SaaS Pricing Page — Scheduling SaaS pricing, built by GLM-5.3 in ZCode"></a><br>
 <b>Scheduling SaaS pricing</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/saas-pricing-page?case=966f4b78-ec1c-4594-9253-f958e677c9c4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/saas-pricing-page?case=966f4b78-ec1c-4594-9253-f958e677c9c4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/saas-pricing-page?case=3418259b-9e95-473f-83fd-a9b0da043007&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-pricing-page/3418259b-9e95-473f-83fd-a9b0da043007/shot_desktop.2651c58658.webp" width="100%" alt="SaaS Pricing Page — Field service SaaS pricing, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Field service SaaS pricing</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/saas-pricing-page?case=3418259b-9e95-473f-83fd-a9b0da043007&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/saas-pricing-page?case=3418259b-9e95-473f-83fd-a9b0da043007&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

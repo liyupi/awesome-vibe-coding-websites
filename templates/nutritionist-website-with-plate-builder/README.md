@@ -22,7 +22,7 @@ Variables cover the brand, practitioner, city, audience, and food focus. All cop
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Variables cover the brand, practitioner, city, audience, and food focus. All cop
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=f3a3eff1-7968-4471-91bd-e609aa347987&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/nutritionist-website-with-plate-builder/f3a3eff1-7968-4471-91bd-e609aa347987/shot_desktop.3d4f41c629.webp" width="100%" alt="Nutritionist Website with Plate Builder — Nutrition coach June Calloway, built by GLM-5.3 in ZCode"></a><br>
 <b>Nutrition coach June Calloway</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=f3a3eff1-7968-4471-91bd-e609aa347987&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=f3a3eff1-7968-4471-91bd-e609aa347987&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=c9c69e2d-dbfd-4211-bb7c-ac1bd539914f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/nutritionist-website-with-plate-builder/c9c69e2d-dbfd-4211-bb7c-ac1bd539914f/shot_desktop.53d98ba3ed.webp" width="100%" alt="Nutritionist Website with Plate Builder — Kids cooking club, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Kids cooking club</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=c9c69e2d-dbfd-4211-bb7c-ac1bd539914f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=c9c69e2d-dbfd-4211-bb7c-ac1bd539914f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

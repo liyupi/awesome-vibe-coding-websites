@@ -22,7 +22,7 @@ Use it for an early learning product, a family activity subscription, or a langu
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Use it for an early learning product, a family activity subscription, or a langu
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/312cfc11-ee4f-4105-947a-14d21856b205/shot_desktop.0d455e647b.webp" width="100%" alt="Kids Learning App Landing Page — Early readers and counters, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Early readers and counters</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=312cfc11-ee4f-4105-947a-14d21856b205&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=08d369be-89a7-4411-9f68-a6ceb38d9bd3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/kids-learning-app-landing-page/08d369be-89a7-4411-9f68-a6ceb38d9bd3/shot_desktop.32ce245c1b.webp" width="100%" alt="Kids Learning App Landing Page — Bilingual story explorers, built by GLM-5.3 in ZCode"></a><br>
 <b>Bilingual story explorers</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=08d369be-89a7-4411-9f68-a6ceb38d9bd3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/kids-learning-app-landing-page?case=08d369be-89a7-4411-9f68-a6ceb38d9bd3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

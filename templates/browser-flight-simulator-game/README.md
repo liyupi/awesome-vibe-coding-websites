@@ -16,7 +16,7 @@ Browser Flight Simulator Game is a full-viewport low-poly Three.js flying experi
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,19 +26,19 @@ Browser Flight Simulator Game is a full-viewport low-poly Three.js flying experi
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=6f8f2e7e-c9ee-4b0f-8880-a75fd678bb0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/6f8f2e7e-c9ee-4b0f-8880-a75fd678bb0d/shot_desktop.66cfbdba8d.webp" width="100%" alt="Browser Flight Simulator Game — Golden-hour coastal archipelago, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Golden-hour coastal archipelago</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=6f8f2e7e-c9ee-4b0f-8880-a75fd678bb0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=6f8f2e7e-c9ee-4b0f-8880-a75fd678bb0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=b8db1754-8a53-40cf-a553-5dd051d79882&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/b8db1754-8a53-40cf-a553-5dd051d79882/shot_desktop.59e12a4f07.webp" width="100%" alt="Browser Flight Simulator Game — Nordic fjord mailplane run, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Nordic fjord mailplane run</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=b8db1754-8a53-40cf-a553-5dd051d79882&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=b8db1754-8a53-40cf-a553-5dd051d79882&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=7d56e1cc-5ba7-408f-91f4-4c3fe212eccd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/7d56e1cc-5ba7-408f-91f4-4c3fe212eccd/shot_desktop.25bb054c41.webp" width="100%" alt="Browser Flight Simulator Game — Golden-hour coastal archipelago, built by GLM-5.4 in ZCode"></a><br>
 <b>Golden-hour coastal archipelago</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=7d56e1cc-5ba7-408f-91f4-4c3fe212eccd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=7d56e1cc-5ba7-408f-91f4-4c3fe212eccd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

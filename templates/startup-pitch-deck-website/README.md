@@ -16,7 +16,7 @@ This is a twelve-slide investor pitch built as a website instead of a slide file
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + @tailwindcss/container-queries + motion |
 | Pages | 2 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/startup-pitch-deck-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,19 +26,19 @@ This is a twelve-slide investor pitch built as a website instead of a slide file
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=71004dcd-1792-4e38-b493-83be9a119b89&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/startup-pitch-deck-website/71004dcd-1792-4e38-b493-83be9a119b89/shot_desktop.ac1bb15bce.webp" width="100%" alt="Startup Pitch Deck Website — Freight audit startup, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Freight audit startup</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=71004dcd-1792-4e38-b493-83be9a119b89&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=71004dcd-1792-4e38-b493-83be9a119b89&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=11e95ed0-caa5-4cbe-b4ad-a7fe998423cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/startup-pitch-deck-website/11e95ed0-caa5-4cbe-b4ad-a7fe998423cf/shot_desktop.d01455156e.webp" width="100%" alt="Startup Pitch Deck Website — Vineyard irrigation startup, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Vineyard irrigation startup</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=11e95ed0-caa5-4cbe-b4ad-a7fe998423cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=11e95ed0-caa5-4cbe-b4ad-a7fe998423cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=4eebe086-da2d-4d44-ae08-a0716dc01894&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/startup-pitch-deck-website/4eebe086-da2d-4d44-ae08-a0716dc01894/shot_desktop.ac625097c5.webp" width="100%" alt="Startup Pitch Deck Website — Freight audit startup, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Freight audit startup</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=4eebe086-da2d-4d44-ae08-a0716dc01894&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=4eebe086-da2d-4d44-ae08-a0716dc01894&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

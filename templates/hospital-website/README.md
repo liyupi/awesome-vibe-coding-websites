@@ -16,7 +16,7 @@ A calm, accessible regional hospital website built around big readable typograph
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 7 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/hospital-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A calm, accessible regional hospital website built around big readable typograph
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hospital-website?case=836108b7-1cfd-4d50-9103-94378f82f139&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hospital-website/836108b7-1cfd-4d50-9103-94378f82f139/shot_desktop.d8fc029649.webp" width="100%" alt="Hospital Website — Meridian Valley Health, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Meridian Valley Health</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/hospital-website?case=836108b7-1cfd-4d50-9103-94378f82f139&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/hospital-website?case=836108b7-1cfd-4d50-9103-94378f82f139&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hospital-website?case=bac74a33-fde2-49bb-abca-d0e259eb59e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hospital-website/bac74a33-fde2-49bb-abca-d0e259eb59e3/shot_desktop.3809c7053e.webp" width="100%" alt="Hospital Website — Harborview Regional Medical, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Harborview Regional Medical</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/hospital-website?case=bac74a33-fde2-49bb-abca-d0e259eb59e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/hospital-website?case=bac74a33-fde2-49bb-abca-d0e259eb59e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

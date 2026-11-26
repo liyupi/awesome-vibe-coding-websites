@@ -22,7 +22,7 @@ To adapt it, change the publication name, the device, the noise source, the read
 | Effects | Scroll Animation, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Plain CSS |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/interactive-science-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt it, change the publication name, the device, the noise source, the read
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-science-explainer?case=ba1f1e05-30e6-4ecf-9d7a-c4b6ae82366a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/quietwave/ba1f1e05-30e6-4ecf-9d7a-c4b6ae82366a/shot_desktop.831f245214.webp" width="100%" alt="Interactive Science Explainer — Noise-cancelling headphones, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Noise-cancelling headphones</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/interactive-science-explainer?case=ba1f1e05-30e6-4ecf-9d7a-c4b6ae82366a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/interactive-science-explainer?case=ba1f1e05-30e6-4ecf-9d7a-c4b6ae82366a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-science-explainer?case=1ef9a114-6fc0-4ff1-a3ef-f51c59c67d63&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/quietwave/1ef9a114-6fc0-4ff1-a3ef-f51c59c67d63/shot_desktop.43b02e4a7b.webp" width="100%" alt="Interactive Science Explainer — Industrial hearing protection, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Industrial hearing protection</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/interactive-science-explainer?case=1ef9a114-6fc0-4ff1-a3ef-f51c59c67d63&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/interactive-science-explainer?case=1ef9a114-6fc0-4ff1-a3ef-f51c59c67d63&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

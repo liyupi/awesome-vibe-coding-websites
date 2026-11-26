@@ -16,7 +16,7 @@ Transform sound into luminous Three.js geometry right in the browser. Start the 
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Transform sound into luminous Three.js geometry right in the browser. Start the 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-audio-visualizer?case=815af05d-90d7-46d6-86c8-24c1b04f88de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-audio-visualizer/815af05d-90d7-46d6-86c8-24c1b04f88de/shot_desktop.ad4bf2a8b9.webp" width="100%" alt="Music Audio Visualizer — SynapseWave (Midnight Neon), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>SynapseWave (Midnight Neon)</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/music-audio-visualizer?case=815af05d-90d7-46d6-86c8-24c1b04f88de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/music-audio-visualizer?case=815af05d-90d7-46d6-86c8-24c1b04f88de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-audio-visualizer?case=6b44b8bd-118d-4a64-8bb3-681074957785&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-audio-visualizer/6b44b8bd-118d-4a64-8bb3-681074957785/shot_desktop.1fdc846c12.webp" width="100%" alt="Music Audio Visualizer — ChromaBeat (Solar Pulse), built by GPT-6.2 Sol in Codex"></a><br>
 <b>ChromaBeat (Solar Pulse)</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/music-audio-visualizer?case=6b44b8bd-118d-4a64-8bb3-681074957785&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/music-audio-visualizer?case=6b44b8bd-118d-4a64-8bb3-681074957785&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

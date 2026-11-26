@@ -16,7 +16,7 @@ Funeral Home Website is a single-page site for a family funeral home, in soft sa
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Funeral Home Website is a single-page site for a family funeral home, in soft sa
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/funeral-home-website?case=3db516b3-9735-4218-be9d-5c5e36108cf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/funeral-home-website/3db516b3-9735-4218-be9d-5c5e36108cf7/shot_desktop.947bd932b2.webp" width="100%" alt="Funeral Home Website — Funeral home, Ashton Mill, built by GLM-5.3 in ZCode"></a><br>
 <b>Funeral home, Ashton Mill</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/funeral-home-website?case=3db516b3-9735-4218-be9d-5c5e36108cf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/funeral-home-website?case=3db516b3-9735-4218-be9d-5c5e36108cf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/funeral-home-website?case=6ed6358e-3795-434b-b8bb-a478baf153d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/funeral-home-website/6ed6358e-3795-434b-b8bb-a478baf153d7/shot_desktop.aa1642cd74.webp" width="100%" alt="Funeral Home Website — Memorial chapel, Elmgate, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Memorial chapel, Elmgate</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/funeral-home-website?case=6ed6358e-3795-434b-b8bb-a478baf153d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/funeral-home-website?case=6ed6358e-3795-434b-b8bb-a478baf153d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

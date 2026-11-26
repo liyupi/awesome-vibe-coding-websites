@@ -16,7 +16,7 @@ Corporate Company Website is a multi-page enterprise template designed for diver
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 6 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/corporate-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Corporate Company Website is a multi-page enterprise template designed for diver
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/corporate-company-website?case=328fc7d5-d87a-45a3-b0f4-6d8ac04ae1b3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/corporate-company-website/328fc7d5-d87a-45a3-b0f4-6d8ac04ae1b3/shot_desktop.4e53083f58.webp" width="100%" alt="Corporate Company Website — Swiss industrial rail &amp; energy group, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Swiss industrial rail &amp; energy group</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/corporate-company-website?case=328fc7d5-d87a-45a3-b0f4-6d8ac04ae1b3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/corporate-company-website?case=328fc7d5-d87a-45a3-b0f4-6d8ac04ae1b3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/corporate-company-website?case=faf9f86b-f892-4ea7-966b-e2528600f9d3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/corporate-company-website/faf9f86b-f892-4ea7-966b-e2528600f9d3/shot_desktop.35d4e637bf.webp" width="100%" alt="Corporate Company Website — Dutch materials &amp; grid storage group, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Dutch materials &amp; grid storage group</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/corporate-company-website?case=faf9f86b-f892-4ea7-966b-e2528600f9d3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/corporate-company-website?case=faf9f86b-f892-4ea7-966b-e2528600f9d3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

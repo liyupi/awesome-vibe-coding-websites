@@ -16,7 +16,7 @@ A single-page site for a high-end sushi counter, built around one idea: luxury t
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lenis + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page site for a high-end sushi counter, built around one idea: luxury t
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=d7a34626-11e3-4939-b7a6-4095c4af279e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sushi-omakase-restaurant-website/d7a34626-11e3-4939-b7a6-4095c4af279e/shot_desktop.507511a2d2.webp" width="100%" alt="Sushi Omakase Restaurant Website — Omakase counter, built by GLM-5.3 in ZCode"></a><br>
 <b>Omakase counter</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=d7a34626-11e3-4939-b7a6-4095c4af279e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=d7a34626-11e3-4939-b7a6-4095c4af279e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=a2aa2a3b-9d85-47e7-a73b-a3109c0095ab&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sushi-omakase-restaurant-website/a2aa2a3b-9d85-47e7-a73b-a3109c0095ab/shot_desktop.2e00fb218e.webp" width="100%" alt="Sushi Omakase Restaurant Website — Coffee cupping room, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Coffee cupping room</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=a2aa2a3b-9d85-47e7-a73b-a3109c0095ab&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/sushi-omakase-restaurant-website?case=a2aa2a3b-9d85-47e7-a73b-a3109c0095ab&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

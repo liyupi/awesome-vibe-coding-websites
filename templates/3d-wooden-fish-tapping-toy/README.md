@@ -22,7 +22,7 @@ Use this prompt for an experimental personal site, a playful break page, or a sm
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Use this prompt for an experimental personal site, a playful break page, or a sm
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=5d8266b1-5c65-4c30-aa4c-ab28fb7afde8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-wooden-fish-tapping-toy/5d8266b1-5c65-4c30-aa4c-ab28fb7afde8/shot_desktop.fa5300e80e.webp" width="100%" alt="3D Wooden Fish Tapping Toy — Amber walnut temple, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Amber walnut temple</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=5d8266b1-5c65-4c30-aa4c-ab28fb7afde8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=5d8266b1-5c65-4c30-aa4c-ab28fb7afde8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=8737be0f-edb7-468a-95da-7e7872787f0a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-wooden-fish-tapping-toy/8737be0f-edb7-468a-95da-7e7872787f0a/shot_desktop.b8e6c46ed2.webp" width="100%" alt="3D Wooden Fish Tapping Toy — Rainlit cedar pavilion, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Rainlit cedar pavilion</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=8737be0f-edb7-468a-95da-7e7872787f0a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?case=8737be0f-edb7-468a-95da-7e7872787f0a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

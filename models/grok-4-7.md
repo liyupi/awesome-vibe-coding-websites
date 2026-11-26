@@ -79,18 +79,6 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/shot_desktop.4d791b0e09.webp" width="100%" alt="Neon Snake 3D Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
-<sub>Night hall snake · Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/fd018c27-8594-4624-964f-e5137a02f708/shot_desktop.c9e77d9aaf.webp" width="100%" alt="Neon Snake 3D Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
-<sub>Night conservatory snake · Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=5f787637-e0bf-460e-aeb8-9abdb3b13dc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/5f787637-e0bf-460e-aeb8-9abdb3b13dc7/shot_desktop.52b18247a0.webp" width="100%" alt="Mars Colony Builder Game built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
 <sub>Hearthline Crater Colony · Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=5f787637-e0bf-460e-aeb8-9abdb3b13dc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
@@ -99,6 +87,18 @@
 <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/2f70789f-9773-471c-966c-2ca42c3a3c09/shot_desktop.3202ab7b44.webp" width="100%" alt="Mars Colony Builder Game built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
 <sub>Saltmere Rim Outpost · Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/shot_desktop.4d791b0e09.webp" width="100%" alt="Neon Snake 3D Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
+<sub>Night hall snake · Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=bcc699f2-1ce2-4544-acf2-b5b757f140ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/fd018c27-8594-4624-964f-e5137a02f708/shot_desktop.c9e77d9aaf.webp" width="100%" alt="Neon Snake 3D Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
+<sub>Night conservatory snake · Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

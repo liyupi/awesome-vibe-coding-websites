@@ -16,7 +16,7 @@ A two-page website for an independent day spa: a home page with treatments, dura
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A two-page website for an independent day spa: a home page with treatments, dura
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/spa-and-massage-website?case=69a6c319-1d03-4112-afaf-fe35aacd96a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/spa-and-massage-website/69a6c319-1d03-4112-afaf-fe35aacd96a0/shot_desktop.5f3e7763b4.webp" width="100%" alt="Spa and Massage Website — Neighborhood spa in Portland, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Neighborhood spa in Portland</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/spa-and-massage-website?case=69a6c319-1d03-4112-afaf-fe35aacd96a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/spa-and-massage-website?case=69a6c319-1d03-4112-afaf-fe35aacd96a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/spa-and-massage-website?case=99e7d100-0b4a-4ce6-9e7e-5d94830845b5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/spa-and-massage-website/99e7d100-0b4a-4ce6-9e7e-5d94830845b5/shot_desktop.5fb0917f18.webp" width="100%" alt="Spa and Massage Website — Coastal spa in Monterey, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Coastal spa in Monterey</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/spa-and-massage-website?case=99e7d100-0b4a-4ce6-9e7e-5d94830845b5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/spa-and-massage-website?case=99e7d100-0b4a-4ce6-9e7e-5d94830845b5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@ Space Tech Startup Website is a deep-space marketing site for an invented small-
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/space-tech-startup-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Space Tech Startup Website is a deep-space marketing site for an invented small-
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/space-tech-startup-website?case=2ca60dd1-5564-4472-85d1-ef69d2943cdb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/space-tech-startup-website/2ca60dd1-5564-4472-85d1-ef69d2943cdb/shot_desktop.59f7d5a3c1.webp" width="100%" alt="Space Tech Startup Website — Satellite constellation startup, built by GLM-5.3 in ZCode"></a><br>
 <b>Satellite constellation startup</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/space-tech-startup-website?case=2ca60dd1-5564-4472-85d1-ef69d2943cdb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/space-tech-startup-website?case=2ca60dd1-5564-4472-85d1-ef69d2943cdb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/space-tech-startup-website?case=c365429e-0655-469c-8780-96cbe6ac97a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/space-tech-startup-website/c365429e-0655-469c-8780-96cbe6ac97a5/shot_desktop.e52478f303.webp" width="100%" alt="Space Tech Startup Website — Orbital propellant depot, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Orbital propellant depot</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/space-tech-startup-website?case=c365429e-0655-469c-8780-96cbe6ac97a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/space-tech-startup-website?case=c365429e-0655-469c-8780-96cbe6ac97a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -20,7 +20,7 @@ This template suits indie hackers, developers, and designers who want a playable
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + three + lucide |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/harbor-town-delivery-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,12 +30,12 @@ This template suits indie hackers, developers, and designers who want a playable
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/harbor-town-delivery-game?case=cd7e826b-d52d-420c-8e07-454df619c14a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/harbor-town-delivery-game/cd7e826b-d52d-420c-8e07-454df619c14a/shot_desktop.b62cc6c1d9.webp" width="100%" alt="Harbor Town Delivery Game — Bellbuoy Parcel Run, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Bellbuoy Parcel Run</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/harbor-town-delivery-game?case=cd7e826b-d52d-420c-8e07-454df619c14a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/harbor-town-delivery-game?case=cd7e826b-d52d-420c-8e07-454df619c14a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/harbor-town-delivery-game?case=94917aae-631b-4417-bd3a-3986e1ff2b8e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/harbor-town-delivery-game/94917aae-631b-4417-bd3a-3986e1ff2b8e/shot_desktop.4213f6b13d.webp" width="100%" alt="Harbor Town Delivery Game — Fernfall Bakery Route, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Fernfall Bakery Route</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/harbor-town-delivery-game?case=94917aae-631b-4417-bd3a-3986e1ff2b8e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/harbor-town-delivery-game?case=94917aae-631b-4417-bd3a-3986e1ff2b8e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

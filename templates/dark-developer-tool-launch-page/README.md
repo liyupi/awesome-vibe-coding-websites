@@ -16,7 +16,7 @@ A one-page launch site for a command-line developer tool, written here for a fas
 | Effects | Scroll Animation, Text Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,19 +26,19 @@ A one-page launch site for a command-line developer tool, written here for a fas
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?case=80c96b0a-7fb8-48cf-92f1-200d451c5030&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/dark-developer-tool-launch-page/80c96b0a-7fb8-48cf-92f1-200d451c5030/shot_desktop.87b3f45279.webp" width="100%" alt="Dark Developer Tool Launch Page — Code review CLI, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Code review CLI</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?case=80c96b0a-7fb8-48cf-92f1-200d451c5030&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?case=80c96b0a-7fb8-48cf-92f1-200d451c5030&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?case=be70c703-2792-4e81-a0df-b051e17b21c9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/dark-developer-tool-launch-page/be70c703-2792-4e81-a0df-b051e17b21c9/shot_desktop.8832dceaf2.webp" width="100%" alt="Dark Developer Tool Launch Page — Infrastructure config linter, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Infrastructure config linter</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?case=be70c703-2792-4e81-a0df-b051e17b21c9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?case=be70c703-2792-4e81-a0df-b051e17b21c9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?case=0db7fe9f-99da-451e-991b-a811223f9700&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/dark-developer-tool-launch-page/0db7fe9f-99da-451e-991b-a811223f9700/shot_desktop.98d3a9ce59.webp" width="100%" alt="Dark Developer Tool Launch Page — Code review CLI, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Code review CLI</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?case=0db7fe9f-99da-451e-991b-a811223f9700&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?case=0db7fe9f-99da-451e-991b-a811223f9700&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -18,7 +18,7 @@ It suits hardware founders, small audio or gadget brands and developers who want
 | Effects | Scroll Animation, Drag & Physics, 3D / WebGL |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react@18 + three@0.169.0 + @react-three/fiber@8.17 |
 | Pages | 1 |
-| Built with | [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/3d-product-configurator-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -28,12 +28,12 @@ It suits hardware founders, small audio or gadget brands and developers who want
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-product-configurator-page?case=46e3b8bb-8076-46ea-b84c-06e524014917&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/46e3b8bb-8076-46ea-b84c-06e524014917/shot_desktop.2a5935dd45.webp" width="100%" alt="3D Product Configurator Page — Studio monitor headphones, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Studio monitor headphones</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/3d-product-configurator-page?case=46e3b8bb-8076-46ea-b84c-06e524014917&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/3d-product-configurator-page?case=46e3b8bb-8076-46ea-b84c-06e524014917&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-product-configurator-page?case=168cacc0-afb4-4220-8f7a-6b27a8795587&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/168cacc0-afb4-4220-8f7a-6b27a8795587/shot_desktop.2cddf638c5.webp" width="100%" alt="3D Product Configurator Page — Wireless headphones, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Wireless headphones</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/3d-product-configurator-page?case=168cacc0-afb4-4220-8f7a-6b27a8795587&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/3d-product-configurator-page?case=168cacc0-afb4-4220-8f7a-6b27a8795587&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@ A tactile browser cellular automata sandbox built on a fast typed-array 60fps si
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A tactile browser cellular automata sandbox built on a fast typed-array 60fps si
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/falling-sand-physics-toy?case=93f06f81-788b-471b-85e8-d1570cc16500&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/falling-sand-physics-toy/93f06f81-788b-471b-85e8-d1570cc16500/shot_desktop.9c21c18818.webp" width="100%" alt="Falling Sand Physics Toy — GrainLab (Volcano Caldera), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>GrainLab (Volcano Caldera)</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/falling-sand-physics-toy?case=93f06f81-788b-471b-85e8-d1570cc16500&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/falling-sand-physics-toy?case=93f06f81-788b-471b-85e8-d1570cc16500&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/falling-sand-physics-toy?case=4c30de54-9132-4e54-b496-75065373cd98&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/falling-sand-physics-toy/4c30de54-9132-4e54-b496-75065373cd98/shot_desktop.8b03353567.webp" width="100%" alt="Falling Sand Physics Toy — DuneCraft (Rain Garden), built by GPT-6.2 Sol in Codex"></a><br>
 <b>DuneCraft (Rain Garden)</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/falling-sand-physics-toy?case=4c30de54-9132-4e54-b496-75065373cd98&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/falling-sand-physics-toy?case=4c30de54-9132-4e54-b496-75065373cd98&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

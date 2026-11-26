@@ -22,7 +22,7 @@ To adapt it, change the brand, town, practice type, new-patient offer and phone 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 2 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt it, change the brand, town, practice type, new-patient offer and phone 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dental-clinic-website?case=51604e9b-9cd3-431d-bce2-e9793afc1733&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/dental-clinic-website/51604e9b-9cd3-431d-bce2-e9793afc1733/shot_desktop.18145648a9.webp" width="100%" alt="Dental Clinic Website — Family dental clinic, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Family dental clinic</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/dental-clinic-website?case=51604e9b-9cd3-431d-bce2-e9793afc1733&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/dental-clinic-website?case=51604e9b-9cd3-431d-bce2-e9793afc1733&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dental-clinic-website?case=8b62c9a4-ebd8-4a3f-8d3d-213698152b86&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/dental-clinic-website/8b62c9a4-ebd8-4a3f-8d3d-213698152b86/shot_desktop.bb580b4237.webp" width="100%" alt="Dental Clinic Website — Neighborhood vet clinic, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>Neighborhood vet clinic</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/dental-clinic-website?case=8b62c9a4-ebd8-4a3f-8d3d-213698152b86&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/dental-clinic-website?case=8b62c9a4-ebd8-4a3f-8d3d-213698152b86&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

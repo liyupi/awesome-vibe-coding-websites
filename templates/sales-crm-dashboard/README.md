@@ -16,7 +16,7 @@ A single-page CRM app: an app shell with a left nav and a top bar; a pipeline ka
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/sales-crm-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page CRM app: an app shell with a left nav and a top bar; a pipeline ka
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sales-crm-dashboard?case=1e2e9d16-d5f8-40d9-b40a-990a16dc2746&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sales-crm-dashboard/1e2e9d16-d5f8-40d9-b40a-990a16dc2746/shot_desktop.746188a5d3.webp" width="100%" alt="Sales CRM Dashboard — B2B sales team CRM, built by GLM-5.3 in ZCode"></a><br>
 <b>B2B sales team CRM</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/sales-crm-dashboard?case=1e2e9d16-d5f8-40d9-b40a-990a16dc2746&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/sales-crm-dashboard?case=1e2e9d16-d5f8-40d9-b40a-990a16dc2746&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sales-crm-dashboard?case=6822ae0a-ea33-49a7-a48c-f6674e113742&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sales-crm-dashboard/6822ae0a-ea33-49a7-a48c-f6674e113742/shot_desktop.4a3236feb2.webp" width="100%" alt="Sales CRM Dashboard — Agency pipeline CRM, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Agency pipeline CRM</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/sales-crm-dashboard?case=6822ae0a-ea33-49a7-a48c-f6674e113742&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/sales-crm-dashboard?case=6822ae0a-ea33-49a7-a48c-f6674e113742&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

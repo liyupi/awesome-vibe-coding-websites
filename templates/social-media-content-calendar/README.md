@@ -20,7 +20,7 @@ A media contact sheet shows which posts use each photograph. The sample insights
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 4 |
-| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,12 +30,12 @@ A media contact sheet shows which posts use each photograph. The sample insights
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/social-media-content-calendar?case=dfb54b60-e32d-4c1d-9b67-961bc3d635fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/shot_desktop.b83af4015f.webp" width="100%" alt="Social Media Content Calendar — Home desk launch, built by GPT-6 Astra in Codex"></a><br>
 <b>Home desk launch</b><br>
-<sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/social-media-content-calendar?case=dfb54b60-e32d-4c1d-9b67-961bc3d635fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/social-media-content-calendar?case=dfb54b60-e32d-4c1d-9b67-961bc3d635fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/social-media-content-calendar?case=7725b3b7-da97-4330-8a17-2b987cfbc1b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/social-media-content-calendar/7725b3b7-da97-4330-8a17-2b987cfbc1b7/shot_desktop.48b8055100.webp" width="100%" alt="Social Media Content Calendar — Wholesale stationery previews, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Wholesale stationery previews</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/social-media-content-calendar?case=7725b3b7-da97-4330-8a17-2b987cfbc1b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/social-media-content-calendar?case=7725b3b7-da97-4330-8a17-2b987cfbc1b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

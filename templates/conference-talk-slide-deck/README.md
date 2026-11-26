@@ -16,7 +16,7 @@ A single-page slide deck that runs a conference talk in the browser: seven slide
 | Effects | Keyboard, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page slide deck that runs a conference talk in the browser: seven slide
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/conference-talk-slide-deck?case=7d0ae8ba-325d-4156-8dbc-05d47da9f4c2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/conference-talk-slide-deck/7d0ae8ba-325d-4156-8dbc-05d47da9f4c2/shot_desktop.45600786f7.webp" width="100%" alt="Conference Talk Slide Deck — Technical conference talk, built by GLM-5.3 in ZCode"></a><br>
 <b>Technical conference talk</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/conference-talk-slide-deck?case=7d0ae8ba-325d-4156-8dbc-05d47da9f4c2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/conference-talk-slide-deck?case=7d0ae8ba-325d-4156-8dbc-05d47da9f4c2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/conference-talk-slide-deck?case=f09a8ddc-9f20-44e0-bd72-46077a6740ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/conference-talk-slide-deck/f09a8ddc-9f20-44e0-bd72-46077a6740ff/shot_desktop.b13134c0aa.webp" width="100%" alt="Conference Talk Slide Deck — Design talk deck, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Design talk deck</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/conference-talk-slide-deck?case=f09a8ddc-9f20-44e0-bd72-46077a6740ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/conference-talk-slide-deck?case=f09a8ddc-9f20-44e0-bd72-46077a6740ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

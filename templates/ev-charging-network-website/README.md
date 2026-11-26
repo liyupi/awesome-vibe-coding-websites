@@ -16,7 +16,7 @@ A single-page site for an EV charging network, drawn entirely in code — no pho
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page site for an EV charging network, drawn entirely in code — no pho
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ev-charging-network-website?case=807b4d36-1963-44e1-a401-0f11eccd36f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ev-charging-network-website/807b4d36-1963-44e1-a401-0f11eccd36f2/shot_desktop.78695d254b.webp" width="100%" alt="EV Charging Network Website — EV charging network, built by GLM-5.3 in ZCode"></a><br>
 <b>EV charging network</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/ev-charging-network-website?case=807b4d36-1963-44e1-a401-0f11eccd36f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/ev-charging-network-website?case=807b4d36-1963-44e1-a401-0f11eccd36f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ev-charging-network-website?case=e4dba3c7-d7f4-4088-9a04-985b08839992&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ev-charging-network-website/e4dba3c7-d7f4-4088-9a04-985b08839992/shot_desktop.a36d602a2e.webp" width="100%" alt="EV Charging Network Website — E-bike share network, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>E-bike share network</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/ev-charging-network-website?case=e4dba3c7-d7f4-4088-9a04-985b08839992&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/ev-charging-network-website?case=e4dba3c7-d7f4-4088-9a04-985b08839992&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@ A community forum for a fictional amateur astronomy club, built as a conversatio
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 6 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A community forum for a fictional amateur astronomy club, built as a conversatio
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/discussion-forum-website?case=eab43f74-04f8-4f22-adcd-5ffe6e15fe88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/discussion-forum-website/eab43f74-04f8-4f22-adcd-5ffe6e15fe88/shot_desktop.904ad477bb.webp" width="100%" alt="Discussion Forum Website — Astronomy club forum, built by GLM-5.4 in ZCode"></a><br>
 <b>Astronomy club forum</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/discussion-forum-website?case=eab43f74-04f8-4f22-adcd-5ffe6e15fe88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/discussion-forum-website?case=eab43f74-04f8-4f22-adcd-5ffe6e15fe88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/discussion-forum-website?case=6956272e-357c-4e15-ab1b-71bab96e2117&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/discussion-forum-website/6956272e-357c-4e15-ab1b-71bab96e2117/shot_desktop.a8add6f8e0.webp" width="100%" alt="Discussion Forum Website — Bayhaven astronomy club forum, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Bayhaven astronomy club forum</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/discussion-forum-website?case=6956272e-357c-4e15-ab1b-71bab96e2117&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/discussion-forum-website?case=6956272e-357c-4e15-ab1b-71bab96e2117&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

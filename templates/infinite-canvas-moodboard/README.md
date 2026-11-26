@@ -16,7 +16,7 @@ This template is a single-screen moodboard tool for a creative studio. Instead o
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + gsap + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ This template is a single-screen moodboard tool for a creative studio. Instead o
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=4e8dfefa-b5b5-4349-b33f-ecf48bd92886&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/4e8dfefa-b5b5-4349-b33f-ecf48bd92886/shot_desktop.70a45f0b69.webp" width="100%" alt="Infinite Canvas Moodboard — Coastal hotel rebrand, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Coastal hotel rebrand</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=4e8dfefa-b5b5-4349-b33f-ecf48bd92886&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=4e8dfefa-b5b5-4349-b33f-ecf48bd92886&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=25f3132f-88da-4688-86b4-90b12906fb31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/25f3132f-88da-4688-86b4-90b12906fb31/shot_desktop.b13a37fe91.webp" width="100%" alt="Infinite Canvas Moodboard — Film production design, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Film production design</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=25f3132f-88da-4688-86b4-90b12906fb31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=25f3132f-88da-4688-86b4-90b12906fb31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

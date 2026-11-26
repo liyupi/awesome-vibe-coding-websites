@@ -4,7 +4,7 @@
 
 [See them live on VibeFather →](https://vibefather.ai/models/glm-5-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model)
 
-**Compare GLM-5.4 with:** [Kimi K3.1 Pro](../compare/glm-5-4-vs-kimi-k3-1-pro.md) <sub>17</sub> · [Gemini 4 Carbon](../compare/gemini-4-carbon-vs-glm-5-4.md) <sub>5</sub> · [Claude Opus 5.5](../compare/claude-opus-5-5-vs-glm-5-4.md) <sub>5</sub> · [Claude Sonnet 5.5](../compare/claude-sonnet-5-5-vs-glm-5-4.md) <sub>4</sub> · [DeepSeek V4.1 Flash](../compare/deepseek-v4-1-flash-vs-glm-5-4.md) <sub>2</sub> · [GPT-6 Astra](../compare/glm-5-4-vs-gpt-6-astra.md) <sub>4</sub> · [GLM-5.3](../compare/glm-5-3-vs-glm-5-4.md) <sub>4</sub> · [GPT-6.2 Sol](../compare/glm-5-4-vs-gpt-6-2-sol.md) <sub>1</sub> · [Gemini 4 Neon](../compare/gemini-4-neon-vs-glm-5-4.md) <sub>1</sub>
+**Compare GLM-5.4 with:** [Kimi K3.1 Pro](../compare/glm-5-4-vs-kimi-k3-1-pro.md) <sub>17</sub> · [Claude Opus 5.5](../compare/claude-opus-5-5-vs-glm-5-4.md) <sub>5</sub> · [Gemini 4 Carbon](../compare/gemini-4-carbon-vs-glm-5-4.md) <sub>5</sub> · [Claude Sonnet 5.5](../compare/claude-sonnet-5-5-vs-glm-5-4.md) <sub>4</sub> · [DeepSeek V4.1 Flash](../compare/deepseek-v4-1-flash-vs-glm-5-4.md) <sub>2</sub> · [GPT-6 Astra](../compare/glm-5-4-vs-gpt-6-astra.md) <sub>4</sub> · [GLM-5.3](../compare/glm-5-3-vs-glm-5-4.md) <sub>4</sub> · [GPT-6.2 Sol](../compare/glm-5-4-vs-gpt-6-2-sol.md) <sub>1</sub> · [Gemini 4 Neon](../compare/gemini-4-neon-vs-glm-5-4.md) <sub>1</sub>
 
 <table>
 <tr>
@@ -21,14 +21,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/4d629633-6003-45d0-aef8-33f0bef7eb6d/shot_desktop.57670a297e.webp" width="100%" alt="Industrial Manufacturing Company Website built by GLM-5.4 in ZCode"></a><br>
-<b><a href="../templates/industrial-manufacturing-company-website">Industrial Manufacturing Company Website</a></b> <sup>PRO</sup><br>
-<sub>CNC machine shop, Halbrook · ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=39e4619c-9ed0-4e4a-a60e-ca611f8032ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/39e4619c-9ed0-4e4a-a60e-ca611f8032ff/shot_desktop.274353f5b5.webp" width="100%" alt="Liquid Glass Product Page built by GLM-5.4 in ZCode"></a><br>
 <b><a href="../templates/liquid-glass-product-page">Liquid Glass Product Page</a></b> <sup>PRO</sup><br>
 <sub>Glass room speaker · ZCode · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=39e4619c-9ed0-4e4a-a60e-ca611f8032ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/4d629633-6003-45d0-aef8-33f0bef7eb6d/shot_desktop.57670a297e.webp" width="100%" alt="Industrial Manufacturing Company Website built by GLM-5.4 in ZCode"></a><br>
+<b><a href="../templates/industrial-manufacturing-company-website">Industrial Manufacturing Company Website</a></b> <sup>PRO</sup><br>
+<sub>CNC machine shop, Halbrook · ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -45,21 +45,21 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=167161bc-4088-416d-8e15-21ef596b31c1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/industrial-robotics-company-website/167161bc-4088-416d-8e15-21ef596b31c1/shot_desktop.46b8c7eb54.webp" width="100%" alt="Industrial Robotics Company Website built by GLM-5.4 in ZCode"></a><br>
+<b><a href="../templates/industrial-robotics-company-website">Industrial Robotics Company Website</a></b><br>
+<sub>Industrial robot arms · ZCode · <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=167161bc-4088-416d-8e15-21ef596b31c1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/generative-art-studio-website?case=d631edcf-3aa2-4f7e-8f19-fcd427ae2a11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/generative-art-studio-website/d631edcf-3aa2-4f7e-8f19-fcd427ae2a11/shot_desktop.84e4a19b3c.webp" width="100%" alt="Generative Art Studio Website built by GLM-5.4 in ZCode"></a><br>
 <b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
 <sub>Generative print studio · ZCode · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=d631edcf-3aa2-4f7e-8f19-fcd427ae2a11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=7d56e1cc-5ba7-408f-91f4-4c3fe212eccd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/7d56e1cc-5ba7-408f-91f4-4c3fe212eccd/shot_desktop.25bb054c41.webp" width="100%" alt="Browser Flight Simulator Game built by GLM-5.4 in ZCode"></a><br>
 <b><a href="../templates/browser-flight-simulator-game">Browser Flight Simulator Game</a></b><br>
 <sub>Golden-hour coastal archipelago · ZCode · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=7d56e1cc-5ba7-408f-91f4-4c3fe212eccd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=167161bc-4088-416d-8e15-21ef596b31c1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/industrial-robotics-company-website/167161bc-4088-416d-8e15-21ef596b31c1/shot_desktop.46b8c7eb54.webp" width="100%" alt="Industrial Robotics Company Website built by GLM-5.4 in ZCode"></a><br>
-<b><a href="../templates/industrial-robotics-company-website">Industrial Robotics Company Website</a></b><br>
-<sub>Industrial robot arms · ZCode · <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=167161bc-4088-416d-8e15-21ef596b31c1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=5f93470a-85e7-44ca-ab00-6be1ec174037&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/5f93470a-85e7-44ca-ab00-6be1ec174037/shot_desktop.10e397d27b.webp" width="100%" alt="Retro Desktop OS Portfolio built by GLM-5.4 in ZCode"></a><br>

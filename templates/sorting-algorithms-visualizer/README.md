@@ -22,7 +22,7 @@ To adapt it, change the brand, the audience, what the bars represent and the eve
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,19 +32,19 @@ To adapt it, change the brand, the audience, what the bars represent and the eve
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b/shot_desktop.4ffd6302fd.webp" width="100%" alt="Sorting Algorithms Visualizer — Sorting numbered cards, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Sorting numbered cards</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=76f85520-c654-47a3-aeec-90c064767b20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/76f85520-c654-47a3-aeec-90c064767b20/shot_desktop.abf37cd30b.webp" width="100%" alt="Sorting Algorithms Visualizer — School library shelf, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>School library shelf</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=76f85520-c654-47a3-aeec-90c064767b20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=76f85520-c654-47a3-aeec-90c064767b20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=40ef5a2a-8c8c-4fa4-b215-cc9ea14eec89&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/40ef5a2a-8c8c-4fa4-b215-cc9ea14eec89/shot_desktop.bd391f09f9.webp" width="100%" alt="Sorting Algorithms Visualizer — Sorting index tiles, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Sorting index tiles</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=40ef5a2a-8c8c-4fa4-b215-cc9ea14eec89&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=40ef5a2a-8c8c-4fa4-b215-cc9ea14eec89&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

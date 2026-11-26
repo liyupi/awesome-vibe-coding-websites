@@ -16,7 +16,7 @@ A vivid atmospheric weather forecast web app powered by a real-time HTML5 Canvas
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 2 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A vivid atmospheric weather forecast web app powered by a real-time HTML5 Canvas
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/weather-forecast-app?case=37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/shot_desktop.c2cd3bca47.webp" width="100%" alt="Weather Forecast App — Skyloom Weather, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Skyloom Weather</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/weather-forecast-app?case=37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/weather-forecast-app?case=37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/weather-forecast-app?case=dde3ed94-1f57-47db-ba84-1b321162e232&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/weather-forecast-app/dde3ed94-1f57-47db-ba84-1b321162e232/shot_desktop.15e702e7c7.webp" width="100%" alt="Weather Forecast App — Cirrus Forecast, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Cirrus Forecast</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/weather-forecast-app?case=dde3ed94-1f57-47db-ba84-1b321162e232&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/weather-forecast-app?case=dde3ed94-1f57-47db-ba84-1b321162e232&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

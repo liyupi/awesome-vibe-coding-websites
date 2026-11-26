@@ -20,7 +20,7 @@ Change the maker name, product name, headline, audience, ritual, and concept pri
 | Effects | Scroll Animation, Drag & Physics, 3D / WebGL |
 | Stack | Vite 6 + React 19 + TypeScript 5 + Vanilla CSS + three@0.170.0 |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/quirky-gadget-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,12 +30,12 @@ Change the maker name, product name, headline, audience, ritual, and concept pri
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=2c3de2d4-f352-42fc-9ddd-ac0a2e75995c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/quirky-gadget-product-launch-page/2c3de2d4-f352-42fc-9ddd-ac0a2e75995c/shot_desktop.b9fb7615a0.webp" width="100%" alt="Quirky Gadget Product Launch Page — Pocket celebration gadget, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Pocket celebration gadget</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=2c3de2d4-f352-42fc-9ddd-ac0a2e75995c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=2c3de2d4-f352-42fc-9ddd-ac0a2e75995c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=d6599102-35ae-4870-bf76-f04b06ce0718&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/quirky-gadget-product-launch-page/d6599102-35ae-4870-bf76-f04b06ce0718/shot_desktop.055fe067cf.webp" width="100%" alt="Quirky Gadget Product Launch Page — Pocket decision helper, built by GLM-5.3 in ZCode"></a><br>
 <b>Pocket decision helper</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=d6599102-35ae-4870-bf76-f04b06ce0718&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/quirky-gadget-product-launch-page?case=d6599102-35ae-4870-bf76-f04b06ce0718&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@ An editorial, gesture-driven personal brand website for a fictional young racing
 | Effects | 3D / WebGL, Scroll Scrub |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/racing-driver-personal-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ An editorial, gesture-driven personal brand website for a fictional young racing
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=6152aaa5-b528-4309-b8fd-a7f3b97f9041&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/racing-driver-personal-website/6152aaa5-b528-4309-b8fd-a7f3b97f9041/shot_desktop.7c5e9a1ded.webp" width="100%" alt="Racing Driver Personal Website — Kaelen Vance #47 (Voltara Motorsport), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Kaelen Vance #47 (Voltara Motorsport)</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=6152aaa5-b528-4309-b8fd-a7f3b97f9041&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=6152aaa5-b528-4309-b8fd-a7f3b97f9041&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/racing-driver-personal-website/0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d/shot_desktop.4882954d65.webp" width="100%" alt="Racing Driver Personal Website — Tomasz Lind #19 (Nordring Racing), built by GPT-6.2 Sol in Codex"></a><br>
 <b>Tomasz Lind #19 (Nordring Racing)</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

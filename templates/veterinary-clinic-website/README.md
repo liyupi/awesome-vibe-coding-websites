@@ -16,7 +16,7 @@ A two-page website for a veterinary clinic: a home page with warm animal photogr
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A two-page website for a veterinary clinic: a home page with warm animal photogr
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/veterinary-clinic-website/d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc/shot_desktop.291d03c3c0.webp" width="100%" alt="Veterinary Clinic Website — Small animal clinic, built by GLM-5.3 in ZCode"></a><br>
 <b>Small animal clinic</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=8e84fd01-4c76-4650-81e2-ad27314a0c60&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/veterinary-clinic-website/8e84fd01-4c76-4650-81e2-ad27314a0c60/shot_desktop.46d75a9aaf.webp" width="100%" alt="Veterinary Clinic Website — Animal hospital in Savannah, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Animal hospital in Savannah</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=8e84fd01-4c76-4650-81e2-ad27314a0c60&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=8e84fd01-4c76-4650-81e2-ad27314a0c60&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

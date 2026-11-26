@@ -38,28 +38,28 @@
 <sub>Type &amp; cycling notebook · Codex · <a href="https://vibefather.ai/templates/personal-blog-website?case=20aab8fd-b9ef-4201-af69-0f086f3dfe42&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=32916f21-39c4-49cf-8683-b5cefc549371&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/32916f21-39c4-49cf-8683-b5cefc549371/shot_desktop.545d48c6d6.webp" width="100%" alt="How a Mechanical Watch Works built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/how-a-mechanical-watch-works">How a Mechanical Watch Works</a></b><br>
-<sub>Horology Atlas (Caliber M-12) · Codex · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=32916f21-39c4-49cf-8683-b5cefc549371&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/corporate-company-website?case=faf9f86b-f892-4ea7-966b-e2528600f9d3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/corporate-company-website/faf9f86b-f892-4ea7-966b-e2528600f9d3/shot_desktop.35d4e637bf.webp" width="100%" alt="Corporate Company Website built by GPT-6.2 Sol in Codex"></a><br>
 <b><a href="../templates/corporate-company-website">Corporate Company Website</a></b> <sup>PRO</sup><br>
 <sub>Dutch materials &amp; grid storage group · Codex · <a href="https://vibefather.ai/templates/corporate-company-website?case=faf9f86b-f892-4ea7-966b-e2528600f9d3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=65902339-2b8a-4984-96c7-5ba3cba8bbc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/65902339-2b8a-4984-96c7-5ba3cba8bbc4/shot_desktop.b58eedda83.webp" width="100%" alt="Voxel Sandbox Building Game built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/voxel-sandbox-building-game">Voxel Sandbox Building Game</a></b><br>
-<sub>Sorbet terrace coastal valley · Codex · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=65902339-2b8a-4984-96c7-5ba3cba8bbc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=32916f21-39c4-49cf-8683-b5cefc549371&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/32916f21-39c4-49cf-8683-b5cefc549371/shot_desktop.545d48c6d6.webp" width="100%" alt="How a Mechanical Watch Works built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/how-a-mechanical-watch-works">How a Mechanical Watch Works</a></b><br>
+<sub>Horology Atlas (Caliber M-12) · Codex · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=32916f21-39c4-49cf-8683-b5cefc549371&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=1d175a60-c7f8-4a4b-a287-ea49b16d69ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/1d175a60-c7f8-4a4b-a287-ea49b16d69ee/shot_desktop.f9478fbd40.webp" width="100%" alt="Developer Utilities Toolbox built by GPT-6.2 Sol in Codex"></a><br>
 <b><a href="../templates/developer-utilities-toolbox">Developer Utilities Toolbox</a></b><br>
 <sub>Kestrel Tools · Codex · <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=1d175a60-c7f8-4a4b-a287-ea49b16d69ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=65902339-2b8a-4984-96c7-5ba3cba8bbc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/65902339-2b8a-4984-96c7-5ba3cba8bbc4/shot_desktop.b58eedda83.webp" width="100%" alt="Voxel Sandbox Building Game built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/voxel-sandbox-building-game">Voxel Sandbox Building Game</a></b><br>
+<sub>Sorbet terrace coastal valley · Codex · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=65902339-2b8a-4984-96c7-5ba3cba8bbc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/online-learning-platform?case=a5e7a3a5-6a9e-46de-af89-7272eb249e8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/online-learning-platform/a5e7a3a5-6a9e-46de-af89-7272eb249e8a/shot_desktop.9578aa52b0.webp" width="100%" alt="Online Learning Platform built by GPT-6.2 Sol in Codex"></a><br>
@@ -74,16 +74,16 @@
 <sub>Banner Sketch (Scarlet vs Azure) · Codex · <a href="https://vibefather.ai/templates/draw-battle-simulator-game?case=3a770449-ae99-4794-91f7-f34aebc9a3ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/particle-morph-3d-landing-page/abc2cbe9-f726-47c1-bd32-8272071d1bb8/shot_desktop.d7b226b20f.webp" width="100%" alt="Particle Morph 3D Landing Page built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/particle-morph-3d-landing-page">Particle Morph 3D Landing Page</a></b><br>
-<sub>Velvet Arc (Studio Reference Wireless Headset) · Codex · <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/online-code-playground/a5cc8c47-8a3e-44a6-b894-ab1e652bd923/shot_desktop.2542f670ae.webp" width="100%" alt="Online Code Playground built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/online-code-playground">Online Code Playground</a></b><br>
+<sub>LoomLab · Codex · <a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/online-code-playground/a5cc8c47-8a3e-44a6-b894-ab1e652bd923/shot_desktop.2542f670ae.webp" width="100%" alt="Online Code Playground built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/online-code-playground">Online Code Playground</a></b><br>
-<sub>LoomLab · Codex · <a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/particle-morph-3d-landing-page/abc2cbe9-f726-47c1-bd32-8272071d1bb8/shot_desktop.d7b226b20f.webp" width="100%" alt="Particle Morph 3D Landing Page built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/particle-morph-3d-landing-page">Particle Morph 3D Landing Page</a></b><br>
+<sub>Velvet Arc (Studio Reference Wireless Headset) · Codex · <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=f72ddf3e-b875-4025-a4d4-3b09b4463b2b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/f72ddf3e-b875-4025-a4d4-3b09b4463b2b/shot_desktop.92071b17ab.webp" width="100%" alt="Holographic Trading Card Showcase built by GPT-6.2 Sol in Codex"></a><br>
@@ -93,14 +93,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/product-documentation-website/dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d/shot_desktop.62b7650244.webp" width="100%" alt="Product Documentation Website built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/product-documentation-website">Product Documentation Website</a></b><br>
-<sub>Background job queue SDK · Codex · <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/20464864-d9d7-464f-b5d3-6974df1dc7ed/shot_desktop.937dc833f8.webp" width="100%" alt="Code Hosting Platform App built by GPT-6.2 Sol in Codex"></a><br>
 <b><a href="../templates/code-hosting-platform-app">Code Hosting Platform App</a></b> <sup>PRO</sup><br>
 <sub>Audio DSP toolkit org · Codex · <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/product-documentation-website/dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d/shot_desktop.62b7650244.webp" width="100%" alt="Product Documentation Website built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/product-documentation-website">Product Documentation Website</a></b><br>
+<sub>Background job queue SDK · Codex · <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -159,9 +159,9 @@
 |---|---|---|---|
 | [Music Audio Visualizer](../templates/music-audio-visualizer) | ChromaBeat (Solar Pulse) | Codex | [Live demo](https://vibefather.ai/templates/music-audio-visualizer?case=6b44b8bd-118d-4a64-8bb3-681074957785&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Falling Sand Physics Toy](../templates/falling-sand-physics-toy) | DuneCraft (Rain Garden) | Codex | [Live demo](https://vibefather.ai/templates/falling-sand-physics-toy?case=4c30de54-9132-4e54-b496-75065373cd98&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [New Home Development Website](../templates/new-home-development-website) | Linden Terrace (48 Townhomes) | Codex | [Live demo](https://vibefather.ai/templates/new-home-development-website?case=f03d9f65-44e6-43a1-8662-31e627d0e299&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Team Wiki Workspace App](../templates/team-wiki-workspace-app) | Robotics lab engineering wiki | Codex | [Live demo](https://vibefather.ai/templates/team-wiki-workspace-app?case=9ee0b215-064a-4b97-b2a5-2400dc6d215e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Racing Driver Personal Website](../templates/racing-driver-personal-website) | Tomasz Lind #19 (Nordring Racing) | Codex | [Live demo](https://vibefather.ai/templates/racing-driver-personal-website?case=0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [New Home Development Website](../templates/new-home-development-website) | Linden Terrace (48 Townhomes) | Codex | [Live demo](https://vibefather.ai/templates/new-home-development-website?case=f03d9f65-44e6-43a1-8662-31e627d0e299&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Hospital Website](../templates/hospital-website) | Harborview Regional Medical | Codex | [Live demo](https://vibefather.ai/templates/hospital-website?case=bac74a33-fde2-49bb-abca-d0e259eb59e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 
 ---

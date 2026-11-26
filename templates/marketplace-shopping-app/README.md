@@ -22,7 +22,7 @@ Adapt the brand, audience, featured collection, and product catalog in one conte
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 3 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/marketplace-shopping-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Adapt the brand, audience, featured collection, and product catalog in one conte
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/marketplace-shopping-app?case=5014bb9f-827d-4a36-86a9-cef237424383&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/marketplace-shopping-app/5014bb9f-827d-4a36-86a9-cef237424383/shot_desktop.a02552204e.webp" width="100%" alt="Marketplace Shopping App — Home and lifestyle, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Home and lifestyle</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/marketplace-shopping-app?case=5014bb9f-827d-4a36-86a9-cef237424383&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/marketplace-shopping-app?case=5014bb9f-827d-4a36-86a9-cef237424383&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/marketplace-shopping-app?case=ce3088f1-5dd2-4a67-8bbc-24ffbb064376&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/marketplace-shopping-app/ce3088f1-5dd2-4a67-8bbc-24ffbb064376/shot_desktop.fbead00a18.webp" width="100%" alt="Marketplace Shopping App — Outdoor and travel, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Outdoor and travel</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/marketplace-shopping-app?case=ce3088f1-5dd2-4a67-8bbc-24ffbb064376&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/marketplace-shopping-app?case=ce3088f1-5dd2-4a67-8bbc-24ffbb064376&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

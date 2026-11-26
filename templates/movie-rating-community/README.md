@@ -22,7 +22,7 @@ This template suits creators, community builders, and developers prototyping a r
 | Effects | Scroll Animation, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + hand-built SVG + lucide-react |
 | Pages | 6 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ This template suits creators, community builders, and developers prototyping a r
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/movie-rating-community?case=d8c2b3ba-0102-4aef-8833-dfb297b8ccf1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/movie-rating-community/d8c2b3ba-0102-4aef-8833-dfb297b8ccf1/shot_desktop.219ae68ae8.webp" width="100%" alt="Movie Rating Community — Fiction film club, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Fiction film club</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/movie-rating-community?case=d8c2b3ba-0102-4aef-8833-dfb297b8ccf1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/movie-rating-community?case=d8c2b3ba-0102-4aef-8833-dfb297b8ccf1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/movie-rating-community?case=dabf0e65-77b4-4ac5-8a47-1a1c3af69183&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/movie-rating-community/dabf0e65-77b4-4ac5-8a47-1a1c3af69183/shot_desktop.9d21b0f7a8.webp" width="100%" alt="Movie Rating Community — Independent film circle, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Independent film circle</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/movie-rating-community?case=dabf0e65-77b4-4ac5-8a47-1a1c3af69183&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/movie-rating-community?case=dabf0e65-77b4-4ac5-8a47-1a1c3af69183&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@ Product Documentation Website is a guides-first technical documentation template
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 4 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Product Documentation Website is a guides-first technical documentation template
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/product-documentation-website?case=c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/shot_desktop.23d76a594f.webp" width="100%" alt="Product Documentation Website — Event routing SDK docs, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Event routing SDK docs</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/product-documentation-website?case=c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/product-documentation-website?case=c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-documentation-website/dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d/shot_desktop.62b7650244.webp" width="100%" alt="Product Documentation Website — Background job queue SDK, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Background job queue SDK</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

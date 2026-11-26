@@ -22,7 +22,7 @@ It suits personal finance writers, teachers and newsletter authors. To adapt it,
 | Effects | Scroll Animation, Text Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + motion + d3-shape |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,19 +32,19 @@ It suits personal finance writers, teachers and newsletter authors. To adapt it,
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?case=ef527a4d-234b-4c29-923d-6ef9bc1765f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/ef527a4d-234b-4c29-923d-6ef9bc1765f5/shot_desktop.9b56a8e723.webp" width="100%" alt="Compound Interest Interactive Explainer — Personal finance newsletter, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Personal finance newsletter</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?case=ef527a4d-234b-4c29-923d-6ef9bc1765f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?case=ef527a4d-234b-4c29-923d-6ef9bc1765f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?case=3b638669-26ee-49d6-85fd-1d49e9af5c2e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/3b638669-26ee-49d6-85fd-1d49e9af5c2e/shot_desktop.22fe085210.webp" width="100%" alt="Compound Interest Interactive Explainer — Classroom money lab, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Classroom money lab</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?case=3b638669-26ee-49d6-85fd-1d49e9af5c2e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?case=3b638669-26ee-49d6-85fd-1d49e9af5c2e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?case=c55e7688-8b85-44e2-beaf-9053c5d1819f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/compound-interest-interactive-explainer/c55e7688-8b85-44e2-beaf-9053c5d1819f/shot_desktop.fb9e0f36ff.webp" width="100%" alt="Compound Interest Interactive Explainer — Personal finance newsletter, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Personal finance newsletter</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?case=c55e7688-8b85-44e2-beaf-9053c5d1819f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/compound-interest-interactive-explainer?case=c55e7688-8b85-44e2-beaf-9053c5d1819f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

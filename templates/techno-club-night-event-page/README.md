@@ -22,7 +22,7 @@ A strict door-policy card puts age requirements, identification, respectful cond
 | Effects | Text Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ A strict door-policy card puts age requirements, identification, respectful cond
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/2392216c-3d86-46ae-b023-cac51818f016/shot_desktop.6f1719986c.webp" width="100%" alt="Techno Club Night Event Page — Underground techno night, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Underground techno night</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/techno-club-night-event-page/739913b4-fb92-4794-a6b3-064c1ae39bfb/shot_desktop.04387a7a33.webp" width="100%" alt="Techno Club Night Event Page — Warehouse electronic assembly, built by GLM-5.3 in ZCode"></a><br>
 <b>Warehouse electronic assembly</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=739913b4-fb92-4794-a6b3-064c1ae39bfb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

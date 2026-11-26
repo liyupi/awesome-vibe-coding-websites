@@ -16,7 +16,7 @@ A portfolio for a landscape and editorial photographer who does not shoot weddin
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 6 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A portfolio for a landscape and editorial photographer who does not shoot weddin
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/landscape-photographer-portfolio?case=6dde5d1b-7c20-4114-8957-c60908905f8e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/landscape-photographer-portfolio/6dde5d1b-7c20-4114-8957-c60908905f8e/shot_desktop.13f6da26c1.webp" width="100%" alt="Landscape Photographer Portfolio — Landscape photographer, built by GLM-5.4 in ZCode"></a><br>
 <b>Landscape photographer</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/landscape-photographer-portfolio?case=6dde5d1b-7c20-4114-8957-c60908905f8e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/landscape-photographer-portfolio?case=6dde5d1b-7c20-4114-8957-c60908905f8e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/landscape-photographer-portfolio?case=f4a4dd84-ddfb-4f9e-9a01-709064417f31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/landscape-photographer-portfolio/f4a4dd84-ddfb-4f9e-9a01-709064417f31/shot_desktop.79799291c0.webp" width="100%" alt="Landscape Photographer Portfolio — Desert and night-sky photographer, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Desert and night-sky photographer</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/landscape-photographer-portfolio?case=f4a4dd84-ddfb-4f9e-9a01-709064417f31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/landscape-photographer-portfolio?case=f4a4dd84-ddfb-4f9e-9a01-709064417f31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

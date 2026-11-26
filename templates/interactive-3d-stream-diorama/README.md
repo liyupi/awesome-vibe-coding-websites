@@ -22,7 +22,7 @@ All terrain, stones, grasses, water, textures, and audio are generated locally w
 | Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript 5 + Vanilla CSS + GLSL shaders + three + lucide |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ All terrain, stones, grasses, water, textures, and audio are generated locally w
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?case=90bc9ccc-83e1-4d5b-8a38-5a5a30a7103f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/interactive-3d-stream-diorama/90bc9ccc-83e1-4d5b-8a38-5a5a30a7103f/shot_desktop.fe90e1314d.webp" width="100%" alt="Interactive 3D Stream Diorama — Woodland stream study, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Woodland stream study</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?case=90bc9ccc-83e1-4d5b-8a38-5a5a30a7103f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?case=90bc9ccc-83e1-4d5b-8a38-5a5a30a7103f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?case=051b845c-df43-419b-b8d0-c477ff184afc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/interactive-3d-stream-diorama/051b845c-df43-419b-b8d0-c477ff184afc/shot_desktop.8e8c5c568b.webp" width="100%" alt="Interactive 3D Stream Diorama — Highland brook study, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Highland brook study</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?case=051b845c-df43-419b-b8d0-c477ff184afc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?case=051b845c-df43-419b-b8d0-c477ff184afc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

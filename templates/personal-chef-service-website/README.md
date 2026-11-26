@@ -22,7 +22,7 @@ Swap the chef, city, cuisine, and promise to tune the voice; menus, tiers, steps
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Swap the chef, city, cuisine, and promise to tune the voice; menus, tiers, steps
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website — Mediterranean private chef (Maren Holt), built by GLM-5.3 in ZCode"></a><br>
 <b>Mediterranean private chef (Maren Holt)</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-chef-service-website?case=bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-chef-service-website/bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f/shot_desktop.6c45ba7f69.webp" width="100%" alt="Personal Chef Service Website — Kaiseki-style private chef, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Kaiseki-style private chef</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/personal-chef-service-website?case=bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/personal-chef-service-website?case=bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

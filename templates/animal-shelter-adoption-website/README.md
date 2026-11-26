@@ -16,7 +16,7 @@ A two-page website for an animal shelter: a home page with the mission over a su
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A two-page website for an animal shelter: a home page with the mission over a su
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=bc973b02-01c5-424f-9fca-29ab7fb8f54b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animal-shelter-adoption-website/bc973b02-01c5-424f-9fca-29ab7fb8f54b/shot_desktop.dd33bdcdf4.webp" width="100%" alt="Animal Shelter Adoption Website — No-kill shelter adoption, built by GLM-5.3 in ZCode"></a><br>
 <b>No-kill shelter adoption</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=bc973b02-01c5-424f-9fca-29ab7fb8f54b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=bc973b02-01c5-424f-9fca-29ab7fb8f54b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=3cffce88-073c-469e-9e30-933bbd9f251a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animal-shelter-adoption-website/3cffce88-073c-469e-9e30-933bbd9f251a/shot_desktop.fa45e86a38.webp" width="100%" alt="Animal Shelter Adoption Website — Cat rescue adoption, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Cat rescue adoption</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=3cffce88-073c-469e-9e30-933bbd9f251a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=3cffce88-073c-469e-9e30-933bbd9f251a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

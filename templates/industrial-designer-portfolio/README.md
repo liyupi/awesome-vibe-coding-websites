@@ -16,7 +16,7 @@ A portfolio for an industrial designer of household objects, built around proces
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + three + motion + lucide-react |
 | Pages | 2 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/industrial-designer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A portfolio for an industrial designer of household objects, built around proces
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/industrial-designer-portfolio?case=7c609dd9-69a9-41c8-b3cf-febd273ce95b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-designer-portfolio/7c609dd9-69a9-41c8-b3cf-febd273ce95b/shot_desktop.281397a0cc.webp" width="100%" alt="Industrial Designer Portfolio — Copenhagen industrial designer, built by GLM-5.4 in ZCode"></a><br>
 <b>Copenhagen industrial designer</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/industrial-designer-portfolio?case=7c609dd9-69a9-41c8-b3cf-febd273ce95b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/industrial-designer-portfolio?case=7c609dd9-69a9-41c8-b3cf-febd273ce95b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/industrial-designer-portfolio?case=443994c7-265b-44cb-b49c-a2a4bb4e8015&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-designer-portfolio/443994c7-265b-44cb-b49c-a2a4bb4e8015/shot_desktop.0039819bcd.webp" width="100%" alt="Industrial Designer Portfolio — Eindhoven product designer, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Eindhoven product designer</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/industrial-designer-portfolio?case=443994c7-265b-44cb-b49c-a2a4bb4e8015&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/industrial-designer-portfolio?case=443994c7-265b-44cb-b49c-a2a4bb4e8015&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -22,7 +22,7 @@ Change the product name, owner, budget context, currency, and sample month throu
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4.1 + motion + lucide-react |
 | Pages | 3 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Change the product name, owner, budget context, currency, and sample month throu
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-budget-dashboard?case=32da5ac6-1443-4006-82fb-157c5b37bb13&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-budget-dashboard/32da5ac6-1443-4006-82fb-157c5b37bb13/shot_desktop.3f483f59c3.webp" width="100%" alt="Personal Budget Dashboard — Two-income household, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Two-income household</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/personal-budget-dashboard?case=32da5ac6-1443-4006-82fb-157c5b37bb13&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/personal-budget-dashboard?case=32da5ac6-1443-4006-82fb-157c5b37bb13&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-budget-dashboard?case=6e63d01a-4fd8-42a9-a2d2-7aaa5491a74d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-budget-dashboard/6e63d01a-4fd8-42a9-a2d2-7aaa5491a74d/shot_desktop.03f27fbc8b.webp" width="100%" alt="Personal Budget Dashboard — Freelance illustration budget, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Freelance illustration budget</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/personal-budget-dashboard?case=6e63d01a-4fd8-42a9-a2d2-7aaa5491a74d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/personal-budget-dashboard?case=6e63d01a-4fd8-42a9-a2d2-7aaa5491a74d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -22,7 +22,7 @@ The default content follows an independent design studio coordinating a notebook
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ The default content follows an independent design studio coordinating a notebook
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/team-chat-app-interface?case=6f8ba19b-242c-4263-8f67-b6780b46fe38&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/team-chat-app-interface/6f8ba19b-242c-4263-8f67-b6780b46fe38/shot_desktop.831034aedc.webp" width="100%" alt="Team Chat App Interface — Design studio workspace, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Design studio workspace</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/team-chat-app-interface?case=6f8ba19b-242c-4263-8f67-b6780b46fe38&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/team-chat-app-interface?case=6f8ba19b-242c-4263-8f67-b6780b46fe38&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/team-chat-app-interface?case=06c96993-2d52-409f-a060-1e85ee90d6f1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/team-chat-app-interface/06c96993-2d52-409f-a060-1e85ee90d6f1/shot_desktop.51a0d48714.webp" width="100%" alt="Team Chat App Interface — Bakery team workspace, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Bakery team workspace</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/team-chat-app-interface?case=06c96993-2d52-409f-a060-1e85ee90d6f1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/team-chat-app-interface?case=06c96993-2d52-409f-a060-1e85ee90d6f1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

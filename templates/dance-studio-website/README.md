@@ -24,7 +24,7 @@ To adapt it, change the studio name, city, dance styles, audience and recital da
 | Effects | Text Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -34,12 +34,12 @@ To adapt it, change the studio name, city, dance styles, audience and recital da
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dance-studio-website?case=c35c18f8-548e-436f-b6b3-fd7bbc152715&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/dance-studio-website/c35c18f8-548e-436f-b6b3-fd7bbc152715/shot_desktop.ecf31bec48.webp" width="100%" alt="Dance Studio Website — Neighborhood dance studio, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Neighborhood dance studio</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/dance-studio-website?case=c35c18f8-548e-436f-b6b3-fd7bbc152715&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/dance-studio-website?case=c35c18f8-548e-436f-b6b3-fd7bbc152715&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dance-studio-website?case=23d6d009-9d81-486b-ba29-ee7a32de3b74&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/dance-studio-website/23d6d009-9d81-486b-ba29-ee7a32de3b74/shot_desktop.2ed26b7759.webp" width="100%" alt="Dance Studio Website — Community movement studio, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Community movement studio</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/dance-studio-website?case=23d6d009-9d81-486b-ba29-ee7a32de3b74&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/dance-studio-website?case=23d6d009-9d81-486b-ba29-ee7a32de3b74&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

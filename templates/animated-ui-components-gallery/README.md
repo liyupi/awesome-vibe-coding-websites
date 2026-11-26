@@ -16,7 +16,7 @@ A precision dark gallery of 30 original animated UI components engineered for la
 | Effects | Text Animation, Cursor Effects, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A precision dark gallery of 30 original animated UI components engineered for la
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=9ee24e01-d08e-4735-a4eb-b25fb5a74537&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/9ee24e01-d08e-4735-a4eb-b25fb5a74537/shot_desktop.f39de8d5d8.webp" width="100%" alt="Animated UI Components Gallery — KineticKit (Electric Violet #7C5CFF), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>KineticKit (Electric Violet #7C5CFF)</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=9ee24e01-d08e-4735-a4eb-b25fb5a74537&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=9ee24e01-d08e-4735-a4eb-b25fb5a74537&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=70945929-420e-48dc-9370-27648869eb4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/70945929-420e-48dc-9370-27648869eb4b/shot_desktop.cc50497c70.webp" width="100%" alt="Animated UI Components Gallery — MotionForge (Cyber Cyan #00D4FF), built by GPT-6.2 Sol in Codex"></a><br>
 <b>MotionForge (Cyber Cyan #00D4FF)</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=70945929-420e-48dc-9370-27648869eb4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=70945929-420e-48dc-9370-27648869eb4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

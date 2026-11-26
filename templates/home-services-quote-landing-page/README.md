@@ -16,7 +16,7 @@ A single-page lead-generation site for a plumbing and heating company: a sticky 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,7 +26,7 @@ A single-page lead-generation site for a plumbing and heating company: a sticky 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/home-services-quote-landing-page?case=d30dc2a6-6969-4891-a8cf-6774e080dc28&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/home-services-quote-landing-page/d30dc2a6-6969-4891-a8cf-6774e080dc28/shot_desktop.0a8c246a63.webp" width="100%" alt="Home Services Quote Landing Page — Plumbing crew in Columbus, built by GLM-5.3 in ZCode"></a><br>
 <b>Plumbing crew in Columbus</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/home-services-quote-landing-page?case=d30dc2a6-6969-4891-a8cf-6774e080dc28&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/home-services-quote-landing-page?case=d30dc2a6-6969-4891-a8cf-6774e080dc28&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

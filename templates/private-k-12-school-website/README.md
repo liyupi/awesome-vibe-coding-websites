@@ -16,7 +16,7 @@ Private K-12 School Website is a single-page site for an independent day school,
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Private K-12 School Website is a single-page site for an independent day school,
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/private-k-12-school-website/656a8501-c697-48d6-8801-9ad021d3196e/shot_desktop.96f80f5a2f.webp" width="100%" alt="Private K-12 School Website — K-12 school, Windmere, built by GLM-5.3 in ZCode"></a><br>
 <b>K-12 school, Windmere</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/private-k-12-school-website?case=656a8501-c697-48d6-8801-9ad021d3196e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/private-k-12-school-website?case=bb51b48e-8b9b-40ac-9db4-97dc2d0cecec&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/private-k-12-school-website/bb51b48e-8b9b-40ac-9db4-97dc2d0cecec/shot_desktop.798b685623.webp" width="100%" alt="Private K-12 School Website — K-12 school, Kestrel Falls, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>K-12 school, Kestrel Falls</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/private-k-12-school-website?case=bb51b48e-8b9b-40ac-9db4-97dc2d0cecec&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/private-k-12-school-website?case=bb51b48e-8b9b-40ac-9db4-97dc2d0cecec&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

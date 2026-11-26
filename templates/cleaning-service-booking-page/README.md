@@ -16,7 +16,7 @@ A single-page booking site for a home cleaning service: the calculator is the ce
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page booking site for a home cleaning service: the calculator is the ce
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=558aa9e8-f7a4-4f02-baa2-6fe98feb2d66&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cleaning-service-booking-page/558aa9e8-f7a4-4f02-baa2-6fe98feb2d66/shot_desktop.1ce3ff4711.webp" width="100%" alt="Cleaning Service Booking Page — Home cleaning crew, built by GLM-5.3 in ZCode"></a><br>
 <b>Home cleaning crew</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=558aa9e8-f7a4-4f02-baa2-6fe98feb2d66&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=558aa9e8-f7a4-4f02-baa2-6fe98feb2d66&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=c38f583c-1425-4fdb-a433-122a51a6a5b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cleaning-service-booking-page/c38f583c-1425-4fdb-a433-122a51a6a5b2/shot_desktop.a29c70f6a7.webp" width="100%" alt="Cleaning Service Booking Page — Office cleaning crew, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Office cleaning crew</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=c38f583c-1425-4fdb-a433-122a51a6a5b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=c38f583c-1425-4fdb-a433-122a51a6a5b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -20,7 +20,7 @@ Developers and indie hackers can change six variables: squadron, call sign, sect
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + TypeScript + three.js + Tailwind CSS 3.4 + three |
 | Pages | 1 |
-| Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="13" height="13" alt=""></picture> [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,12 +30,12 @@ Developers and indie hackers can change six variables: squadron, call sign, sect
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=7041fb7e-09fa-4573-91c8-4fb8666e18d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/space-dogfight-arcade-game/7041fb7e-09fa-4573-91c8-4fb8666e18d7/shot_desktop.c9b20b9cd3.webp" width="100%" alt="Space Dogfight Arcade Game — Cinder Patrol squadron, built by Grok 4.7 in Grok Build"></a><br>
 <b>Cinder Patrol squadron</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=7041fb7e-09fa-4573-91c8-4fb8666e18d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=7041fb7e-09fa-4573-91c8-4fb8666e18d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=16f8e337-cb91-4705-8c22-69531b15aff5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/space-dogfight-arcade-game/16f8e337-cb91-4705-8c22-69531b15aff5/shot_desktop.16abddf626.webp" width="100%" alt="Space Dogfight Arcade Game — Saltglass Wing patrol, built by Grok 4.7 in Grok Build"></a><br>
 <b>Saltglass Wing patrol</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=16f8e337-cb91-4705-8c22-69531b15aff5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=16f8e337-cb91-4705-8c22-69531b15aff5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

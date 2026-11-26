@@ -22,7 +22,7 @@ To adapt it, change the brand, concept, neighbourhood, season, phone number and 
 | Effects | Scroll Animation, Text Animation, Parallax |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + lenis + lucide |
 | Pages | 3 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt it, change the brand, concept, neighbourhood, season, phone number and 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/editorial-restaurant-website?case=f00ec6bf-1927-4e03-af39-033d97a6118e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/larder/f00ec6bf-1927-4e03-af39-033d97a6118e/shot_desktop.d0d5c59e88.webp" width="100%" alt="Editorial Restaurant Website — Small-plates restaurant, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Small-plates restaurant</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/editorial-restaurant-website?case=f00ec6bf-1927-4e03-af39-033d97a6118e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/editorial-restaurant-website?case=f00ec6bf-1927-4e03-af39-033d97a6118e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/editorial-restaurant-website?case=003ec732-078e-4b64-9f50-0d117b613dc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/larder/003ec732-078e-4b64-9f50-0d117b613dc4/shot_desktop.38c1e6a3f7.webp" width="100%" alt="Editorial Restaurant Website — Wood-fired bakery, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Wood-fired bakery</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/editorial-restaurant-website?case=003ec732-078e-4b64-9f50-0d117b613dc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/editorial-restaurant-website?case=003ec732-078e-4b64-9f50-0d117b613dc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

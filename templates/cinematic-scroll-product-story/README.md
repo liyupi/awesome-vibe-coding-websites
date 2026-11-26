@@ -16,7 +16,7 @@ This is a single-page launch site for a physical product that plays like a short
 | Effects | Scroll Animation, Text Animation, Parallax |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + gsap + lenis + lucide |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/cinematic-scroll-product-story?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,19 +26,19 @@ This is a single-page launch site for a physical product that plays like a short
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cinematic-scroll-product-story?case=9110cd62-822e-41e3-92be-28b0a7bf1c40&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cinematic-scroll-product-story/9110cd62-822e-41e3-92be-28b0a7bf1c40/shot_desktop.4b7a5ce4d0.webp" width="100%" alt="Cinematic Scroll Product Story — Electric commuter bike, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Electric commuter bike</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/cinematic-scroll-product-story?case=9110cd62-822e-41e3-92be-28b0a7bf1c40&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/cinematic-scroll-product-story?case=9110cd62-822e-41e3-92be-28b0a7bf1c40&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cinematic-scroll-product-story?case=d555eec4-2901-4984-b745-58245aa321d2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cinematic-scroll-product-story/d555eec4-2901-4984-b745-58245aa321d2/shot_desktop.78b44e70bf.webp" width="100%" alt="Cinematic Scroll Product Story — Electric gravel bike, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Electric gravel bike</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/cinematic-scroll-product-story?case=d555eec4-2901-4984-b745-58245aa321d2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/cinematic-scroll-product-story?case=d555eec4-2901-4984-b745-58245aa321d2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cinematic-scroll-product-story?case=194cd2b1-e37e-4f8f-a3bb-c60a170acaa9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cinematic-scroll-product-story/194cd2b1-e37e-4f8f-a3bb-c60a170acaa9/shot_desktop.dc560f6be9.webp" width="100%" alt="Cinematic Scroll Product Story — Electric commuter bike, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Electric commuter bike</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/cinematic-scroll-product-story?case=194cd2b1-e37e-4f8f-a3bb-c60a170acaa9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/cinematic-scroll-product-story?case=194cd2b1-e37e-4f8f-a3bb-c60a170acaa9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

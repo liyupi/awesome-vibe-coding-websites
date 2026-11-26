@@ -16,7 +16,7 @@ This is a four-page portfolio for a motion designer, type animator or title desi
 | Effects | Scroll Animation, Text Animation, Cursor Effects |
 | Stack | Vite 5 + vanilla TypeScript, multi-page + Tailwind CSS 3.4 + gsap + lenis + lucide |
 | Pages | 4 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/kinetic-typography-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,19 +26,19 @@ This is a four-page portfolio for a motion designer, type animator or title desi
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?case=9ef4ff22-e500-40af-870d-2ca57afb7a1d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/kinetic-typography-portfolio/9ef4ff22-e500-40af-870d-2ca57afb7a1d/shot_desktop.5e0b75f616.webp" width="100%" alt="Kinetic Typography Portfolio — Motion designer, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Motion designer</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?case=9ef4ff22-e500-40af-870d-2ca57afb7a1d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?case=9ef4ff22-e500-40af-870d-2ca57afb7a1d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?case=ea4661ec-3a34-4021-9c13-d929ecec85ea&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/kinetic-typography-portfolio/ea4661ec-3a34-4021-9c13-d929ecec85ea/shot_desktop.8bd8fef2b7.webp" width="100%" alt="Kinetic Typography Portfolio — Film title designer, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Film title designer</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?case=ea4661ec-3a34-4021-9c13-d929ecec85ea&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?case=ea4661ec-3a34-4021-9c13-d929ecec85ea&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?case=cffdb087-e2ec-4d4c-81b2-04d9960336fc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/kinetic-typography-portfolio/cffdb087-e2ec-4d4c-81b2-04d9960336fc/shot_desktop.24e9a78300.webp" width="100%" alt="Kinetic Typography Portfolio — Motion designer, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Motion designer</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?case=cffdb087-e2ec-4d4c-81b2-04d9960336fc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/kinetic-typography-portfolio?case=cffdb087-e2ec-4d4c-81b2-04d9960336fc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

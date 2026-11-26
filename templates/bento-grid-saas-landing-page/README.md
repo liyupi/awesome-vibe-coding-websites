@@ -22,7 +22,7 @@ To adapt it, change the brand, product, audience, headline and main call to acti
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,19 +32,19 @@ To adapt it, change the brand, product, audience, headline and main call to acti
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=338c0197-e778-41ef-b62b-8633e8214053&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/oatmeal/338c0197-e778-41ef-b62b-8633e8214053/shot_desktop.1081a0920f.webp" width="100%" alt="Bento Grid SaaS Landing Page — Team analytics tool, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Team analytics tool</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=338c0197-e778-41ef-b62b-8633e8214053&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=338c0197-e778-41ef-b62b-8633e8214053&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=97c3aaad-f62b-4165-b3ef-7713ff21a4f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/oatmeal/97c3aaad-f62b-4165-b3ef-7713ff21a4f5/shot_desktop.fc5894f1e7.webp" width="100%" alt="Bento Grid SaaS Landing Page — Small-shop cash-flow app, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Small-shop cash-flow app</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=97c3aaad-f62b-4165-b3ef-7713ff21a4f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=97c3aaad-f62b-4165-b3ef-7713ff21a4f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/bento-grid-saas-landing-page/83055d14-8919-423e-a3c8-8dbca3b1f008/shot_desktop.7cdfe15e49.webp" width="100%" alt="Bento Grid SaaS Landing Page — Release analytics tool, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Release analytics tool</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

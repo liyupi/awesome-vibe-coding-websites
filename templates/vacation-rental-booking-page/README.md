@@ -16,7 +16,7 @@ A single-page website for one vacation rental: a dusk hero of the cabin with the
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page website for one vacation rental: a dusk hero of the cabin with the
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=b9852515-6c37-4f2d-b416-19ea62ce047e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/vacation-rental-booking-page/b9852515-6c37-4f2d-b416-19ea62ce047e/shot_desktop.72ca70a964.webp" width="100%" alt="Vacation Rental Booking Page — Cabin in the Catskills, built by GLM-5.3 in ZCode"></a><br>
 <b>Cabin in the Catskills</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=b9852515-6c37-4f2d-b416-19ea62ce047e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=b9852515-6c37-4f2d-b416-19ea62ce047e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=96fe5090-cf70-41e3-ab86-52f4467b8cc8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/vacation-rental-booking-page/96fe5090-cf70-41e3-ab86-52f4467b8cc8/shot_desktop.02f84e8a7e.webp" width="100%" alt="Vacation Rental Booking Page — House in the Blue Ridge, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>House in the Blue Ridge</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=96fe5090-cf70-41e3-ab86-52f4467b8cc8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=96fe5090-cf70-41e3-ab86-52f4467b8cc8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

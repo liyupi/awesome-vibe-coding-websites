@@ -20,7 +20,7 @@ To adapt it, change the brand, the one-line product, the audience and the list o
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + gsap + lenis + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/ai-agent-startup-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,19 +30,19 @@ To adapt it, change the brand, the one-line product, the audience and the list o
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=731bb682-2ef1-44aa-966c-83d9eb71690b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/731bb682-2ef1-44aa-966c-83d9eb71690b/shot_desktop.d069d29e32.webp" width="100%" alt="AI Agent Startup Landing Page — Support ops agents, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Support ops agents</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=731bb682-2ef1-44aa-966c-83d9eb71690b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=731bb682-2ef1-44aa-966c-83d9eb71690b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=2e6396f1-38a0-49a9-b648-8ccc1197f2f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/2e6396f1-38a0-49a9-b648-8ccc1197f2f5/shot_desktop.4c0ac456ba.webp" width="100%" alt="AI Agent Startup Landing Page — Finance close agents, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Finance close agents</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=2e6396f1-38a0-49a9-b648-8ccc1197f2f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=2e6396f1-38a0-49a9-b648-8ccc1197f2f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=dbf9dd66-de2b-406c-af7a-ec5e50e40bb1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/dbf9dd66-de2b-406c-af7a-ec5e50e40bb1/shot_desktop.386aeeb3ae.webp" width="100%" alt="AI Agent Startup Landing Page — Support ops agents, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Support ops agents</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=dbf9dd66-de2b-406c-af7a-ec5e50e40bb1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=dbf9dd66-de2b-406c-af7a-ec5e50e40bb1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -22,7 +22,7 @@ Adapt the shop by changing four variables for the brand, product focus, audience
 | Effects | Scroll Animation, Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript 5 + Tailwind CSS 4 + lucide-react |
 | Pages | 3 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Adapt the shop by changing four variables for the brand, product focus, audience
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/digital-download-shop?case=22112d9f-30b1-409e-b2b6-f3b6df106a45&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/digital-download-shop/22112d9f-30b1-409e-b2b6-f3b6df106a45/shot_desktop.bea37ab228.webp" width="100%" alt="Digital Download Shop — Design resource shop, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Design resource shop</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/digital-download-shop?case=22112d9f-30b1-409e-b2b6-f3b6df106a45&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/digital-download-shop?case=22112d9f-30b1-409e-b2b6-f3b6df106a45&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/digital-download-shop?case=91fa76a4-f425-47d2-b842-a09ac24369e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/digital-download-shop/91fa76a4-f425-47d2-b842-a09ac24369e4/shot_desktop.843d2cfceb.webp" width="100%" alt="Digital Download Shop — Audio resource shop, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Audio resource shop</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/digital-download-shop?case=91fa76a4-f425-47d2-b842-a09ac24369e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/digital-download-shop?case=91fa76a4-f425-47d2-b842-a09ac24369e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

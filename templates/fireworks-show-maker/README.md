@@ -22,7 +22,7 @@ The default content follows a fictional harbor celebration. Variables can change
 | Effects | Generative / Canvas, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ The default content follows a fictional harbor celebration. Variables can change
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fireworks-show-maker?case=dc008a9a-7ae1-4a33-ae48-819de7e743e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fireworks-show-maker/dc008a9a-7ae1-4a33-ae48-819de7e743e8/shot_desktop.39d36b7dc2.webp" width="100%" alt="Fireworks Show Maker — Harbor celebration, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Harbor celebration</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/fireworks-show-maker?case=dc008a9a-7ae1-4a33-ae48-819de7e743e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/fireworks-show-maker?case=dc008a9a-7ae1-4a33-ae48-819de7e743e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fireworks-show-maker?case=7925ddcf-6884-4b63-89a0-623ef3818dee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fireworks-show-maker/7925ddcf-6884-4b63-89a0-623ef3818dee/shot_desktop.04b6b54455.webp" width="100%" alt="Fireworks Show Maker — Lakeside solstice, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Lakeside solstice</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/fireworks-show-maker?case=7925ddcf-6884-4b63-89a0-623ef3818dee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/fireworks-show-maker?case=7925ddcf-6884-4b63-89a0-623ef3818dee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

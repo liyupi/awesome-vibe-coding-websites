@@ -2,7 +2,7 @@
 
 > Edit bakery sales, trace ingredient costs and chart a selected range in a working three-sheet workbook.
 
-<a href="https://vibefather.ai/templates/spreadsheet-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/spreadsheet-web-app/967c200e-e802-4f7a-91ad-e44f5c98b64e/webp.a10ebc3221.webp" width="100%" alt="Spreadsheet Web App — Editable Bakery Spreadsheet Workbook built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/spreadsheet-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/spreadsheet-web-app/34950370-0057-4e74-ae3b-25016cc752cd/webp.c23f27a281.webp" width="100%" alt="Spreadsheet Web App — Editable Bakery Spreadsheet Workbook built by GPT-6.2 Astra and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/spreadsheet-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -20,7 +20,7 @@ The starting file also works for a shop selling other products. Replace the bake
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite + React + CSS |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Astra](../../models/gpt-6-2-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/spreadsheet-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -28,9 +28,14 @@ The starting file also works for a shop selling other products. Replace the bake
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/spreadsheet-web-app?case=34950370-0057-4e74-ae3b-25016cc752cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/spreadsheet-web-app/34950370-0057-4e74-ae3b-25016cc752cd/shot_desktop.f27ea41a0d.webp" width="100%" alt="Spreadsheet Web App — Small bakery books, built by GPT-6.2 Astra in Codex"></a><br>
+<b>Small bakery books</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Astra in Codex · <a href="https://vibefather.ai/templates/spreadsheet-web-app?case=34950370-0057-4e74-ae3b-25016cc752cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/spreadsheet-web-app?case=967c200e-e802-4f7a-91ad-e44f5c98b64e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/spreadsheet-web-app/967c200e-e802-4f7a-91ad-e44f5c98b64e/shot_desktop.7fedddb82a.webp" width="100%" alt="Spreadsheet Web App — Ceramic studio books, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Ceramic studio books</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/spreadsheet-web-app?case=967c200e-e802-4f7a-91ad-e44f5c98b64e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/spreadsheet-web-app?case=967c200e-e802-4f7a-91ad-e44f5c98b64e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -53,33 +58,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A coffee roaster tracking green bean costs: set BRAND and WORKBOOK to the roastery, replace the bakery lines in Sales with your roast profiles and link each bag price to the costs sheet.
-- A market stall selling preserves: set PRODUCT to your best-selling jar, swap the twelve sample sales lines for your range, and flag any jar whose gross margin drops below your threshold.
-- A small ceramics studio: rename the sheets for glazes and firings, bring in a quoted CSV of kiln batches, and chart revenue by piece on the summary tab.
-- A bookkeeper building a client tool: keep the three-sheet structure, set BRAND to the client's business, and export each finished sheet to CSV for their accountant.
+- A ceramic studio: set BRAND to the studio name, replace the bakery product lines with glazes and kiln firings, and point the costs sheet at clay and fuel.
+- A market stall: use PRODUCT for the best-selling item, import a quoted CSV of weekly sales, and export the summary as CSV for the accountant.
+- A coffee roaster: swap the bakery lines for bean blends, flag low-margin bags above a threshold, and chart revenue by roast in the summary tab.
+- A freelance bookkeeper: set WORKBOOK to each client's books, keep the three sheets, and hand over a CSV export at month end.
 
 ## FAQ
 
-### What can I actually do inside the Spreadsheet Web App template?
-The Spreadsheet Web App template opens a working three-sheet workbook: Sales, costs and a summary. You can change the number of loaves sold, watch revenue and gross margin update on the summary, freeze a header, flag figures above a threshold, and select a range to turn into a line, bar or pie chart. The formula bar suggests functions as you type, and formula errors stay visible where they occur.
+### How do I change the bakery name and featured product in the Spreadsheet Web App template?
+The Spreadsheet Web App template uses three variables. Set BRAND to your business name, which appears in the rail as the workbook owner. Set WORKBOOK to your document heading, and PRODUCT to the featured item that opens as the first line in Sales. The copy is written for the defaults, so rewrite any headline or label that mentions the bakery.
 
-### How do I turn the bakery workbook into a spreadsheet for my own shop or product?
-Set BRAND to your shop name, WORKBOOK to the title you want on the document, and PRODUCT to your featured item, which becomes the first line in Sales. Then rewrite the headlines, labels and sample figures for your products, bring in a quoted CSV of your own rows, and choose a number format for each column. The Sales, costs and summary tabs keep inputs and derived figures together.
+### Can I use the Spreadsheet Web App template for a shop that does not sell bread?
+Yes. The Spreadsheet Web App template starts with bakery sales, but the three sheets work for any small shop tracking products, costs and margins. Replace BRAND and PRODUCT, bring in a quoted CSV for your own product lines, and choose a number format for each column. The Sales, costs and summary tabs keep your inputs and derived figures together.
 
-### Does the Spreadsheet Web App save my edits between visits, and can I export a sheet?
-Workbook edits stay in the browser between visits, so the numbers you type are still there when you come back to the same device. CSV export gives the owner a portable copy of a sheet to open elsewhere. Local persistence and file exchange sit behind a single adapter, so you can point them at another storage option if you need to.
+### Does the Spreadsheet Web App template save my edits when I close the browser?
+Workbook edits in the Spreadsheet Web App template stay in the browser between visits, so the figures you change are still there when you return on the same device. CSV export gives the owner a portable copy of a sheet for a spreadsheet program or a bookkeeper. The template has no backend, so nothing is stored on a server.
 
-### How do I follow a total back to the quantity and price behind it?
-The Spreadsheet Web App template keeps the current address and formula in sight while you move through the grid, and a green outline marks the selected cell. Open the summary, click a revenue or margin figure, and the formula bar shows the references behind it, so you can step back to the sales quantity and ingredient price that produced the number.
+### Can I make charts from a selected range in the Spreadsheet Web App template?
+Yes. Select a range in the Spreadsheet Web App template and turn it into a line, bar or pie chart. A butter-colored chart above the ribbon shows which products contributed the most revenue. You can also freeze a header before scrolling and flag figures above a threshold, so a total that looks wrong is easy to spot.
 
-### Can I use the Spreadsheet Web App template for client work?
-Commercial and client use of the Spreadsheet Web App template needs Pro. Pro templates show the brief, stack and variables publicly and the full prompt to Pro members, and the source code of the demos comes with Pro. Free template prompts and every DESIGN.md are licensed for personal, non-commercial use only.
+### What do I need to change first in the Spreadsheet Web App template before showing it to a client?
+Start with the variables in the Spreadsheet Web App template: BRAND for the owner name in the rail, WORKBOOK for the document heading and PRODUCT for the first Sales line. Then replace the twelve sample product lines with the client's own items and check that the costs sheet feeds the summary correctly. Finally, review every headline and label that still mentions the bakery.
 
 ### How do I build a spreadsheet web app with AI?
-Copy the full prompt (Pro) from this page or run npx vibefather add spreadsheet-web-app, replace [BRAND], [WORKBOOK] and [PRODUCT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the full prompt (Pro) from this page or run npx vibefather add spreadsheet-web-app, replace [BRAND], [WORKBOOK] and [PRODUCT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Spreadsheet Web App demo?
-The Ceramic studio books case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Small bakery books case was built by GPT-6.2 Astra in Codex; the Ceramic studio books case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Spreadsheet Web App template use?
 Spreadsheet Web App is a single-page site built with React, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

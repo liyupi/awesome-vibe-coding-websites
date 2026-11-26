@@ -16,7 +16,7 @@ A two-page website for a small litigation and employment law firm, built to read
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A two-page website for a small litigation and employment law firm, built to read
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/editorial-law-firm-website?case=1e98ec9c-c2c2-4fbc-9355-ca6e2a3c5877&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/editorial-law-firm-website/1e98ec9c-c2c2-4fbc-9355-ca6e2a3c5877/shot_desktop.dfb96e8ee8.webp" width="100%" alt="Editorial Law Firm Website — Employment law firm, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Employment law firm</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/editorial-law-firm-website?case=1e98ec9c-c2c2-4fbc-9355-ca6e2a3c5877&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/editorial-law-firm-website?case=1e98ec9c-c2c2-4fbc-9355-ca6e2a3c5877&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/editorial-law-firm-website?case=0f3b0c66-62c5-417b-8e5a-b292c751e382&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/editorial-law-firm-website/0f3b0c66-62c5-417b-8e5a-b292c751e382/shot_desktop.1ac22a3324.webp" width="100%" alt="Editorial Law Firm Website — Immigration &amp; family practice, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>Immigration &amp; family practice</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/editorial-law-firm-website?case=0f3b0c66-62c5-417b-8e5a-b292c751e382&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/editorial-law-firm-website?case=0f3b0c66-62c5-417b-8e5a-b292c751e382&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

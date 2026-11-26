@@ -22,7 +22,7 @@ The template suits developer tools, prompt libraries, UI kit stores, component c
 | Effects | Scroll Animation, Marquee |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ The template suits developer tools, prompt libraries, UI kit stores, component c
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/template-library-landing-page?case=6d74b1e8-61ef-4995-9312-cc976ab35452&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/lumen-index/6d74b1e8-61ef-4995-9312-cc976ab35452/shot_desktop.bb2672d0d2.webp" width="100%" alt="Template Library Landing Page — Website template library, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Website template library</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/template-library-landing-page?case=6d74b1e8-61ef-4995-9312-cc976ab35452&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/template-library-landing-page?case=6d74b1e8-61ef-4995-9312-cc976ab35452&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/template-library-landing-page?case=79918b95-184f-47c6-a03a-b9600b0821f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/lumen-index/79918b95-184f-47c6-a03a-b9600b0821f3/shot_desktop.5801c70d6a.webp" width="100%" alt="Template Library Landing Page — Icon and illustration library, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Icon and illustration library</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/template-library-landing-page?case=79918b95-184f-47c6-a03a-b9600b0821f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/template-library-landing-page?case=79918b95-184f-47c6-a03a-b9600b0821f3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -22,7 +22,7 @@ All text and track metadata live in one editable module. The alternate example c
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/ai-music-generator-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ All text and track metadata live in one editable module. The alternate example c
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?case=15acfef5-dfae-4eae-846f-b3f9fd1188b5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/15acfef5-dfae-4eae-846f-b3f9fd1188b5/shot_desktop.613ab5367e.webp" width="100%" alt="AI Music Generator Landing Page — Video music sketchpad, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Video music sketchpad</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?case=15acfef5-dfae-4eae-846f-b3f9fd1188b5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?case=15acfef5-dfae-4eae-846f-b3f9fd1188b5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?case=27b55c22-4026-4b7f-83ab-936e62f10375&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-music-generator-landing-page/27b55c22-4026-4b7f-83ab-936e62f10375/shot_desktop.b495bed8d2.webp" width="100%" alt="AI Music Generator Landing Page — Game soundtrack idea desk, built by GLM-5.3 in ZCode"></a><br>
 <b>Game soundtrack idea desk</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?case=27b55c22-4026-4b7f-83ab-936e62f10375&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?case=27b55c22-4026-4b7f-83ab-936e62f10375&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

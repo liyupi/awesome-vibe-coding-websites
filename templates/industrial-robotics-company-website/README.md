@@ -20,7 +20,7 @@ It suits hardware founders, automation integrators and anyone selling capital eq
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,19 +30,19 @@ It suits hardware founders, automation integrators and anyone selling capital eq
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=a3172df2-73da-42ed-9fd9-50d7653132a8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-robotics-company-website/a3172df2-73da-42ed-9fd9-50d7653132a8/shot_desktop.d1a58e8deb.webp" width="100%" alt="Industrial Robotics Company Website — Industrial robot arms, built by GLM-5.3 in ZCode"></a><br>
 <b>Industrial robot arms</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=a3172df2-73da-42ed-9fd9-50d7653132a8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=a3172df2-73da-42ed-9fd9-50d7653132a8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=0c630867-d1b3-4ce8-81dc-c293c59a62f7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-robotics-company-website/0c630867-d1b3-4ce8-81dc-c293c59a62f7/shot_desktop.fe62a53664.webp" width="100%" alt="Industrial Robotics Company Website — Lab automation arms, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Lab automation arms</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=0c630867-d1b3-4ce8-81dc-c293c59a62f7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=0c630867-d1b3-4ce8-81dc-c293c59a62f7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=167161bc-4088-416d-8e15-21ef596b31c1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-robotics-company-website/167161bc-4088-416d-8e15-21ef596b31c1/shot_desktop.46b8c7eb54.webp" width="100%" alt="Industrial Robotics Company Website — Industrial robot arms, built by GLM-5.4 in ZCode"></a><br>
 <b>Industrial robot arms</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=167161bc-4088-416d-8e15-21ef596b31c1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/industrial-robotics-company-website?case=167161bc-4088-416d-8e15-21ef596b31c1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

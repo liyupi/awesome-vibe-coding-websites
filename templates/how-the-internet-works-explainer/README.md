@@ -16,7 +16,7 @@ This is a long-form scrollytelling explainer that follows a single web request f
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + gsap + lucide |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,19 +26,19 @@ This is a long-form scrollytelling explainer that follows a single web request f
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=21de6634-1fcc-4e2b-afdc-737b5e339799&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/21de6634-1fcc-4e2b-afdc-737b5e339799/shot_desktop.2bb06ac656.webp" width="100%" alt="How the Internet Works Explainer — Loading a web page, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Loading a web page</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=21de6634-1fcc-4e2b-afdc-737b5e339799&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=21de6634-1fcc-4e2b-afdc-737b5e339799&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=52f411f9-da8c-475b-b65b-45ce35470384&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/52f411f9-da8c-475b-b65b-45ce35470384/shot_desktop.85379ff973.webp" width="100%" alt="How the Internet Works Explainer — School computing lesson, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>School computing lesson</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=52f411f9-da8c-475b-b65b-45ce35470384&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=52f411f9-da8c-475b-b65b-45ce35470384&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=5426ad22-6680-4bfa-aabb-e00c834ae0d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/5426ad22-6680-4bfa-aabb-e00c834ae0d7/shot_desktop.17ef0f82fe.webp" width="100%" alt="How the Internet Works Explainer — Loading a web page, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Loading a web page</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=5426ad22-6680-4bfa-aabb-e00c834ae0d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=5426ad22-6680-4bfa-aabb-e00c834ae0d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

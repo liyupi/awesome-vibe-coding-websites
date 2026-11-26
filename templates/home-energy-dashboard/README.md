@@ -22,7 +22,7 @@ To adapt it, change the five variables for brand, site, operator, currency and f
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,19 +32,19 @@ To adapt it, change the five variables for brand, site, operator, currency and f
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/home-energy-dashboard?case=6e35690e-e3cd-4434-8a4e-7434040f1990&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/wattline/6e35690e-e3cd-4434-8a4e-7434040f1990/shot_desktop.ba18b931cb.webp" width="100%" alt="Home Energy Dashboard — Home energy monitor, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Home energy monitor</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=6e35690e-e3cd-4434-8a4e-7434040f1990&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=6e35690e-e3cd-4434-8a4e-7434040f1990&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/home-energy-dashboard?case=7e8de294-a31b-4fe9-8bf0-886ea034b66b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/wattline/7e8de294-a31b-4fe9-8bf0-886ea034b66b/shot_desktop.f524f31d74.webp" width="100%" alt="Home Energy Dashboard — Bakery kitchen energy, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Bakery kitchen energy</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=7e8de294-a31b-4fe9-8bf0-886ea034b66b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=7e8de294-a31b-4fe9-8bf0-886ea034b66b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/home-energy-dashboard?case=8582df9a-5a8e-42b4-adad-913ec0b7c6a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/home-energy-dashboard/8582df9a-5a8e-42b4-adad-913ec0b7c6a0/shot_desktop.c7f4210221.webp" width="100%" alt="Home Energy Dashboard — Household energy monitor, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Household energy monitor</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=8582df9a-5a8e-42b4-adad-913ec0b7c6a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=8582df9a-5a8e-42b4-adad-913ec0b7c6a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

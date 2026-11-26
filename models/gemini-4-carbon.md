@@ -50,16 +50,16 @@
 <sub>The water cycle · Cursor · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon in Cursor"></a><br>
-<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
-<sub>Generative print studio · Cursor · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/bento-grid-saas-landing-page/83055d14-8919-423e-a3c8-8dbca3b1f008/shot_desktop.7cdfe15e49.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Gemini 4 Carbon in Cursor"></a><br>
+<b><a href="../templates/bento-grid-saas-landing-page">Bento Grid SaaS Landing Page</a></b><br>
+<sub>Release analytics tool · Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/bento-grid-saas-landing-page/83055d14-8919-423e-a3c8-8dbca3b1f008/shot_desktop.7cdfe15e49.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Gemini 4 Carbon in Cursor"></a><br>
-<b><a href="../templates/bento-grid-saas-landing-page">Bento Grid SaaS Landing Page</a></b><br>
-<sub>Release analytics tool · Cursor · <a href="https://vibefather.ai/templates/bento-grid-saas-landing-page?case=83055d14-8919-423e-a3c8-8dbca3b1f008&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon in Cursor"></a><br>
+<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
+<sub>Generative print studio · Cursor · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/boutique-hotel-website?case=96ff3519-3cba-442f-8288-f2c6b6d50631&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/boutique-hotel-website/96ff3519-3cba-442f-8288-f2c6b6d50631/shot_desktop.ceffab4f15.webp" width="100%" alt="Boutique Hotel Website built by Gemini 4 Carbon in Cursor"></a><br>

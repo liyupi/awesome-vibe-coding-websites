@@ -16,7 +16,7 @@ A two-page website for an accounting firm: a home page with the plain-language p
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A two-page website for an accounting firm: a home page with the plain-language p
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/accounting-firm-website?case=fc66de86-c7a2-431f-b822-5e628da60586&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/accounting-firm-website/fc66de86-c7a2-431f-b822-5e628da60586/shot_desktop.c9eea3dc77.webp" width="100%" alt="Accounting Firm Website — Four-person accounting firm, built by GLM-5.3 in ZCode"></a><br>
 <b>Four-person accounting firm</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/accounting-firm-website?case=fc66de86-c7a2-431f-b822-5e628da60586&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/accounting-firm-website?case=fc66de86-c7a2-431f-b822-5e628da60586&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/accounting-firm-website?case=9d605c91-1b26-4695-aedd-a7dd9554a3d9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/accounting-firm-website/9d605c91-1b26-4695-aedd-a7dd9554a3d9/shot_desktop.022d5c7471.webp" width="100%" alt="Accounting Firm Website — Bookkeeping practice, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Bookkeeping practice</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/accounting-firm-website?case=9d605c91-1b26-4695-aedd-a7dd9554a3d9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/accounting-firm-website?case=9d605c91-1b26-4695-aedd-a7dd9554a3d9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

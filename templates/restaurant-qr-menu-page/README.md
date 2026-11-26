@@ -16,7 +16,7 @@ A mobile-first digital menu for the QR code on the table, built like a warm bist
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A mobile-first digital menu for the QR code on the table, built like a warm bist
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?case=81b4d688-f331-4fe9-8a4a-be11630d5e58&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/restaurant-qr-menu-page/81b4d688-f331-4fe9-8a4a-be11630d5e58/shot_desktop.059ff1a105.webp" width="100%" alt="Restaurant QR Menu Page — Bistro QR menu, built by GLM-5.3 in ZCode"></a><br>
 <b>Bistro QR menu</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?case=81b4d688-f331-4fe9-8a4a-be11630d5e58&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?case=81b4d688-f331-4fe9-8a4a-be11630d5e58&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?case=6503b8cd-d92e-43d7-8c9b-de6d87ea5386&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/restaurant-qr-menu-page/6503b8cd-d92e-43d7-8c9b-de6d87ea5386/shot_desktop.9d89c8b47a.webp" width="100%" alt="Restaurant QR Menu Page — Wine bar counter card, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Wine bar counter card</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?case=6503b8cd-d92e-43d7-8c9b-de6d87ea5386&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?case=6503b8cd-d92e-43d7-8c9b-de6d87ea5386&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

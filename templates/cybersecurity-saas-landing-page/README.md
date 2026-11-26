@@ -22,7 +22,7 @@ Five variables change the brand, product category, audience, event terminology, 
 | Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + Tailwind + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Five variables change the brand, product category, audience, event terminology, 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?case=26d457ce-90e7-418d-847a-7d3a67be9d7d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cybersecurity-saas-landing-page/26d457ce-90e7-418d-847a-7d3a67be9d7d/shot_desktop.a9208b3cfb.webp" width="100%" alt="Cybersecurity SaaS Landing Page — Security operations platform, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Security operations platform</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?case=26d457ce-90e7-418d-847a-7d3a67be9d7d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?case=26d457ce-90e7-418d-847a-7d3a67be9d7d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?case=a8042921-7246-4876-8195-94e1f83b6eaf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cybersecurity-saas-landing-page/a8042921-7246-4876-8195-94e1f83b6eaf/shot_desktop.c71e7d404a.webp" width="100%" alt="Cybersecurity SaaS Landing Page — Privacy operations platform, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Privacy operations platform</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?case=a8042921-7246-4876-8195-94e1f83b6eaf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/cybersecurity-saas-landing-page?case=a8042921-7246-4876-8195-94e1f83b6eaf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

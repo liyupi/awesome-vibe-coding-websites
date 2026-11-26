@@ -22,7 +22,7 @@ Change the fictional studio name, introductory copy, flavor collection, and acce
 | Effects | Drag & Physics, 3D / WebGL, Micro-interactions |
 | Stack | Vite + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Change the fictional studio name, introductory copy, flavor collection, and acce
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=670172d8-dc9f-4e27-83f7-7045f2a9caf1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/jelly-squish-physics-toy/670172d8-dc9f-4e27-83f7-7045f2a9caf1/shot_desktop.6b708df451.webp" width="100%" alt="Jelly Squish Physics Toy — Soft fruit jelly studio, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Soft fruit jelly studio</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=670172d8-dc9f-4e27-83f7-7045f2a9caf1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=670172d8-dc9f-4e27-83f7-7045f2a9caf1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=2e7f616b-19ae-40f6-8746-ac23e171ebc0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/jelly-squish-physics-toy/2e7f616b-19ae-40f6-8746-ac23e171ebc0/shot_desktop.c45c9d6036.webp" width="100%" alt="Jelly Squish Physics Toy — Tropical jelly tasting room, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Tropical jelly tasting room</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=2e7f616b-19ae-40f6-8746-ac23e171ebc0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?case=2e7f616b-19ae-40f6-8746-ac23e171ebc0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

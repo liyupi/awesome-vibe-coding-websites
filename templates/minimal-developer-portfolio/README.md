@@ -16,7 +16,7 @@ A single-page portfolio for a developer: an intro with name, role, a two-sentenc
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page portfolio for a developer: an intro with name, role, a two-sentenc
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio — Backend developer portfolio, built by GLM-5.3 in ZCode"></a><br>
 <b>Backend developer portfolio</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=3409412e-3611-41e2-8584-a66e6901e5d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/3409412e-3611-41e2-8584-a66e6901e5d4/shot_desktop.54a249b474.webp" width="100%" alt="Minimal Developer Portfolio — Frontend developer portfolio, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Frontend developer portfolio</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=3409412e-3611-41e2-8584-a66e6901e5d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=3409412e-3611-41e2-8584-a66e6901e5d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

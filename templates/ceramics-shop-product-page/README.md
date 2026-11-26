@@ -24,7 +24,7 @@ To adapt the page, change the brand, product name, list of pieces, price and stu
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -34,12 +34,12 @@ To adapt the page, change the brand, product name, list of pieces, price and stu
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ceramics-shop-product-page?case=57f0c0f3-25f9-40df-97dd-11431b0fae64&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/kiln/57f0c0f3-25f9-40df-97dd-11431b0fae64/shot_desktop.0773655cdf.webp" width="100%" alt="Ceramics Shop Product Page — Ceramic pour-over set, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Ceramic pour-over set</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/ceramics-shop-product-page?case=57f0c0f3-25f9-40df-97dd-11431b0fae64&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/ceramics-shop-product-page?case=57f0c0f3-25f9-40df-97dd-11431b0fae64&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ceramics-shop-product-page?case=43e26f00-c9c2-4c7c-ad58-020ffb8f4e1c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/kiln/43e26f00-c9c2-4c7c-ad58-020ffb8f4e1c/shot_desktop.73d690a177.webp" width="100%" alt="Ceramics Shop Product Page — Stoneware tea set, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Stoneware tea set</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/ceramics-shop-product-page?case=43e26f00-c9c2-4c7c-ad58-020ffb8f4e1c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/ceramics-shop-product-page?case=43e26f00-c9c2-4c7c-ad58-020ffb8f4e1c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

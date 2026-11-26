@@ -22,7 +22,7 @@ A visible countdown is explicitly a browser-only demonstration. It starts from a
 | Effects | Scroll Animation, Drag & Physics, 3D / WebGL |
 | Stack | Vite + React + TypeScript + Vanilla CSS + three |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ A visible countdown is explicitly a browser-only demonstration. It starts from a
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page — Everyday road runner, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Everyday road runner</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=cf84f5ff-2a0b-4b54-a54f-d170abcdcf22&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/cf84f5ff-2a0b-4b54-a54f-d170abcdcf22/shot_desktop.7d494a10da.webp" width="100%" alt="Running Shoe Product Launch Page — City training shoe, built by GLM-5.3 in ZCode"></a><br>
 <b>City training shoe</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=cf84f5ff-2a0b-4b54-a54f-d170abcdcf22&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=cf84f5ff-2a0b-4b54-a54f-d170abcdcf22&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -22,7 +22,7 @@ To adapt it, change the six variables for brand, product, category, price, ship 
 | Effects | Text Animation, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/product-launch-keynote-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt it, change the six variables for brand, product, category, price, ship 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/product-launch-keynote-slides?case=5c2491c8-a860-4985-b5b5-31f489c773e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/5c2491c8-a860-4985-b5b5-31f489c773e3/shot_desktop.6a045106d7.webp" width="100%" alt="Product Launch Keynote Slides — Portable home battery, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Portable home battery</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/product-launch-keynote-slides?case=5c2491c8-a860-4985-b5b5-31f489c773e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/product-launch-keynote-slides?case=5c2491c8-a860-4985-b5b5-31f489c773e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/product-launch-keynote-slides?case=c50393d5-08e3-4844-99f6-641d92df7981&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/c50393d5-08e3-4844-99f6-641d92df7981/shot_desktop.23e337081e.webp" width="100%" alt="Product Launch Keynote Slides — Whole-room air purifier, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Whole-room air purifier</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/product-launch-keynote-slides?case=c50393d5-08e3-4844-99f6-641d92df7981&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/product-launch-keynote-slides?case=c50393d5-08e3-4844-99f6-641d92df7981&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

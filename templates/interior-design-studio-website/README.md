@@ -16,7 +16,7 @@ A single-page site for an interior design studio: a finished-room hero, two drag
 | Effects | Scroll Animation, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page site for an interior design studio: a finished-room hero, two drag
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interior-design-studio-website?case=06740e7f-e14f-4a49-a3fc-0dea0da94798&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/interior-design-studio-website/06740e7f-e14f-4a49-a3fc-0dea0da94798/shot_desktop.114b5341a6.webp" width="100%" alt="Interior Design Studio Website — Residential design studio, built by GLM-5.3 in ZCode"></a><br>
 <b>Residential design studio</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/interior-design-studio-website?case=06740e7f-e14f-4a49-a3fc-0dea0da94798&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/interior-design-studio-website?case=06740e7f-e14f-4a49-a3fc-0dea0da94798&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interior-design-studio-website?case=e267fc4d-035c-40ac-aff4-c26848a85227&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/interior-design-studio-website/e267fc4d-035c-40ac-aff4-c26848a85227/shot_desktop.542ad50b7e.webp" width="100%" alt="Interior Design Studio Website — Hospitality design studio, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Hospitality design studio</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/interior-design-studio-website?case=e267fc4d-035c-40ac-aff4-c26848a85227&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/interior-design-studio-website?case=e267fc4d-035c-40ac-aff4-c26848a85227&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

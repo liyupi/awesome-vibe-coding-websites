@@ -16,7 +16,7 @@ A single-page launch site for one indie game, painted rather than built. The fir
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/indie-game-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page launch site for one indie game, painted rather than built. The fir
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/shot_desktop.d40cc25515.webp" width="100%" alt="Indie Game Launch Page — Indie game launch, built by GLM-5.3 in ZCode"></a><br>
 <b>Indie game launch</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/indie-game-launch-page?case=5c344e2d-eb13-4bdf-9f0b-90cbad3452af&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/indie-game-launch-page/5c344e2d-eb13-4bdf-9f0b-90cbad3452af/shot_desktop.3c82495d6e.webp" width="100%" alt="Indie Game Launch Page — Cozy lantern-keeping game, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Cozy lantern-keeping game</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/indie-game-launch-page?case=5c344e2d-eb13-4bdf-9f0b-90cbad3452af&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/indie-game-launch-page?case=5c344e2d-eb13-4bdf-9f0b-90cbad3452af&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

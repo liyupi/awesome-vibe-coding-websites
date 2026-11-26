@@ -22,7 +22,7 @@ This is suited to a small food maker that needs both atmosphere and understandab
 | Effects | Scroll Animation, Cursor Effects, 3D / WebGL |
 | Stack | Vite + TypeScript + Vanilla CSS + three |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/sea-salt-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ This is suited to a small food maker that needs both atmosphere and understandab
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/9eeebc23-a058-4546-a448-b29ab1146a1e/shot_desktop.07dfe4cc49.webp" width="100%" alt="Sea Salt Brand Website — Alder Reach salt, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Alder Reach salt</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61/shot_desktop.07962048f1.webp" width="100%" alt="Sea Salt Brand Website — Bracken Inlet salt, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Bracken Inlet salt</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

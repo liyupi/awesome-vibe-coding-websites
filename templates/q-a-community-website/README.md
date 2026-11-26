@@ -22,7 +22,7 @@ The default community serves urban gardeners, with concrete questions about balc
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 5 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ The default community serves urban gardeners, with concrete questions about balc
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/q-a-community-website?case=03153e85-e460-4f5d-947d-9f2f5a7d01d0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/q-a-community-website/03153e85-e460-4f5d-947d-9f2f5a7d01d0/shot_desktop.f859dbb418.webp" width="100%" alt="Q&amp;A Community Website — Urban gardening community, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Urban gardening community</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/q-a-community-website?case=03153e85-e460-4f5d-947d-9f2f5a7d01d0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/q-a-community-website?case=03153e85-e460-4f5d-947d-9f2f5a7d01d0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/q-a-community-website?case=22965c0f-b798-44b5-9ff0-42e846815492&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/q-a-community-website/22965c0f-b798-44b5-9ff0-42e846815492/shot_desktop.151a2cce62.webp" width="100%" alt="Q&amp;A Community Website — Home baking community, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Home baking community</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/q-a-community-website?case=22965c0f-b798-44b5-9ff0-42e846815492&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/q-a-community-website?case=22965c0f-b798-44b5-9ff0-42e846815492&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

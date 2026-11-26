@@ -22,7 +22,7 @@ The prompt defines the moving-wall and ball-contact calculations, not just their
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite + TypeScript + Vanilla CSS |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ The prompt defines the moving-wall and ball-contact calculations, not just their
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=ed16549f-37fa-48ef-96b9-ff891fae0504&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy — Creative break playground, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Creative break playground</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=ed16549f-37fa-48ef-96b9-ff891fae0504&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=ed16549f-37fa-48ef-96b9-ff891fae0504&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=660c9861-7726-47a8-9bab-0744c3722bd1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/660c9861-7726-47a8-9bab-0744c3722bd1/shot_desktop.c89d471cce.webp" width="100%" alt="Spinning Hexagon Physics Toy — Classroom forces workshop, built by GLM-5.3 in ZCode"></a><br>
 <b>Classroom forces workshop</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=660c9861-7726-47a8-9bab-0744c3722bd1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?case=660c9861-7726-47a8-9bab-0744c3722bd1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

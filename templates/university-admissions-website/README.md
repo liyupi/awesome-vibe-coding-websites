@@ -22,7 +22,7 @@ Variables cover the university, location, audience, and signature strength. The 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Variables cover the university, location, audience, and signature strength. The 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/university-admissions-website?case=379c9e84-9204-4956-bf7c-4d6e8d0429b0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/university-admissions-website/379c9e84-9204-4956-bf7c-4d6e8d0429b0/shot_desktop.73d448dd7b.webp" width="100%" alt="University Admissions Website — Stonewater University, built by GLM-5.3 in ZCode"></a><br>
 <b>Stonewater University</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/university-admissions-website?case=379c9e84-9204-4956-bf7c-4d6e8d0429b0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/university-admissions-website?case=379c9e84-9204-4956-bf7c-4d6e8d0429b0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/university-admissions-website?case=1520efad-2c63-46b5-8b39-75cafc5d6773&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/university-admissions-website/1520efad-2c63-46b5-8b39-75cafc5d6773/shot_desktop.d4470c22d6.webp" width="100%" alt="University Admissions Website — Music conservatory admissions, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Music conservatory admissions</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/university-admissions-website?case=1520efad-2c63-46b5-8b39-75cafc5d6773&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/university-admissions-website?case=1520efad-2c63-46b5-8b39-75cafc5d6773&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

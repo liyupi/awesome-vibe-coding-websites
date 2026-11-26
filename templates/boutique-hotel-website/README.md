@@ -22,7 +22,7 @@ To adapt it, change the hotel name, the place, the property description and the 
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react + tailwindcss, |
 | Pages | 3 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/boutique-hotel-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,24 +32,24 @@ To adapt it, change the hotel name, the place, the property description and the 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/boutique-hotel-website?case=00d2a3dd-1494-4691-af41-5459b63ac59f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/boutique-hotel-website/00d2a3dd-1494-4691-af41-5459b63ac59f/shot_desktop.be357e04f8.webp" width="100%" alt="Boutique Hotel Website — Coastal boutique hotel, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Coastal boutique hotel</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=00d2a3dd-1494-4691-af41-5459b63ac59f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=00d2a3dd-1494-4691-af41-5459b63ac59f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/boutique-hotel-website?case=b5845f86-1106-4039-b50c-5a82815cd67c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/tidestone/b5845f86-1106-4039-b50c-5a82815cd67c/shot_desktop.3328b4e17b.webp" width="100%" alt="Boutique Hotel Website — Island sauna retreat, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>Island sauna retreat</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=b5845f86-1106-4039-b50c-5a82815cd67c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=b5845f86-1106-4039-b50c-5a82815cd67c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/boutique-hotel-website?case=96ff3519-3cba-442f-8288-f2c6b6d50631&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/boutique-hotel-website/96ff3519-3cba-442f-8288-f2c6b6d50631/shot_desktop.ceffab4f15.webp" width="100%" alt="Boutique Hotel Website — Coastal boutique hotel, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Coastal boutique hotel</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=96ff3519-3cba-442f-8288-f2c6b6d50631&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=96ff3519-3cba-442f-8288-f2c6b6d50631&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/boutique-hotel-website/dda42e68-7c76-4f0a-9c76-cb41698e20e4/shot_desktop.76a7a80d1b.webp" width="100%" alt="Boutique Hotel Website — Coastal boutique hotel, built by GPT-6 Astra in Codex"></a><br>
 <b>Coastal boutique hotel</b><br>
-<sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=dda42e68-7c76-4f0a-9c76-cb41698e20e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

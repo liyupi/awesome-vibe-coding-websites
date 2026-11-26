@@ -22,7 +22,7 @@ To adapt it, change the show name, title, subject, hosts and runtime, then rewri
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt it, change the show name, title, subject, hosts and runtime, then rewri
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/podcast-episode-companion-page?case=f1f0a8ca-cd60-4325-b8c3-3f31f77d2061&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fieldnotes/f1f0a8ca-cd60-4325-b8c3-3f31f77d2061/shot_desktop.ac24b57491.webp" width="100%" alt="Podcast Episode Companion Page — Ice company history, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Ice company history</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?case=f1f0a8ca-cd60-4325-b8c3-3f31f77d2061&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?case=f1f0a8ca-cd60-4325-b8c3-3f31f77d2061&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/podcast-episode-companion-page?case=cb84d95f-c999-4c60-9896-a4f434efa1ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fieldnotes/cb84d95f-c999-4c60-9896-a4f434efa1ca/shot_desktop.1e510e4c89.webp" width="100%" alt="Podcast Episode Companion Page — Street lighting history, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>Street lighting history</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?case=cb84d95f-c999-4c60-9896-a4f434efa1ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?case=cb84d95f-c999-4c60-9896-a4f434efa1ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

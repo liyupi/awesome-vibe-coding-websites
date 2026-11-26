@@ -16,7 +16,7 @@ Team Wiki Workspace App is a self-contained collaborative notes, documentation, 
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Team Wiki Workspace App is a self-contained collaborative notes, documentation, 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=11521a73-a8f7-4733-ae37-58b525b38fb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/shot_desktop.6da87800ea.webp" width="100%" alt="Team Wiki Workspace App — Design studio product wiki, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Design studio product wiki</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=11521a73-a8f7-4733-ae37-58b525b38fb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=11521a73-a8f7-4733-ae37-58b525b38fb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=9ee0b215-064a-4b97-b2a5-2400dc6d215e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/9ee0b215-064a-4b97-b2a5-2400dc6d215e/shot_desktop.a54a060521.webp" width="100%" alt="Team Wiki Workspace App — Robotics lab engineering wiki, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Robotics lab engineering wiki</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=9ee0b215-064a-4b97-b2a5-2400dc6d215e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=9ee0b215-064a-4b97-b2a5-2400dc6d215e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

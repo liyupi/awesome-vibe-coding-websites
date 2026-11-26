@@ -16,7 +16,7 @@ An in-browser front-end code playground for HTML, CSS, and JavaScript featuring 
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + three + lucide-react |
 | Pages | 2 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ An in-browser front-end code playground for HTML, CSS, and JavaScript featuring 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/online-code-playground?case=74ad9e27-83c1-405f-9da1-e117e2d46732&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/online-code-playground/74ad9e27-83c1-405f-9da1-e117e2d46732/shot_desktop.c3d947372b.webp" width="100%" alt="Online Code Playground — SparkBench, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>SparkBench</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/online-code-playground?case=74ad9e27-83c1-405f-9da1-e117e2d46732&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/online-code-playground?case=74ad9e27-83c1-405f-9da1-e117e2d46732&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/online-code-playground/a5cc8c47-8a3e-44a6-b894-ab1e652bd923/shot_desktop.2542f670ae.webp" width="100%" alt="Online Code Playground — LoomLab, built by GPT-6.2 Sol in Codex"></a><br>
 <b>LoomLab</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

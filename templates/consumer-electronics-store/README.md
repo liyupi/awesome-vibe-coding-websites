@@ -16,7 +16,7 @@ A sharp, industrial-design consumer electronics storefront showcasing brand-free
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 7 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/consumer-electronics-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A sharp, industrial-design consumer electronics storefront showcasing brand-free
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/consumer-electronics-store?case=e1fcb48b-c423-4373-ae67-f3801664bd88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/consumer-electronics-store/e1fcb48b-c423-4373-ae67-f3801664bd88/shot_desktop.43e8ec36da.webp" width="100%" alt="Consumer Electronics Store — VoltGrid Hardware, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>VoltGrid Hardware</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/consumer-electronics-store?case=e1fcb48b-c423-4373-ae67-f3801664bd88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/consumer-electronics-store?case=e1fcb48b-c423-4373-ae67-f3801664bd88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/consumer-electronics-store?case=f7de7bf0-6beb-4e23-b512-8b1c6c88e915&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/consumer-electronics-store/f7de7bf0-6beb-4e23-b512-8b1c6c88e915/shot_desktop.ffe5e9489a.webp" width="100%" alt="Consumer Electronics Store — Kinetik Goods, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Kinetik Goods</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/consumer-electronics-store?case=f7de7bf0-6beb-4e23-b512-8b1c6c88e915&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/consumer-electronics-store?case=f7de7bf0-6beb-4e23-b512-8b1c6c88e915&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

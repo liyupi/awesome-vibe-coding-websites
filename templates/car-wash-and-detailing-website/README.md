@@ -16,7 +16,7 @@ Car Wash and Detailing Website is a single-page site for a modern tunnel wash an
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Car Wash and Detailing Website is a single-page site for a modern tunnel wash an
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d/shot_desktop.b06d50e91f.webp" width="100%" alt="Car Wash and Detailing Website — Auto spa, Marina Heights, built by GLM-5.3 in ZCode"></a><br>
 <b>Auto spa, Marina Heights</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=b5ab2ca9-328a-42b4-bec0-7e461e3c2a2d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=81d6151f-d12a-400b-ac55-33b92e86832a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/car-wash-and-detailing-website/81d6151f-d12a-400b-ac55-33b92e86832a/shot_desktop.0570749bda.webp" width="100%" alt="Car Wash and Detailing Website — Fleet wash, Dockside Junction, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Fleet wash, Dockside Junction</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=81d6151f-d12a-400b-ac55-33b92e86832a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/car-wash-and-detailing-website?case=81d6151f-d12a-400b-ac55-33b92e86832a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

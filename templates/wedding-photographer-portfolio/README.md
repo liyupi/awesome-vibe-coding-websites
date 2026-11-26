@@ -16,7 +16,7 @@ A four-page portfolio for a wedding and portrait photographer: a cinematic home 
 | Effects | Scroll Animation, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/wedding-photographer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A four-page portfolio for a wedding and portrait photographer: a cinematic home 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/wedding-photographer-portfolio?case=66d02f47-a449-479a-ad01-a7a0b14c6a64&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/wedding-photographer-portfolio/66d02f47-a449-479a-ad01-a7a0b14c6a64/shot_desktop.7aac6125fd.webp" width="100%" alt="Wedding Photographer Portfolio — Hudson Valley wedding photographer, built by GLM-5.3 in ZCode"></a><br>
 <b>Hudson Valley wedding photographer</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/wedding-photographer-portfolio?case=66d02f47-a449-479a-ad01-a7a0b14c6a64&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/wedding-photographer-portfolio?case=66d02f47-a449-479a-ad01-a7a0b14c6a64&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/wedding-photographer-portfolio?case=a55228cd-eb70-4ae1-a667-c2bcb8706bfd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/wedding-photographer-portfolio/a55228cd-eb70-4ae1-a667-c2bcb8706bfd/shot_desktop.9c16c7361d.webp" width="100%" alt="Wedding Photographer Portfolio — Pacific Northwest photographer, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Pacific Northwest photographer</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/wedding-photographer-portfolio?case=a55228cd-eb70-4ae1-a667-c2bcb8706bfd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/wedding-photographer-portfolio?case=a55228cd-eb70-4ae1-a667-c2bcb8706bfd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

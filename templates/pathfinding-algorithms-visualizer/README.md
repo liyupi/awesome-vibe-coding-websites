@@ -16,7 +16,7 @@ An interactive computer-science monograph and sandbox showing how maps and games
 | Effects | Interactive Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 4 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ An interactive computer-science monograph and sandbox showing how maps and games
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=e1271149-f631-4fa3-bd29-ac3429803200&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/e1271149-f631-4fa3-bd29-ac3429803200/shot_desktop.8cbd8f9bac.webp" width="100%" alt="Pathfinding Algorithms Visualizer — GraphCraft Lab (Square &amp; Hex Edition), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>GraphCraft Lab (Square &amp; Hex Edition)</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=e1271149-f631-4fa3-bd29-ac3429803200&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=e1271149-f631-4fa3-bd29-ac3429803200&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2/shot_desktop.59b70f2857.webp" width="100%" alt="Pathfinding Algorithms Visualizer — RouteLogic Studio (Heuristic Explorer), built by GPT-6.2 Sol in Codex"></a><br>
 <b>RouteLogic Studio (Heuristic Explorer)</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

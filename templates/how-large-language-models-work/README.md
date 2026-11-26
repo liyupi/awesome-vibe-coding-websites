@@ -22,7 +22,7 @@ To adapt it, change the brand, the headline topic, the example sentence and the 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + react, + gsap + lucide-react |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/how-large-language-models-work?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,19 +32,19 @@ To adapt it, change the brand, the headline topic, the example sentence and the 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-large-language-models-work?case=06ce9f05-3be3-4785-9d7d-b3f828de0d42&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work — Next-word prediction, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Next-word prediction</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/how-large-language-models-work?case=06ce9f05-3be3-4785-9d7d-b3f828de0d42&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/how-large-language-models-work?case=06ce9f05-3be3-4785-9d7d-b3f828de0d42&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-large-language-models-work?case=a9e9d1f1-f3ec-483c-9d84-aadf37fce515&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-large-language-models-work/a9e9d1f1-f3ec-483c-9d84-aadf37fce515/shot_desktop.961761ed90.webp" width="100%" alt="How Large Language Models Work — Code completion, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Code completion</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/how-large-language-models-work?case=a9e9d1f1-f3ec-483c-9d84-aadf37fce515&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/how-large-language-models-work?case=a9e9d1f1-f3ec-483c-9d84-aadf37fce515&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-large-language-models-work?case=f5d8001a-e9d6-467b-a9a0-13a61c5c85fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-large-language-models-work/f5d8001a-e9d6-467b-a9a0-13a61c5c85fb/shot_desktop.1788a05307.webp" width="100%" alt="How Large Language Models Work — Next-word prediction, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Next-word prediction</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/how-large-language-models-work?case=f5d8001a-e9d6-467b-a9a0-13a61c5c85fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/how-large-language-models-work?case=f5d8001a-e9d6-467b-a9a0-13a61c5c85fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

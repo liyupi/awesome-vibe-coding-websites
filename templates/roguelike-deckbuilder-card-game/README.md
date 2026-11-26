@@ -16,7 +16,7 @@ A complete browser-playable roguelike deckbuilder set on a storm-wrecked chain o
 | Effects | Card Animations, Interactive Map, Procedural Svg |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/roguelike-deckbuilder-card-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A complete browser-playable roguelike deckbuilder set on a storm-wrecked chain o
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?case=133a8b7a-808a-4b9e-9881-9d44563c338a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/roguelike-deckbuilder-card-game/133a8b7a-808a-4b9e-9881-9d44563c338a/shot_desktop.4445baf84f.webp" width="100%" alt="Roguelike Deckbuilder Card Game — Lantern Spire · Keeper Mira, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Lantern Spire · Keeper Mira</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?case=133a8b7a-808a-4b9e-9881-9d44563c338a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?case=133a8b7a-808a-4b9e-9881-9d44563c338a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?case=c43e059d-ae22-4a3f-b588-2a44d7daf782&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/roguelike-deckbuilder-card-game/c43e059d-ae22-4a3f-b588-2a44d7daf782/shot_desktop.71c84d72dc.webp" width="100%" alt="Roguelike Deckbuilder Card Game — Beacon Drift · Warden Corvus, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Beacon Drift · Warden Corvus</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?case=c43e059d-ae22-4a3f-b588-2a44d7daf782&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?case=c43e059d-ae22-4a3f-b588-2a44d7daf782&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

@@ -16,7 +16,7 @@ A single-page site that launches one mobile banking app: a hero anchored by a 3D
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page site that launches one mobile banking app: a hero anchored by a 3D
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fintech-app-landing-page?case=1f4ee3f0-fa01-49ac-bf29-9a6d6686fd68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fintech-app-landing-page/1f4ee3f0-fa01-49ac-bf29-9a6d6686fd68/shot_desktop.bc23ac08d9.webp" width="100%" alt="Fintech App Landing Page — Everyday banking app, built by GLM-5.3 in ZCode"></a><br>
 <b>Everyday banking app</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/fintech-app-landing-page?case=1f4ee3f0-fa01-49ac-bf29-9a6d6686fd68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/fintech-app-landing-page?case=1f4ee3f0-fa01-49ac-bf29-9a6d6686fd68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fintech-app-landing-page?case=9aa8646f-585d-4e70-ab7b-b4b22fb06adb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fintech-app-landing-page/9aa8646f-585d-4e70-ab7b-b4b22fb06adb/shot_desktop.b48301a3e6.webp" width="100%" alt="Fintech App Landing Page — Couples budgeting app, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Couples budgeting app</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/fintech-app-landing-page?case=9aa8646f-585d-4e70-ab7b-b4b22fb06adb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/fintech-app-landing-page?case=9aa8646f-585d-4e70-ab7b-b4b22fb06adb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

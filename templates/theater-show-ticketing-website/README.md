@@ -20,7 +20,7 @@ Use the template for a new musical, a repertory season or a neighborhood theater
 | Effects | Micro-interactions |
 | Stack | Vite + React + Vanilla CSS + qrcode + lucide-react |
 | Pages | 8 |
-| Built with | [GPT-6.2 Astra](../../models/gpt-6-2-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Astra](../../models/gpt-6-2-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,12 +30,12 @@ Use the template for a new musical, a repertory season or a neighborhood theater
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/theater-show-ticketing-website?case=b816a12d-2056-4db3-9d62-60e1ae7e2204&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/theater-show-ticketing-website/b816a12d-2056-4db3-9d62-60e1ae7e2204/shot_desktop.8c0534ed0f.webp" width="100%" alt="Theater Show Ticketing Website — Copper arch musical, built by GPT-6.2 Astra in Codex"></a><br>
 <b>Copper arch musical</b><br>
-<sub>Built by <b>GPT-6.2 Astra</b> in Codex · <a href="https://vibefather.ai/templates/theater-show-ticketing-website?case=b816a12d-2056-4db3-9d62-60e1ae7e2204&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Astra in Codex · <a href="https://vibefather.ai/templates/theater-show-ticketing-website?case=b816a12d-2056-4db3-9d62-60e1ae7e2204&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/theater-show-ticketing-website?case=1b1583e2-24ac-4eb4-b571-8e4c3b88e2e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/theater-show-ticketing-website/1b1583e2-24ac-4eb4-b571-8e4c3b88e2e4/shot_desktop.70dcd26d8f.webp" width="100%" alt="Theater Show Ticketing Website — Lantern stage musical, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Lantern stage musical</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/theater-show-ticketing-website?case=1b1583e2-24ac-4eb4-b571-8e4c3b88e2e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/theater-show-ticketing-website?case=1b1583e2-24ac-4eb4-b571-8e4c3b88e2e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

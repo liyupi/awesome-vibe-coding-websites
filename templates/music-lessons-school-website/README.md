@@ -16,7 +16,7 @@ Music Lessons School Website is a single-page site for a neighborhood music scho
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Music Lessons School Website is a single-page site for a neighborhood music scho
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-lessons-school-website?case=aa2e31cb-14b9-4c73-bf9e-58f055853b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-lessons-school-website/aa2e31cb-14b9-4c73-bf9e-58f055853b56/shot_desktop.468a769b5c.webp" width="100%" alt="Music Lessons School Website — Music school, Birchwood, built by GLM-5.3 in ZCode"></a><br>
 <b>Music school, Birchwood</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/music-lessons-school-website?case=aa2e31cb-14b9-4c73-bf9e-58f055853b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/music-lessons-school-website?case=aa2e31cb-14b9-4c73-bf9e-58f055853b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-lessons-school-website?case=65401d9a-cd56-45d1-a20f-66a2857ba154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-lessons-school-website/65401d9a-cd56-45d1-a20f-66a2857ba154/shot_desktop.a3cbd38306.webp" width="100%" alt="Music Lessons School Website — Music academy, Foxhollow, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Music academy, Foxhollow</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/music-lessons-school-website?case=65401d9a-cd56-45d1-a20f-66a2857ba154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/music-lessons-school-website?case=65401d9a-cd56-45d1-a20f-66a2857ba154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

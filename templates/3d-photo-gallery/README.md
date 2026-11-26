@@ -16,7 +16,7 @@ Endless Hall is a one-page online exhibition built with three.js. Twenty-four fr
 | Effects | Cursor Effects, Drag & Physics, 3D / WebGL |
 | Stack | Vite 5 + TypeScript + three.js + Plain CSS, custom properties + three |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,19 +26,19 @@ Endless Hall is a one-page online exhibition built with three.js. Twenty-four fr
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-photo-gallery?case=bb1823f3-6052-4734-9df0-39a226355199&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-photo-gallery/bb1823f3-6052-4734-9df0-39a226355199/shot_desktop.353744dcc5.webp" width="100%" alt="3D Photo Gallery — Photography archive exhibition, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Photography archive exhibition</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=bb1823f3-6052-4734-9df0-39a226355199&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=bb1823f3-6052-4734-9df0-39a226355199&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-photo-gallery?case=3acaa987-5182-4c2f-aa45-ceb89403a5de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-photo-gallery/3acaa987-5182-4c2f-aa45-ceb89403a5de/shot_desktop.025b5c2cd1.webp" width="100%" alt="3D Photo Gallery — Landscape print shop, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>Landscape print shop</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=3acaa987-5182-4c2f-aa45-ceb89403a5de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=3acaa987-5182-4c2f-aa45-ceb89403a5de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-photo-gallery?case=dc09a434-d7f5-413a-b789-1f40dd8a8342&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-photo-gallery/dc09a434-d7f5-413a-b789-1f40dd8a8342/shot_desktop.7e114b16c7.webp" width="100%" alt="3D Photo Gallery — Photography archive exhibition, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Photography archive exhibition</b><br>
-<sub>Built by <b>Gemini 4 Carbon</b> in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=dc09a434-d7f5-413a-b789-1f40dd8a8342&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=dc09a434-d7f5-413a-b789-1f40dd8a8342&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

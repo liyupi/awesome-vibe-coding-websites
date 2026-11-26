@@ -16,7 +16,7 @@ Drop into a sunlit procedural 3D alpine mountain built entirely in Three.js with
 | Effects | 3D / WebGL, Web Audio |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Drop into a sunlit procedural 3D alpine mountain built entirely in Three.js with
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/first-person-ski-run-game?case=3c8995ab-63b5-4bdc-83db-ffca59a27223&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/first-person-ski-run-game/3c8995ab-63b5-4bdc-83db-ffca59a27223/shot_desktop.3c0fdf1ce5.webp" width="100%" alt="First-Person Ski Run Game — Crestline Powder (Mount Alabaster), built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Crestline Powder (Mount Alabaster)</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/first-person-ski-run-game?case=3c8995ab-63b5-4bdc-83db-ffca59a27223&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/first-person-ski-run-game?case=3c8995ab-63b5-4bdc-83db-ffca59a27223&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/first-person-ski-run-game?case=8edde067-23c8-4ff0-a579-7bef876f99a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/first-person-ski-run-game/8edde067-23c8-4ff0-a579-7bef876f99a5/shot_desktop.8508e00a5e.webp" width="100%" alt="First-Person Ski Run Game — Glacier Line (Kestrel Peak), built by GPT-6.2 Sol in Codex"></a><br>
 <b>Glacier Line (Kestrel Peak)</b><br>
-<sub>Built by <b>GPT-6.2 Sol</b> in Codex · <a href="https://vibefather.ai/templates/first-person-ski-run-game?case=8edde067-23c8-4ff0-a579-7bef876f99a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/first-person-ski-run-game?case=8edde067-23c8-4ff0-a579-7bef876f99a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

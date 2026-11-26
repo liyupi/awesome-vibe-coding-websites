@@ -22,7 +22,7 @@ Developers and indie hackers can ship the game as static files. Five variables r
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + TypeScript + Three.js + Vanilla CSS + three |
 | Pages | 1 |
-| Built with | [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="13" height="13" alt=""></picture> [Grok 4.7](../../models/grok-4-7.md) in Grok Build |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Developers and indie hackers can ship the game as static files. Five variables r
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?case=84cd8953-5ff8-4b16-9fad-07b70e9b3a6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-neon-breakout-arcade/84cd8953-5ff8-4b16-9fad-07b70e9b3a6c/shot_desktop.bc48c4a174.webp" width="100%" alt="3D Neon Breakout Arcade — Pier arcade cabinet, built by Grok 4.7 in Grok Build"></a><br>
 <b>Pier arcade cabinet</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?case=84cd8953-5ff8-4b16-9fad-07b70e9b3a6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?case=84cd8953-5ff8-4b16-9fad-07b70e9b3a6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?case=575ba76d-0854-424a-99dc-9830dc72d7d2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-neon-breakout-arcade/575ba76d-0854-424a-99dc-9830dc72d7d2/shot_desktop.ca9db98e36.webp" width="100%" alt="3D Neon Breakout Arcade — Campus rec cabinet, built by Grok 4.7 in Grok Build"></a><br>
 <b>Campus rec cabinet</b><br>
-<sub>Built by <b>Grok 4.7</b> in Grok Build · <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?case=575ba76d-0854-424a-99dc-9830dc72d7d2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 in Grok Build · <a href="https://vibefather.ai/templates/3d-neon-breakout-arcade?case=575ba76d-0854-424a-99dc-9830dc72d7d2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

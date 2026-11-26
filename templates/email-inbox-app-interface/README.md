@@ -16,7 +16,7 @@ A three-pane email client built as a real, working interface rather than a pictu
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/email-inbox-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A three-pane email client built as a real, working interface rather than a pictu
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/email-inbox-app-interface?case=a501119e-6ea5-4003-8e6d-f2a6c15e9aed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/email-inbox-app-interface/a501119e-6ea5-4003-8e6d-f2a6c15e9aed/shot_desktop.5d05c4a210.webp" width="100%" alt="Email Inbox App Interface — Brand designer's mailbox, built by GLM-5.4 in ZCode"></a><br>
 <b>Brand designer's mailbox</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/email-inbox-app-interface?case=a501119e-6ea5-4003-8e6d-f2a6c15e9aed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/email-inbox-app-interface?case=a501119e-6ea5-4003-8e6d-f2a6c15e9aed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/email-inbox-app-interface?case=4e062e55-3b3b-42d5-9594-666ea72ce6a8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/email-inbox-app-interface/4e062e55-3b3b-42d5-9594-666ea72ce6a8/shot_desktop.07c0326984.webp" width="100%" alt="Email Inbox App Interface — Motion designer's mailbox, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Motion designer's mailbox</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/email-inbox-app-interface?case=4e062e55-3b3b-42d5-9594-666ea72ce6a8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/email-inbox-app-interface?case=4e062e55-3b3b-42d5-9594-666ea72ce6a8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

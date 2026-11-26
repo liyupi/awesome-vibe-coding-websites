@@ -16,7 +16,7 @@ Mortgage Broker Website is a one-page site for an independent broker who wants t
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Mortgage Broker Website is a one-page site for an independent broker who wants t
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/mortgage-broker-website?case=8c9b2a6d-5d28-4ec6-b6f4-1260793cc7f4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/mortgage-broker-website/8c9b2a6d-5d28-4ec6-b6f4-1260793cc7f4/shot_desktop.f7a15e778b.webp" width="100%" alt="Mortgage Broker Website — First-time buyer mortgage, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>First-time buyer mortgage</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/mortgage-broker-website?case=8c9b2a6d-5d28-4ec6-b6f4-1260793cc7f4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/mortgage-broker-website?case=8c9b2a6d-5d28-4ec6-b6f4-1260793cc7f4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/mortgage-broker-website?case=7b401107-275c-4927-85d5-4ee7388726df&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/mortgage-broker-website/7b401107-275c-4927-85d5-4ee7388726df/shot_desktop.0a95807b68.webp" width="100%" alt="Mortgage Broker Website — Self-employed buyer mortgage, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Self-employed buyer mortgage</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/mortgage-broker-website?case=7b401107-275c-4927-85d5-4ee7388726df&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/mortgage-broker-website?case=7b401107-275c-4927-85d5-4ee7388726df&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

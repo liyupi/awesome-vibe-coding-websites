@@ -22,7 +22,7 @@ Use the default fictional product studio or replace the app name, workspace, mem
 | Effects | Text Animation, Micro-interactions |
 | Stack | Vite + React + TypeScript + Tailwind CSS 4 + CSS variables + @tailwindcss/vite + react-markdown + remark-gfm |
 | Pages | 1 |
-| Built with | [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ Use the default fictional product studio or replace the app name, workspace, mem
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface — Product studio assistant, built by GPT-6 Astra in Codex"></a><br>
 <b>Product studio assistant</b><br>
-<sub>Built by <b>GPT-6 Astra</b> in Codex · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=5fa4a07a-03b0-4879-b4eb-c4b5e9549927&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/5fa4a07a-03b0-4879-b4eb-c4b5e9549927/shot_desktop.d558e3e743.webp" width="100%" alt="AI Chat App Interface — Community learning assistant, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Community learning assistant</b><br>
-<sub>Built by <b>Gemini 4 Neon</b> in Antigravity · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=5fa4a07a-03b0-4879-b4eb-c4b5e9549927&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=5fa4a07a-03b0-4879-b4eb-c4b5e9549927&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

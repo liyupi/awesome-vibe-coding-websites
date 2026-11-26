@@ -16,7 +16,7 @@ An online grocery shop that behaves like one. The home page opens on a banana-ye
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
-| Built with | [GLM-5.4](../../models/glm-5-4.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/online-grocery-delivery-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ An online grocery shop that behaves like one. The home page opens on a banana-ye
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/online-grocery-delivery-store?case=a49f66c9-5afd-430d-9cbf-c970d1e328f8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/online-grocery-delivery-store/a49f66c9-5afd-430d-9cbf-c970d1e328f8/shot_desktop.b0c3be8c38.webp" width="100%" alt="Online Grocery Delivery Store — Maplewood grocer delivery, built by GLM-5.4 in ZCode"></a><br>
 <b>Maplewood grocer delivery</b><br>
-<sub>Built by <b>GLM-5.4</b> in ZCode · <a href="https://vibefather.ai/templates/online-grocery-delivery-store?case=a49f66c9-5afd-430d-9cbf-c970d1e328f8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/online-grocery-delivery-store?case=a49f66c9-5afd-430d-9cbf-c970d1e328f8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/online-grocery-delivery-store?case=7b961f40-a4bc-49a8-aad3-14359bbdb63b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/online-grocery-delivery-store/7b961f40-a4bc-49a8-aad3-14359bbdb63b/shot_desktop.5a686e8386.webp" width="100%" alt="Online Grocery Delivery Store — Brookfield farm shop delivery, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Brookfield farm shop delivery</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/online-grocery-delivery-store?case=7b961f40-a4bc-49a8-aad3-14359bbdb63b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/online-grocery-delivery-store?case=7b961f40-a4bc-49a8-aad3-14359bbdb63b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

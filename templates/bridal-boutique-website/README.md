@@ -16,7 +16,7 @@ Bridal Boutique Website is a single-page site for an independent bridal salon, i
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/bridal-boutique-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Bridal Boutique Website is a single-page site for an independent bridal salon, i
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bridal-boutique-website?case=9025942f-90fc-445a-b6a9-7487dc7bf9c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/bridal-boutique-website/9025942f-90fc-445a-b6a9-7487dc7bf9c7/shot_desktop.f92be03324.webp" width="100%" alt="Bridal Boutique Website — Bridal boutique, Hartswell, built by GLM-5.3 in ZCode"></a><br>
 <b>Bridal boutique, Hartswell</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/bridal-boutique-website?case=9025942f-90fc-445a-b6a9-7487dc7bf9c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/bridal-boutique-website?case=9025942f-90fc-445a-b6a9-7487dc7bf9c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bridal-boutique-website?case=8c1a3a7f-2bc8-4233-8fb0-d922de9c297f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/bridal-boutique-website/8c1a3a7f-2bc8-4233-8fb0-d922de9c297f/shot_desktop.c2dccfa300.webp" width="100%" alt="Bridal Boutique Website — Bridal salon, Windham Bay, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Bridal salon, Windham Bay</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/bridal-boutique-website?case=8c1a3a7f-2bc8-4233-8fb0-d922de9c297f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/bridal-boutique-website?case=8c1a3a7f-2bc8-4233-8fb0-d922de9c297f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

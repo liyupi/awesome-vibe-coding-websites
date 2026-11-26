@@ -22,7 +22,7 @@ The second example changes the school, city, teaching focus, course content, fac
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |
-| Built with | [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, [GLM-5.3](../../models/glm-5-3.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.1 Sol](../../models/gpt-6-1-sol.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ The second example changes the school, city, teaching focus, course content, fac
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/geometric-art-school-website?case=39850639-35c1-483e-9061-2a3691d12cf0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/geometric-art-school-website/39850639-35c1-483e-9061-2a3691d12cf0/shot_desktop.bc0e4715fc.webp" width="100%" alt="Geometric Art School Website — Independent design school, built by GPT-6.1 Sol in Codex"></a><br>
 <b>Independent design school</b><br>
-<sub>Built by <b>GPT-6.1 Sol</b> in Codex · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=39850639-35c1-483e-9061-2a3691d12cf0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol in Codex · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=39850639-35c1-483e-9061-2a3691d12cf0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/geometric-art-school-website?case=c23f9a62-c6ae-42ba-8f78-559767f4c2ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/geometric-art-school-website/c23f9a62-c6ae-42ba-8f78-559767f4c2ce/shot_desktop.6ec665205d.webp" width="100%" alt="Geometric Art School Website — Creative practice institute, built by GLM-5.3 in ZCode"></a><br>
 <b>Creative practice institute</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=c23f9a62-c6ae-42ba-8f78-559767f4c2ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/geometric-art-school-website?case=c23f9a62-c6ae-42ba-8f78-559767f4c2ce&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

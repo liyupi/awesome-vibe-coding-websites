@@ -20,7 +20,7 @@ A plain HTML navigation mirrors the four objects for keyboard and screen-reader 
 | Effects | 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + three + @react-three/fiber + @react-three/drei |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,19 +30,19 @@ A plain HTML navigation mirrors the four objects for keyboard and screen-reader 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=b2acc2a0-84ad-4fc3-a6d3-85fe9f297357&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/b2acc2a0-84ad-4fc3-a6d3-85fe9f297357/shot_desktop.28bc0f01af.webp" width="100%" alt="Isometric 3D Room Portfolio — Creative front-end developer, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Creative front-end developer</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=b2acc2a0-84ad-4fc3-a6d3-85fe9f297357&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=b2acc2a0-84ad-4fc3-a6d3-85fe9f297357&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=dc8cd063-aafa-4706-bcd2-023c5f4ca154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/dc8cd063-aafa-4706-bcd2-023c5f4ca154/shot_desktop.04a7c40c57.webp" width="100%" alt="Isometric 3D Room Portfolio — Indie game developer, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>Indie game developer</b><br>
-<sub>Built by <b>Claude Sonnet 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=dc8cd063-aafa-4706-bcd2-023c5f4ca154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=dc8cd063-aafa-4706-bcd2-023c5f4ca154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=6cfb20c7-3aba-45ac-b5f9-20d9b653d485&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/6cfb20c7-3aba-45ac-b5f9-20d9b653d485/shot_desktop.1623be71f8.webp" width="100%" alt="Isometric 3D Room Portfolio — Creative front-end developer, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Creative front-end developer</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=6cfb20c7-3aba-45ac-b5f9-20d9b653d485&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=6cfb20c7-3aba-45ac-b5f9-20d9b653d485&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

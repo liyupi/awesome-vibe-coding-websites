@@ -22,7 +22,7 @@ The blog index filters posts by tag and by title on the client, and the post pag
 | Effects | Scroll Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + vanilla HTML/CSS/JS + Vanilla CSS + lucide |
 | Pages | 3 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -32,12 +32,12 @@ The blog index filters posts by tag and by title on the client, and the post pag
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?case=95b6de1a-5ae4-4fff-a146-bf26b7084d23&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/stickerbomb/95b6de1a-5ae4-4fff-a146-bf26b7084d23/shot_desktop.087fb2bba1.webp" width="100%" alt="Neo-Brutalist Blog and Portfolio — Writer and illustrator, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Writer and illustrator</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?case=95b6de1a-5ae4-4fff-a146-bf26b7084d23&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?case=95b6de1a-5ae4-4fff-a146-bf26b7084d23&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?case=52eff5b3-4807-4d1f-993b-691bb5412aef&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/stickerbomb/52eff5b3-4807-4d1f-993b-691bb5412aef/shot_desktop.86313fa6e0.webp" width="100%" alt="Neo-Brutalist Blog and Portfolio — Food writer and printmaker, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Food writer and printmaker</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Cursor · <a href="https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?case=52eff5b3-4807-4d1f-993b-691bb5412aef&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?case=52eff5b3-4807-4d1f-993b-691bb5412aef&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

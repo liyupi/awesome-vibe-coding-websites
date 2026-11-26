@@ -20,7 +20,7 @@ To adapt it, change the name, tagline, opening season, number of koi and session
 | Effects | Generative / Canvas, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + TypeScript, no UI framework + Vanilla CSS + lucide-static |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,7 +30,7 @@ To adapt it, change the name, tagline, opening season, number of koi and session
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/koi-pond-web-toy?case=8efc33b2-f202-41e2-95ec-7e2b006fab13&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/koi-pond-web-toy/8efc33b2-f202-41e2-95ec-7e2b006fab13/shot_desktop.a3b20c2211.webp" width="100%" alt="Koi Pond Web Toy — Summer night study pond, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Summer night study pond</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/koi-pond-web-toy?case=8efc33b2-f202-41e2-95ec-7e2b006fab13&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/koi-pond-web-toy?case=8efc33b2-f202-41e2-95ec-7e2b006fab13&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

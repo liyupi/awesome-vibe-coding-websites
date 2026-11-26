@@ -16,7 +16,7 @@ A single-page site for a small-batch gelato shop, built around color. The page o
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ A single-page site for a small-batch gelato shop, built around color. The page o
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/gelato-shop-website?case=8f676154-e7ba-4319-bca6-3121ffced1de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/gelato-shop-website/8f676154-e7ba-4319-bca6-3121ffced1de/shot_desktop.7d0a12f0ca.webp" width="100%" alt="Gelato Shop Website — Gelato shop, built by GLM-5.3 in ZCode"></a><br>
 <b>Gelato shop</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/gelato-shop-website?case=8f676154-e7ba-4319-bca6-3121ffced1de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/gelato-shop-website?case=8f676154-e7ba-4319-bca6-3121ffced1de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/gelato-shop-website?case=2d868fd9-c951-4da6-8dff-195dda1677dd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/gelato-shop-website/2d868fd9-c951-4da6-8dff-195dda1677dd/shot_desktop.6d2bed276f.webp" width="100%" alt="Gelato Shop Website — Smoothie bowl bar, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Smoothie bowl bar</b><br>
-<sub>Built by <b>DeepSeek V4.1 Flash</b> in DeepSeek Harness · <a href="https://vibefather.ai/templates/gelato-shop-website?case=2d868fd9-c951-4da6-8dff-195dda1677dd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/gelato-shop-website?case=2d868fd9-c951-4da6-8dff-195dda1677dd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

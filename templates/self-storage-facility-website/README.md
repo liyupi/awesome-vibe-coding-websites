@@ -16,7 +16,7 @@ Self Storage Facility Website is a single-page site for a storage facility, in b
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | [GLM-5.3](../../models/glm-5-3.md) in ZCode, [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -26,12 +26,12 @@ Self Storage Facility Website is a single-page site for a storage facility, in b
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/self-storage-facility-website?case=6263ed32-6c77-475a-8a14-30a8a9890546&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/self-storage-facility-website/6263ed32-6c77-475a-8a14-30a8a9890546/shot_desktop.d0a5da8166.webp" width="100%" alt="Self Storage Facility Website — Self storage, Lakemont, built by GLM-5.3 in ZCode"></a><br>
 <b>Self storage, Lakemont</b><br>
-<sub>Built by <b>GLM-5.3</b> in ZCode · <a href="https://vibefather.ai/templates/self-storage-facility-website?case=6263ed32-6c77-475a-8a14-30a8a9890546&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/self-storage-facility-website?case=6263ed32-6c77-475a-8a14-30a8a9890546&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/self-storage-facility-website?case=abb7b5cc-f968-46d9-b62c-8eec1e8bd3d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/self-storage-facility-website/abb7b5cc-f968-46d9-b62c-8eec1e8bd3d8/shot_desktop.ce6d05aade.webp" width="100%" alt="Self Storage Facility Website — Climate storage, Pinecrest, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Climate storage, Pinecrest</b><br>
-<sub>Built by <b>Kimi K3.1 Pro</b> in Kimi Code · <a href="https://vibefather.ai/templates/self-storage-facility-website?case=abb7b5cc-f968-46d9-b62c-8eec1e8bd3d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/self-storage-facility-website?case=abb7b5cc-f968-46d9-b62c-8eec1e8bd3d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>

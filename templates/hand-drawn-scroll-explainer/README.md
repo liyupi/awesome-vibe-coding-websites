@@ -22,7 +22,7 @@ To adapt it, change the variables and rewrite the copy in the one content file. 
 | Effects | Scroll Animation, Text Animation, Micro-interactions |
 | Stack | Vite 5 + TypeScript + Vanilla CSS + gsap |
 | Pages | 1 |
-| Built with | [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
+| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/hand-drawn-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,12 +32,12 @@ To adapt it, change the variables and rewrite the copy in the one content file. 
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?case=2a75af7e-817b-4a70-ad93-7fef287c34fc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hand-drawn-scroll-explainer/2a75af7e-817b-4a70-ad93-7fef287c34fc/shot_desktop.294ea30624.webp" width="100%" alt="Hand-Drawn Scroll Explainer — Photosynthesis, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>Photosynthesis</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?case=2a75af7e-817b-4a70-ad93-7fef287c34fc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?case=2a75af7e-817b-4a70-ad93-7fef287c34fc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?case=bd9271da-e69f-4c16-9b4f-03d0f433db92&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hand-drawn-scroll-explainer/bd9271da-e69f-4c16-9b4f-03d0f433db92/shot_desktop.ed8d02473d.webp" width="100%" alt="Hand-Drawn Scroll Explainer — How a web page loads, built by Claude Opus 5.5 in Claude Code"></a><br>
 <b>How a web page loads</b><br>
-<sub>Built by <b>Claude Opus 5.5</b> in Claude Code · <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?case=bd9271da-e69f-4c16-9b4f-03d0f433db92&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?case=bd9271da-e69f-4c16-9b4f-03d0f433db92&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
