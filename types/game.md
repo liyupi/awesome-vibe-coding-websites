@@ -91,16 +91,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/roguelike-deckbuilder-card-game/133a8b7a-808a-4b9e-9881-9d44563c338a/shot_desktop.4445baf84f.webp" width="100%" alt="Roguelike Deckbuilder Card Game website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/roguelike-deckbuilder-card-game">Roguelike Deckbuilder Card Game</a></b> <sup>PRO</sup><br>
-<sub>Nautical roguelike deckbuilder where a lighthouse keeper climbs storm-wrecked floating islands with 60 cards and 20 relics.</sub><br>
-<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/roguelike-deckbuilder-card-game/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/island-postal-route-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/island-postal-route-game/d8a66cd7-bdcf-44ca-954a-24656d4f99fb/shot_desktop.34f4346fc3.webp" width="100%" alt="Island Postal Route Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/island-postal-route-game">Island Postal Route Game</a></b> <sup>PRO</sup><br>
 <sub>Walk a tiny autumn island, earn three elemental stamps, and open the hilltop temple gate.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/island-postal-route-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/island-postal-route-game/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/roguelike-deckbuilder-card-game/133a8b7a-808a-4b9e-9881-9d44563c338a/shot_desktop.4445baf84f.webp" width="100%" alt="Roguelike Deckbuilder Card Game website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/roguelike-deckbuilder-card-game">Roguelike Deckbuilder Card Game</a></b> <sup>PRO</sup><br>
+<sub>Nautical roguelike deckbuilder where a lighthouse keeper climbs storm-wrecked floating islands with 60 cards and 20 relics.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/roguelike-deckbuilder-card-game/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -133,38 +133,38 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game website template — live demo built by Grok 4.7"></a><br>
+<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
+<sub>Walk a dusk grid, take a pool car, and finish a porch run or a lap as night falls.</sub><br>
+<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/open-world-city-driving-game/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/03c4ac56-fdda-4ae0-9105-2d2ba4e5e717/shot_desktop.864294ab4c.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game website template — live demo built by Grok 4.7"></a><br>
 <b><a href="../templates/sci-fi-arena-wave-survival-game">Sci-Fi Arena Wave Survival Game</a></b><br>
 <sub>A first-person yard shooter with one carbine, pickup cells, and waves of drones.</sub><br>
 <sub>Grok 4.7 · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sci-fi-arena-wave-survival-game/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/light-beam-lens-puzzle-game/3258c5c0-5ac5-4839-b604-2aacb16b271e/shot_desktop.6005e92553.webp" width="100%" alt="Light Beam Lens Puzzle Game website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/light-beam-lens-puzzle-game">Light Beam Lens Puzzle Game</a></b><br>
 <sub>A calm 3D optics puzzle with twelve handcrafted levels, glowing crystals, and thoughtful controls.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/light-beam-lens-puzzle-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/light-beam-lens-puzzle-game/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/bcc699f2-1ce2-4544-acf2-b5b757f140ae/shot_desktop.4d791b0e09.webp" width="100%" alt="Neon Snake 3D Game website template — live demo built by Grok 4.7"></a><br>
 <b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
 <sub>Steer a glowing snake on a dark grid, and take beads that pulse with a short beat.</sub><br>
 <sub>Grok 4.7 · <a href="https://vibefather.ai/templates/neon-snake-3d-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/neon-snake-3d-game/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/5f787637-e0bf-460e-aeb8-9abdb3b13dc7/shot_desktop.52b18247a0.webp" width="100%" alt="Mars Colony Builder Game website template — live demo built by Grok 4.7"></a><br>
 <b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
 <sub>Place four structures, ride the dust storms, and house 50 colonists.</sub><br>
 <sub>Grok 4.7 · <a href="https://vibefather.ai/templates/mars-colony-builder-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/mars-colony-builder-game/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game website template — live demo built by Grok 4.7"></a><br>
-<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
-<sub>Walk a dusk grid, take a pool car, and finish a porch run or a lap as night falls.</sub><br>
-<sub>Grok 4.7 · <a href="https://vibefather.ai/templates/open-world-city-driving-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/open-world-city-driving-game/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/space-dogfight-arcade-game/7041fb7e-09fa-4573-91c8-4fb8666e18d7/shot_desktop.c9b20b9cd3.webp" width="100%" alt="Space Dogfight Arcade Game website template — live demo built by Grok 4.7"></a><br>

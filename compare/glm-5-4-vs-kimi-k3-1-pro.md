@@ -27,18 +27,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/email-inbox-app-interface/4e062e55-3b3b-42d5-9594-666ea72ce6a8/shot_desktop.07c0326984.webp" width="100%" alt="Email Inbox App Interface built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/company-careers-page">Company Careers Page</a></b> — <sub>Careers site with mission and culture, team stories, filterable open roles and a structured application form.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/company-careers-page/b8e2b5cf-2094-46ca-b193-233eadf64655/shot_desktop.67b11eb257.webp" width="100%" alt="Company Careers Page built by GLM-5.4"></a><br><sub><b>GLM-5.4</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/company-careers-page/9f8d2258-fa92-4446-947c-c49649861fca/shot_desktop.bdb022ba8d.webp" width="100%" alt="Company Careers Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/academic-researcher-website">Academic Researcher Website</a></b> — <sub>Professor's homepage with filterable publications, copy-BibTeX, teaching, talks, a printable CV and the lab.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/academic-researcher-website/a761e99d-209a-412a-aa33-dbf549fc1c43/shot_desktop.c42d9daf32.webp" width="100%" alt="Academic Researcher Website built by GLM-5.4"></a><br><sub><b>GLM-5.4</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/academic-researcher-website/6e679c88-f528-4da0-9c06-95d53730949d/shot_desktop.b7936ed8ae.webp" width="100%" alt="Academic Researcher Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/company-careers-page">Company Careers Page</a></b> — <sub>Careers site with mission and culture, team stories, filterable open roles and a structured application form.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/company-careers-page/b8e2b5cf-2094-46ca-b193-233eadf64655/shot_desktop.67b11eb257.webp" width="100%" alt="Company Careers Page built by GLM-5.4"></a><br><sub><b>GLM-5.4</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/company-careers-page/9f8d2258-fa92-4446-947c-c49649861fca/shot_desktop.bdb022ba8d.webp" width="100%" alt="Company Careers Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/landscape-photographer-portfolio">Landscape Photographer Portfolio</a></b> — <sub>Landscape photographer portfolio with full-bleed series, capture details, a print shop, workshops and a journal.</sub></td>
@@ -97,18 +97,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/web-design-studio-website/2f592cb2-f670-4ae8-83de-e59831c0f036/shot_desktop.cb75f9a170.webp" width="100%" alt="Web Design Studio Website built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/flash-sale-landing-page">Flash Sale Landing Page</a></b> — <sub>Evergreen homeware sale page with a countdown, tiered discounts, deal cards, a bundle builder and a gift guide.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/c4bf71ee-4b86-47cf-97cf-7ff5855e5f65/shot_desktop.fab85b1df2.webp" width="100%" alt="Flash Sale Landing Page built by GLM-5.4"></a><br><sub><b>GLM-5.4</b> · ZCode</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/1c42d554-88f9-464c-990c-deae3fd49a38/shot_desktop.36aec23b8b.webp" width="100%" alt="Flash Sale Landing Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/property-search-map-portal">Property Search Map Portal</a></b> — <sub>Home search portal with a code-drawn price map, URL-synced filters, listing pages with a mortgage estimate.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/property-search-map-portal/c64daf5c-c0ed-495c-be2d-6d2d8da85d4f/shot_desktop.f05ad7e1e7.webp" width="100%" alt="Property Search Map Portal built by GLM-5.4"></a><br><sub><b>GLM-5.4</b> · ZCode</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/property-search-map-portal/bd22f23f-9ded-4ac4-aaec-b9bb6fecbe5d/shot_desktop.c303665ec8.webp" width="100%" alt="Property Search Map Portal built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/flash-sale-landing-page">Flash Sale Landing Page</a></b> — <sub>Evergreen homeware sale page with a countdown, tiered discounts, deal cards, a bundle builder and a gift guide.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/c4bf71ee-4b86-47cf-97cf-7ff5855e5f65/shot_desktop.fab85b1df2.webp" width="100%" alt="Flash Sale Landing Page built by GLM-5.4"></a><br><sub><b>GLM-5.4</b> · ZCode</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/glm-5-4-vs-kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/1c42d554-88f9-464c-990c-deae3fd49a38/shot_desktop.36aec23b8b.webp" width="100%" alt="Flash Sale Landing Page built by Kimi K3.1 Pro"></a><br><sub><b>Kimi K3.1 Pro</b> · Kimi Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/discussion-forum-website">Discussion Forum Website</a></b> — <sub>Community forum for an amateur astronomy club, with 40 seeded threads, polls, profiles, notifications and moderation.</sub></td>

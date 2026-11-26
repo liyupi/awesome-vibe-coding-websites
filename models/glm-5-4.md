@@ -74,16 +74,16 @@
 <sub>Brand designer's mailbox · ZCode · <a href="https://vibefather.ai/templates/email-inbox-app-interface?case=a501119e-6ea5-4003-8e6d-f2a6c15e9aed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/company-careers-page?case=b8e2b5cf-2094-46ca-b193-233eadf64655&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/company-careers-page/b8e2b5cf-2094-46ca-b193-233eadf64655/shot_desktop.67b11eb257.webp" width="100%" alt="Company Careers Page built by GLM-5.4 in ZCode"></a><br>
-<b><a href="../templates/company-careers-page">Company Careers Page</a></b><br>
-<sub>Burlington climate-tech careers · ZCode · <a href="https://vibefather.ai/templates/company-careers-page?case=b8e2b5cf-2094-46ca-b193-233eadf64655&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/academic-researcher-website?case=a761e99d-209a-412a-aa33-dbf549fc1c43&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/academic-researcher-website/a761e99d-209a-412a-aa33-dbf549fc1c43/shot_desktop.c42d9daf32.webp" width="100%" alt="Academic Researcher Website built by GLM-5.4 in ZCode"></a><br>
+<b><a href="../templates/academic-researcher-website">Academic Researcher Website</a></b><br>
+<sub>Computational ecology professor · ZCode · <a href="https://vibefather.ai/templates/academic-researcher-website?case=a761e99d-209a-412a-aa33-dbf549fc1c43&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/academic-researcher-website?case=a761e99d-209a-412a-aa33-dbf549fc1c43&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/academic-researcher-website/a761e99d-209a-412a-aa33-dbf549fc1c43/shot_desktop.c42d9daf32.webp" width="100%" alt="Academic Researcher Website built by GLM-5.4 in ZCode"></a><br>
-<b><a href="../templates/academic-researcher-website">Academic Researcher Website</a></b><br>
-<sub>Computational ecology professor · ZCode · <a href="https://vibefather.ai/templates/academic-researcher-website?case=a761e99d-209a-412a-aa33-dbf549fc1c43&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/company-careers-page?case=b8e2b5cf-2094-46ca-b193-233eadf64655&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/company-careers-page/b8e2b5cf-2094-46ca-b193-233eadf64655/shot_desktop.67b11eb257.webp" width="100%" alt="Company Careers Page built by GLM-5.4 in ZCode"></a><br>
+<b><a href="../templates/company-careers-page">Company Careers Page</a></b><br>
+<sub>Burlington climate-tech careers · ZCode · <a href="https://vibefather.ai/templates/company-careers-page?case=b8e2b5cf-2094-46ca-b193-233eadf64655&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/landscape-photographer-portfolio?case=6dde5d1b-7c20-4114-8957-c60908905f8e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/landscape-photographer-portfolio/6dde5d1b-7c20-4114-8957-c60908905f8e/shot_desktop.13f6da26c1.webp" width="100%" alt="Landscape Photographer Portfolio built by GLM-5.4 in ZCode"></a><br>
@@ -134,16 +134,16 @@
 <sub>Seattle web studio · ZCode · <a href="https://vibefather.ai/templates/web-design-studio-website?case=a066f537-6476-43c7-9886-a41c551a44c7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/flash-sale-landing-page?case=c4bf71ee-4b86-47cf-97cf-7ff5855e5f65&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/c4bf71ee-4b86-47cf-97cf-7ff5855e5f65/shot_desktop.fab85b1df2.webp" width="100%" alt="Flash Sale Landing Page built by GLM-5.4 in ZCode"></a><br>
-<b><a href="../templates/flash-sale-landing-page">Flash Sale Landing Page</a></b><br>
-<sub>Cosy home sale · ZCode · <a href="https://vibefather.ai/templates/flash-sale-landing-page?case=c4bf71ee-4b86-47cf-97cf-7ff5855e5f65&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/property-search-map-portal?case=c64daf5c-c0ed-495c-be2d-6d2d8da85d4f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/property-search-map-portal/c64daf5c-c0ed-495c-be2d-6d2d8da85d4f/shot_desktop.f05ad7e1e7.webp" width="100%" alt="Property Search Map Portal built by GLM-5.4 in ZCode"></a><br>
+<b><a href="../templates/property-search-map-portal">Property Search Map Portal</a></b> <sup>PRO</sup><br>
+<sub>Rivermont home search · ZCode · <a href="https://vibefather.ai/templates/property-search-map-portal?case=c64daf5c-c0ed-495c-be2d-6d2d8da85d4f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/property-search-map-portal?case=c64daf5c-c0ed-495c-be2d-6d2d8da85d4f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/property-search-map-portal/c64daf5c-c0ed-495c-be2d-6d2d8da85d4f/shot_desktop.f05ad7e1e7.webp" width="100%" alt="Property Search Map Portal built by GLM-5.4 in ZCode"></a><br>
-<b><a href="../templates/property-search-map-portal">Property Search Map Portal</a></b> <sup>PRO</sup><br>
-<sub>Rivermont home search · ZCode · <a href="https://vibefather.ai/templates/property-search-map-portal?case=c64daf5c-c0ed-495c-be2d-6d2d8da85d4f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/flash-sale-landing-page?case=c4bf71ee-4b86-47cf-97cf-7ff5855e5f65&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/c4bf71ee-4b86-47cf-97cf-7ff5855e5f65/shot_desktop.fab85b1df2.webp" width="100%" alt="Flash Sale Landing Page built by GLM-5.4 in ZCode"></a><br>
+<b><a href="../templates/flash-sale-landing-page">Flash Sale Landing Page</a></b><br>
+<sub>Cosy home sale · ZCode · <a href="https://vibefather.ai/templates/flash-sale-landing-page?case=c4bf71ee-4b86-47cf-97cf-7ff5855e5f65&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/discussion-forum-website?case=eab43f74-04f8-4f22-adcd-5ffe6e15fe88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/discussion-forum-website/eab43f74-04f8-4f22-adcd-5ffe6e15fe88/shot_desktop.904ad477bb.webp" width="100%" alt="Discussion Forum Website built by GLM-5.4 in ZCode"></a><br>

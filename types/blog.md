@@ -63,16 +63,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/trending-topics-microblog/5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07/shot_desktop.7ac356b51e.webp" width="100%" alt="Trending Topics Microblog website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/trending-topics-microblog">Trending Topics Microblog</a></b><br>
-<sub>A warm, interactive microblog with live trend rankings, rich post cards, and a working local composer.</sub><br>
-<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/trending-topics-microblog/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/recipe-blog-website/74802fd1-44b5-48bf-8d4d-2c7eb759a848/shot_desktop.785d5e8dcc.webp" width="100%" alt="Recipe Blog Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/recipe-blog-website">Recipe Blog Website</a></b><br>
 <sub>Kitchen-editorial recipe blog with course and diet filters, a live servings scaler, ingredient checklist, step timers and a print view.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/recipe-blog-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/trending-topics-microblog/5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07/shot_desktop.7ac356b51e.webp" width="100%" alt="Trending Topics Microblog website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/trending-topics-microblog">Trending Topics Microblog</a></b><br>
+<sub>A warm, interactive microblog with live trend rankings, rich post cards, and a working local composer.</sub><br>
+<sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/trending-topics-microblog/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

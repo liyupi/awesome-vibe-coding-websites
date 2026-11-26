@@ -21,38 +21,38 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/3d-colosseum-history-explorer/a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de/shot_desktop.3a065c18ec.webp" width="100%" alt="3D Colosseum History Explorer website template — live demo built by GPT-6.1 Sol"></a><br>
-<b><a href="../templates/3d-colosseum-history-explorer">3D Colosseum History Explorer</a></b> <sup>PRO</sup><br>
-<sub>Explore an ancient amphitheater through arches, cutaways and changing construction states.</sub><br>
-<sub>GPT-6.1 Sol · <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/3d-colosseum-history-explorer/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-lesson-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/4188fe48-fb9e-4033-8327-bb2c87c97d5c/shot_desktop.3985efd5ef.webp" width="100%" alt="Interactive Lesson Slides website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
 <b><a href="../templates/interactive-lesson-slides">Interactive Lesson Slides</a></b><br>
 <sub>A working lesson deck with instant quizzes, a live code slide, drawing tools and a link to every slide.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/interactive-lesson-slides?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-lesson-slides/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/657b7b02-ca74-479b-8ab5-00258c366622/shot_desktop.0d84d6ec7f.webp" width="100%" alt="Black Hole Interactive Explainer website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/black-hole-interactive-explainer">Black Hole Interactive Explainer</a></b><br>
 <sub>Orbit a real-time ray-marched black hole with gravitational lensing, then explore event horizons, time dilation clocks, and cosmic scales.</sub><br>
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/black-hole-interactive-explainer/prompt.md">Prompt</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
-<b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b><br>
-<sub>Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.</sub><br>
-<sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/carbon-cycle-scroll-explainer/prompt.md">Prompt</a></sub>
-</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/3d-colosseum-history-explorer/a6bd31ab-6cf3-4ecc-ab6f-7f39ac2de9de/shot_desktop.3a065c18ec.webp" width="100%" alt="3D Colosseum History Explorer website template — live demo built by GPT-6.1 Sol"></a><br>
+<b><a href="../templates/3d-colosseum-history-explorer">3D Colosseum History Explorer</a></b> <sup>PRO</sup><br>
+<sub>Explore an ancient amphitheater through arches, cutaways and changing construction states.</sub><br>
+<sub>GPT-6.1 Sol · <a href="https://vibefather.ai/templates/3d-colosseum-history-explorer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/3d-colosseum-history-explorer/prompt.md">Prompt</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-animal-cell-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/3d-animal-cell-explainer/9d298af3-2b58-4b68-b434-5f5074094893/shot_desktop.974a33040b.webp" width="100%" alt="3D Animal Cell Explainer website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/3d-animal-cell-explainer">3D Animal Cell Explainer</a></b><br>
 <sub>Interactive risograph 3D animal cell cutaway in Three.js with organelle fly-ins, live animations, and protein pathway.</sub><br>
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/3d-animal-cell-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/3d-animal-cell-explainer/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer website template — live demo built by Claude Opus 5.5 and Gemini 4 Carbon"></a><br>
+<b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b><br>
+<sub>Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.</sub><br>
+<sub>Claude Opus 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/carbon-cycle-scroll-explainer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hand-drawn-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/hand-drawn-scroll-explainer/2a75af7e-817b-4a70-ad93-7fef287c34fc/shot_desktop.294ea30624.webp" width="100%" alt="Hand-Drawn Scroll Explainer website template — live demo built by Claude Opus 5.5"></a><br>
@@ -97,18 +97,18 @@
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Gemini 4 Carbon · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sorting-algorithms-visualizer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/music-theory-interactive-lesson?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/af0603c9-6944-49b1-a393-b071ab0ea5ca/shot_desktop.28b8e07783.webp" width="100%" alt="Music Theory Interactive Lesson website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
-<b><a href="../templates/music-theory-interactive-lesson">Music Theory Interactive Lesson</a></b><br>
-<sub>Press a key, hear the interval, watch the theory light up: a playable lesson on one long page.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/music-theory-interactive-lesson?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/music-theory-interactive-lesson/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/ef01b8f6-ba7e-42af-b0b8-a2c800eae935/shot_desktop.31e604e972.webp" width="100%" alt="Interactive Apartment Floor Plan Tour website template — live demo built by GPT-6.1 Sol"></a><br>
 <b><a href="../templates/interactive-apartment-floor-plan-tour">Interactive Apartment Floor Plan Tour</a></b> <sup>PRO</sup><br>
 <sub>Move from a measured floor plan to a furnished apartment, one room at a time.</sub><br>
 <sub>GPT-6.1 Sol · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-apartment-floor-plan-tour/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/music-theory-interactive-lesson?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/af0603c9-6944-49b1-a393-b071ab0ea5ca/shot_desktop.28b8e07783.webp" width="100%" alt="Music Theory Interactive Lesson website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
+<b><a href="../templates/music-theory-interactive-lesson">Music Theory Interactive Lesson</a></b><br>
+<sub>Press a key, hear the interval, watch the theory light up: a playable lesson on one long page.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/music-theory-interactive-lesson?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/music-theory-interactive-lesson/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/21de6634-1fcc-4e2b-afdc-737b5e339799/shot_desktop.2bb06ac656.webp" width="100%" alt="How the Internet Works Explainer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>

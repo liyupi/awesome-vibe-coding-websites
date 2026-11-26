@@ -62,6 +62,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/kinetic-typography-portfolio/ea4661ec-3a34-4021-9c13-d929ecec85ea/shot_desktop.8bd8fef2b7.webp" width="100%" alt="Kinetic Typography Portfolio built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/interactive-lesson-slides">Interactive Lesson Slides</a></b> — <sub>A working lesson deck with instant quizzes, a live code slide, drawing tools and a link to every slide.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/4188fe48-fb9e-4033-8327-bb2c87c97d5c/shot_desktop.3985efd5ef.webp" width="100%" alt="Interactive Lesson Slides built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/b51fae47-e4fe-41cb-9421-fb764515c109/shot_desktop.7003d11fcd.webp" width="100%" alt="Interactive Lesson Slides built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/isometric-3d-room-portfolio">Isometric 3D Room Portfolio</a></b> — <sub>A developer portfolio set in a cozy 3D room where each object opens a section and a lamp turns on night.</sub></td>
 </tr>
 <tr>
@@ -74,13 +81,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boxing-and-strength-gym-website/334702f0-0981-4390-9b1a-60e47104f5c3/shot_desktop.5491103041.webp" width="100%" alt="Boxing and Strength Gym Website built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boxing-and-strength-gym-website/6ab01a75-3c61-48a3-b60a-d3b532f16e53/shot_desktop.c125ac4f14.webp" width="100%" alt="Boxing and Strength Gym Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/interactive-lesson-slides">Interactive Lesson Slides</a></b> — <sub>A working lesson deck with instant quizzes, a live code slide, drawing tools and a link to every slide.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/4188fe48-fb9e-4033-8327-bb2c87c97d5c/shot_desktop.3985efd5ef.webp" width="100%" alt="Interactive Lesson Slides built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/b51fae47-e4fe-41cb-9421-fb764515c109/shot_desktop.7003d11fcd.webp" width="100%" alt="Interactive Lesson Slides built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/music-festival-website">Music Festival Website</a></b> — <sub>A three-page festival site with a sound-reactive hero, filterable line-up, illustrated map and ticket table.</sub></td>
@@ -104,18 +104,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/tidestone/b5845f86-1106-4039-b50c-5a82815cd67c/shot_desktop.3328b4e17b.webp" width="100%" alt="Boutique Hotel Website built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/infinite-canvas-moodboard">Infinite Canvas Moodboard</a></b> — <sub>A studio table you can pan, zoom and rearrange: boards, notes and swatches that move like real paper.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/4e8dfefa-b5b5-4349-b33f-ecf48bd92886/shot_desktop.70a45f0b69.webp" width="100%" alt="Infinite Canvas Moodboard built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/25f3132f-88da-4688-86b4-90b12906fb31/shot_desktop.b13a37fe91.webp" width="100%" alt="Infinite Canvas Moodboard built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b> — <sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/9126a881-09a8-4bb2-adbf-a16a6d5d143d/shot_desktop.fe52f830a1.webp" width="100%" alt="Physics Playground Landing Page built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/0f9133ad-e1bd-4bf7-9ab6-57813f009509/shot_desktop.bb67d69864.webp" width="100%" alt="Physics Playground Landing Page built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Cursor</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/infinite-canvas-moodboard">Infinite Canvas Moodboard</a></b> — <sub>A studio table you can pan, zoom and rearrange: boards, notes and swatches that move like real paper.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/4e8dfefa-b5b5-4349-b33f-ecf48bd92886/shot_desktop.70a45f0b69.webp" width="100%" alt="Infinite Canvas Moodboard built by Claude Opus 5.5"></a><br><sub><b>Claude Opus 5.5</b> · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/25f3132f-88da-4688-86b4-90b12906fb31/shot_desktop.b13a37fe91.webp" width="100%" alt="Infinite Canvas Moodboard built by Claude Sonnet 5.5"></a><br><sub><b>Claude Sonnet 5.5</b> · Claude Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/ai-image-generator-landing-page">AI Image Generator Landing Page</a></b> — <sub>A dark landing page for an AI image app, with a typing prompt hero that morphs the image beside it.</sub></td>

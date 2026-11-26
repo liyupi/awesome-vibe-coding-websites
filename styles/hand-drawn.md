@@ -63,16 +63,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/shot_desktop.cb7bf16b09.webp" width="100%" alt="Craft Brewery Taproom Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
-<b><a href="../templates/craft-brewery-taproom-website">Craft Brewery Taproom Website</a></b><br>
-<sub>A screen-print label-art brewery site with a filterable tap list and a flight builder that pours in code.</sub><br>
-<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/craft-brewery-taproom-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/gelato-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/gelato-shop-website/8f676154-e7ba-4319-bca6-3121ffced1de/shot_desktop.7d0a12f0ca.webp" width="100%" alt="Gelato Shop Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/gelato-shop-website">Gelato Shop Website</a></b><br>
 <sub>A pastel gelato shop site with a flavor wall, dietary filters and a build-a-cup SVG configurator.</sub><br>
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/gelato-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/gelato-shop-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/craft-brewery-taproom-website/5185e329-f3da-4dd2-ad6f-242f896e66ae/shot_desktop.cb7bf16b09.webp" width="100%" alt="Craft Brewery Taproom Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
+<b><a href="../templates/craft-brewery-taproom-website">Craft Brewery Taproom Website</a></b><br>
+<sub>A screen-print label-art brewery site with a filterable tap list and a flight builder that pours in code.</sub><br>
+<sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/craft-brewery-taproom-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/craft-brewery-taproom-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

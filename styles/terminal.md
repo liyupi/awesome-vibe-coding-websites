@@ -41,18 +41,18 @@
 <sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/hackathon-event-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/hackathon-event-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/open-source-project-homepage/8a911742-c560-4e29-ad52-8c3a8fa8760e/shot_desktop.24a3cbc8c5.webp" width="100%" alt="Open Source Project Homepage website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/open-source-project-homepage">Open Source Project Homepage</a></b><br>
-<sub>Homepage for an open-source library: copyable install command, tabbed code example, feature grid, contributors and sponsor tiers.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/open-source-project-homepage/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/stock-trading-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/stock-trading-dashboard/c63a370b-d7c4-489c-b2a8-9cb6c824e65f/shot_desktop.fab7e3a5c4.webp" width="100%" alt="Stock Trading Dashboard website template — live demo built by GPT-6.2 Astra and Gemini 4 Neon"></a><br>
 <b><a href="../templates/stock-trading-dashboard">Stock Trading Dashboard</a></b> <sup>PRO</sup><br>
 <sub>Explore a fictional market, read its tape, and follow a paper order from ticket to fill.</sub><br>
 <sub>GPT-6.2 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/stock-trading-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/stock-trading-dashboard/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/open-source-project-homepage/8a911742-c560-4e29-ad52-8c3a8fa8760e/shot_desktop.24a3cbc8c5.webp" width="100%" alt="Open Source Project Homepage website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/open-source-project-homepage">Open Source Project Homepage</a></b><br>
+<sub>Homepage for an open-source library: copyable install command, tabbed code example, feature grid, contributors and sponsor tiers.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/open-source-project-homepage/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/dark-developer-tool-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/dark-developer-tool-launch-page/80c96b0a-7fb8-48cf-92f1-200d451c5030/shot_desktop.87b3f45279.webp" width="100%" alt="Dark Developer Tool Launch Page website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and DeepSeek V4.1 Flash"></a><br>

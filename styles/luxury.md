@@ -119,24 +119,24 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/personal-chef-service-website">Personal Chef Service Website</a></b><br>
+<sub>Moody personal-chef site with tasting-menu cards and a per-guest pricing calculator built in.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/personal-chef-service-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/new-home-development-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/new-home-development-website/e51fed12-1e5d-4e75-b86e-4857dbc9d6f8/shot_desktop.57c22d0073.webp" width="100%" alt="New Home Development Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/new-home-development-website">New Home Development Website</a></b> <sup>PRO</sup><br>
 <sub>48-townhome community sales site with interactive lot plan, 2D floor plans, and a walkable Three.js 3D model home with live upgrade pricing.</sub><br>
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/new-home-development-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/new-home-development-website/prompt.md">Prompt</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/bridal-boutique-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/bridal-boutique-website/9025942f-90fc-445a-b6a9-7487dc7bf9c7/shot_desktop.f92be03324.webp" width="100%" alt="Bridal Boutique Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/bridal-boutique-website">Bridal Boutique Website</a></b> <sup>PRO</sup><br>
 <sub>An editorial blush-and-wine bridal boutique with a style quiz, filterable gown collection and party-size appointments.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/bridal-boutique-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/bridal-boutique-website/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/personal-chef-service-website">Personal Chef Service Website</a></b><br>
-<sub>Moody personal-chef site with tasting-menu cards and a per-guest pricing calculator built in.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles">Live demo</a> · <a href="../templates/personal-chef-service-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/jewelry-online-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=styles"><img src="https://media.vibefather.ai/t/jewelry-online-store/a676e73c-e9fe-4cbb-a24e-1594a6219efc/shot_desktop.77a1bb727c.webp" width="100%" alt="Jewelry Online Store website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>

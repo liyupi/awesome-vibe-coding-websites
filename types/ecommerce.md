@@ -91,16 +91,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/furniture-store-catalog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/furniture-store-catalog/8d96cd18-64c6-4938-a6a4-a9d9756491c0/shot_desktop.12484d9b6c.webp" width="100%" alt="Furniture Store Catalog website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/furniture-store-catalog">Furniture Store Catalog</a></b><br>
-<sub>Warm showroom furniture catalogue with room navigation, materials filter, SVG dimension diagrams and a bag drawer.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/furniture-store-catalog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/furniture-store-catalog/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/used-car-dealership-website/b251be65-1825-4174-8904-d8e717428311/shot_desktop.ea81a65b0e.webp" width="100%" alt="Used Car Dealership Website website template — live demo built by GLM-5.3 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/used-car-dealership-website">Used Car Dealership Website</a></b> <sup>PRO</sup><br>
 <sub>A modern graphite-and-yellow dealership site with real inventory filters, a payment calculator and three-car compare.</sub><br>
 <sub>GLM-5.3 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/used-car-dealership-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/used-car-dealership-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/furniture-store-catalog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/furniture-store-catalog/8d96cd18-64c6-4938-a6a4-a9d9756491c0/shot_desktop.12484d9b6c.webp" width="100%" alt="Furniture Store Catalog website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/furniture-store-catalog">Furniture Store Catalog</a></b><br>
+<sub>Warm showroom furniture catalogue with room navigation, materials filter, SVG dimension diagrams and a bag drawer.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/furniture-store-catalog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/furniture-store-catalog/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -119,10 +119,24 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/consumer-electronics-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/consumer-electronics-store/e1fcb48b-c423-4373-ae67-f3801664bd88/shot_desktop.43e8ec36da.webp" width="100%" alt="Consumer Electronics Store website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/consumer-electronics-store">Consumer Electronics Store</a></b> <sup>PRO</sup><br>
+<sub>Multi-category electronics store with mega menu, spec filters, 3-device compare, protection-plan cart, mock checkout, and tracking.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/consumer-electronics-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/consumer-electronics-store/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/family-winery-and-vineyard-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/family-winery-and-vineyard-website/26f122e7-6259-4198-ad90-8503bf18dbd9/shot_desktop.06d1b651b6.webp" width="100%" alt="Family Winery and Vineyard Website website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
 <b><a href="../templates/family-winery-and-vineyard-website">Family Winery and Vineyard Website</a></b><br>
 <sub>Three-page winery site with vineyard photos, a client-side wine shop, tasting bookings and an SVG estate map.</sub><br>
 <sub>Claude Opus 5.5 · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/family-winery-and-vineyard-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/family-winery-and-vineyard-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
+<b><a href="../templates/sticker-shop-website">Sticker Shop Website</a></b><br>
+<sub>A cherry-and-lemon sticker shop with original art, product photos, a six-slot pack builder, and local cart.</sub><br>
+<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sticker-shop-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/painter-portfolio-and-print-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/painter-portfolio-and-print-shop/4679ba66-293e-4438-baa9-8729f597243a/shot_desktop.ca2292e1ff.webp" width="100%" alt="Painter Portfolio and Print Shop website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
@@ -147,24 +161,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/consumer-electronics-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/consumer-electronics-store/e1fcb48b-c423-4373-ae67-f3801664bd88/shot_desktop.43e8ec36da.webp" width="100%" alt="Consumer Electronics Store website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/consumer-electronics-store">Consumer Electronics Store</a></b> <sup>PRO</sup><br>
-<sub>Multi-category electronics store with mega menu, spec filters, 3-device compare, protection-plan cart, mock checkout, and tracking.</sub><br>
-<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/consumer-electronics-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/consumer-electronics-store/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/digital-download-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/digital-download-shop/22112d9f-30b1-409e-b2b6-f3b6df106a45/shot_desktop.bea37ab228.webp" width="100%" alt="Digital Download Shop website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/digital-download-shop">Digital Download Shop</a></b><br>
 <sub>Original digital goods with clear licenses, tactile previews, and an instant-download experience.</sub><br>
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/digital-download-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/digital-download-shop/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sticker-shop-website/bb9a8a84-0f24-4638-999e-cbd7715918e6/shot_desktop.36b1d03e85.webp" width="100%" alt="Sticker Shop Website website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
-<b><a href="../templates/sticker-shop-website">Sticker Shop Website</a></b><br>
-<sub>A cherry-and-lemon sticker shop with original art, product photos, a six-slot pack builder, and local cart.</sub><br>
-<sub>GPT-6.1 Sol · GLM-5.3 · <a href="https://vibefather.ai/templates/sticker-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sticker-shop-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/car-rental-booking-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/car-rental-booking-website/c9bf72c6-58e7-4ffc-ae9c-baed276cffb0/shot_desktop.d9f3b0ff01.webp" width="100%" alt="Car Rental Booking Website website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
@@ -179,23 +179,23 @@
 
 | Template | What it is | Built with | |
 |---|---|---|---|
+| [Mechanical Keyboard Configurator](../templates/mechanical-keyboard-configurator) <sup>PRO</sup> | Shape a working keyboard in 3D, hear its switches and compare two builds. | Gemini 4 Neon | [Live demo](https://vibefather.ai/templates/mechanical-keyboard-configurator?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/mechanical-keyboard-configurator/prompt.md) |
+| [Indie Record Label Website](../templates/indie-record-label-website) | Riso-poster record label site with generative sleeves, a tour feed, and a local vinyl variant shop. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/indie-record-label-website/prompt.md) |
 | [Landscape Photographer Portfolio](../templates/landscape-photographer-portfolio) | Landscape photographer portfolio with full-bleed series, capture details, a print shop, workshops and a journal. | GLM-5.4, Kimi K3.1 Pro | [Live demo](https://vibefather.ai/templates/landscape-photographer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/landscape-photographer-portfolio/prompt.md) |
 | [Sea Salt Brand Website](../templates/sea-salt-brand-website) <sup>PRO</sup> | A tidal water surface opens a tactile salt shop, harvest story and marsh visit. | GPT-6.1 Sol | [Live demo](https://vibefather.ai/templates/sea-salt-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/sea-salt-brand-website/prompt.md) |
-| [Indie Record Label Website](../templates/indie-record-label-website) | Riso-poster record label site with generative sleeves, a tour feed, and a local vinyl variant shop. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/indie-record-label-website/prompt.md) |
 | [New Home Development Website](../templates/new-home-development-website) <sup>PRO</sup> | 48-townhome community sales site with interactive lot plan, 2D floor plans, and a walkable Three.js 3D model home with live upgrade pricing. | Gemini 4 Neon, GPT-6.2 Sol | [Live demo](https://vibefather.ai/templates/new-home-development-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/new-home-development-website/prompt.md) |
 | [Bridal Boutique Website](../templates/bridal-boutique-website) <sup>PRO</sup> | An editorial blush-and-wine bridal boutique with a style quiz, filterable gown collection and party-size appointments. | GLM-5.3, Kimi K3.1 Pro | [Live demo](https://vibefather.ai/templates/bridal-boutique-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/bridal-boutique-website/prompt.md) |
 | [Jewelry Online Store](../templates/jewelry-online-store) <sup>PRO</sup> | An editorial jewelry shop with filters, personalization, gift wrapping and a complete client-side checkout. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/jewelry-online-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/jewelry-online-store/prompt.md) |
 | [Pizza Ordering Website](../templates/pizza-ordering-website) | A warm pizzeria menu with a live pizza builder, cart, time slots, and a complete demo order flow. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/pizza-ordering-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/pizza-ordering-website/prompt.md) |
 | [Farm Shop and CSA Website](../templates/farm-shop-and-csa-website) | A warm farm website with seasonal produce, flexible CSA shares, a local shop, and visitor events. | Kimi K3.1 Pro, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/farm-shop-and-csa-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/farm-shop-and-csa-website/prompt.md) |
-| [Mechanical Keyboard Configurator](../templates/mechanical-keyboard-configurator) <sup>PRO</sup> | Shape a working keyboard in 3D, hear its switches and compare two builds. | Gemini 4 Neon | [Live demo](https://vibefather.ai/templates/mechanical-keyboard-configurator?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/mechanical-keyboard-configurator/prompt.md) |
 | [Running Shoe Product Launch Page](../templates/running-shoe-product-launch-page) <sup>PRO</sup> | An electric blue and volt shoe launch with original 3D rotation, product photography, and honest demo tools. | GPT-6.1 Sol, GLM-5.3 | [Live demo](https://vibefather.ai/templates/running-shoe-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/running-shoe-product-launch-page/prompt.md) |
 | [Skincare Brand Shop](../templates/skincare-brand-shop) | Apothecary-clean skincare shop with a routine-builder quiz, ingredient-first product pages, bundles and a cart. | GLM-5.3 | [Live demo](https://vibefather.ai/templates/skincare-brand-shop?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/skincare-brand-shop/prompt.md) |
 | [Plant Shop Website](../templates/plant-shop-website) | Sunlit plant shop with light and pet-safe filters, care cards, pot pairing and a finder quiz. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/plant-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/plant-shop-website/prompt.md) |
-| [Florist Shop Website](../templates/florist-shop-website) | Florist shop with a bouquet catalogue, size and vase options, delivery date picker, gift message and a client-side cart. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/florist-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/florist-shop-website/prompt.md) |
 | [Online Grocery Delivery Store](../templates/online-grocery-delivery-store) <sup>PRO</sup> | Grocery delivery shop with quantity steppers, delivery slots, recipes that fill the basket and reordering. | GLM-5.4, Kimi K3.1 Pro | [Live demo](https://vibefather.ai/templates/online-grocery-delivery-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/online-grocery-delivery-store/prompt.md) |
+| [Florist Shop Website](../templates/florist-shop-website) | Florist shop with a bouquet catalogue, size and vase options, delivery date picker, gift message and a client-side cart. | GLM-5.3, DeepSeek V4.1 Flash | [Live demo](https://vibefather.ai/templates/florist-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/florist-shop-website/prompt.md) |
 | [Illustrator Portfolio Website](../templates/illustrator-portfolio-website) | Illustrator portfolio with a filterable gouache gallery, process pages, a print shop and a commission form. | GLM-5.4, Kimi K3.1 Pro | [Live demo](https://vibefather.ai/templates/illustrator-portfolio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/illustrator-portfolio-website/prompt.md) |
-| [Flash Sale Landing Page](../templates/flash-sale-landing-page) | Evergreen homeware sale page with a countdown, tiered discounts, deal cards, a bundle builder and a gift guide. | GLM-5.4, Kimi K3.1 Pro | [Live demo](https://vibefather.ai/templates/flash-sale-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/flash-sale-landing-page/prompt.md) |
 | [Property Search Map Portal](../templates/property-search-map-portal) <sup>PRO</sup> | Home search portal with a code-drawn price map, URL-synced filters, listing pages with a mortgage estimate. | GLM-5.4, Kimi K3.1 Pro | [Live demo](https://vibefather.ai/templates/property-search-map-portal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/property-search-map-portal/prompt.md) |
+| [Flash Sale Landing Page](../templates/flash-sale-landing-page) | Evergreen homeware sale page with a countdown, tiered discounts, deal cards, a bundle builder and a gift guide. | GLM-5.4, Kimi K3.1 Pro | [Live demo](https://vibefather.ai/templates/flash-sale-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/flash-sale-landing-page/prompt.md) |
 | [Theater Show Ticketing Website](../templates/theater-show-ticketing-website) <sup>PRO</sup> | Take a seat at an original musical, from the first glimpse of the stage to a scannable ticket. | GPT-6.2 Astra, Gemini 4 Neon | [Live demo](https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types) · [Prompt](../templates/theater-show-ticketing-website/prompt.md) |
 
 ---

@@ -21,16 +21,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/online-learning-platform/4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f/shot_desktop.efbbd23f9e.webp" width="100%" alt="Online Learning Platform website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/online-learning-platform">Online Learning Platform</a></b> <sup>PRO</sup><br>
-<sub>Course platform opening mid-course on a learner dashboard with animated visual lessons, captions, notes, quizzes, and certificates.</sub><br>
-<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/online-learning-platform/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/f065f39a-f6c4-48bb-ad25-b54f90c55e18/shot_desktop.0efaa6a220.webp" width="100%" alt="Developer Utilities Toolbox website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
 <b><a href="../templates/developer-utilities-toolbox">Developer Utilities Toolbox</a></b><br>
 <sub>15 working browser-local developer utilities with Cmd+K jumper, favorites, history, and dark mode.</sub><br>
 <sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/developer-utilities-toolbox/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/online-learning-platform/4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f/shot_desktop.efbbd23f9e.webp" width="100%" alt="Online Learning Platform website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<b><a href="../templates/online-learning-platform">Online Learning Platform</a></b> <sup>PRO</sup><br>
+<sub>Course platform opening mid-course on a learner dashboard with animated visual lessons, captions, notes, quizzes, and certificates.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Sol · <a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/online-learning-platform/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -69,18 +69,18 @@
 <sub>Kimi K3.1 Pro · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/short-video-feed-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/short-video-feed-app/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/shot_desktop.161ce28382.webp" width="100%" alt="Resume Builder Web App website template — live demo built by GPT-6 Astra and Gemini 4 Neon"></a><br>
-<b><a href="../templates/resume-builder-web-app">Resume Builder Web App</a></b><br>
-<sub>Edit your experience beside the printed page, check its reading order, and save a copy to take with you.</sub><br>
-<sub>GPT-6 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/resume-builder-web-app/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/stock-trading-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/stock-trading-dashboard/c63a370b-d7c4-489c-b2a8-9cb6c824e65f/shot_desktop.fab7e3a5c4.webp" width="100%" alt="Stock Trading Dashboard website template — live demo built by GPT-6.2 Astra and Gemini 4 Neon"></a><br>
 <b><a href="../templates/stock-trading-dashboard">Stock Trading Dashboard</a></b> <sup>PRO</sup><br>
 <sub>Explore a fictional market, read its tape, and follow a paper order from ticket to fill.</sub><br>
 <sub>GPT-6.2 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/stock-trading-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/stock-trading-dashboard/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/shot_desktop.161ce28382.webp" width="100%" alt="Resume Builder Web App website template — live demo built by GPT-6 Astra and Gemini 4 Neon"></a><br>
+<b><a href="../templates/resume-builder-web-app">Resume Builder Web App</a></b><br>
+<sub>Edit your experience beside the printed page, check its reading order, and save a copy to take with you.</sub><br>
+<sub>GPT-6 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/resume-builder-web-app/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 </table>

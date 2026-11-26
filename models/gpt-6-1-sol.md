@@ -50,21 +50,21 @@
 <sub>Underground techno night · Codex · <a href="https://vibefather.ai/templates/techno-club-night-event-page?case=2392216c-3d86-46ae-b023-cac51818f016&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
-<sub>Independent culture magazine · Codex · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/98a734ea-5425-4d3f-934e-47bcc822c27b/shot_desktop.f1ca409b68.webp" width="100%" alt="Interactive Apartment Floor Plan Tour built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/interactive-apartment-floor-plan-tour">Interactive Apartment Floor Plan Tour</a></b> <sup>PRO</sup><br>
 <sub>Cove Court coastal apartment · Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=98a734ea-5425-4d3f-934e-47bcc822c27b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/interactive-apartment-floor-plan-tour/ef01b8f6-ba7e-42af-b0b8-a2c800eae935/shot_desktop.31e604e972.webp" width="100%" alt="Interactive Apartment Floor Plan Tour built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/interactive-apartment-floor-plan-tour">Interactive Apartment Floor Plan Tour</a></b> <sup>PRO</sup><br>
 <sub>Alder House city apartment · Codex · <a href="https://vibefather.ai/templates/interactive-apartment-floor-plan-tour?case=ef01b8f6-ba7e-42af-b0b8-a2c800eae935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/risograph-indie-magazine-website/1ac197ae-a209-4af5-bbfb-1777e739be31/shot_desktop.3a3fb0885f.webp" width="100%" alt="Risograph Indie Magazine Website built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/risograph-indie-magazine-website">Risograph Indie Magazine Website</a></b><br>
+<sub>Independent culture magazine · Codex · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?case=1ac197ae-a209-4af5-bbfb-1777e739be31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

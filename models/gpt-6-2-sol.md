@@ -14,16 +14,16 @@
 <sub>Singularity Field Notes (Cygnus-Core 9) · Codex · <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=e08ad67c-5e56-4f03-b4a3-5cd6879e1641&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/first-person-ski-run-game?case=8edde067-23c8-4ff0-a579-7bef876f99a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/first-person-ski-run-game/8edde067-23c8-4ff0-a579-7bef876f99a5/shot_desktop.8508e00a5e.webp" width="100%" alt="First-Person Ski Run Game built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/first-person-ski-run-game">First-Person Ski Run Game</a></b><br>
-<sub>Glacier Line (Kestrel Peak) · Codex · <a href="https://vibefather.ai/templates/first-person-ski-run-game?case=8edde067-23c8-4ff0-a579-7bef876f99a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=c5bdc96b-152b-4890-853c-db383fd155e9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-animal-cell-explainer/c5bdc96b-152b-4890-853c-db383fd155e9/shot_desktop.decac333b9.webp" width="100%" alt="3D Animal Cell Explainer built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/3d-animal-cell-explainer">3D Animal Cell Explainer</a></b><br>
+<sub>Biofield Studio · The Living Cell Cutaway · Codex · <a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=c5bdc96b-152b-4890-853c-db383fd155e9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=c5bdc96b-152b-4890-853c-db383fd155e9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-animal-cell-explainer/c5bdc96b-152b-4890-853c-db383fd155e9/shot_desktop.decac333b9.webp" width="100%" alt="3D Animal Cell Explainer built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/3d-animal-cell-explainer">3D Animal Cell Explainer</a></b><br>
-<sub>Biofield Studio · The Living Cell Cutaway · Codex · <a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=c5bdc96b-152b-4890-853c-db383fd155e9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/first-person-ski-run-game?case=8edde067-23c8-4ff0-a579-7bef876f99a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/first-person-ski-run-game/8edde067-23c8-4ff0-a579-7bef876f99a5/shot_desktop.8508e00a5e.webp" width="100%" alt="First-Person Ski Run Game built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/first-person-ski-run-game">First-Person Ski Run Game</a></b><br>
+<sub>Glacier Line (Kestrel Peak) · Codex · <a href="https://vibefather.ai/templates/first-person-ski-run-game?case=8edde067-23c8-4ff0-a579-7bef876f99a5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/browser-flight-simulator-game?case=b8db1754-8a53-40cf-a553-5dd051d79882&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/b8db1754-8a53-40cf-a553-5dd051d79882/shot_desktop.59e12a4f07.webp" width="100%" alt="Browser Flight Simulator Game built by GPT-6.2 Sol in Codex"></a><br>
@@ -57,14 +57,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/online-learning-platform?case=a5e7a3a5-6a9e-46de-af89-7272eb249e8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/online-learning-platform/a5e7a3a5-6a9e-46de-af89-7272eb249e8a/shot_desktop.9578aa52b0.webp" width="100%" alt="Online Learning Platform built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/online-learning-platform">Online Learning Platform</a></b> <sup>PRO</sup><br>
-<sub>Northstar Guild · Codex · <a href="https://vibefather.ai/templates/online-learning-platform?case=a5e7a3a5-6a9e-46de-af89-7272eb249e8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=1d175a60-c7f8-4a4b-a287-ea49b16d69ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/1d175a60-c7f8-4a4b-a287-ea49b16d69ee/shot_desktop.f9478fbd40.webp" width="100%" alt="Developer Utilities Toolbox built by GPT-6.2 Sol in Codex"></a><br>
 <b><a href="../templates/developer-utilities-toolbox">Developer Utilities Toolbox</a></b><br>
 <sub>Kestrel Tools · Codex · <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=1d175a60-c7f8-4a4b-a287-ea49b16d69ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/online-learning-platform?case=a5e7a3a5-6a9e-46de-af89-7272eb249e8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/online-learning-platform/a5e7a3a5-6a9e-46de-af89-7272eb249e8a/shot_desktop.9578aa52b0.webp" width="100%" alt="Online Learning Platform built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/online-learning-platform">Online Learning Platform</a></b> <sup>PRO</sup><br>
+<sub>Northstar Guild · Codex · <a href="https://vibefather.ai/templates/online-learning-platform?case=a5e7a3a5-6a9e-46de-af89-7272eb249e8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -74,33 +74,33 @@
 <sub>Banner Sketch (Scarlet vs Azure) · Codex · <a href="https://vibefather.ai/templates/draw-battle-simulator-game?case=3a770449-ae99-4794-91f7-f34aebc9a3ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/online-code-playground/a5cc8c47-8a3e-44a6-b894-ab1e652bd923/shot_desktop.2542f670ae.webp" width="100%" alt="Online Code Playground built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/online-code-playground">Online Code Playground</a></b><br>
-<sub>LoomLab · Codex · <a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/particle-morph-3d-landing-page/abc2cbe9-f726-47c1-bd32-8272071d1bb8/shot_desktop.d7b226b20f.webp" width="100%" alt="Particle Morph 3D Landing Page built by GPT-6.2 Sol in Codex"></a><br>
 <b><a href="../templates/particle-morph-3d-landing-page">Particle Morph 3D Landing Page</a></b><br>
 <sub>Velvet Arc (Studio Reference Wireless Headset) · Codex · <a href="https://vibefather.ai/templates/particle-morph-3d-landing-page?case=abc2cbe9-f726-47c1-bd32-8272071d1bb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/product-documentation-website/dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d/shot_desktop.62b7650244.webp" width="100%" alt="Product Documentation Website built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/product-documentation-website">Product Documentation Website</a></b><br>
-<sub>Background job queue SDK · Codex · <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/20464864-d9d7-464f-b5d3-6974df1dc7ed/shot_desktop.937dc833f8.webp" width="100%" alt="Code Hosting Platform App built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/code-hosting-platform-app">Code Hosting Platform App</a></b> <sup>PRO</sup><br>
-<sub>Audio DSP toolkit org · Codex · <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/online-code-playground/a5cc8c47-8a3e-44a6-b894-ab1e652bd923/shot_desktop.2542f670ae.webp" width="100%" alt="Online Code Playground built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/online-code-playground">Online Code Playground</a></b><br>
+<sub>LoomLab · Codex · <a href="https://vibefather.ai/templates/online-code-playground?case=a5cc8c47-8a3e-44a6-b894-ab1e652bd923&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=f72ddf3e-b875-4025-a4d4-3b09b4463b2b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/holographic-trading-card-showcase/f72ddf3e-b875-4025-a4d4-3b09b4463b2b/shot_desktop.92071b17ab.webp" width="100%" alt="Holographic Trading Card Showcase built by GPT-6.2 Sol in Codex"></a><br>
 <b><a href="../templates/holographic-trading-card-showcase">Holographic Trading Card Showcase</a></b> <sup>PRO</sup><br>
 <sub>Bathyal drift creature card set · Codex · <a href="https://vibefather.ai/templates/holographic-trading-card-showcase?case=f72ddf3e-b875-4025-a4d4-3b09b4463b2b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/product-documentation-website/dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d/shot_desktop.62b7650244.webp" width="100%" alt="Product Documentation Website built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/product-documentation-website">Product Documentation Website</a></b><br>
+<sub>Background job queue SDK · Codex · <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/20464864-d9d7-464f-b5d3-6974df1dc7ed/shot_desktop.937dc833f8.webp" width="100%" alt="Code Hosting Platform App built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/code-hosting-platform-app">Code Hosting Platform App</a></b> <sup>PRO</sup><br>
+<sub>Audio DSP toolkit org · Codex · <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -117,33 +117,33 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/movie-promo-website?case=ae098322-41fe-4ca6-bdb3-a79d07f98efa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/movie-promo-website/ae098322-41fe-4ca6-bdb3-a79d07f98efa/shot_desktop.7d3b0349fb.webp" width="100%" alt="Movie Promo Website built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/movie-promo-website">Movie Promo Website</a></b><br>
-<sub>SLEEPER CAR NINE · Codex · <a href="https://vibefather.ai/templates/movie-promo-website?case=ae098322-41fe-4ca6-bdb3-a79d07f98efa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f/shot_desktop.dff1230feb.webp" width="100%" alt="Fluid Simulation Agency Website built by GPT-6.2 Sol in Codex"></a><br>
 <b><a href="../templates/fluid-simulation-agency-website">Fluid Simulation Agency Website</a></b> <sup>PRO</sup><br>
 <sub>SOLSTICE MOTION (Kinetic Brand &amp; Audio Lab) · Codex · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/movie-promo-website?case=ae098322-41fe-4ca6-bdb3-a79d07f98efa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/movie-promo-website/ae098322-41fe-4ca6-bdb3-a79d07f98efa/shot_desktop.7d3b0349fb.webp" width="100%" alt="Movie Promo Website built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/movie-promo-website">Movie Promo Website</a></b><br>
+<sub>SLEEPER CAR NINE · Codex · <a href="https://vibefather.ai/templates/movie-promo-website?case=ae098322-41fe-4ca6-bdb3-a79d07f98efa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/consumer-electronics-store?case=f7de7bf0-6beb-4e23-b512-8b1c6c88e915&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/consumer-electronics-store/f7de7bf0-6beb-4e23-b512-8b1c6c88e915/shot_desktop.ffe5e9489a.webp" width="100%" alt="Consumer Electronics Store built by GPT-6.2 Sol in Codex"></a><br>
+<b><a href="../templates/consumer-electronics-store">Consumer Electronics Store</a></b> <sup>PRO</sup><br>
+<sub>Kinetik Goods · Codex · <a href="https://vibefather.ai/templates/consumer-electronics-store?case=f7de7bf0-6beb-4e23-b512-8b1c6c88e915&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?case=c43e059d-ae22-4a3f-b588-2a44d7daf782&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/roguelike-deckbuilder-card-game/c43e059d-ae22-4a3f-b588-2a44d7daf782/shot_desktop.71c84d72dc.webp" width="100%" alt="Roguelike Deckbuilder Card Game built by GPT-6.2 Sol in Codex"></a><br>
 <b><a href="../templates/roguelike-deckbuilder-card-game">Roguelike Deckbuilder Card Game</a></b> <sup>PRO</sup><br>
 <sub>Beacon Drift · Warden Corvus · Codex · <a href="https://vibefather.ai/templates/roguelike-deckbuilder-card-game?case=c43e059d-ae22-4a3f-b588-2a44d7daf782&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?case=b93489a8-ce71-43bb-9a95-59cb23ad35eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/spend-a-billion-dollars-game/b93489a8-ce71-43bb-9a95-59cb23ad35eb/shot_desktop.f370261e93.webp" width="100%" alt="Spend a Billion Dollars Game built by GPT-6.2 Sol in Codex"></a><br>
 <b><a href="../templates/spend-a-billion-dollars-game">Spend a Billion Dollars Game</a></b><br>
 <sub>Uncle Otto's Windfall ($100B Estate) · Codex · <a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?case=b93489a8-ce71-43bb-9a95-59cb23ad35eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/music-audio-visualizer?case=6b44b8bd-118d-4a64-8bb3-681074957785&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/music-audio-visualizer/6b44b8bd-118d-4a64-8bb3-681074957785/shot_desktop.1fdc846c12.webp" width="100%" alt="Music Audio Visualizer built by GPT-6.2 Sol in Codex"></a><br>
-<b><a href="../templates/music-audio-visualizer">Music Audio Visualizer</a></b><br>
-<sub>ChromaBeat (Solar Pulse) · Codex · <a href="https://vibefather.ai/templates/music-audio-visualizer?case=6b44b8bd-118d-4a64-8bb3-681074957785&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2/shot_desktop.59b70f2857.webp" width="100%" alt="Pathfinding Algorithms Visualizer built by GPT-6.2 Sol in Codex"></a><br>
@@ -157,11 +157,11 @@
 
 | Template | Content | Tool | |
 |---|---|---|---|
-| [Consumer Electronics Store](../templates/consumer-electronics-store) | Kinetik Goods | Codex | [Live demo](https://vibefather.ai/templates/consumer-electronics-store?case=f7de7bf0-6beb-4e23-b512-8b1c6c88e915&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Music Audio Visualizer](../templates/music-audio-visualizer) | ChromaBeat (Solar Pulse) | Codex | [Live demo](https://vibefather.ai/templates/music-audio-visualizer?case=6b44b8bd-118d-4a64-8bb3-681074957785&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Falling Sand Physics Toy](../templates/falling-sand-physics-toy) | DuneCraft (Rain Garden) | Codex | [Live demo](https://vibefather.ai/templates/falling-sand-physics-toy?case=4c30de54-9132-4e54-b496-75065373cd98&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Team Wiki Workspace App](../templates/team-wiki-workspace-app) | Robotics lab engineering wiki | Codex | [Live demo](https://vibefather.ai/templates/team-wiki-workspace-app?case=9ee0b215-064a-4b97-b2a5-2400dc6d215e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [New Home Development Website](../templates/new-home-development-website) | Linden Terrace (48 Townhomes) | Codex | [Live demo](https://vibefather.ai/templates/new-home-development-website?case=f03d9f65-44e6-43a1-8662-31e627d0e299&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Racing Driver Personal Website](../templates/racing-driver-personal-website) | Tomasz Lind #19 (Nordring Racing) | Codex | [Live demo](https://vibefather.ai/templates/racing-driver-personal-website?case=0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [New Home Development Website](../templates/new-home-development-website) | Linden Terrace (48 Townhomes) | Codex | [Live demo](https://vibefather.ai/templates/new-home-development-website?case=f03d9f65-44e6-43a1-8662-31e627d0e299&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Hospital Website](../templates/hospital-website) | Harborview Regional Medical | Codex | [Live demo](https://vibefather.ai/templates/hospital-website?case=bac74a33-fde2-49bb-abca-d0e259eb59e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 
 ---

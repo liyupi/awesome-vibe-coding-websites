@@ -35,16 +35,16 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/open-source-project-homepage/8a911742-c560-4e29-ad52-8c3a8fa8760e/shot_desktop.24a3cbc8c5.webp" width="100%" alt="Open Source Project Homepage website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/open-source-project-homepage">Open Source Project Homepage</a></b><br>
-<sub>Homepage for an open-source library: copyable install command, tabbed code example, feature grid, contributors and sponsor tiers.</sub><br>
-<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/open-source-project-homepage/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/academic-researcher-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/academic-researcher-website/a761e99d-209a-412a-aa33-dbf549fc1c43/shot_desktop.c42d9daf32.webp" width="100%" alt="Academic Researcher Website website template — live demo built by GLM-5.4 and Kimi K3.1 Pro"></a><br>
 <b><a href="../templates/academic-researcher-website">Academic Researcher Website</a></b><br>
 <sub>Professor's homepage with filterable publications, copy-BibTeX, teaching, talks, a printable CV and the lab.</sub><br>
 <sub>GLM-5.4 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/academic-researcher-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/academic-researcher-website/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/open-source-project-homepage/8a911742-c560-4e29-ad52-8c3a8fa8760e/shot_desktop.24a3cbc8c5.webp" width="100%" alt="Open Source Project Homepage website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/open-source-project-homepage">Open Source Project Homepage</a></b><br>
+<sub>Homepage for an open-source library: copyable install command, tabbed code example, feature grid, contributors and sponsor tiers.</sub><br>
+<sub>GLM-5.3 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/open-source-project-homepage?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/open-source-project-homepage/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

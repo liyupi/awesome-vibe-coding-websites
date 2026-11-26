@@ -55,6 +55,18 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
+<sub>Reed Wharf Car Club · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/69acc56b-13c7-4637-aa12-27ed6565399d/shot_desktop.2deeeb2cc2.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
+<sub>Night flower market · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sci-fi-arena-wave-survival-game/71faaa0e-9240-4b3c-a04d-6251a8fcac21/shot_desktop.85efa231e1.webp" width="100%" alt="Sci-Fi Arena Wave Survival Game built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/sci-fi-arena-wave-survival-game">Sci-Fi Arena Wave Survival Game</a></b><br>
 <sub>Brick kiln range · Grok Build · <a href="https://vibefather.ai/templates/sci-fi-arena-wave-survival-game?case=71faaa0e-9240-4b3c-a04d-6251a8fcac21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
@@ -87,18 +99,6 @@
 <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/2f70789f-9773-471c-966c-2ca42c3a3c09/shot_desktop.3202ab7b44.webp" width="100%" alt="Mars Colony Builder Game built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
 <sub>Saltmere Rim Outpost · Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
-<sub>Reed Wharf Car Club · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/69acc56b-13c7-4637-aa12-27ed6565399d/shot_desktop.2deeeb2cc2.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
-<sub>Night flower market · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

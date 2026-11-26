@@ -57,18 +57,6 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=dc8cd063-aafa-4706-bcd2-023c5f4ca154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/dc8cd063-aafa-4706-bcd2-023c5f4ca154/shot_desktop.04a7c40c57.webp" width="100%" alt="Isometric 3D Room Portfolio built by Claude Sonnet 5.5 in Cursor"></a><br>
-<b><a href="../templates/isometric-3d-room-portfolio">Isometric 3D Room Portfolio</a></b><br>
-<sub>Indie game developer · Cursor · <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=dc8cd063-aafa-4706-bcd2-023c5f4ca154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/boxing-and-strength-gym-website?case=6ab01a75-3c61-48a3-b60a-d3b532f16e53&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/boxing-and-strength-gym-website/6ab01a75-3c61-48a3-b60a-d3b532f16e53/shot_desktop.c125ac4f14.webp" width="100%" alt="Boxing and Strength Gym Website built by Claude Sonnet 5.5 in Cursor"></a><br>
-<b><a href="../templates/boxing-and-strength-gym-website">Boxing and Strength Gym Website</a></b><br>
-<sub>Muay Thai gym · Cursor · <a href="https://vibefather.ai/templates/boxing-and-strength-gym-website?case=6ab01a75-3c61-48a3-b60a-d3b532f16e53&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-product-configurator-page?case=46e3b8bb-8076-46ea-b84c-06e524014917&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/3d-product-configurator-page/46e3b8bb-8076-46ea-b84c-06e524014917/shot_desktop.2a5935dd45.webp" width="100%" alt="3D Product Configurator Page built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b><a href="../templates/3d-product-configurator-page">3D Product Configurator Page</a></b> <sup>PRO</sup><br>
 <sub>Studio monitor headphones · Claude Code · <a href="https://vibefather.ai/templates/3d-product-configurator-page?case=46e3b8bb-8076-46ea-b84c-06e524014917&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
@@ -77,6 +65,18 @@
 <a href="https://vibefather.ai/templates/interactive-lesson-slides?case=b51fae47-e4fe-41cb-9421-fb764515c109&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/interactive-lesson-slides/b51fae47-e4fe-41cb-9421-fb764515c109/shot_desktop.7003d11fcd.webp" width="100%" alt="Interactive Lesson Slides built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b><a href="../templates/interactive-lesson-slides">Interactive Lesson Slides</a></b><br>
 <sub>Statistics session for teens · Claude Code · <a href="https://vibefather.ai/templates/interactive-lesson-slides?case=b51fae47-e4fe-41cb-9421-fb764515c109&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=dc8cd063-aafa-4706-bcd2-023c5f4ca154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/isometric-3d-room-portfolio/dc8cd063-aafa-4706-bcd2-023c5f4ca154/shot_desktop.04a7c40c57.webp" width="100%" alt="Isometric 3D Room Portfolio built by Claude Sonnet 5.5 in Cursor"></a><br>
+<b><a href="../templates/isometric-3d-room-portfolio">Isometric 3D Room Portfolio</a></b><br>
+<sub>Indie game developer · Cursor · <a href="https://vibefather.ai/templates/isometric-3d-room-portfolio?case=dc8cd063-aafa-4706-bcd2-023c5f4ca154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/boxing-and-strength-gym-website?case=6ab01a75-3c61-48a3-b60a-d3b532f16e53&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/boxing-and-strength-gym-website/6ab01a75-3c61-48a3-b60a-d3b532f16e53/shot_desktop.c125ac4f14.webp" width="100%" alt="Boxing and Strength Gym Website built by Claude Sonnet 5.5 in Cursor"></a><br>
+<b><a href="../templates/boxing-and-strength-gym-website">Boxing and Strength Gym Website</a></b><br>
+<sub>Muay Thai gym · Cursor · <a href="https://vibefather.ai/templates/boxing-and-strength-gym-website?case=6ab01a75-3c61-48a3-b60a-d3b532f16e53&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -98,16 +98,16 @@
 <sub>Island sauna retreat · Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=b5845f86-1106-4039-b50c-5a82815cd67c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=25f3132f-88da-4688-86b4-90b12906fb31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/25f3132f-88da-4688-86b4-90b12906fb31/shot_desktop.b13a37fe91.webp" width="100%" alt="Infinite Canvas Moodboard built by Claude Sonnet 5.5 in Claude Code"></a><br>
-<b><a href="../templates/infinite-canvas-moodboard">Infinite Canvas Moodboard</a></b><br>
-<sub>Film production design · Claude Code · <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=25f3132f-88da-4688-86b4-90b12906fb31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/physics-playground-landing-page?case=0f9133ad-e1bd-4bf7-9ab6-57813f009509&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/0f9133ad-e1bd-4bf7-9ab6-57813f009509/shot_desktop.bb67d69864.webp" width="100%" alt="Physics Playground Landing Page built by Claude Sonnet 5.5 in Cursor"></a><br>
+<b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b><br>
+<sub>Beat-making app · Cursor · <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=0f9133ad-e1bd-4bf7-9ab6-57813f009509&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/physics-playground-landing-page?case=0f9133ad-e1bd-4bf7-9ab6-57813f009509&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/0f9133ad-e1bd-4bf7-9ab6-57813f009509/shot_desktop.bb67d69864.webp" width="100%" alt="Physics Playground Landing Page built by Claude Sonnet 5.5 in Cursor"></a><br>
-<b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b><br>
-<sub>Beat-making app · Cursor · <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=0f9133ad-e1bd-4bf7-9ab6-57813f009509&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=25f3132f-88da-4688-86b4-90b12906fb31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/infinite-canvas-moodboard/25f3132f-88da-4688-86b4-90b12906fb31/shot_desktop.b13a37fe91.webp" width="100%" alt="Infinite Canvas Moodboard built by Claude Sonnet 5.5 in Claude Code"></a><br>
+<b><a href="../templates/infinite-canvas-moodboard">Infinite Canvas Moodboard</a></b><br>
+<sub>Film production design · Claude Code · <a href="https://vibefather.ai/templates/infinite-canvas-moodboard?case=25f3132f-88da-4688-86b4-90b12906fb31&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-image-generator-landing-page?case=e72e4b30-2d6f-4086-91a9-2b73f043c8cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/ai-image-generator-landing-page/e72e4b30-2d6f-4086-91a9-2b73f043c8cf/shot_desktop.77e2a323f0.webp" width="100%" alt="AI Image Generator Landing Page built by Claude Sonnet 5.5 in Claude Code"></a><br>
