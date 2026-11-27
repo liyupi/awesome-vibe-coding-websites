@@ -83,7 +83,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add industrial-d
 The Copenhagen industrial designer case was built by GLM-5.4 in ZCode; the Eindhoven product designer case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Industrial Designer Portfolio template use?
-Industrial Designer Portfolio is a 2-page site built with React, Tailwind CSS and Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Industrial Designer Portfolio is a 2-page site built with React, Three.js and Tailwind CSS, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Industrial Designer Portfolio template free to use?
 Industrial Designer Portfolio is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

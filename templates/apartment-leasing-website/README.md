@@ -18,7 +18,7 @@ Six generated architectural images create one consistent property shoot. Brand, 
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Real Estate](../../types/real-estate.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

@@ -12,7 +12,7 @@ A tactile browser cellular automata sandbox built on a fast typed-array 60fps si
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md), [Browser Game](../../types/game.md) |
-| Style | [Playful](../../styles/playful.md), [Pixel Art](../../styles/pixel.md), [Minimal](../../styles/minimal.md) |
+| Style | [Pixel Art](../../styles/pixel.md), [Playful](../../styles/playful.md), [Minimal](../../styles/minimal.md) |
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |

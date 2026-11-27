@@ -20,7 +20,7 @@ To adapt it, change the studio name, city, dance styles, audience and recital da
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Text Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |

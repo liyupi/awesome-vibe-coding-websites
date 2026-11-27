@@ -18,7 +18,7 @@ To adapt it, change the brand, name, discipline, city and email, then rewrite th
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Personal Site](../../types/personal.md), [Portfolio](../../types/portfolio.md) |
-| Style | Retro OS, [Playful](../../styles/playful.md), [Pixel Art](../../styles/pixel.md) |
+| Style | Retro OS, [Pixel Art](../../styles/pixel.md), [Playful](../../styles/playful.md) |
 | Effects | Text Animation, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion |
 | Pages | 1 |

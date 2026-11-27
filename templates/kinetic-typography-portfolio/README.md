@@ -12,7 +12,7 @@ This is a four-page portfolio for a motion designer, type animator or title desi
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Personal Site](../../types/personal.md), [Portfolio](../../types/portfolio.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Text Animation, Cursor Effects |
 | Stack | Vite 5 + vanilla TypeScript, multi-page + Tailwind CSS 3.4 + gsap + lenis + lucide |
 | Pages | 4 |

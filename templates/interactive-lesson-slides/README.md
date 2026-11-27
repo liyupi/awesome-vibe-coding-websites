@@ -17,7 +17,7 @@ To adapt it, change the school, lesson title, course label, instructor and audie
 | | |
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
-| Site type | [Slide Deck](../../types/slides.md), [Interactive Explainer](../../types/explainer.md) |
+| Site type | [Interactive Explainer](../../types/explainer.md), [Slide Deck](../../types/slides.md) |
 | Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md) |
 | Effects | Drag & Physics, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + codemirror + @codemirror/view + @codemirror/state |

@@ -18,7 +18,7 @@ All text and track metadata live in one editable module. The alternate example c
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [App Landing](../../types/app-landing.md) |
-| Style | [Aurora](../../styles/aurora.md), [Glass](../../styles/glass.md), [Dark](../../styles/dark.md) |
+| Style | [Glass](../../styles/glass.md), [Aurora](../../styles/aurora.md), [Dark](../../styles/dark.md) |
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |

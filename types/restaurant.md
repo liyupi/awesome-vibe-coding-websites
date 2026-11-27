@@ -27,18 +27,18 @@
 <sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/coffee-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/coffee-shop-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/restaurant-qr-menu-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/restaurant-qr-menu-page/81b4d688-f331-4fe9-8a4a-be11630d5e58/shot_desktop.059ff1a105.webp" width="100%" alt="Restaurant QR Menu Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/restaurant-qr-menu-page">Restaurant QR Menu Page</a></b><br>
-<sub>A warm mobile-first QR menu with allergen filters, a server tally and call-waiter.</sub><br>
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/restaurant-qr-menu-page/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/editorial-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/larder/f00ec6bf-1927-4e03-af39-033d97a6118e/shot_desktop.d0d5c59e88.webp" width="100%" alt="Editorial Restaurant Website website template — live demo built by Claude Opus 5.5"></a><br>
 <b><a href="../templates/editorial-restaurant-website">Editorial Restaurant Website</a></b><br>
 <sub>Editorial three-page restaurant site with big serif type, parallax strips, a priced menu and a drawn map.</sub><br>
 <sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · <a href="https://vibefather.ai/templates/editorial-restaurant-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/editorial-restaurant-website/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/restaurant-qr-menu-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/restaurant-qr-menu-page/81b4d688-f331-4fe9-8a4a-be11630d5e58/shot_desktop.059ff1a105.webp" width="100%" alt="Restaurant QR Menu Page website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/restaurant-qr-menu-page">Restaurant QR Menu Page</a></b><br>
+<sub>A warm mobile-first QR menu with allergen filters, a server tally and call-waiter.</sub><br>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/restaurant-qr-menu-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/restaurant-qr-menu-page/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>

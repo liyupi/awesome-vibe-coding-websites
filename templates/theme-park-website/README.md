@@ -12,7 +12,7 @@ A theme park site built entirely from flat, candy-colored code — no photograph
 |---|---|
 | Category | [More Landing Pages](../../README.md#more-landing-pages) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Playful](../../styles/playful.md), [Bento Grid](../../styles/bento.md) |
+| Style | [Bento Grid](../../styles/bento.md), [Playful](../../styles/playful.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

@@ -12,7 +12,7 @@ A single-page site for an interior design studio: a finished-room hero, two drag
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md) |
+| Style | [Luxury](../../styles/luxury.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

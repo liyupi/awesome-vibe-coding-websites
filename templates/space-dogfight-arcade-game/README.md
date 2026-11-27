@@ -90,7 +90,7 @@ Copy the prompt from this page or run npx vibefather add space-dogfight-arcade-g
 The Cinder Patrol squadron case was built by Grok 4.7 in Grok Build; the Saltglass Wing patrol case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Space Dogfight Arcade Game template use?
-Space Dogfight Arcade Game is a single-page site built with Plain HTML, Tailwind CSS and Three.js, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Space Dogfight Arcade Game is a single-page site built with Plain HTML, Three.js and Tailwind CSS, with 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Space Dogfight Arcade Game template for a client or a business?
 The Space Dogfight Arcade Game prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

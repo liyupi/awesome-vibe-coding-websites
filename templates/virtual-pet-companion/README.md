@@ -18,7 +18,7 @@ Change the brand, pet name, species, habitat, or coin name in one content file a
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Toy](../../types/toy.md), [Browser Game](../../types/game.md) |
-| Style | [Retro](../../styles/retro.md), [Playful](../../styles/playful.md), [Pixel Art](../../styles/pixel.md) |
+| Style | [Retro](../../styles/retro.md), [Pixel Art](../../styles/pixel.md), [Playful](../../styles/playful.md) |
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite 7 + React 19 + TypeScript 5 + Tailwind CSS 3.4 + custom CSS + lucide-react |
 | Pages | 3 |

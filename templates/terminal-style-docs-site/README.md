@@ -16,7 +16,7 @@ To adapt it, change five values: the tool's name, its binary, a one-line purpose
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Docs](../../types/docs.md) |
-| Style | [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md), [Minimal](../../styles/minimal.md) |
 | Effects | Text Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 4 |

@@ -17,7 +17,7 @@ Everything visual — sleeves, vinyl, stamps, grain, the misregistered type — 
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
 | Style | [Retro](../../styles/retro.md), [Brutalist](../../styles/brutalist.md) |
 | Effects | Generative / Canvas, Marquee, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |

@@ -12,7 +12,7 @@ A single-page site for a high-end safari lodge, built like a film: charcoal grou
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md) |
+| Style | [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

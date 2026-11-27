@@ -15,8 +15,8 @@ Use the template for a new musical, a repertory season or a neighborhood theater
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Event](../../types/event.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md) |
+| Site type | [Event](../../types/event.md), [E-commerce](../../types/ecommerce.md) |
+| Style | [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Micro-interactions |
 | Stack | Vite + React + Vanilla CSS + qrcode + lucide-react |
 | Pages | 8 |

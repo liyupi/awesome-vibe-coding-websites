@@ -18,7 +18,7 @@ Adapt the generator’s brand, sample issuer, client, location, service type, an
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [App](../../types/app.md) |
-| Style | [Swiss](../../styles/swiss.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4.1 + lucide-react |
 | Pages | 1 |

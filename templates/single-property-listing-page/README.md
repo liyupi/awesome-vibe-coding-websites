@@ -18,7 +18,7 @@ Warm limestone colors, high-contrast serif headlines, and precise spacing create
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Real Estate](../../types/real-estate.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Editorial](../../styles/editorial.md), [Luxury](../../styles/luxury.md), [Minimal](../../styles/minimal.md) |
+| Style | [Luxury](../../styles/luxury.md), [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

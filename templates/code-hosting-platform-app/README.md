@@ -11,8 +11,8 @@ Code Hosting Platform App is a self-contained developer workspace modeled around
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [Dashboard](../../types/dashboard.md), [SaaS](../../types/saas.md) |
-| Style | [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Site type | [SaaS](../../types/saas.md), [Dashboard](../../types/dashboard.md) |
+| Style | [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md), [Minimal](../../styles/minimal.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 7 |

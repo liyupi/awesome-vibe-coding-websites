@@ -17,7 +17,7 @@ To adapt it, change the brand, city, discipline, featured project and contact em
 | | |
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
-| Site type | [Portfolio](../../types/portfolio.md), [Agency](../../types/agency.md) |
+| Site type | [Agency](../../types/agency.md), [Portfolio](../../types/portfolio.md) |
 | Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Text Animation, Page Transitions |
 | Stack | Vite 5 + vanilla TypeScript + Tailwind CSS 3.4 + motion |

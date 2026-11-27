@@ -12,7 +12,7 @@ An editorial, gesture-driven personal brand website for a fictional young racing
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md), [3d Experience](../../types/3d-experience.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | 3D / WebGL, Scroll Scrub |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |

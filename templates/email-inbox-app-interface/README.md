@@ -11,7 +11,7 @@ A three-pane email client built as a real, working interface rather than a pictu
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [Dashboard](../../types/dashboard.md), [SaaS](../../types/saas.md) |
+| Site type | [SaaS](../../types/saas.md), [Dashboard](../../types/dashboard.md) |
 | Style | [Bento Grid](../../styles/bento.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |

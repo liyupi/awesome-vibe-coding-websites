@@ -12,7 +12,7 @@ A two-page site for a crewed yacht charter house, dressed like a chart table: de
 |---|---|
 | Category | [Local Business & Services](../../README.md#local-business--services) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Swiss](../../styles/swiss.md), [Luxury](../../styles/luxury.md), [Minimal](../../styles/minimal.md) |
+| Style | [Luxury](../../styles/luxury.md), [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |

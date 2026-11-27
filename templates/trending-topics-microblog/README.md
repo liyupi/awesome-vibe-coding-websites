@@ -18,7 +18,7 @@ To adapt it, change the brand, community topic, audience, featured trend, and co
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Blog](../../types/blog.md), [Dashboard](../../types/dashboard.md) |
-| Style | [Bento Grid](../../styles/bento.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Bento Grid](../../styles/bento.md), [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 3 |

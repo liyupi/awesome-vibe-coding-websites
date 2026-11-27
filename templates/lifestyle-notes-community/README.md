@@ -16,7 +16,7 @@ Adapt the five variables to change the brand, subject, audience, tagline, and fe
 |---|---|
 | Category | [Events & Communities](../../README.md#events--communities) |
 | Site type | Community |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Drag & Physics, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + Tailwind + Motion + lucide-react |
 | Pages | 3 |

@@ -12,7 +12,7 @@ The official promotional website for a fictional near-future mystery feature fil
 |---|---|
 | Category | [More Landing Pages](../../README.md#more-landing-pages) |
 | Site type | [Landing](../../types/landing.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), Cinematic |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md), Cinematic |
 | Effects | Parallax, Audio, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |

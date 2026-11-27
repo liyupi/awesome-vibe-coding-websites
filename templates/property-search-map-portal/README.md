@@ -11,8 +11,8 @@ A home search portal built around the two things people actually do: scan a list
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Dashboard](../../types/dashboard.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Site type | [Dashboard](../../types/dashboard.md), [E-commerce](../../types/ecommerce.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 3 |

@@ -92,7 +92,7 @@ Copy the full prompt (Pro) from this page or run npx vibefather add rocket-launc
 The Coastal satellite launch case was built by Grok 4.7 in Grok Build; the Crop imaging launch case was built by Grok 4.7 in Grok Build. Each build used the published prompt with nothing added.
 
 ### What tech stack and pages does the Rocket Launch Countdown Page template use?
-Rocket Launch Countdown Page is a single-page site built with React, Tailwind CSS and Three.js, with drag & physics and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Rocket Launch Countdown Page is a single-page site built with React, Three.js and Tailwind CSS, with drag & physics and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Is the Rocket Launch Countdown Page template free to use?
 Rocket Launch Countdown Page is a Pro template: the brief, stack and variables are public, and the full prompt, the source code of the live demo and a commercial license come with VibeFather Pro. Its DESIGN.md is free for personal projects.

@@ -11,8 +11,8 @@ Holographic Trading Card Showcase is a tactile collector showcase and pre-order 
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
+| Style | [Luxury](../../styles/luxury.md), [Playful](../../styles/playful.md), [Dark](../../styles/dark.md) |
 | Effects | Cursor Effects, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |

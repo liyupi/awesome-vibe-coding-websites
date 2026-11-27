@@ -18,8 +18,8 @@ This template suits educators, creators, designers, and developers building a pl
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
-| Effects | Generative / Canvas, Drag & Physics, Micro-interactions |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
+| Effects | Drag & Physics, Generative / Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Vanilla CSS with custom properties + lucide-react |
 | Pages | 1 |
 | Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
@@ -92,7 +92,7 @@ Copy the prompt from this page or run npx vibefather add constellation-story-map
 The Lantern Sky Myths case was built by Kimi K3.1 Pro in Kimi Code; the Wayfarer Sky Legends case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Constellation Story Map template use?
-Constellation Story Map is a single-page site built with React, with generative / canvas, drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Constellation Story Map is a single-page site built with React, with drag & physics, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Constellation Story Map template for a client or a business?
 The Constellation Story Map prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

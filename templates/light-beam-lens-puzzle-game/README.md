@@ -18,7 +18,7 @@ Adapt the four variables to rename the game, replace its world, change the audie
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [Browser Game](../../types/game.md) |
-| Style | [Aurora](../../styles/aurora.md), [Glass](../../styles/glass.md), [Dark](../../styles/dark.md) |
+| Style | [Glass](../../styles/glass.md), [Aurora](../../styles/aurora.md), [Dark](../../styles/dark.md) |
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS + Three.js + lucide-react |
 | Pages | 1 |

@@ -31,6 +31,18 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
+<sub>Reed Wharf Car Club · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/69acc56b-13c7-4637-aa12-27ed6565399d/shot_desktop.2deeeb2cc2.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
+<sub>Night flower market · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?case=86bdf988-a1d2-4948-9876-e05d189ef61d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/anime-character-run-cycle-showcase/86bdf988-a1d2-4948-9876-e05d189ef61d/shot_desktop.badaff9ae8.webp" width="100%" alt="Anime Character Run Cycle Showcase built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/anime-character-run-cycle-showcase">Anime Character Run Cycle Showcase</a></b><br>
 <sub>Sprinter timing studio · Grok Build · <a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?case=86bdf988-a1d2-4948-9876-e05d189ef61d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
@@ -55,14 +67,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/b2ab1279-031c-4e65-8e2f-d92edd683a4b/shot_desktop.bd9df1edeb.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
-<sub>Reed Wharf Car Club · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=b2ab1279-031c-4e65-8e2f-d92edd683a4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/mars-colony-builder-game?case=5f787637-e0bf-460e-aeb8-9abdb3b13dc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/5f787637-e0bf-460e-aeb8-9abdb3b13dc7/shot_desktop.52b18247a0.webp" width="100%" alt="Mars Colony Builder Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
+<sub>Hearthline Crater Colony · Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=5f787637-e0bf-460e-aeb8-9abdb3b13dc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/open-world-city-driving-game/69acc56b-13c7-4637-aa12-27ed6565399d/shot_desktop.2deeeb2cc2.webp" width="100%" alt="Open World City Driving Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/open-world-city-driving-game">Open World City Driving Game</a></b> <sup>PRO</sup><br>
-<sub>Night flower market · Grok Build · <a href="https://vibefather.ai/templates/open-world-city-driving-game?case=69acc56b-13c7-4637-aa12-27ed6565399d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/2f70789f-9773-471c-966c-2ca42c3a3c09/shot_desktop.3202ab7b44.webp" width="100%" alt="Mars Colony Builder Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
+<sub>Saltmere Rim Outpost · Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -79,14 +91,14 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/mars-colony-builder-game?case=5f787637-e0bf-460e-aeb8-9abdb3b13dc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/5f787637-e0bf-460e-aeb8-9abdb3b13dc7/shot_desktop.52b18247a0.webp" width="100%" alt="Mars Colony Builder Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
-<sub>Hearthline Crater Colony · Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=5f787637-e0bf-460e-aeb8-9abdb3b13dc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=7041fb7e-09fa-4573-91c8-4fb8666e18d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/space-dogfight-arcade-game/7041fb7e-09fa-4573-91c8-4fb8666e18d7/shot_desktop.c9b20b9cd3.webp" width="100%" alt="Space Dogfight Arcade Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/space-dogfight-arcade-game">Space Dogfight Arcade Game</a></b><br>
+<sub>Cinder Patrol squadron · Grok Build · <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=7041fb7e-09fa-4573-91c8-4fb8666e18d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/mars-colony-builder-game/2f70789f-9773-471c-966c-2ca42c3a3c09/shot_desktop.3202ab7b44.webp" width="100%" alt="Mars Colony Builder Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/mars-colony-builder-game">Mars Colony Builder Game</a></b><br>
-<sub>Saltmere Rim Outpost · Grok Build · <a href="https://vibefather.ai/templates/mars-colony-builder-game?case=2f70789f-9773-471c-966c-2ca42c3a3c09&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=16f8e337-cb91-4705-8c22-69531b15aff5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/space-dogfight-arcade-game/16f8e337-cb91-4705-8c22-69531b15aff5/shot_desktop.16abddf626.webp" width="100%" alt="Space Dogfight Arcade Game built by Grok 4.7 in Grok Build"></a><br>
+<b><a href="../templates/space-dogfight-arcade-game">Space Dogfight Arcade Game</a></b><br>
+<sub>Saltglass Wing patrol · Grok Build · <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=16f8e337-cb91-4705-8c22-69531b15aff5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -99,18 +111,6 @@
 <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/neon-snake-3d-game/fd018c27-8594-4624-964f-e5137a02f708/shot_desktop.c9e77d9aaf.webp" width="100%" alt="Neon Snake 3D Game built by Grok 4.7 in Grok Build"></a><br>
 <b><a href="../templates/neon-snake-3d-game">Neon Snake 3D Game</a></b><br>
 <sub>Night conservatory snake · Grok Build · <a href="https://vibefather.ai/templates/neon-snake-3d-game?case=fd018c27-8594-4624-964f-e5137a02f708&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=7041fb7e-09fa-4573-91c8-4fb8666e18d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/space-dogfight-arcade-game/7041fb7e-09fa-4573-91c8-4fb8666e18d7/shot_desktop.c9b20b9cd3.webp" width="100%" alt="Space Dogfight Arcade Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/space-dogfight-arcade-game">Space Dogfight Arcade Game</a></b><br>
-<sub>Cinder Patrol squadron · Grok Build · <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=7041fb7e-09fa-4573-91c8-4fb8666e18d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=16f8e337-cb91-4705-8c22-69531b15aff5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/space-dogfight-arcade-game/16f8e337-cb91-4705-8c22-69531b15aff5/shot_desktop.16abddf626.webp" width="100%" alt="Space Dogfight Arcade Game built by Grok 4.7 in Grok Build"></a><br>
-<b><a href="../templates/space-dogfight-arcade-game">Space Dogfight Arcade Game</a></b><br>
-<sub>Saltglass Wing patrol · Grok Build · <a href="https://vibefather.ai/templates/space-dogfight-arcade-game?case=16f8e337-cb91-4705-8c22-69531b15aff5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

@@ -18,7 +18,7 @@ Change the product name, owner, budget context, currency, and sample month throu
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Dashboard](../../types/dashboard.md), [App](../../types/app.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4.1 + motion + lucide-react |
 | Pages | 3 |

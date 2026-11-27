@@ -12,7 +12,7 @@ Fathom is a long-scroll explainer in which every pixel of scrolling takes the re
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Generative / Canvas, Cursor Effects |
 | Stack | Vite 5 + vanilla TypeScript + Plain CSS, custom properties + gsap + lenis |
 | Pages | 1 |

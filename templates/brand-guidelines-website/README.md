@@ -12,7 +12,7 @@ A living brand book for a fictional company, built so that a team could publish 
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Docs](../../types/docs.md) |
-| Style | [Swiss](../../styles/swiss.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Dark](../../styles/dark.md), [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 11 |

@@ -12,7 +12,7 @@ A single-page site for one hackathon: a hero with the event name, a live countdo
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Event](../../types/event.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md) |
 | Effects | Countdown, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

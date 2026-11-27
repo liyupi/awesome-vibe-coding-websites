@@ -12,7 +12,7 @@ An interactive computer-science monograph and sandbox showing how maps and games
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Tool](../../types/tool.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md), [Clean](../../styles/clean.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md), [Clean](../../styles/clean.md) |
 | Effects | Interactive Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 4 |

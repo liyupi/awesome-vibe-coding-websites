@@ -18,7 +18,7 @@ Customize the brand, city, audience, and promise through four variables, with fl
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 5 |

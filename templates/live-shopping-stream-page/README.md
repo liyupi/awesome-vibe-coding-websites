@@ -18,7 +18,7 @@ Change the brand, show title, host, audience, accent and currency to adapt the c
 |---|---|
 | Category | [Games, 3D & Interactive Toys](../../README.md#games-3d--interactive-toys) |
 | Site type | [E-commerce](../../types/ecommerce.md), [Interactive Toy](../../types/toy.md) |
-| Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Playful](../../styles/playful.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Parallax, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript + Tailwind CSS 4 + motion + lucide-react |
 | Pages | 1 |

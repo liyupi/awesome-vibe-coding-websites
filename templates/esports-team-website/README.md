@@ -18,7 +18,7 @@ Change the team name, code, discipline, home city, and season through the variab
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md), Esports |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md), [Brutalist](../../styles/brutalist.md) |
+| Style | [Dark](../../styles/dark.md), [Brutalist](../../styles/brutalist.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript 5 + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 5 |

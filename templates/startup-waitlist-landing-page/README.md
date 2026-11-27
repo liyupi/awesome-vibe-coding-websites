@@ -12,7 +12,7 @@ A single-page waitlist for a product about to launch: an oversized headline over
 |---|---|
 | Category | [Landing Pages & Product Launches](../../README.md#landing-pages--product-launches) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md), [Brutalist](../../styles/brutalist.md) |
+| Style | [Dark](../../styles/dark.md), [Brutalist](../../styles/brutalist.md), [Minimal](../../styles/minimal.md) |
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

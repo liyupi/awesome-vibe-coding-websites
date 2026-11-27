@@ -17,7 +17,7 @@ A visible countdown is explicitly a browser-only demonstration. It starts from a
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Landing Page](../../types/landing-page.md) |
+| Site type | [Landing Page](../../types/landing-page.md), [E-commerce](../../types/ecommerce.md) |
 | Style | [Playful](../../styles/playful.md), [Brutalist](../../styles/brutalist.md) |
 | Effects | Scroll Animation, Drag & Physics, 3D / WebGL |
 | Stack | Vite + React + TypeScript + Vanilla CSS + three |

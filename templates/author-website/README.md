@@ -18,7 +18,7 @@ Change the six variables to move the site to a different pen name, genre, locati
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Personal Site](../../types/personal.md), [Portfolio](../../types/portfolio.md) |
-| Style | [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript 5 + Tailwind CSS 3.4 + Motion + lucide-react |
 | Pages | 5 |

@@ -11,8 +11,8 @@ A portfolio for a landscape and editorial photographer who does not shoot weddin
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Portfolio](../../types/portfolio.md) |
-| Style | [Dark](../../styles/dark.md), [Luxury](../../styles/luxury.md), [Minimal](../../styles/minimal.md) |
+| Site type | [Portfolio](../../types/portfolio.md), [E-commerce](../../types/ecommerce.md) |
+| Style | [Luxury](../../styles/luxury.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 6 |

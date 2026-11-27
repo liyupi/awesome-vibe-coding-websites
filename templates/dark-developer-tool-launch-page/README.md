@@ -12,7 +12,7 @@ A one-page launch site for a command-line developer tool, written here for a fas
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Landing Page](../../types/landing-page.md) |
-| Style | [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md), [Minimal](../../styles/minimal.md) |
+| Style | [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Text Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |

@@ -11,7 +11,7 @@ A portfolio for an illustrator whose work has to be seen rather than described. 
 | | |
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Portfolio](../../types/portfolio.md) |
+| Site type | [Portfolio](../../types/portfolio.md), [E-commerce](../../types/ecommerce.md) |
 | Style | [Playful](../../styles/playful.md), [Editorial](../../styles/editorial.md), [Hand-drawn](../../styles/hand-drawn.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |

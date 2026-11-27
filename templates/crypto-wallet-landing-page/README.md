@@ -18,7 +18,7 @@ Change five variables to adapt the brand, product type, audience, primary call t
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Landing Page](../../types/landing-page.md), [App Landing](../../types/app-landing.md) |
-| Style | [Swiss](../../styles/swiss.md), [Editorial](../../styles/editorial.md), [Minimal](../../styles/minimal.md) |
+| Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 19 + TypeScript 5.7 + Tailwind CSS 4 + Tailwind + Motion + lucide-react |
 | Pages | 1 |

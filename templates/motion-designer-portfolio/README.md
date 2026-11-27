@@ -12,7 +12,7 @@ A portfolio for a motion designer where the work itself moves. The first screen 
 |---|---|
 | Category | [Portfolios, Studios & Blogs](../../README.md#portfolios-studios--blogs) |
 | Site type | [Portfolio](../../types/portfolio.md) |
-| Style | [Swiss](../../styles/swiss.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Swiss](../../styles/swiss.md) |
 | Effects | Text Animation, Marquee, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |

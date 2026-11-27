@@ -18,7 +18,7 @@ The template suits indie makers, small editorial teams and founders planning a f
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Directory](../../types/directory.md), [Web App](../../types/web-app.md) |
-| Style | [Bento Grid](../../styles/bento.md), [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Bento Grid](../../styles/bento.md), [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Micro-interactions |
 | Stack | Vite + React + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 8 |

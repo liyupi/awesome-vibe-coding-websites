@@ -12,7 +12,7 @@ An interactive astrophysics explainer opening immediately on a real-time GLSL ra
 |---|---|
 | Category | [Interactive Explainers & Slides](../../README.md#interactive-explainers--slides) |
 | Site type | [Interactive Explainer](../../types/explainer.md), [Landing](../../types/landing.md) |
-| Style | [Editorial](../../styles/editorial.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Editorial](../../styles/editorial.md) |
 | Effects | Scroll Animation, 3D / WebGL |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
@@ -84,7 +84,7 @@ Copy the prompt from this page or run npx vibefather add black-hole-interactive-
 The Event Horizon Atlas (Aurelia-X1) case was built by Gemini 4 Neon in Antigravity; the Singularity Field Notes (Cygnus-Core 9) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Black Hole Interactive Explainer template use?
-Black Hole Interactive Explainer is a single-page site built with React, Tailwind CSS, Three.js and Webgl, with scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
+Black Hole Interactive Explainer is a single-page site built with React, Three.js, Tailwind CSS and Webgl, with scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
 
 ### Can I use the Black Hole Interactive Explainer template for a client or a business?
 The Black Hole Interactive Explainer prompt and DESIGN.md are free for personal, non-commercial projects under CC BY-NC 4.0. Client work and commercial use need VibeFather Pro, which also includes the source code of the live demo.

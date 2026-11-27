@@ -18,7 +18,7 @@ Adapt the brand, audience, featured collection, and product catalog in one conte
 |---|---|
 | Category | [E-commerce & Product Pages](../../README.md#e-commerce--product-pages) |
 | Site type | [E-commerce](../../types/ecommerce.md) |
-| Style | [Playful](../../styles/playful.md), [Bento Grid](../../styles/bento.md) |
+| Style | [Bento Grid](../../styles/bento.md), [Playful](../../styles/playful.md) |
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 3 |

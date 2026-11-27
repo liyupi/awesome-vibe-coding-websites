@@ -3,8 +3,8 @@
     "slug": "glm-5-4",
     "name": "GLM-5.4",
     "vendor": "Zhipu AI",
-    "sites": 25,
-    "templates": 25,
+    "sites": 42,
+    "templates": 42,
     "tools": [
       "ZCode"
     ],
@@ -25,8 +25,8 @@
     "slug": "gpt-6-2-astra",
     "name": "GPT-6.2 Astra",
     "vendor": "OpenAI",
-    "sites": 4,
-    "templates": 4,
+    "sites": 5,
+    "templates": 5,
     "tools": [
       "Codex"
     ],
@@ -47,8 +47,8 @@
     "slug": "gemini-4-neon",
     "name": "Gemini 4 Neon",
     "vendor": "Google",
-    "sites": 40,
-    "templates": 40,
+    "sites": 59,
+    "templates": 59,
     "tools": [
       "Antigravity",
       "Cursor"

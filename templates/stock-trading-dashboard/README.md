@@ -16,7 +16,7 @@ The order ticket connects to the same synthetic market as the chart. Market orde
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [Dashboard](../../types/dashboard.md), [Web App](../../types/web-app.md) |
-| Style | [Terminal](../../styles/terminal.md), [Dark](../../styles/dark.md) |
+| Style | [Dark](../../styles/dark.md), [Terminal](../../styles/terminal.md) |
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS |
 | Pages | 1 |

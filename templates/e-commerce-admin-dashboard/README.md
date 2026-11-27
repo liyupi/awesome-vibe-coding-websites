@@ -11,7 +11,7 @@ A single-page admin app for one small online store: a collapsible sidebar over f
 | | |
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
-| Site type | [E-commerce](../../types/ecommerce.md), [Dashboard](../../types/dashboard.md), [App](../../types/app.md) |
+| Site type | [Dashboard](../../types/dashboard.md), [E-commerce](../../types/ecommerce.md), [App](../../types/app.md) |
 | Style | [Swiss](../../styles/swiss.md), [Minimal](../../styles/minimal.md) |
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |

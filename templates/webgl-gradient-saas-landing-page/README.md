@@ -18,7 +18,7 @@ To adapt it, change the brand, slug, product and audience. The builder rewrites 
 |---|---|
 | Category | [SaaS, AI & App Sites](../../README.md#saas-ai--app-sites) |
 | Site type | [SaaS](../../types/saas.md), [Landing Page](../../types/landing-page.md) |
-| Style | [Aurora](../../styles/aurora.md), [Glass](../../styles/glass.md), [Minimal](../../styles/minimal.md) |
+| Style | [Glass](../../styles/glass.md), [Aurora](../../styles/aurora.md), [Minimal](../../styles/minimal.md) |
 | Effects | Scroll Animation, Generative / Canvas, Cursor Effects |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + ogl + motion + lucide-react |
 | Pages | 1 |
