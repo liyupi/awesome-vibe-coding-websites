@@ -2,7 +2,7 @@
 
 > A two-path property management site: owners get a transparent fee table and income estimator, tenants get listings and a maintenance list.
 
-<a href="https://vibefather.ai/templates/property-management-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="undefined" width="100%" alt="Property Management Company Website — Property Management Site with Income Tool built by GLM-5.3 and Kimi K3.1 Pro"></a>
+<a href="https://vibefather.ai/templates/property-management-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/property-management-company-website/06d7c381-bb30-4394-896a-4650155bc521/webp.b74822cf3b.webp" width="100%" alt="Property Management Company Website — Property Management Site with Income Tool built by Kimi K3.1 Pro and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/property-management-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Property Management Company Website is a single-page site for a residential prop
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/property-management-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Property Management Company Website is a single-page site for a residential prop
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<b>Rental management, Ellsworth</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/property-management-company-website?case=b1be4f69-ba53-42c4-bc99-24d5799b7b7e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/property-management-company-website?case=06d7c381-bb30-4394-896a-4650155bc521&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/property-management-company-website/06d7c381-bb30-4394-896a-4650155bc521/shot_desktop.c182e51ef4.webp" width="100%" alt="Property Management Company Website — Condo management, Port Bay, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Condo management, Port Bay</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/property-management-company-website?case=06d7c381-bb30-4394-896a-4650155bc521&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+
+<b>Rental management, Ellsworth</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/property-management-company-website?case=b1be4f69-ba53-42c4-bc99-24d5799b7b7e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Commercial and client use of the Property Management Company Website template re
 Copy the full prompt (Pro) from this page or run npx vibefather add property-management-company-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Property Management Company Website demo?
-The Rental management, Ellsworth case was built by GLM-5.3 in ZCode; the Condo management, Port Bay case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Condo management, Port Bay case was built by Kimi K3.1 Pro in Kimi Code; the Rental management, Ellsworth case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Property Management Company Website template use?
 Property Management Company Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

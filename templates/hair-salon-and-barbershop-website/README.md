@@ -2,7 +2,7 @@
 
 > Two-page salon site with stylist portraits, services with prices, a four-step booking flow stored in the browser.
 
-<a href="https://vibefather.ai/templates/hair-salon-and-barbershop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/hair-salon-and-barbershop-website/1e62ab47-62c3-4532-a480-90135fb6d382/webp.509db78caa.webp" width="100%" alt="Hair Salon and Barbershop Website — Salon Site with Booking Flow built by DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/hair-salon-and-barbershop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/hair-salon-and-barbershop-website/6c66894e-9023-4420-96be-6aed1cd05490/webp.f08941246f.webp" width="100%" alt="Hair Salon and Barbershop Website — Salon Site with Booking Flow built by DeepSeek V4.1 Flash"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/hair-salon-and-barbershop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 

@@ -2,7 +2,7 @@
 
 > A process-color print shop site with an instant quote calculator that shows its per-unit math on screen.
 
-<a href="https://vibefather.ai/templates/commercial-print-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/aa8d6a06-179f-47eb-864a-877e8178bde4/webp.b6595c9845.webp" width="100%" alt="Commercial Print Shop Website — Print Shop Site with Quote Calculator built by GLM-5.3 and Kimi K3.1 Pro"></a>
+<a href="https://vibefather.ai/templates/commercial-print-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/14d1e0ad-7f87-4e6f-afb3-fd05c9ab3151/webp.bbcdc2fde6.webp" width="100%" alt="Commercial Print Shop Website — Print Shop Site with Quote Calculator built by Kimi K3.1 Pro and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/commercial-print-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Commercial Print Shop Website is a single-page site for a local print shop, dres
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Commercial Print Shop Website is a single-page site for a local print shop, dres
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/commercial-print-shop-website?case=aa8d6a06-179f-47eb-864a-877e8178bde4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/aa8d6a06-179f-47eb-864a-877e8178bde4/shot_desktop.dd994abca6.webp" width="100%" alt="Commercial Print Shop Website — Print shop, Ironbridge, built by GLM-5.3 in ZCode"></a><br>
-<b>Print shop, Ironbridge</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/commercial-print-shop-website?case=aa8d6a06-179f-47eb-864a-877e8178bde4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/commercial-print-shop-website?case=14d1e0ad-7f87-4e6f-afb3-fd05c9ab3151&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/14d1e0ad-7f87-4e6f-afb3-fd05c9ab3151/shot_desktop.a25a7e5730.webp" width="100%" alt="Commercial Print Shop Website — Print shop, Drayton, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Print shop, Drayton</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/commercial-print-shop-website?case=14d1e0ad-7f87-4e6f-afb3-fd05c9ab3151&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/commercial-print-shop-website?case=aa8d6a06-179f-47eb-864a-877e8178bde4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/commercial-print-shop-website/aa8d6a06-179f-47eb-864a-877e8178bde4/shot_desktop.dd994abca6.webp" width="100%" alt="Commercial Print Shop Website — Print shop, Ironbridge, built by GLM-5.3 in ZCode"></a><br>
+<b>Print shop, Ironbridge</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/commercial-print-shop-website?case=aa8d6a06-179f-47eb-864a-877e8178bde4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Start with the quote table in the Commercial Print Shop Website template, becaus
 Copy the prompt from this page or run npx vibefather add commercial-print-shop-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Commercial Print Shop Website demo?
-The Print shop, Ironbridge case was built by GLM-5.3 in ZCode; the Print shop, Drayton case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Print shop, Drayton case was built by Kimi K3.1 Pro in Kimi Code; the Print shop, Ironbridge case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Commercial Print Shop Website template use?
 Commercial Print Shop Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

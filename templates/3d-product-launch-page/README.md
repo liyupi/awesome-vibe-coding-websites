@@ -2,7 +2,7 @@
 
 > A dark, cinematic launch page where a code-built 3D lamp tilts and changes color as you scroll.
 
-<a href="https://vibefather.ai/templates/3d-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/3d-product-launch-page/565fdd79-8b10-42f0-95b2-661affda944f/webp.f3f58d8475.webp" width="100%" alt="3D Product Launch Page — Dark Cinematic 3D Product Launch Page with Scroll-Driven three.js Lamp built by Claude Opus 5.5 and Gemini 4 Carbon"></a>
+<a href="https://vibefather.ai/templates/3d-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/3d-product-launch-page/0281f5ff-4fa7-444e-812f-7529d7ded48a/webp.d2da02340a.webp" width="100%" alt="3D Product Launch Page — Dark Cinematic 3D Product Launch Page with Scroll-Driven three.js Lamp built by Gemini 4 Carbon and Claude Opus 5.5"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/3d-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ To adapt the page, change the brand, product name, product type, price, ship win
 | Effects | Scroll Animation, Text Animation, 3D / WebGL |
 | Stack | Vite 5 + TypeScript + three.js + Vanilla CSS + three + gsap + lenis |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/3d-product-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,14 +30,14 @@ To adapt the page, change the brand, product name, product type, price, ship win
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/3d-product-launch-page?case=565fdd79-8b10-42f0-95b2-661affda944f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-product-launch-page/565fdd79-8b10-42f0-95b2-661affda944f/shot_desktop.9274cd092a.webp" width="100%" alt="3D Product Launch Page — Smart desk lamp, built by Claude Opus 5.5 in Claude Code"></a><br>
-<b>Smart desk lamp</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/3d-product-launch-page?case=565fdd79-8b10-42f0-95b2-661affda944f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-product-launch-page?case=0281f5ff-4fa7-444e-812f-7529d7ded48a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-product-launch-page/0281f5ff-4fa7-444e-812f-7529d7ded48a/shot_desktop.991782b253.webp" width="100%" alt="3D Product Launch Page — Indoor grow light, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Indoor grow light</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/3d-product-launch-page?case=0281f5ff-4fa7-444e-812f-7529d7ded48a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/3d-product-launch-page?case=565fdd79-8b10-42f0-95b2-661affda944f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-product-launch-page/565fdd79-8b10-42f0-95b2-661affda944f/shot_desktop.9274cd092a.webp" width="100%" alt="3D Product Launch Page — Smart desk lamp, built by Claude Opus 5.5 in Claude Code"></a><br>
+<b>Smart desk lamp</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/3d-product-launch-page?case=565fdd79-8b10-42f0-95b2-661affda944f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -89,7 +89,7 @@ Commercial and client use of the 3D Product Launch Page requires Pro. The templa
 Copy the full prompt (Pro) from this page or run npx vibefather add 3d-product-launch-page, replace [BRAND], [PRODUCT_NAME], [PRODUCT_TYPE] and [PRICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the 3D Product Launch Page demo?
-The Smart desk lamp case was built by Claude Opus 5.5 in Claude Code; the Indoor grow light case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Indoor grow light case was built by Gemini 4 Carbon in Cursor; the Smart desk lamp case was built by Claude Opus 5.5 in Claude Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Product Launch Page template use?
 3D Product Launch Page is a single-page site built with GSAP, Plain HTML and Three.js, with scroll animation, text animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

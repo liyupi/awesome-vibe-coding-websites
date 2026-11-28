@@ -2,7 +2,7 @@
 
 > A velvet-red cinema site with a bulb-lit marquee, code-drawn posters, showtimes by day and a seat picker.
 
-<a href="https://vibefather.ai/templates/movie-theater-showtimes-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/movie-theater-showtimes-website/45aa5cd0-bd23-48fe-b107-770674d3be57/webp.87de76341e.webp" width="100%" alt="Movie Theater Showtimes Website — Velvet Cinema with Seat Picker built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/movie-theater-showtimes-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/movie-theater-showtimes-website/baa26fe7-9f1f-4386-80c6-18ff508d0f5c/webp.28a8107f6d.webp" width="100%" alt="Movie Theater Showtimes Website — Velvet Cinema with Seat Picker built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/movie-theater-showtimes-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ This template builds a showtimes website for an independent cinema, drawn entire
 | Effects | Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ This template builds a showtimes website for an independent cinema, drawn entire
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/movie-theater-showtimes-website?case=45aa5cd0-bd23-48fe-b107-770674d3be57&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/movie-theater-showtimes-website/45aa5cd0-bd23-48fe-b107-770674d3be57/shot_desktop.57e1824072.webp" width="100%" alt="Movie Theater Showtimes Website — The Ruby Lantern, built by GLM-5.3 in ZCode"></a><br>
-<b>The Ruby Lantern</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/movie-theater-showtimes-website?case=45aa5cd0-bd23-48fe-b107-770674d3be57&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/movie-theater-showtimes-website?case=baa26fe7-9f1f-4386-80c6-18ff508d0f5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/movie-theater-showtimes-website/baa26fe7-9f1f-4386-80c6-18ff508d0f5c/shot_desktop.1815d8ce81.webp" width="100%" alt="Movie Theater Showtimes Website — Repertory playhouse, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Repertory playhouse</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/movie-theater-showtimes-website?case=baa26fe7-9f1f-4386-80c6-18ff508d0f5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/movie-theater-showtimes-website?case=45aa5cd0-bd23-48fe-b107-770674d3be57&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/movie-theater-showtimes-website/45aa5cd0-bd23-48fe-b107-770674d3be57/shot_desktop.57e1824072.webp" width="100%" alt="Movie Theater Showtimes Website — The Ruby Lantern, built by GLM-5.3 in ZCode"></a><br>
+<b>The Ruby Lantern</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/movie-theater-showtimes-website?case=45aa5cd0-bd23-48fe-b107-770674d3be57&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with BRAND, CITY, TICKET_PRICE and DISCOUNT_DAY, then rewrite the marquee 
 Copy the prompt from this page or run npx vibefather add movie-theater-showtimes-website, replace [BRAND], [CITY], [TICKET_PRICE] and [DISCOUNT_DAY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Movie Theater Showtimes Website demo?
-The The Ruby Lantern case was built by GLM-5.3 in ZCode; the Repertory playhouse case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Repertory playhouse case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the The Ruby Lantern case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Movie Theater Showtimes Website template use?
 Movie Theater Showtimes Website is a 2-page site built with Motion, React and Tailwind CSS, with marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

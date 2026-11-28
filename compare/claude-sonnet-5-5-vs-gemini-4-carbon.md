@@ -41,18 +41,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-festival-website/7d2fa76f-4f83-4c69-aba1-386bcbe506eb/shot_desktop.9d1e0fa7b3.webp" width="100%" alt="Music Festival Website built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> — <sub>A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/tidestone/b5845f86-1106-4039-b50c-5a82815cd67c/shot_desktop.3328b4e17b.webp" width="100%" alt="Boutique Hotel Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boutique-hotel-website/96ff3519-3cba-442f-8288-f2c6b6d50631/shot_desktop.ceffab4f15.webp" width="100%" alt="Boutique Hotel Website built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b> — <sub>Step through five sorting algorithms on a live bar stage, then race any two on the same array.</sub></td>

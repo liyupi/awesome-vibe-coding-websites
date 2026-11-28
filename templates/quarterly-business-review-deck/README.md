@@ -2,7 +2,7 @@
 
 > A 12-slide executive SaaS QBR presentation deck with SVG revenue waterfall, filterable OKRs, and print CSS.
 
-<a href="https://vibefather.ai/templates/quarterly-business-review-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/quarterly-business-review-deck/af46324c-b0a2-4bf7-ba79-27031bf09f0e/webp.4031877867.webp" width="100%" alt="Quarterly Business Review Deck — Executive 12-Slide SaaS QBR Presentation Deck built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/quarterly-business-review-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/quarterly-business-review-deck/c4518157-0ebc-4d91-8092-4850c4cc7640/webp.9833bfa4a3.webp" width="100%" alt="Quarterly Business Review Deck — Executive 12-Slide SaaS QBR Presentation Deck built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/quarterly-business-review-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Designed for SaaS operations leaders, chief operating officers, and revenue team
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Designed for SaaS operations leaders, chief operating officers, and revenue team
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/quarterly-business-review-deck?case=af46324c-b0a2-4bf7-ba79-27031bf09f0e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/quarterly-business-review-deck/af46324c-b0a2-4bf7-ba79-27031bf09f0e/shot_desktop.239cbbf4fb.webp" width="100%" alt="Quarterly Business Review Deck — SaaS operations quarterly review, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>SaaS operations quarterly review</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/quarterly-business-review-deck?case=af46324c-b0a2-4bf7-ba79-27031bf09f0e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/quarterly-business-review-deck?case=c4518157-0ebc-4d91-8092-4850c4cc7640&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/quarterly-business-review-deck/c4518157-0ebc-4d91-8092-4850c4cc7640/shot_desktop.bcc242f23b.webp" width="100%" alt="Quarterly Business Review Deck — Fintech payments executive QBR, built by GLM-5.4 in ZCode"></a><br>
 <b>Fintech payments executive QBR</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/quarterly-business-review-deck?case=c4518157-0ebc-4d91-8092-4850c4cc7640&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/quarterly-business-review-deck?case=af46324c-b0a2-4bf7-ba79-27031bf09f0e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/quarterly-business-review-deck/af46324c-b0a2-4bf7-ba79-27031bf09f0e/shot_desktop.239cbbf4fb.webp" width="100%" alt="Quarterly Business Review Deck — SaaS operations quarterly review, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>SaaS operations quarterly review</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/quarterly-business-review-deck?case=af46324c-b0a2-4bf7-ba79-27031bf09f0e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Quarterly Business Review Deck template is a free template. Its prompt and t
 Copy the prompt from this page or run npx vibefather add quarterly-business-review-deck, replace [BRAND], [QUARTER_LABEL], [HEADLINE_ARR] and [TEAM_SCOPE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Quarterly Business Review Deck demo?
-The SaaS operations quarterly review case was built by Gemini 4 Neon in Antigravity; the Fintech payments executive QBR case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Fintech payments executive QBR case was built by GLM-5.4 in ZCode; the SaaS operations quarterly review case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Quarterly Business Review Deck template use?
 Quarterly Business Review Deck is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

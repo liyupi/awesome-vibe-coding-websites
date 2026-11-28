@@ -2,7 +2,7 @@
 
 > Multi-category electronics store with mega menu, spec filters, 3-device compare, protection-plan cart, mock checkout, and tracking.
 
-<a href="https://vibefather.ai/templates/consumer-electronics-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/consumer-electronics-store/e1fcb48b-c423-4373-ae67-f3801664bd88/webp.43ffa15544.webp" width="100%" alt="Consumer Electronics Store — Modern Consumer Electronics &amp; Hardware Store built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/consumer-electronics-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/consumer-electronics-store/f7de7bf0-6beb-4e23-b512-8b1c6c88e915/webp.396543e6f0.webp" width="100%" alt="Consumer Electronics Store — Modern Consumer Electronics &amp; Hardware Store built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/consumer-electronics-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A sharp, industrial-design consumer electronics storefront showcasing brand-free
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 7 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/consumer-electronics-store?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A sharp, industrial-design consumer electronics storefront showcasing brand-free
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/consumer-electronics-store?case=e1fcb48b-c423-4373-ae67-f3801664bd88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/consumer-electronics-store/e1fcb48b-c423-4373-ae67-f3801664bd88/shot_desktop.43e8ec36da.webp" width="100%" alt="Consumer Electronics Store — VoltGrid Hardware, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>VoltGrid Hardware</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/consumer-electronics-store?case=e1fcb48b-c423-4373-ae67-f3801664bd88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/consumer-electronics-store?case=f7de7bf0-6beb-4e23-b512-8b1c6c88e915&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/consumer-electronics-store/f7de7bf0-6beb-4e23-b512-8b1c6c88e915/shot_desktop.ffe5e9489a.webp" width="100%" alt="Consumer Electronics Store — Kinetik Goods, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Kinetik Goods</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/consumer-electronics-store?case=f7de7bf0-6beb-4e23-b512-8b1c6c88e915&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/consumer-electronics-store?case=e1fcb48b-c423-4373-ae67-f3801664bd88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/consumer-electronics-store/e1fcb48b-c423-4373-ae67-f3801664bd88/shot_desktop.43e8ec36da.webp" width="100%" alt="Consumer Electronics Store — VoltGrid Hardware, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>VoltGrid Hardware</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/consumer-electronics-store?case=e1fcb48b-c423-4373-ae67-f3801664bd88&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ The Consumer Electronics Store template walks shoppers through Shipping, Deliver
 Copy the full prompt (Pro) from this page or run npx vibefather add consumer-electronics-store, replace [STORE_NAME], [TAGLINE] and [SUPPORT_EMAIL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Consumer Electronics Store demo?
-The VoltGrid Hardware case was built by Gemini 4 Neon in Antigravity; the Kinetik Goods case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Kinetik Goods case was built by GPT-6.2 Sol in Codex; the VoltGrid Hardware case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Consumer Electronics Store template use?
 Consumer Electronics Store is a 7-page site built with React, Tailwind CSS and Typescript, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > Bookstore site with staff picks, events, a book club and an order-for-pickup form — warm, papery and local.
 
-<a href="https://vibefather.ai/templates/independent-bookstore-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/independent-bookstore-website/83c160d1-b6ce-4d00-9af3-c94c0e8c0da4/webp.304d28e935.webp" width="100%" alt="Independent Bookstore Website — Bookstore Site with Events built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/independent-bookstore-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/independent-bookstore-website/8dec5db2-0202-4fda-a8e3-30e2ae870394/webp.c9bf971591.webp" width="100%" alt="Independent Bookstore Website — Bookstore Site with Events built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/independent-bookstore-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page website for an independent bookstore: the shop's promise over the 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page website for an independent bookstore: the shop's promise over the 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/independent-bookstore-website?case=83c160d1-b6ce-4d00-9af3-c94c0e8c0da4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/independent-bookstore-website/83c160d1-b6ce-4d00-9af3-c94c0e8c0da4/shot_desktop.369d1e6cc2.webp" width="100%" alt="Independent Bookstore Website — Corner indie bookstore, built by GLM-5.3 in ZCode"></a><br>
-<b>Corner indie bookstore</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/independent-bookstore-website?case=83c160d1-b6ce-4d00-9af3-c94c0e8c0da4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/independent-bookstore-website?case=8dec5db2-0202-4fda-a8e3-30e2ae870394&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/independent-bookstore-website/8dec5db2-0202-4fda-a8e3-30e2ae870394/shot_desktop.921314589f.webp" width="100%" alt="Independent Bookstore Website — Sci-fi specialty bookstore, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Sci-fi specialty bookstore</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/independent-bookstore-website?case=8dec5db2-0202-4fda-a8e3-30e2ae870394&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/independent-bookstore-website?case=83c160d1-b6ce-4d00-9af3-c94c0e8c0da4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/independent-bookstore-website/83c160d1-b6ce-4d00-9af3-c94c0e8c0da4/shot_desktop.369d1e6cc2.webp" width="100%" alt="Independent Bookstore Website — Corner indie bookstore, built by GLM-5.3 in ZCode"></a><br>
+<b>Corner indie bookstore</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/independent-bookstore-website?case=83c160d1-b6ce-4d00-9af3-c94c0e8c0da4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ The Independent Bookstore Website template names events by weekday and draws eac
 Copy the prompt from this page or run npx vibefather add independent-bookstore-website, replace [SHOP], [CITY] and [GENRE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Independent Bookstore Website demo?
-The Corner indie bookstore case was built by GLM-5.3 in ZCode; the Sci-fi specialty bookstore case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Sci-fi specialty bookstore case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Corner indie bookstore case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Independent Bookstore Website template use?
 Independent Bookstore Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > A pastel app landing page with a CSS phone that changes screens as you scroll and a tappable streak demo.
 
-<a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/daybloom/3524132d-32e3-43aa-95ac-0cf58464516d/webp.959547b0da.webp" width="100%" alt="Habit Tracker App Landing Page — Pastel Habit Tracker App Landing Page built by Claude Opus 5.5 and Gemini 4 Carbon"></a>
+<a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/habit-tracker-app-landing-page/815fadb1-5df9-4976-a5d7-69721ff4a748/webp.f0934bbcfa.webp" width="100%" alt="Habit Tracker App Landing Page — Pastel Habit Tracker App Landing Page built by Gemini 4 Carbon and Claude Opus 5.5"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/habit-tracker-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Daybloom is a single-page landing site for a mobile app, written around an inven
 | Effects | Scroll Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/habit-tracker-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,21 +24,21 @@ Daybloom is a single-page landing site for a mobile app, written around an inven
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=815fadb1-5df9-4976-a5d7-69721ff4a748&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/habit-tracker-app-landing-page/815fadb1-5df9-4976-a5d7-69721ff4a748/shot_desktop.59a014c55f.webp" width="100%" alt="Habit Tracker App Landing Page — Habit tracker app, built by Gemini 4 Carbon in Cursor"></a><br>
+<b>Habit tracker app</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=815fadb1-5df9-4976-a5d7-69721ff4a748&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=3524132d-32e3-43aa-95ac-0cf58464516d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/daybloom/3524132d-32e3-43aa-95ac-0cf58464516d/shot_desktop.b0b9e7a6db.webp" width="100%" alt="Habit Tracker App Landing Page — Habit tracker app, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Habit tracker app</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=3524132d-32e3-43aa-95ac-0cf58464516d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=cc072713-b66e-45b6-90aa-f818d32bfb83&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/habit-tracker-app-landing-page/cc072713-b66e-45b6-90aa-f818d32bfb83/shot_desktop.90f180a13c.webp" width="100%" alt="Habit Tracker App Landing Page — Plant-care reminder app, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Plant-care reminder app</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=cc072713-b66e-45b6-90aa-f818d32bfb83&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=815fadb1-5df9-4976-a5d7-69721ff4a748&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/habit-tracker-app-landing-page/815fadb1-5df9-4976-a5d7-69721ff4a748/shot_desktop.59a014c55f.webp" width="100%" alt="Habit Tracker App Landing Page — Habit tracker app, built by Gemini 4 Carbon in Cursor"></a><br>
-<b>Habit tracker app</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/habit-tracker-app-landing-page?case=815fadb1-5df9-4976-a5d7-69721ff4a748&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -89,7 +89,7 @@ The Habit Tracker App Landing Page is a Pro template. Pro members see the full p
 Copy the full prompt (Pro) from this page or run npx vibefather add habit-tracker-app-landing-page, replace [BRAND], [APP_PURPOSE], [AUDIENCE] and [HABIT_EXAMPLES] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Habit Tracker App Landing Page demo?
-The Habit tracker app case was built by Claude Opus 5.5 in Cursor; the Plant-care reminder app case was built by Claude Opus 5.5 in Cursor; the Habit tracker app case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Habit tracker app case was built by Gemini 4 Carbon in Cursor; the Habit tracker app case was built by Claude Opus 5.5 in Cursor; the Plant-care reminder app case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Habit Tracker App Landing Page template use?
 Habit Tracker App Landing Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

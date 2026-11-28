@@ -2,7 +2,7 @@
 
 > A guides-first three-column SDK documentation site with synced code tabs, version switching, and live try-it requests.
 
-<a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/webp.dfecdd02ff.webp" width="100%" alt="Product Documentation Website — Three-Column Developer SDK Documentation Site built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-documentation-website/dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d/webp.f77d10a7e0.webp" width="100%" alt="Product Documentation Website — Three-Column Developer SDK Documentation Site built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/product-documentation-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Product Documentation Website is a guides-first technical documentation template
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 4 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Product Documentation Website is a guides-first technical documentation template
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-documentation-website?case=c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/shot_desktop.23d76a594f.webp" width="100%" alt="Product Documentation Website — Event routing SDK docs, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Event routing SDK docs</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/product-documentation-website?case=c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-documentation-website/dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d/shot_desktop.62b7650244.webp" width="100%" alt="Product Documentation Website — Background job queue SDK, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Background job queue SDK</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/product-documentation-website?case=dc2b03ec-8ba9-4d8a-a91c-9dd47c63000d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-documentation-website?case=c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-documentation-website/c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d/shot_desktop.23d76a594f.webp" width="100%" alt="Product Documentation Website — Event routing SDK docs, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Event routing SDK docs</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/product-documentation-website?case=c905f12a-8b26-4ab4-9b9b-f1dffbbb1f0d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Product Documentation Website template keeps JavaScript, Python, and cURL ex
 Copy the prompt from this page or run npx vibefather add product-documentation-website, replace [BRAND], [PKG_NAME], [API_BASE] and [TAGLINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Product Documentation Website demo?
-The Event routing SDK docs case was built by Gemini 4 Neon in Antigravity; the Background job queue SDK case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Background job queue SDK case was built by GPT-6.2 Sol in Codex; the Event routing SDK docs case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Product Documentation Website template use?
 Product Documentation Website is a 4-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

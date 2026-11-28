@@ -2,7 +2,7 @@
 
 > A calm, reassuring pest control site with an identifier quiz that tells you what you're dealing with.
 
-<a href="https://vibefather.ai/templates/pest-control-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pest-control-service-website/940513cd-b5c4-44eb-8fe4-02dbbf053142/webp.6a1be102e1.webp" width="100%" alt="Pest Control Service Website — Pest Control Site with Identifier Quiz built by GLM-5.3 and Kimi K3.1 Pro"></a>
+<a href="https://vibefather.ai/templates/pest-control-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pest-control-service-website/1672ca85-e1d3-4aca-8cfd-6dc033713bf7/webp.2d636b9bf6.webp" width="100%" alt="Pest Control Service Website — Pest Control Site with Identifier Quiz built by Kimi K3.1 Pro and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/pest-control-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Pest Control Service Website is a single-page site for a local pest control comp
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Pest Control Service Website is a single-page site for a local pest control comp
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/pest-control-service-website?case=940513cd-b5c4-44eb-8fe4-02dbbf053142&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pest-control-service-website/940513cd-b5c4-44eb-8fe4-02dbbf053142/shot_desktop.bc68d67199.webp" width="100%" alt="Pest Control Service Website — Pest control, Briarfield, built by GLM-5.3 in ZCode"></a><br>
-<b>Pest control, Briarfield</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/pest-control-service-website?case=940513cd-b5c4-44eb-8fe4-02dbbf053142&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pest-control-service-website?case=1672ca85-e1d3-4aca-8cfd-6dc033713bf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pest-control-service-website/1672ca85-e1d3-4aca-8cfd-6dc033713bf7/shot_desktop.7299a32818.webp" width="100%" alt="Pest Control Service Website — Pest control, Milton Falls, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Pest control, Milton Falls</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/pest-control-service-website?case=1672ca85-e1d3-4aca-8cfd-6dc033713bf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/pest-control-service-website?case=940513cd-b5c4-44eb-8fe4-02dbbf053142&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pest-control-service-website/940513cd-b5c4-44eb-8fe4-02dbbf053142/shot_desktop.bc68d67199.webp" width="100%" alt="Pest Control Service Website — Pest control, Briarfield, built by GLM-5.3 in ZCode"></a><br>
+<b>Pest control, Briarfield</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/pest-control-service-website?case=940513cd-b5c4-44eb-8fe4-02dbbf053142&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ After the quiz finishes, the Pest Control Service Website template stores the la
 Copy the prompt from this page or run npx vibefather add pest-control-service-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Pest Control Service Website demo?
-The Pest control, Briarfield case was built by GLM-5.3 in ZCode; the Pest control, Milton Falls case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Pest control, Milton Falls case was built by Kimi K3.1 Pro in Kimi Code; the Pest control, Briarfield case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Pest Control Service Website template use?
 Pest Control Service Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

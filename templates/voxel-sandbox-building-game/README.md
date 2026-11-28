@@ -2,7 +2,7 @@
 
 > An original pastel-candy Three.js voxel sandbox opening on a sunset lakeside village with 12 materials and region copy-paste.
 
-<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/1c82ecb7-bd14-4672-a263-176864e35bc3/webp.d5237e96cd.webp" width="100%" alt="Voxel Sandbox Building Game — Pastel 3D Three.js Voxel Sandbox Builder built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/65902339-2b8a-4984-96c7-5ba3cba8bbc4/webp.e12117a02a.webp" width="100%" alt="Voxel Sandbox Building Game — Pastel 3D Three.js Voxel Sandbox Builder built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Voxel Sandbox Building Game is an original browser-based 3D block-building sandb
 | Effects | Generative / Canvas, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Voxel Sandbox Building Game is an original browser-based 3D block-building sandb
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=1c82ecb7-bd14-4672-a263-176864e35bc3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/1c82ecb7-bd14-4672-a263-176864e35bc3/shot_desktop.2b43e074e1.webp" width="100%" alt="Voxel Sandbox Building Game — Pastel lakeside sunset village, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Pastel lakeside sunset village</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=1c82ecb7-bd14-4672-a263-176864e35bc3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=65902339-2b8a-4984-96c7-5ba3cba8bbc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/65902339-2b8a-4984-96c7-5ba3cba8bbc4/shot_desktop.b58eedda83.webp" width="100%" alt="Voxel Sandbox Building Game — Sorbet terrace coastal valley, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Sorbet terrace coastal valley</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=65902339-2b8a-4984-96c7-5ba3cba8bbc4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=1c82ecb7-bd14-4672-a263-176864e35bc3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/1c82ecb7-bd14-4672-a263-176864e35bc3/shot_desktop.2b43e074e1.webp" width="100%" alt="Voxel Sandbox Building Game — Pastel lakeside sunset village, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Pastel lakeside sunset village</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?case=1c82ecb7-bd14-4672-a263-176864e35bc3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ Start with the three variables: set BRAND to your sandbox title, VILLAGE_NAME to
 Copy the prompt from this page or run npx vibefather add voxel-sandbox-building-game, replace [BRAND], [VILLAGE_NAME] and [WORLD_SEED] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Voxel Sandbox Building Game demo?
-The Pastel lakeside sunset village case was built by Gemini 4 Neon in Antigravity; the Sorbet terrace coastal valley case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Sorbet terrace coastal valley case was built by GPT-6.2 Sol in Codex; the Pastel lakeside sunset village case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Voxel Sandbox Building Game template use?
 Voxel Sandbox Building Game is a single-page site built with React, Three.js and Tailwind CSS, with generative / canvas, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

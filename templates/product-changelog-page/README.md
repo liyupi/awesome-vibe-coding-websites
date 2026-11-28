@@ -2,7 +2,7 @@
 
 > Release-notes page with a version timeline, type filters with live counts, copyable version anchors and a drawn feed chip.
 
-<a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/webp.f9a0d22a9a.webp" width="100%" alt="Product Changelog Page — Changelog Page with Tag Filters built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-changelog-page/e662e1cd-4f4d-4412-87c1-88fcb9d0b02c/webp.d85cded2ec.webp" width="100%" alt="Product Changelog Page — Changelog Page with Tag Filters built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/product-changelog-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page changelog for one product: a sticky slim header with the wordmark 
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page changelog for one product: a sticky slim header with the wordmark 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-changelog-page?case=88d938ae-10a1-4353-8f16-bcc71b88e712&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/shot_desktop.dbeb32fdaa.webp" width="100%" alt="Product Changelog Page — Productivity app changelog, built by GLM-5.3 in ZCode"></a><br>
-<b>Productivity app changelog</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/product-changelog-page?case=88d938ae-10a1-4353-8f16-bcc71b88e712&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/product-changelog-page?case=e662e1cd-4f4d-4412-87c1-88fcb9d0b02c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-changelog-page/e662e1cd-4f4d-4412-87c1-88fcb9d0b02c/shot_desktop.190383e1a7.webp" width="100%" alt="Product Changelog Page — Developer library changelog, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Developer library changelog</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/product-changelog-page?case=e662e1cd-4f4d-4412-87c1-88fcb9d0b02c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-changelog-page?case=88d938ae-10a1-4353-8f16-bcc71b88e712&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-changelog-page/88d938ae-10a1-4353-8f16-bcc71b88e712/shot_desktop.dbeb32fdaa.webp" width="100%" alt="Product Changelog Page — Productivity app changelog, built by GLM-5.3 in ZCode"></a><br>
+<b>Productivity app changelog</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/product-changelog-page?case=88d938ae-10a1-4353-8f16-bcc71b88e712&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -79,7 +79,7 @@ Each release in the Product Changelog Page template carries an anchor built from
 Copy the prompt from this page or run npx vibefather add product-changelog-page, replace [PRODUCT] and [SUMMARY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Product Changelog Page demo?
-The Productivity app changelog case was built by GLM-5.3 in ZCode; the Developer library changelog case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Developer library changelog case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Productivity app changelog case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Product Changelog Page template use?
 Product Changelog Page is a single-page site built with Motion, React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

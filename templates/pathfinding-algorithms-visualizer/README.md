@@ -2,7 +2,7 @@
 
 > Interactive grid, hex, maze, and city-road pathfinding lab comparing BFS, Dijkstra, Greedy Best-First, and A* with live pseudocode.
 
-<a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/e1271149-f631-4fa3-bd29-ac3429803200/webp.3772876593.webp" width="100%" alt="Pathfinding Algorithms Visualizer — Interactive Pathfinding Algorithms Visualizer built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2/webp.19a079c484.webp" width="100%" alt="Pathfinding Algorithms Visualizer — Interactive Pathfinding Algorithms Visualizer built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/pathfinding-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ An interactive computer-science monograph and sandbox showing how maps and games
 | Effects | Interactive Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 4 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ An interactive computer-science monograph and sandbox showing how maps and games
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=e1271149-f631-4fa3-bd29-ac3429803200&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/e1271149-f631-4fa3-bd29-ac3429803200/shot_desktop.8cbd8f9bac.webp" width="100%" alt="Pathfinding Algorithms Visualizer — GraphCraft Lab (Square &amp; Hex Edition), built by Gemini 4 Neon in Antigravity"></a><br>
-<b>GraphCraft Lab (Square &amp; Hex Edition)</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=e1271149-f631-4fa3-bd29-ac3429803200&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2/shot_desktop.59b70f2857.webp" width="100%" alt="Pathfinding Algorithms Visualizer — RouteLogic Studio (Heuristic Explorer), built by GPT-6.2 Sol in Codex"></a><br>
 <b>RouteLogic Studio (Heuristic Explorer)</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=9a20a83b-3e97-4a7a-bbf4-31e9cd6ca3b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=e1271149-f631-4fa3-bd29-ac3429803200&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pathfinding-algorithms-visualizer/e1271149-f631-4fa3-bd29-ac3429803200/shot_desktop.8cbd8f9bac.webp" width="100%" alt="Pathfinding Algorithms Visualizer — GraphCraft Lab (Square &amp; Hex Edition), built by Gemini 4 Neon in Antigravity"></a><br>
+<b>GraphCraft Lab (Square &amp; Hex Edition)</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/pathfinding-algorithms-visualizer?case=e1271149-f631-4fa3-bd29-ac3429803200&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ The Pathfinding Algorithms Visualizer template exposes three variables: BRAND fo
 Copy the prompt from this page or run npx vibefather add pathfinding-algorithms-visualizer, replace [BRAND], [SUBTITLE] and [CITY_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Pathfinding Algorithms Visualizer demo?
-The GraphCraft Lab (Square & Hex Edition) case was built by Gemini 4 Neon in Antigravity; the RouteLogic Studio (Heuristic Explorer) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The RouteLogic Studio (Heuristic Explorer) case was built by GPT-6.2 Sol in Codex; the GraphCraft Lab (Square & Hex Edition) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Pathfinding Algorithms Visualizer template use?
 Pathfinding Algorithms Visualizer is a 4-page site built with React, Tailwind CSS and Typescript, with interactive canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

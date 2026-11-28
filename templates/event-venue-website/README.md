@@ -2,7 +2,7 @@
 
 > Single-page venue site with capacity tables, an interactive seating floor plan, gallery, packages and an availability enquiry.
 
-<a href="https://vibefather.ai/templates/event-venue-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/event-venue-website/52beb175-42c7-4ba2-b6de-7cf4ab5a779a/webp.384239f209.webp" width="100%" alt="Event Venue Website — Event Venue with Floor Plan built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/event-venue-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/event-venue-website/55deb35d-c175-4ce3-9130-c3c37a4b1d17/webp.b52df9cc21.webp" width="100%" alt="Event Venue Website — Event Venue with Floor Plan built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/event-venue-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page website for an event venue: the main hall set for dinner as the he
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page website for an event venue: the main hall set for dinner as the he
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/event-venue-website?case=52beb175-42c7-4ba2-b6de-7cf4ab5a779a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/event-venue-website/52beb175-42c7-4ba2-b6de-7cf4ab5a779a/shot_desktop.b1c851bb0e.webp" width="100%" alt="Event Venue Website — Converted-warehouse venue, built by GLM-5.3 in ZCode"></a><br>
-<b>Converted-warehouse venue</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/event-venue-website?case=52beb175-42c7-4ba2-b6de-7cf4ab5a779a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/event-venue-website?case=55deb35d-c175-4ce3-9130-c3c37a4b1d17&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/event-venue-website/55deb35d-c175-4ce3-9130-c3c37a4b1d17/shot_desktop.f7e843ca61.webp" width="100%" alt="Event Venue Website — Garden estate venue, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Garden estate venue</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/event-venue-website?case=55deb35d-c175-4ce3-9130-c3c37a4b1d17&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/event-venue-website?case=52beb175-42c7-4ba2-b6de-7cf4ab5a779a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/event-venue-website/52beb175-42c7-4ba2-b6de-7cf4ab5a779a/shot_desktop.b1c851bb0e.webp" width="100%" alt="Event Venue Website — Converted-warehouse venue, built by GLM-5.3 in ZCode"></a><br>
+<b>Converted-warehouse venue</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/event-venue-website?case=52beb175-42c7-4ba2-b6de-7cf4ab5a779a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Event Venue Website template suits any room-based event space: converted war
 Copy the prompt from this page or run npx vibefather add event-venue-website, replace [VENUE], [CITY], [STYLE_NOTE] and [CURFEW] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Event Venue Website demo?
-The Converted-warehouse venue case was built by GLM-5.3 in ZCode; the Garden estate venue case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Garden estate venue case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Converted-warehouse venue case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Event Venue Website template use?
 Event Venue Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

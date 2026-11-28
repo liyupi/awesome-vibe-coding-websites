@@ -2,7 +2,7 @@
 
 > A three-page festival site with a sound-reactive hero, filterable line-up, illustrated map and ticket table.
 
-<a href="https://vibefather.ai/templates/music-festival-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/music-festival-website/811158fe-3a14-47f4-a6cb-1d81a9ba99c0/webp.84e691db4b.webp" width="100%" alt="Music Festival Website — Music Festival Site with Audio Visualizer built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/music-festival-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/music-festival-website/1d789b7e-e5b7-484f-95c2-ca5d2ee64b5b/webp.8fd5634ba8.webp" width="100%" alt="Music Festival Website — Music Festival Site with Audio Visualizer built by GLM-5.4, Gemini 4 Carbon, Claude Opus 5.5 and Claude Sonnet 5.5"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/music-festival-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -20,12 +20,24 @@ It suits promoters, venues, city weekends and community music events that want a
 | Effects | Scroll Animation, Generative / Canvas, Marquee |
 | Stack | Vite 5 multi-page + vanilla TypeScript + Tailwind CSS 3.4 + tailwindcss@3.4 + gsap@3 + lucide |
 | Pages | 3 |
-| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Claude Code |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/music-festival-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/music-festival-website?case=1d789b7e-e5b7-484f-95c2-ca5d2ee64b5b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-festival-website/1d789b7e-e5b7-484f-95c2-ca5d2ee64b5b/shot_desktop.d8bcc03f43.webp" width="100%" alt="Music Festival Website — Lakeside indie festival, built by GLM-5.4 in ZCode"></a><br>
+<b>Lakeside indie festival</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/music-festival-website?case=1d789b7e-e5b7-484f-95c2-ca5d2ee64b5b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/music-festival-website?case=7d2fa76f-4f83-4c69-aba1-386bcbe506eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-festival-website/7d2fa76f-4f83-4c69-aba1-386bcbe506eb/shot_desktop.9d1e0fa7b3.webp" width="100%" alt="Music Festival Website — Lakeside indie festival, built by Gemini 4 Carbon in Cursor"></a><br>
+<b>Lakeside indie festival</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/music-festival-website?case=7d2fa76f-4f83-4c69-aba1-386bcbe506eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-festival-website?case=811158fe-3a14-47f4-a6cb-1d81a9ba99c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-festival-website/811158fe-3a14-47f4-a6cb-1d81a9ba99c0/shot_desktop.edcfa6a3a9.webp" width="100%" alt="Music Festival Website — Lakeside indie festival, built by Claude Opus 5.5 in Claude Code"></a><br>
@@ -36,18 +48,6 @@ It suits promoters, venues, city weekends and community music events that want a
 <a href="https://vibefather.ai/templates/music-festival-website?case=a0e2ad30-e1dd-4963-a051-0f24e9543ff7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-festival-website/a0e2ad30-e1dd-4963-a051-0f24e9543ff7/shot_desktop.bbf4782939.webp" width="100%" alt="Music Festival Website — Tropical bass weekend, built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b>Tropical bass weekend</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Claude Code · <a href="https://vibefather.ai/templates/music-festival-website?case=a0e2ad30-e1dd-4963-a051-0f24e9543ff7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/music-festival-website?case=7d2fa76f-4f83-4c69-aba1-386bcbe506eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-festival-website/7d2fa76f-4f83-4c69-aba1-386bcbe506eb/shot_desktop.9d1e0fa7b3.webp" width="100%" alt="Music Festival Website — Lakeside indie festival, built by Gemini 4 Carbon in Cursor"></a><br>
-<b>Lakeside indie festival</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/music-festival-website?case=7d2fa76f-4f83-4c69-aba1-386bcbe506eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/music-festival-website?case=1d789b7e-e5b7-484f-95c2-ca5d2ee64b5b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-festival-website/1d789b7e-e5b7-484f-95c2-ca5d2ee64b5b/shot_desktop.d8bcc03f43.webp" width="100%" alt="Music Festival Website — Lakeside indie festival, built by GLM-5.4 in ZCode"></a><br>
-<b>Lakeside indie festival</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/music-festival-website?case=1d789b7e-e5b7-484f-95c2-ca5d2ee64b5b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -98,7 +98,7 @@ The home page line-up is poster-style, with type size stepping down by billing t
 Copy the full prompt (Pro) from this page or run npx vibefather add music-festival-website, replace [BRAND], [EVENT_DATES], [LOCATION] and [LINEUP_GENRES] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Music Festival Website demo?
-The Lakeside indie festival case was built by Claude Opus 5.5 in Claude Code; the Tropical bass weekend case was built by Claude Sonnet 5.5 in Claude Code; the Lakeside indie festival case was built by Gemini 4 Carbon in Cursor; the Lakeside indie festival case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Lakeside indie festival case was built by GLM-5.4 in ZCode; the Lakeside indie festival case was built by Gemini 4 Carbon in Cursor; the Lakeside indie festival case was built by Claude Opus 5.5 in Claude Code; the Tropical bass weekend case was built by Claude Sonnet 5.5 in Claude Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Music Festival Website template use?
 Music Festival Website is a 3-page site built with GSAP, Plain HTML and Tailwind CSS, with scroll animation, generative / canvas and marquee. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

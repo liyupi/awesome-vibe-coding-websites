@@ -2,7 +2,7 @@
 
 > Clean store-admin app: KPI cards, a hand-rolled revenue chart, orders table with filters, product editor and inventory alerts.
 
-<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/webp.f37d1677cf.webp" width="100%" alt="E-commerce Admin Dashboard — Store Admin Dashboard with Charts built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/d3aabe35-2a58-4f81-b9a3-f1740abf3e05/webp.9bb522d5db.webp" width="100%" alt="E-commerce Admin Dashboard — Store Admin Dashboard with Charts built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/e-commerce-admin-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page admin app for one small online store: a collapsible sidebar over f
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page admin app for one small online store: a collapsible sidebar over f
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard — Outdoor gear store admin, built by GLM-5.3 in ZCode"></a><br>
-<b>Outdoor gear store admin</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=d3aabe35-2a58-4f81-b9a3-f1740abf3e05&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/d3aabe35-2a58-4f81-b9a3-f1740abf3e05/shot_desktop.d9c4680a73.webp" width="100%" alt="E-commerce Admin Dashboard — Candle studio admin, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Candle studio admin</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=d3aabe35-2a58-4f81-b9a3-f1740abf3e05&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/e-commerce-admin-dashboard/2a1587a3-b06e-4164-b9d5-345d50489060/shot_desktop.e4f02c7c20.webp" width="100%" alt="E-commerce Admin Dashboard — Outdoor gear store admin, built by GLM-5.3 in ZCode"></a><br>
+<b>Outdoor gear store admin</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/e-commerce-admin-dashboard?case=2a1587a3-b06e-4164-b9d5-345d50489060&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -79,7 +79,7 @@ Tell your AI agent which sidebar view to add and what it should contain, then po
 Copy the prompt from this page or run npx vibefather add e-commerce-admin-dashboard, replace [SHOP] and [NICHE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the E-commerce Admin Dashboard demo?
-The Outdoor gear store admin case was built by GLM-5.3 in ZCode; the Candle studio admin case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Candle studio admin case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Outdoor gear store admin case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the E-commerce Admin Dashboard template use?
 E-commerce Admin Dashboard is a single-page site built with Motion, React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

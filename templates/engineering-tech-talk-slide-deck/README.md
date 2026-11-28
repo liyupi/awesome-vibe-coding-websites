@@ -2,7 +2,7 @@
 
 > A dark 12-slide conference engineering talk deck with interactive architecture, code diffs, and live benchmarks.
 
-<a href="https://vibefather.ai/templates/engineering-tech-talk-slide-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/engineering-tech-talk-slide-deck/6ea57c54-a834-4597-852a-15465159b0f5/webp.61466eee58.webp" width="100%" alt="Engineering Tech Talk Slide Deck — Dark Engineering Conference Talk Slide Deck built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/engineering-tech-talk-slide-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/engineering-tech-talk-slide-deck/f0ca5083-9f6d-4499-8124-49e3d3e38783/webp.b146ed654e.webp" width="100%" alt="Engineering Tech Talk Slide Deck — Dark Engineering Conference Talk Slide Deck built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/engineering-tech-talk-slide-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Crafted for staff engineers, systems architects, and developer advocates deliver
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Crafted for staff engineers, systems architects, and developer advocates deliver
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/engineering-tech-talk-slide-deck?case=6ea57c54-a834-4597-852a-15465159b0f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/engineering-tech-talk-slide-deck/6ea57c54-a834-4597-852a-15465159b0f5/shot_desktop.7b5537298e.webp" width="100%" alt="Engineering Tech Talk Slide Deck — Real-time event pipeline talk, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Real-time event pipeline talk</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/engineering-tech-talk-slide-deck?case=6ea57c54-a834-4597-852a-15465159b0f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/engineering-tech-talk-slide-deck?case=f0ca5083-9f6d-4499-8124-49e3d3e38783&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/engineering-tech-talk-slide-deck/f0ca5083-9f6d-4499-8124-49e3d3e38783/shot_desktop.f3d7cafe4c.webp" width="100%" alt="Engineering Tech Talk Slide Deck — Distributed SQL query engine talk, built by GLM-5.4 in ZCode"></a><br>
 <b>Distributed SQL query engine talk</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/engineering-tech-talk-slide-deck?case=f0ca5083-9f6d-4499-8124-49e3d3e38783&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/engineering-tech-talk-slide-deck?case=6ea57c54-a834-4597-852a-15465159b0f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/engineering-tech-talk-slide-deck/6ea57c54-a834-4597-852a-15465159b0f5/shot_desktop.7b5537298e.webp" width="100%" alt="Engineering Tech Talk Slide Deck — Real-time event pipeline talk, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Real-time event pipeline talk</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/engineering-tech-talk-slide-deck?case=6ea57c54-a834-4597-852a-15465159b0f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Adapt the Engineering Tech Talk Slide Deck template by replacing the case study 
 Copy the prompt from this page or run npx vibefather add engineering-tech-talk-slide-deck, replace [BRAND], [TALK_TITLE], [SPEAKER_NAME] and [SPEAKER_ROLE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Engineering Tech Talk Slide Deck demo?
-The Real-time event pipeline talk case was built by Gemini 4 Neon in Antigravity; the Distributed SQL query engine talk case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Distributed SQL query engine talk case was built by GLM-5.4 in ZCode; the Real-time event pipeline talk case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Engineering Tech Talk Slide Deck template use?
 Engineering Tech Talk Slide Deck is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

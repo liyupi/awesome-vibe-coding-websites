@@ -2,7 +2,7 @@
 
 > A painterly indie game launch page with parallax scenes, a world map teaser and a wishlist close.
 
-<a href="https://vibefather.ai/templates/indie-game-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/webp.70cc40965c.webp" width="100%" alt="Indie Game Launch Page — Game Launch Page with Key Art built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/indie-game-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/indie-game-launch-page/5c344e2d-eb13-4bdf-9f0b-90cbad3452af/webp.f646c2072c.webp" width="100%" alt="Indie Game Launch Page — Game Launch Page with Key Art built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/indie-game-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page launch site for one indie game, painted rather than built. The fir
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/indie-game-launch-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page launch site for one indie game, painted rather than built. The fir
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/shot_desktop.d40cc25515.webp" width="100%" alt="Indie Game Launch Page — Indie game launch, built by GLM-5.3 in ZCode"></a><br>
-<b>Indie game launch</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/indie-game-launch-page?case=5c344e2d-eb13-4bdf-9f0b-90cbad3452af&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/indie-game-launch-page/5c344e2d-eb13-4bdf-9f0b-90cbad3452af/shot_desktop.3c82495d6e.webp" width="100%" alt="Indie Game Launch Page — Cozy lantern-keeping game, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Cozy lantern-keeping game</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/indie-game-launch-page?case=5c344e2d-eb13-4bdf-9f0b-90cbad3452af&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/shot_desktop.d40cc25515.webp" width="100%" alt="Indie Game Launch Page — Indie game launch, built by GLM-5.3 in ZCode"></a><br>
+<b>Indie game launch</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/indie-game-launch-page?case=8f1b200e-faf2-4daa-a6ea-1f06256e67b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Commercial and client use of the Indie Game Launch Page template needs Pro. Free
 Copy the full prompt (Pro) from this page or run npx vibefather add indie-game-launch-page, replace [GAME], [STUDIO], [WORLD] and [WINDOW] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Indie Game Launch Page demo?
-The Indie game launch case was built by GLM-5.3 in ZCode; the Cozy lantern-keeping game case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Cozy lantern-keeping game case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Indie game launch case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Indie Game Launch Page template use?
 Indie Game Launch Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

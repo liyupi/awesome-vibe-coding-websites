@@ -2,7 +2,7 @@
 
 > Broadcast-navy webinar page with a live countdown, speaker cards, rundown agenda, timezone-aware registration and calendar files.
 
-<a href="https://vibefather.ai/templates/webinar-registration-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/webinar-registration-page/5634dad1-ed5e-429a-a8a1-3192fd12801c/webp.d069dfb1ae.webp" width="100%" alt="Webinar Registration Page — Webinar Page with Countdown built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/webinar-registration-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/webinar-registration-page/34470f64-0dec-4e05-930e-19f09ad53b53/webp.8f5e60070d.webp" width="100%" alt="Webinar Registration Page — Webinar Page with Countdown built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/webinar-registration-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page site that fills one webinar: a hero with a live number-flip countd
 | Effects | Countdown, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page site that fills one webinar: a hero with a live number-flip countd
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/webinar-registration-page?case=5634dad1-ed5e-429a-a8a1-3192fd12801c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/webinar-registration-page/5634dad1-ed5e-429a-a8a1-3192fd12801c/shot_desktop.71ff2b8320.webp" width="100%" alt="Webinar Registration Page — B2B skills webinar, built by GLM-5.3 in ZCode"></a><br>
-<b>B2B skills webinar</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/webinar-registration-page?case=5634dad1-ed5e-429a-a8a1-3192fd12801c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/webinar-registration-page?case=34470f64-0dec-4e05-930e-19f09ad53b53&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/webinar-registration-page/34470f64-0dec-4e05-930e-19f09ad53b53/shot_desktop.c7cf30ac81.webp" width="100%" alt="Webinar Registration Page — Design systems webinar, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Design systems webinar</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/webinar-registration-page?case=34470f64-0dec-4e05-930e-19f09ad53b53&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/webinar-registration-page?case=5634dad1-ed5e-429a-a8a1-3192fd12801c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/webinar-registration-page/5634dad1-ed5e-429a-a8a1-3192fd12801c/shot_desktop.71ff2b8320.webp" width="100%" alt="Webinar Registration Page — B2B skills webinar, built by GLM-5.3 in ZCode"></a><br>
+<b>B2B skills webinar</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/webinar-registration-page?case=5634dad1-ed5e-429a-a8a1-3192fd12801c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Webinar Registration Page template is free. Its prompt and the DESIGN.md are
 Copy the prompt from this page or run npx vibefather add webinar-registration-page, replace [BRAND], [TITLE], [DATE] and [TOPIC] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Webinar Registration Page demo?
-The B2B skills webinar case was built by GLM-5.3 in ZCode; the Design systems webinar case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Design systems webinar case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the B2B skills webinar case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Webinar Registration Page template use?
 Webinar Registration Page is a single-page site built with Motion, React and Tailwind CSS, with countdown and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

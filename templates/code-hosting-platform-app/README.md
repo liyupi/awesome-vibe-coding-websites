@@ -2,7 +2,7 @@
 
 > A complete developer code-hosting workspace with file browser, split diffs, issues, releases, and insights.
 
-<a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/webp.f843aa7320.webp" width="100%" alt="Code Hosting Platform App — Developer Code Hosting Web App with Diffs built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/20464864-d9d7-464f-b5d3-6974df1dc7ed/webp.8e70d72298.webp" width="100%" alt="Code Hosting Platform App — Developer Code Hosting Web App with Diffs built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Code Hosting Platform App is a self-contained developer workspace modeled around
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 7 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/code-hosting-platform-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Code Hosting Platform App is a self-contained developer workspace modeled around
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/code-hosting-platform-app?case=bfdd517b-88c6-4f77-a4e8-8948d675c670&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/shot_desktop.6fc77de9e5.webp" width="100%" alt="Code Hosting Platform App — Systems KV storage org, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Systems KV storage org</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=bfdd517b-88c6-4f77-a4e8-8948d675c670&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/20464864-d9d7-464f-b5d3-6974df1dc7ed/shot_desktop.937dc833f8.webp" width="100%" alt="Code Hosting Platform App — Audio DSP toolkit org, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Audio DSP toolkit org</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=20464864-d9d7-464f-b5d3-6974df1dc7ed&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/code-hosting-platform-app?case=bfdd517b-88c6-4f77-a4e8-8948d675c670&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/code-hosting-platform-app/bfdd517b-88c6-4f77-a4e8-8948d675c670/shot_desktop.6fc77de9e5.webp" width="100%" alt="Code Hosting Platform App — Systems KV storage org, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Systems KV storage org</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/code-hosting-platform-app?case=bfdd517b-88c6-4f77-a4e8-8948d675c670&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Code Hosting Platform App lets you create issues, reply to existing threads,
 Copy the full prompt (Pro) from this page or run npx vibefather add code-hosting-platform-app, replace [BRAND], [ORG_HANDLE], [PRIMARY_REPO] and [MAINTAINER_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Code Hosting Platform App demo?
-The Systems KV storage org case was built by Gemini 4 Neon in Antigravity; the Audio DSP toolkit org case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Audio DSP toolkit org case was built by GPT-6.2 Sol in Codex; the Systems KV storage org case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Code Hosting Platform App template use?
 Code Hosting Platform App is a 7-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

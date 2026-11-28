@@ -2,7 +2,7 @@
 
 > Fresh, practical nutrition coaching with a build-a-plate tool that turns good intentions into dinner.
 
-<a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/nutritionist-website-with-plate-builder/f3a3eff1-7968-4471-91bd-e609aa347987/webp.99997a257d.webp" width="100%" alt="Nutritionist Website with Plate Builder — Nutritionist Site with Plate Builder built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/nutritionist-website-with-plate-builder/c9c69e2d-dbfd-4211-bb7c-ac1bd539914f/webp.da4f167ca7.webp" width="100%" alt="Nutritionist Website with Plate Builder — Nutritionist Site with Plate Builder built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/nutritionist-website-with-plate-builder?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ Variables cover the brand, practitioner, city, audience, and food focus. All cop
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,14 +30,14 @@ Variables cover the brand, practitioner, city, audience, and food focus. All cop
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=f3a3eff1-7968-4471-91bd-e609aa347987&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/nutritionist-website-with-plate-builder/f3a3eff1-7968-4471-91bd-e609aa347987/shot_desktop.3d4f41c629.webp" width="100%" alt="Nutritionist Website with Plate Builder — Nutrition coach June Calloway, built by GLM-5.3 in ZCode"></a><br>
-<b>Nutrition coach June Calloway</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=f3a3eff1-7968-4471-91bd-e609aa347987&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=c9c69e2d-dbfd-4211-bb7c-ac1bd539914f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/nutritionist-website-with-plate-builder/c9c69e2d-dbfd-4211-bb7c-ac1bd539914f/shot_desktop.53d98ba3ed.webp" width="100%" alt="Nutritionist Website with Plate Builder — Kids cooking club, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Kids cooking club</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=c9c69e2d-dbfd-4211-bb7c-ac1bd539914f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=f3a3eff1-7968-4471-91bd-e609aa347987&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/nutritionist-website-with-plate-builder/f3a3eff1-7968-4471-91bd-e609aa347987/shot_desktop.3d4f41c629.webp" width="100%" alt="Nutritionist Website with Plate Builder — Nutrition coach June Calloway, built by GLM-5.3 in ZCode"></a><br>
+<b>Nutrition coach June Calloway</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/nutritionist-website-with-plate-builder?case=f3a3eff1-7968-4471-91bd-e609aa347987&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -88,7 +88,7 @@ Yes. The Nutritionist Website with Plate Builder template is built so the plate 
 Copy the prompt from this page or run npx vibefather add nutritionist-website-with-plate-builder, replace [BRAND], [PRACTITIONER], [CITY] and [AUDIENCE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Nutritionist Website with Plate Builder demo?
-The Nutrition coach June Calloway case was built by GLM-5.3 in ZCode; the Kids cooking club case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Kids cooking club case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Nutrition coach June Calloway case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Nutritionist Website with Plate Builder template use?
 Nutritionist Website with Plate Builder is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

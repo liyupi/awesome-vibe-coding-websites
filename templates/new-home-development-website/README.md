@@ -2,7 +2,7 @@
 
 > 48-townhome community sales site with interactive lot plan, 2D floor plans, and a walkable Three.js 3D model home with live upgrade pricing.
 
-<a href="https://vibefather.ai/templates/new-home-development-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/new-home-development-website/e51fed12-1e5d-4e75-b86e-4857dbc9d6f8/webp.9eb9ed8a36.webp" width="100%" alt="New Home Development Website — 48-Lot Townhome Site with 3D Model Tour built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/new-home-development-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/new-home-development-website/f03d9f65-44e6-43a1-8662-31e627d0e299/webp.8ae06c2594.webp" width="100%" alt="New Home Development Website — 48-Lot Townhome Site with 3D Model Tour built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/new-home-development-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ An architectural real-estate sales website for a fictional 48-townhome residenti
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/new-home-development-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ An architectural real-estate sales website for a fictional 48-townhome residenti
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/new-home-development-website?case=e51fed12-1e5d-4e75-b86e-4857dbc9d6f8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/new-home-development-website/e51fed12-1e5d-4e75-b86e-4857dbc9d6f8/shot_desktop.57c22d0073.webp" width="100%" alt="New Home Development Website — Alder Row (48 Townhomes), built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Alder Row (48 Townhomes)</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/new-home-development-website?case=e51fed12-1e5d-4e75-b86e-4857dbc9d6f8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/new-home-development-website?case=f03d9f65-44e6-43a1-8662-31e627d0e299&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/new-home-development-website/f03d9f65-44e6-43a1-8662-31e627d0e299/shot_desktop.5601c05f5c.webp" width="100%" alt="New Home Development Website — Linden Terrace (48 Townhomes), built by GPT-6.2 Sol in Codex"></a><br>
 <b>Linden Terrace (48 Townhomes)</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/new-home-development-website?case=f03d9f65-44e6-43a1-8662-31e627d0e299&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/new-home-development-website?case=e51fed12-1e5d-4e75-b86e-4857dbc9d6f8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/new-home-development-website/e51fed12-1e5d-4e75-b86e-4857dbc9d6f8/shot_desktop.57c22d0073.webp" width="100%" alt="New Home Development Website — Alder Row (48 Townhomes), built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Alder Row (48 Townhomes)</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/new-home-development-website?case=e51fed12-1e5d-4e75-b86e-4857dbc9d6f8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Commercial and client use of the New Home Development Website template needs a P
 Copy the full prompt (Pro) from this page or run npx vibefather add new-home-development-website, replace [COMMUNITY_NAME], [DEVELOPER_NAME], [DISTRICT_NAME] and [STARTING_PRICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the New Home Development Website demo?
-The Alder Row (48 Townhomes) case was built by Gemini 4 Neon in Antigravity; the Linden Terrace (48 Townhomes) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Linden Terrace (48 Townhomes) case was built by GPT-6.2 Sol in Codex; the Alder Row (48 Townhomes) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the New Home Development Website template use?
 New Home Development Website is a single-page site built with React, Three.js and Tailwind CSS, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

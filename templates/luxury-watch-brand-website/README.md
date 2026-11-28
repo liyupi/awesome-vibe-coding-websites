@@ -2,7 +2,7 @@
 
 > A quiet-luxury watch brand site with a craft scroll story and a dial-and-strap configurator.
 
-<a href="https://vibefather.ai/templates/luxury-watch-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/luxury-watch-brand-website/eb8a2603-0e64-4ebf-b192-47237585a967/webp.68ade610de.webp" width="100%" alt="Luxury Watch Brand Website — Watch Brand with Configurator built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/luxury-watch-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/luxury-watch-brand-website/55a10bb9-4f4d-4247-89cc-627bde49cbde/webp.b450b001d7.webp" width="100%" alt="Luxury Watch Brand Website — Watch Brand with Configurator built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/luxury-watch-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A two-page site for an independent luxury watch brand, in black, steel and one c
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/luxury-watch-brand-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A two-page site for an independent luxury watch brand, in black, steel and one c
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/luxury-watch-brand-website?case=eb8a2603-0e64-4ebf-b192-47237585a967&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/luxury-watch-brand-website/eb8a2603-0e64-4ebf-b192-47237585a967/shot_desktop.3c2b9d2565.webp" width="100%" alt="Luxury Watch Brand Website — Luxury watch brand, built by GLM-5.3 in ZCode"></a><br>
-<b>Luxury watch brand</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/luxury-watch-brand-website?case=eb8a2603-0e64-4ebf-b192-47237585a967&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/luxury-watch-brand-website?case=55a10bb9-4f4d-4247-89cc-627bde49cbde&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/luxury-watch-brand-website/55a10bb9-4f4d-4247-89cc-627bde49cbde/shot_desktop.5f5836625f.webp" width="100%" alt="Luxury Watch Brand Website — Diver watch microbrand, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Diver watch microbrand</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/luxury-watch-brand-website?case=55a10bb9-4f4d-4247-89cc-627bde49cbde&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/luxury-watch-brand-website?case=eb8a2603-0e64-4ebf-b192-47237585a967&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/luxury-watch-brand-website/eb8a2603-0e64-4ebf-b192-47237585a967/shot_desktop.3c2b9d2565.webp" width="100%" alt="Luxury Watch Brand Website — Luxury watch brand, built by GLM-5.3 in ZCode"></a><br>
+<b>Luxury watch brand</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/luxury-watch-brand-website?case=eb8a2603-0e64-4ebf-b192-47237585a967&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The boutique appointment form on the Luxury Watch Brand Website saves to local s
 Copy the full prompt (Pro) from this page or run npx vibefather add luxury-watch-brand-website, replace [BRAND], [ORIGIN], [PRICE_FROM] and [WARRANTY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Luxury Watch Brand Website demo?
-The Luxury watch brand case was built by GLM-5.3 in ZCode; the Diver watch microbrand case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Diver watch microbrand case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Luxury watch brand case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Luxury Watch Brand Website template use?
 Luxury Watch Brand Website is a 2-page site built with Motion, React and Tailwind CSS, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

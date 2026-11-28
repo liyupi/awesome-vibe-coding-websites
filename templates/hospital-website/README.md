@@ -2,7 +2,7 @@
 
 > Calm, high-contrast regional hospital portal with sample ER wait times, doctor directory, appointments, and patient portal preview.
 
-<a href="https://vibefather.ai/templates/hospital-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/hospital-website/836108b7-1cfd-4d50-9103-94378f82f139/webp.10f8eb6654.webp" width="100%" alt="Hospital Website — Modern Regional Hospital &amp; Care Portal built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/hospital-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/hospital-website/bac74a33-fde2-49bb-abca-d0e259eb59e3/webp.8f81715787.webp" width="100%" alt="Hospital Website — Modern Regional Hospital &amp; Care Portal built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/hospital-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A calm, accessible regional hospital website built around big readable typograph
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 7 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/hospital-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A calm, accessible regional hospital website built around big readable typograph
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/hospital-website?case=836108b7-1cfd-4d50-9103-94378f82f139&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hospital-website/836108b7-1cfd-4d50-9103-94378f82f139/shot_desktop.d8fc029649.webp" width="100%" alt="Hospital Website — Meridian Valley Health, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Meridian Valley Health</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/hospital-website?case=836108b7-1cfd-4d50-9103-94378f82f139&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hospital-website?case=bac74a33-fde2-49bb-abca-d0e259eb59e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hospital-website/bac74a33-fde2-49bb-abca-d0e259eb59e3/shot_desktop.3809c7053e.webp" width="100%" alt="Hospital Website — Harborview Regional Medical, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Harborview Regional Medical</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/hospital-website?case=bac74a33-fde2-49bb-abca-d0e259eb59e3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/hospital-website?case=836108b7-1cfd-4d50-9103-94378f82f139&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hospital-website/836108b7-1cfd-4d50-9103-94378f82f139/shot_desktop.d8fc029649.webp" width="100%" alt="Hospital Website — Meridian Valley Health, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Meridian Valley Health</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/hospital-website?case=836108b7-1cfd-4d50-9103-94378f82f139&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Patient Portal in the Hospital Website template is an interactive preview wi
 Copy the full prompt (Pro) from this page or run npx vibefather add hospital-website, replace [HOSPITAL_NAME], [REGION_NAME], [PHONE_MAIN] and [EMERGENCY_LINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Hospital Website demo?
-The Meridian Valley Health case was built by Gemini 4 Neon in Antigravity; the Harborview Regional Medical case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Harborview Regional Medical case was built by GPT-6.2 Sol in Codex; the Meridian Valley Health case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Hospital Website template use?
 Hospital Website is a 7-page site built with React, Tailwind CSS and Typescript, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > Cinematic promo site for a near-future night-train mystery with animated trailer hero, lightbox gallery, Web Audio score, and press kit.
 
-<a href="https://vibefather.ai/templates/movie-promo-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/movie-promo-website/2f3c1c9b-3447-4ef9-9985-1e3ddd158b26/webp.e8d1ca8b6a.webp" width="100%" alt="Movie Promo Website — Official Sci-Fi Mystery Film Promo Site built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/movie-promo-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/movie-promo-website/ae098322-41fe-4ca6-bdb3-a79d07f98efa/webp.b57be352ad.webp" width="100%" alt="Movie Promo Website — Official Sci-Fi Mystery Film Promo Site built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/movie-promo-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ The official promotional website for a fictional near-future mystery feature fil
 | Effects | Parallax, Audio, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ The official promotional website for a fictional near-future mystery feature fil
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/movie-promo-website?case=2f3c1c9b-3447-4ef9-9985-1e3ddd158b26&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/movie-promo-website/2f3c1c9b-3447-4ef9-9985-1e3ddd158b26/shot_desktop.2130b167e8.webp" width="100%" alt="Movie Promo Website — THE NIGHT MERIDIAN, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>THE NIGHT MERIDIAN</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/movie-promo-website?case=2f3c1c9b-3447-4ef9-9985-1e3ddd158b26&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/movie-promo-website?case=ae098322-41fe-4ca6-bdb3-a79d07f98efa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/movie-promo-website/ae098322-41fe-4ca6-bdb3-a79d07f98efa/shot_desktop.7d3b0349fb.webp" width="100%" alt="Movie Promo Website — SLEEPER CAR NINE, built by GPT-6.2 Sol in Codex"></a><br>
 <b>SLEEPER CAR NINE</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/movie-promo-website?case=ae098322-41fe-4ca6-bdb3-a79d07f98efa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/movie-promo-website?case=2f3c1c9b-3447-4ef9-9985-1e3ddd158b26&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/movie-promo-website/2f3c1c9b-3447-4ef9-9985-1e3ddd158b26/shot_desktop.2130b167e8.webp" width="100%" alt="Movie Promo Website — THE NIGHT MERIDIAN, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>THE NIGHT MERIDIAN</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/movie-promo-website?case=2f3c1c9b-3447-4ef9-9985-1e3ddd158b26&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Movie Promo Website template works as a promo page for a real film, but comm
 Copy the prompt from this page or run npx vibefather add movie-promo-website, replace [FILM_TITLE], [DIRECTOR_NAME], [STUDIO_NAME] and [TAGLINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Movie Promo Website demo?
-The THE NIGHT MERIDIAN case was built by Gemini 4 Neon in Antigravity; the SLEEPER CAR NINE case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The SLEEPER CAR NINE case was built by GPT-6.2 Sol in Codex; the THE NIGHT MERIDIAN case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Movie Promo Website template use?
 Movie Promo Website is a single-page site built with React, Tailwind CSS and Typescript, with parallax, audio and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

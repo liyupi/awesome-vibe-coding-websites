@@ -2,7 +2,7 @@
 
 > A serene meditation app page with drifting gradient skies and a try-it 4-7-8 breathing circle.
 
-<a href="https://vibefather.ai/templates/meditation-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/331632b0-f230-4d2e-b3c2-c5076f7db849/webp.521b218ed8.webp" width="100%" alt="Meditation App Landing Page — Meditation App with Breathing Circle built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/meditation-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/b2db69b1-25d7-4a8a-97a8-040de8632731/webp.b8e7d3d7fc.webp" width="100%" alt="Meditation App Landing Page — Meditation App with Breathing Circle built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/meditation-app-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page landing for a meditation app, built entirely from gradients, soft 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page landing for a meditation app, built entirely from gradients, soft 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/meditation-app-landing-page?case=331632b0-f230-4d2e-b3c2-c5076f7db849&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/331632b0-f230-4d2e-b3c2-c5076f7db849/shot_desktop.d528caa296.webp" width="100%" alt="Meditation App Landing Page — Meditation app, built by GLM-5.3 in ZCode"></a><br>
-<b>Meditation app</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/meditation-app-landing-page?case=331632b0-f230-4d2e-b3c2-c5076f7db849&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/meditation-app-landing-page?case=b2db69b1-25d7-4a8a-97a8-040de8632731&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/b2db69b1-25d7-4a8a-97a8-040de8632731/shot_desktop.82376d880f.webp" width="100%" alt="Meditation App Landing Page — Deep-work focus timer, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Deep-work focus timer</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/meditation-app-landing-page?case=b2db69b1-25d7-4a8a-97a8-040de8632731&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/meditation-app-landing-page?case=331632b0-f230-4d2e-b3c2-c5076f7db849&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/meditation-app-landing-page/331632b0-f230-4d2e-b3c2-c5076f7db849/shot_desktop.d528caa296.webp" width="100%" alt="Meditation App Landing Page — Meditation app, built by GLM-5.3 in ZCode"></a><br>
+<b>Meditation app</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/meditation-app-landing-page?case=331632b0-f230-4d2e-b3c2-c5076f7db849&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Meditation App Landing Page template is free: its prompt and DESIGN.md are f
 Copy the prompt from this page or run npx vibefather add meditation-app-landing-page, replace [BRAND], [PRICE_MONTH], [SESSIONS] and [FREE_MINUTES] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Meditation App Landing Page demo?
-The Meditation app case was built by GLM-5.3 in ZCode; the Deep-work focus timer case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Deep-work focus timer case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Meditation app case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Meditation App Landing Page template use?
 Meditation App Landing Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

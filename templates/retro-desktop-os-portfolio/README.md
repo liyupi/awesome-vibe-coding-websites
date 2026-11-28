@@ -2,7 +2,7 @@
 
 > A fictional 90s-style desktop OS portfolio with draggable windows, a start menu and looping motion previews.
 
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/webp.32946bf4dc.webp" width="100%" alt="Retro Desktop OS Portfolio — Retro Desktop OS Portfolio Template with Draggable Windows and Start Menu built by Claude Opus 5.5, Gemini 4 Carbon, GPT-6 Astra and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/5f93470a-85e7-44ca-ab00-6be1ec174037/webp.bcedf57db7.webp" width="100%" alt="Retro Desktop OS Portfolio — Retro Desktop OS Portfolio Template with Draggable Windows and Start Menu built by GLM-5.4, Gemini 4 Carbon, Claude Opus 5.5 and GPT-6 Astra"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,12 +22,24 @@ To adapt it, change the brand, name, discipline, city and email, then rewrite th
 | Effects | Text Animation, Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/retro-desktop-os-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=5f93470a-85e7-44ca-ab00-6be1ec174037&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/5f93470a-85e7-44ca-ab00-6be1ec174037/shot_desktop.10e397d27b.webp" width="100%" alt="Retro Desktop OS Portfolio — Motion designer portfolio, built by GLM-5.4 in ZCode"></a><br>
+<b>Motion designer portfolio</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=5f93470a-85e7-44ca-ab00-6be1ec174037&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/cea14c66-27cc-4cc6-a3bf-dde741843285/shot_desktop.0790dbc0a8.webp" width="100%" alt="Retro Desktop OS Portfolio — Motion designer portfolio, built by Gemini 4 Carbon in Cursor"></a><br>
+<b>Motion designer portfolio</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=e27f26ca-7ae6-45b2-a4ab-67e7f75f2643&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/pixelshell/e27f26ca-7ae6-45b2-a4ab-67e7f75f2643/shot_desktop.3c97e7dcfd.webp" width="100%" alt="Retro Desktop OS Portfolio — Motion designer portfolio, built by Claude Opus 5.5 in Cursor"></a><br>
@@ -42,21 +54,9 @@ To adapt it, change the brand, name, discipline, city and email, then rewrite th
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/cea14c66-27cc-4cc6-a3bf-dde741843285/shot_desktop.0790dbc0a8.webp" width="100%" alt="Retro Desktop OS Portfolio — Motion designer portfolio, built by Gemini 4 Carbon in Cursor"></a><br>
-<b>Motion designer portfolio</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=cea14c66-27cc-4cc6-a3bf-dde741843285&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/eec64383-7a25-4814-b3e8-a20916f5b650/shot_desktop.f97fcc04d9.webp" width="100%" alt="Retro Desktop OS Portfolio — Motion designer portfolio, built by GPT-6 Astra in Codex"></a><br>
 <b>Motion designer portfolio</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=eec64383-7a25-4814-b3e8-a20916f5b650&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=5f93470a-85e7-44ca-ab00-6be1ec174037&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/retro-desktop-os-portfolio/5f93470a-85e7-44ca-ab00-6be1ec174037/shot_desktop.10e397d27b.webp" width="100%" alt="Retro Desktop OS Portfolio — Motion designer portfolio, built by GLM-5.4 in ZCode"></a><br>
-<b>Motion designer portfolio</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/retro-desktop-os-portfolio?case=5f93470a-85e7-44ca-ab00-6be1ec174037&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -107,7 +107,7 @@ On phones the Retro Desktop OS Portfolio desktop becomes a stacked list of accor
 Copy the full prompt (Pro) from this page or run npx vibefather add retro-desktop-os-portfolio, replace [BRAND], [OWNER_NAME], [DISCIPLINE] and [CITY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Retro Desktop OS Portfolio demo?
-The Motion designer portfolio case was built by Claude Opus 5.5 in Cursor; the Illustrator portfolio case was built by Claude Opus 5.5 in Cursor; the Motion designer portfolio case was built by Gemini 4 Carbon in Cursor; the Motion designer portfolio case was built by GPT-6 Astra in Codex; the Motion designer portfolio case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Motion designer portfolio case was built by GLM-5.4 in ZCode; the Motion designer portfolio case was built by Gemini 4 Carbon in Cursor; the Motion designer portfolio case was built by Claude Opus 5.5 in Cursor; the Illustrator portfolio case was built by Claude Opus 5.5 in Cursor; the Motion designer portfolio case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Retro Desktop OS Portfolio template use?
 Retro Desktop OS Portfolio is a single-page site built with Motion, React and Tailwind CSS, with text animation, drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

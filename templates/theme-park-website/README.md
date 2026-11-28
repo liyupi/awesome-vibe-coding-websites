@@ -2,7 +2,7 @@
 
 > A candy-colored theme park site with a filterable illustrated map and a plan-your-day checklist.
 
-<a href="https://vibefather.ai/templates/theme-park-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/theme-park-website/bf2e8074-0d03-4681-82dc-4207924654cb/webp.deac160fc1.webp" width="100%" alt="Theme Park Website — Theme Park with Ride Map built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/theme-park-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/theme-park-website/0cc7257f-810d-4e76-8c56-b2266bd8db0c/webp.bdba2c1ef3.webp" width="100%" alt="Theme Park Website — Theme Park with Ride Map built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/theme-park-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A theme park site built entirely from flat, candy-colored code — no photograph
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A theme park site built entirely from flat, candy-colored code — no photograph
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/theme-park-website?case=bf2e8074-0d03-4681-82dc-4207924654cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/theme-park-website/bf2e8074-0d03-4681-82dc-4207924654cb/shot_desktop.67919e204d.webp" width="100%" alt="Theme Park Website — Theme park, built by GLM-5.3 in ZCode"></a><br>
-<b>Theme park</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/theme-park-website?case=bf2e8074-0d03-4681-82dc-4207924654cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/theme-park-website?case=0cc7257f-810d-4e76-8c56-b2266bd8db0c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/theme-park-website/0cc7257f-810d-4e76-8c56-b2266bd8db0c/shot_desktop.1043596bd8.webp" width="100%" alt="Theme Park Website — Water park, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Water park</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/theme-park-website?case=0cc7257f-810d-4e76-8c56-b2266bd8db0c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/theme-park-website?case=bf2e8074-0d03-4681-82dc-4207924654cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/theme-park-website/bf2e8074-0d03-4681-82dc-4207924654cb/shot_desktop.67919e204d.webp" width="100%" alt="Theme Park Website — Theme park, built by GLM-5.3 in ZCode"></a><br>
+<b>Theme park</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/theme-park-website?case=bf2e8074-0d03-4681-82dc-4207924654cb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Theme Park Website template is a free template: its prompt and DESIGN.md are
 Copy the prompt from this page or run npx vibefather add theme-park-website, replace [BRAND], [CITY], [TICKET_DAY] and [RIDES] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Theme Park Website demo?
-The Theme park case was built by GLM-5.3 in ZCode; the Water park case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Water park case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Theme park case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Theme Park Website template use?
 Theme Park Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > A crisp navy-and-brass yacht charter site with fleet filters, SVG deck plans and route maps.
 
-<a href="https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/yacht-charter-website/4193f25b-2a96-4a84-afca-87848d4bb6ae/webp.65d51273f5.webp" width="100%" alt="Yacht Charter Website — Yacht Charter with Deck Plans built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/yacht-charter-website/74ee13d5-b7d3-41a6-8141-d33834efb5c9/webp.ee601041e5.webp" width="100%" alt="Yacht Charter Website — Yacht Charter with Deck Plans built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A two-page site for a crewed yacht charter house, dressed like a chart table: de
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/yacht-charter-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A two-page site for a crewed yacht charter house, dressed like a chart table: de
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/yacht-charter-website?case=4193f25b-2a96-4a84-afca-87848d4bb6ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/yacht-charter-website/4193f25b-2a96-4a84-afca-87848d4bb6ae/shot_desktop.a338e0af30.webp" width="100%" alt="Yacht Charter Website — Yacht charter, built by GLM-5.3 in ZCode"></a><br>
-<b>Yacht charter</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/yacht-charter-website?case=4193f25b-2a96-4a84-afca-87848d4bb6ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/yacht-charter-website?case=74ee13d5-b7d3-41a6-8141-d33834efb5c9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/yacht-charter-website/74ee13d5-b7d3-41a6-8141-d33834efb5c9/shot_desktop.026fe98a90.webp" width="100%" alt="Yacht Charter Website — Day-charter catamaran fleet, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Day-charter catamaran fleet</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/yacht-charter-website?case=74ee13d5-b7d3-41a6-8141-d33834efb5c9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/yacht-charter-website?case=4193f25b-2a96-4a84-afca-87848d4bb6ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/yacht-charter-website/4193f25b-2a96-4a84-afca-87848d4bb6ae/shot_desktop.a338e0af30.webp" width="100%" alt="Yacht Charter Website — Yacht charter, built by GLM-5.3 in ZCode"></a><br>
+<b>Yacht charter</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/yacht-charter-website?case=4193f25b-2a96-4a84-afca-87848d4bb6ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the four variables: set BRAND to your charter house, WATERS to your c
 Copy the full prompt (Pro) from this page or run npx vibefather add yacht-charter-website, replace [BRAND], [WATERS], [PORT] and [WEEK_FROM] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Yacht Charter Website demo?
-The Yacht charter case was built by GLM-5.3 in ZCode; the Day-charter catamaran fleet case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Day-charter catamaran fleet case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Yacht charter case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Yacht Charter Website template use?
 Yacht Charter Website is a 2-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > Single-page preschool site with programs by age, a day-in-the-life timeline, teacher portraits, tuition and tour booking.
 
-<a href="https://vibefather.ai/templates/preschool-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/preschool-website/da545f0a-cfec-4343-8bb1-f6cc5427c11f/webp.dbda147902.webp" width="100%" alt="Preschool Website — Preschool Site with Tour Booking built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/preschool-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/preschool-website/743f06f4-eecc-4db3-8b73-d37d38190e82/webp.3a265bb363.webp" width="100%" alt="Preschool Website — Preschool Site with Tour Booking built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/preschool-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page website for a preschool: the school's promise over a bright classr
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page website for a preschool: the school's promise over a bright classr
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/preschool-website?case=da545f0a-cfec-4343-8bb1-f6cc5427c11f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/preschool-website/da545f0a-cfec-4343-8bb1-f6cc5427c11f/shot_desktop.77f230828e.webp" width="100%" alt="Preschool Website — Neighborhood preschool, built by GLM-5.3 in ZCode"></a><br>
-<b>Neighborhood preschool</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/preschool-website?case=da545f0a-cfec-4343-8bb1-f6cc5427c11f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/preschool-website?case=743f06f4-eecc-4db3-8b73-d37d38190e82&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/preschool-website/743f06f4-eecc-4db3-8b73-d37d38190e82/shot_desktop.aa34664bb6.webp" width="100%" alt="Preschool Website — Bilingual preschool, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Bilingual preschool</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/preschool-website?case=743f06f4-eecc-4db3-8b73-d37d38190e82&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/preschool-website?case=da545f0a-cfec-4343-8bb1-f6cc5427c11f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/preschool-website/da545f0a-cfec-4343-8bb1-f6cc5427c11f/shot_desktop.77f230828e.webp" width="100%" alt="Preschool Website — Neighborhood preschool, built by GLM-5.3 in ZCode"></a><br>
+<b>Neighborhood preschool</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/preschool-website?case=da545f0a-cfec-4343-8bb1-f6cc5427c11f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Yes. The structure suits any early-childhood school, and one of the live demos i
 Copy the prompt from this page or run npx vibefather add preschool-website, replace [SCHOOL], [CITY], [FOCUS] and [RATIO_NOTE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Preschool Website demo?
-The Neighborhood preschool case was built by GLM-5.3 in ZCode; the Bilingual preschool case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Bilingual preschool case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Neighborhood preschool case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Preschool Website template use?
 Preschool Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > An 11-slide Go-To-Market campaign strategy deck with clickable personas, budget scenario allocator, and Gantt timeline.
 
-<a href="https://vibefather.ai/templates/marketing-campaign-strategy-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/marketing-campaign-strategy-deck/5e6cb5c8-e61d-404b-9041-cf63d00bb893/webp.c36016aae6.webp" width="100%" alt="Marketing Campaign Strategy Deck — Interactive 11-Slide GTM Campaign Strategy Deck built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/marketing-campaign-strategy-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/marketing-campaign-strategy-deck/3331d343-7466-487b-80b3-7d0eb67e5453/webp.ab3ce39d28.webp" width="100%" alt="Marketing Campaign Strategy Deck — Interactive 11-Slide GTM Campaign Strategy Deck built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/marketing-campaign-strategy-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Created for growth marketers, product marketing managers, and consumer hardware 
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Created for growth marketers, product marketing managers, and consumer hardware 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/marketing-campaign-strategy-deck?case=5e6cb5c8-e61d-404b-9041-cf63d00bb893&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/marketing-campaign-strategy-deck/5e6cb5c8-e61d-404b-9041-cf63d00bb893/shot_desktop.884babea3a.webp" width="100%" alt="Marketing Campaign Strategy Deck — Consumer hardware GTM launch, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Consumer hardware GTM launch</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/marketing-campaign-strategy-deck?case=5e6cb5c8-e61d-404b-9041-cf63d00bb893&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/marketing-campaign-strategy-deck?case=3331d343-7466-487b-80b3-7d0eb67e5453&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/marketing-campaign-strategy-deck/3331d343-7466-487b-80b3-7d0eb67e5453/shot_desktop.664412b538.webp" width="100%" alt="Marketing Campaign Strategy Deck — Smart cycling lamp campaign, built by GLM-5.4 in ZCode"></a><br>
 <b>Smart cycling lamp campaign</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/marketing-campaign-strategy-deck?case=3331d343-7466-487b-80b3-7d0eb67e5453&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/marketing-campaign-strategy-deck?case=5e6cb5c8-e61d-404b-9041-cf63d00bb893&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/marketing-campaign-strategy-deck/5e6cb5c8-e61d-404b-9041-cf63d00bb893/shot_desktop.884babea3a.webp" width="100%" alt="Marketing Campaign Strategy Deck — Consumer hardware GTM launch, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Consumer hardware GTM launch</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/marketing-campaign-strategy-deck?case=5e6cb5c8-e61d-404b-9041-cf63d00bb893&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Marketing Campaign Strategy Deck is a free template. Its prompt and the DESI
 Copy the prompt from this page or run npx vibefather add marketing-campaign-strategy-deck, replace [BRAND], [PRODUCT_NAME], [CAMPAIGN_THEME] and [BUDGET_TOTAL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Marketing Campaign Strategy Deck demo?
-The Consumer hardware GTM launch case was built by Gemini 4 Neon in Antigravity; the Smart cycling lamp campaign case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Smart cycling lamp campaign case was built by GLM-5.4 in ZCode; the Consumer hardware GTM launch case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Marketing Campaign Strategy Deck template use?
 Marketing Campaign Strategy Deck is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

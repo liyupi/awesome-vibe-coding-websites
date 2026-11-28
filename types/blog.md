@@ -13,10 +13,10 @@
 <sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-3d-globe-travel-journal?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-3d-globe-travel-journal/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personal-blog-website/5cf741d3-443c-4b19-85b8-a2351d79e9f0/shot_desktop.b22e916e7a.webp" width="100%" alt="Personal Blog Website website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personal-blog-website/20aab8fd-b9ef-4201-af69-0f086f3dfe42/shot_desktop.d20042b4b9.webp" width="100%" alt="Personal Blog Website website template — live demo built by GPT-6.2 Sol and Gemini 4 Neon"></a><br>
 <b><a href="../templates/personal-blog-website">Personal Blog Website</a></b><br>
 <sub>A typography-first Markdown personal blog with reading themes, auto TOC, footnotes, pull quotes, and 12 seeded essays.</sub><br>
-<sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personal-blog-website/prompt.md">Prompt</a></sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personal-blog-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -27,10 +27,10 @@
 <sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · <a href="https://vibefather.ai/templates/neo-brutalist-blog-and-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/neo-brutalist-blog-and-portfolio/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/d7bac8fa-9340-483d-977a-dbcee0b06a21/shot_desktop.cc978f83c8.webp" width="100%" alt="How a Mechanical Watch Works website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/32916f21-39c4-49cf-8683-b5cefc549371/shot_desktop.545d48c6d6.webp" width="100%" alt="How a Mechanical Watch Works website template — live demo built by GPT-6.2 Sol and Gemini 4 Neon"></a><br>
 <b><a href="../templates/how-a-mechanical-watch-works">How a Mechanical Watch Works</a></b><br>
 <sub>Interactive editorial explainer with 8 procedural Three.js 3D horology figures you can orbit, scrub, explode, section-cut, and wind.</sub><br>
-<sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/how-a-mechanical-watch-works/prompt.md">Prompt</a></sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/how-a-mechanical-watch-works/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -55,24 +55,24 @@
 <sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 · <a href="https://vibefather.ai/templates/risograph-indie-magazine-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/risograph-indie-magazine-website/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-review-blog/cbad1a43-b5c3-4df8-91ae-d070c2fe83a3/shot_desktop.a6466e9ebc.webp" width="100%" alt="Product Review Blog website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/product-review-blog">Product Review Blog</a></b><br>
-<sub>Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages.</sub><br>
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-review-blog/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/recipe-blog-website/74802fd1-44b5-48bf-8d4d-2c7eb759a848/shot_desktop.785d5e8dcc.webp" width="100%" alt="Recipe Blog Website website template — live demo built by GLM-5.3 and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/recipe-blog-website">Recipe Blog Website</a></b><br>
-<sub>Kitchen-editorial recipe blog with course and diet filters, a live servings scaler, ingredient checklist, step timers and a print view.</sub><br>
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/recipe-blog-website/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/trending-topics-microblog/5bf31dea-1d8e-4e32-89bb-ff3cfdea2e07/shot_desktop.7ac356b51e.webp" width="100%" alt="Trending Topics Microblog website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/trending-topics-microblog">Trending Topics Microblog</a></b><br>
 <sub>A warm, interactive microblog with live trend rankings, rich post cards, and a working local composer.</sub><br>
 <sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/trending-topics-microblog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/trending-topics-microblog/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/product-review-blog/a92f24f9-c4c0-4342-95b0-06dc830b03c6/shot_desktop.3baef20246.webp" width="100%" alt="Product Review Blog website template — live demo built by DeepSeek V4.1 Flash and GLM-5.3"></a><br>
+<b><a href="../templates/product-review-blog">Product Review Blog</a></b><br>
+<sub>Trusted-review template with a sortable comparison table, score badges, and verdict-driven review pages.</sub><br>
+<sub><img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 · <a href="https://vibefather.ai/templates/product-review-blog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/product-review-blog/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/recipe-blog-website/66133727-6936-4cb2-b968-0ae074b54993/shot_desktop.be9b8a4130.webp" width="100%" alt="Recipe Blog Website website template — live demo built by DeepSeek V4.1 Flash and GLM-5.3"></a><br>
+<b><a href="../templates/recipe-blog-website">Recipe Blog Website</a></b><br>
+<sub>Kitchen-editorial recipe blog with course and diet filters, a live servings scaler, ingredient checklist, step timers and a print view.</sub><br>
+<sub><img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 · <a href="https://vibefather.ai/templates/recipe-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/recipe-blog-website/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

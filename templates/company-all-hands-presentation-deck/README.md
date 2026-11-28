@@ -2,7 +2,7 @@
 
 > Lively 11-slide all-hands deck with KPI sparklines, shipped spotlights, and live Q&A upvote board.
 
-<a href="https://vibefather.ai/templates/company-all-hands-presentation-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/company-all-hands-presentation-deck/25818737-f484-4bb1-9fc0-f150e0583f3e/webp.852eeba2a2.webp" width="100%" alt="Company All-Hands Presentation Deck — Interactive Company All-Hands Web Slide Deck built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/company-all-hands-presentation-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/company-all-hands-presentation-deck/3836ef63-d601-490b-857c-6b22a8734830/webp.4dd535d195.webp" width="100%" alt="Company All-Hands Presentation Deck — Interactive Company All-Hands Web Slide Deck built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/company-all-hands-presentation-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Company All-Hands Presentation Deck is an energetic 11-slide 16:9 widescreen web
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Company All-Hands Presentation Deck is an energetic 11-slide 16:9 widescreen web
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/company-all-hands-presentation-deck?case=25818737-f484-4bb1-9fc0-f150e0583f3e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/company-all-hands-presentation-deck/25818737-f484-4bb1-9fc0-f150e0583f3e/shot_desktop.983c473c1c.webp" width="100%" alt="Company All-Hands Presentation Deck — Distributed SaaS monthly town hall, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Distributed SaaS monthly town hall</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/company-all-hands-presentation-deck?case=25818737-f484-4bb1-9fc0-f150e0583f3e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/company-all-hands-presentation-deck?case=3836ef63-d601-490b-857c-6b22a8734830&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/company-all-hands-presentation-deck/3836ef63-d601-490b-857c-6b22a8734830/shot_desktop.f487805093.webp" width="100%" alt="Company All-Hands Presentation Deck — Remote design studio quarterly sync, built by GLM-5.4 in ZCode"></a><br>
 <b>Remote design studio quarterly sync</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/company-all-hands-presentation-deck?case=3836ef63-d601-490b-857c-6b22a8734830&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/company-all-hands-presentation-deck?case=25818737-f484-4bb1-9fc0-f150e0583f3e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/company-all-hands-presentation-deck/25818737-f484-4bb1-9fc0-f150e0583f3e/shot_desktop.983c473c1c.webp" width="100%" alt="Company All-Hands Presentation Deck — Distributed SaaS monthly town hall, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Distributed SaaS monthly town hall</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/company-all-hands-presentation-deck?case=25818737-f484-4bb1-9fc0-f150e0583f3e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Slide 03 of the Company All-Hands Presentation Deck shows four KPI cards, each p
 Copy the prompt from this page or run npx vibefather add company-all-hands-presentation-deck, replace [BRAND], [HOST_NAME], [DECK_THEME] and [TEAM_SIZE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Company All-Hands Presentation Deck demo?
-The Distributed SaaS monthly town hall case was built by Gemini 4 Neon in Antigravity; the Remote design studio quarterly sync case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Remote design studio quarterly sync case was built by GLM-5.4 in ZCode; the Distributed SaaS monthly town hall case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Company All-Hands Presentation Deck template use?
 Company All-Hands Presentation Deck is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > Mobile-first link-in-bio page with the creator's portrait, big tap targets, a video card, product minis and a local email capture.
 
-<a href="https://vibefather.ai/templates/link-in-bio-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/link-in-bio-page/7d2d1a23-34bf-45dc-af24-43319f86bf8d/webp.4c32e2c43e.webp" width="100%" alt="Link in Bio Page — Mobile-First Link in Bio Page built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/link-in-bio-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/link-in-bio-page/8eb17451-de07-4a0b-83d7-6b7f002ab32c/webp.de56665065.webp" width="100%" alt="Link in Bio Page — Mobile-First Link in Bio Page built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/link-in-bio-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page, mobile-first link hub for a creator: a ringed avatar and one-line
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page, mobile-first link hub for a creator: a ringed avatar and one-line
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/link-in-bio-page?case=7d2d1a23-34bf-45dc-af24-43319f86bf8d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/link-in-bio-page/7d2d1a23-34bf-45dc-af24-43319f86bf8d/shot_desktop.51653f7adf.webp" width="100%" alt="Link in Bio Page — Ceramics creator link page, built by GLM-5.3 in ZCode"></a><br>
-<b>Ceramics creator link page</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/link-in-bio-page?case=7d2d1a23-34bf-45dc-af24-43319f86bf8d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/link-in-bio-page?case=8eb17451-de07-4a0b-83d7-6b7f002ab32c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/link-in-bio-page/8eb17451-de07-4a0b-83d7-6b7f002ab32c/shot_desktop.15322b3d43.webp" width="100%" alt="Link in Bio Page — Baking creator link page, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Baking creator link page</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/link-in-bio-page?case=8eb17451-de07-4a0b-83d7-6b7f002ab32c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/link-in-bio-page?case=7d2d1a23-34bf-45dc-af24-43319f86bf8d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/link-in-bio-page/7d2d1a23-34bf-45dc-af24-43319f86bf8d/shot_desktop.51653f7adf.webp" width="100%" alt="Link in Bio Page — Ceramics creator link page, built by GLM-5.3 in ZCode"></a><br>
+<b>Ceramics creator link page</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/link-in-bio-page?case=7d2d1a23-34bf-45dc-af24-43319f86bf8d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Link in Bio Page is a free template: its prompt and DESIGN.md are free for p
 Copy the prompt from this page or run npx vibefather add link-in-bio-page, replace [CREATOR], [TAGLINE], [NICHE] and [SHOP_HINT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Link in Bio Page demo?
-The Ceramics creator link page case was built by GLM-5.3 in ZCode; the Baking creator link page case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Baking creator link page case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Ceramics creator link page case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Link in Bio Page template use?
 Link in Bio Page is a single-page site built with Motion, React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

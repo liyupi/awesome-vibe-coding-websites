@@ -2,7 +2,7 @@
 
 > A dark 12-slide product strategy and multi-quarter roadmap presentation with filterable Now/Next/Later board and live UI mockups.
 
-<a href="https://vibefather.ai/templates/product-roadmap-presentation-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-roadmap-presentation-deck/74dc3cd6-0185-4400-8f12-e36625718d10/webp.ff4c2617c7.webp" width="100%" alt="Product Roadmap Presentation Deck — Dark 12-Slide Interactive Product Roadmap Deck built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/product-roadmap-presentation-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/product-roadmap-presentation-deck/40d91b6f-18db-427f-bb19-3bbeb355a52f/webp.c1dbca19a9.webp" width="100%" alt="Product Roadmap Presentation Deck — Dark 12-Slide Interactive Product Roadmap Deck built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/product-roadmap-presentation-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Designed for VP of Product leaders, staff PMs, and founders presenting multi-qua
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/product-roadmap-presentation-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Designed for VP of Product leaders, staff PMs, and founders presenting multi-qua
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/product-roadmap-presentation-deck?case=74dc3cd6-0185-4400-8f12-e36625718d10&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-roadmap-presentation-deck/74dc3cd6-0185-4400-8f12-e36625718d10/shot_desktop.7dd5ab03ec.webp" width="100%" alt="Product Roadmap Presentation Deck — Collaborative workspace roadmap, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Collaborative workspace roadmap</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/product-roadmap-presentation-deck?case=74dc3cd6-0185-4400-8f12-e36625718d10&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/product-roadmap-presentation-deck?case=40d91b6f-18db-427f-bb19-3bbeb355a52f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-roadmap-presentation-deck/40d91b6f-18db-427f-bb19-3bbeb355a52f/shot_desktop.9e30561d2c.webp" width="100%" alt="Product Roadmap Presentation Deck — Design prototyping platform roadmap, built by GLM-5.4 in ZCode"></a><br>
 <b>Design prototyping platform roadmap</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/product-roadmap-presentation-deck?case=40d91b6f-18db-427f-bb19-3bbeb355a52f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/product-roadmap-presentation-deck?case=74dc3cd6-0185-4400-8f12-e36625718d10&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/product-roadmap-presentation-deck/74dc3cd6-0185-4400-8f12-e36625718d10/shot_desktop.7dd5ab03ec.webp" width="100%" alt="Product Roadmap Presentation Deck — Collaborative workspace roadmap, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Collaborative workspace roadmap</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/product-roadmap-presentation-deck?case=74dc3cd6-0185-4400-8f12-e36625718d10&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Product Roadmap Presentation Deck reads roadmap items, customer feedback dat
 Copy the full prompt (Pro) from this page or run npx vibefather add product-roadmap-presentation-deck, replace [BRAND], [PRODUCT_AREA], [HORIZON_LABEL] and [BETA_COHORT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Product Roadmap Presentation Deck demo?
-The Collaborative workspace roadmap case was built by Gemini 4 Neon in Antigravity; the Design prototyping platform roadmap case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Design prototyping platform roadmap case was built by GLM-5.4 in ZCode; the Collaborative workspace roadmap case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Product Roadmap Presentation Deck template use?
 Product Roadmap Presentation Deck is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

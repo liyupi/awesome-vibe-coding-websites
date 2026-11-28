@@ -2,7 +2,7 @@
 
 > Musician site with a custom audio player, tour dates, merch, press kit and mailing list — dark, stage-lit, fully client-side.
 
-<a href="https://vibefather.ai/templates/musician-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/musician-website/9f341d74-094c-43e8-95b1-637a53ffd8da/webp.dd13c6a28f.webp" width="100%" alt="Musician Website — Musician Site with Audio Player built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/musician-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/musician-website/3c3a90a5-2668-4216-9d3f-b7da49aca092/webp.109c7cecc5.webp" width="100%" alt="Musician Website — Musician Site with Audio Player built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/musician-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page website for a solo musician: the artist's name in tall poster type
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page website for a solo musician: the artist's name in tall poster type
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/musician-website?case=9f341d74-094c-43e8-95b1-637a53ffd8da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/musician-website/9f341d74-094c-43e8-95b1-637a53ffd8da/shot_desktop.5bdb0b0b29.webp" width="100%" alt="Musician Website — Ambient soul producer, built by GLM-5.3 in ZCode"></a><br>
-<b>Ambient soul producer</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/musician-website?case=9f341d74-094c-43e8-95b1-637a53ffd8da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/musician-website?case=3c3a90a5-2668-4216-9d3f-b7da49aca092&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/musician-website/3c3a90a5-2668-4216-9d3f-b7da49aca092/shot_desktop.433f1876c5.webp" width="100%" alt="Musician Website — Folk band site, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Folk band site</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/musician-website?case=3c3a90a5-2668-4216-9d3f-b7da49aca092&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/musician-website?case=9f341d74-094c-43e8-95b1-637a53ffd8da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/musician-website/9f341d74-094c-43e8-95b1-637a53ffd8da/shot_desktop.5bdb0b0b29.webp" width="100%" alt="Musician Website — Ambient soul producer, built by GLM-5.3 in ZCode"></a><br>
+<b>Ambient soul producer</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/musician-website?case=9f341d74-094c-43e8-95b1-637a53ffd8da&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the variables and the content file, since the Musician Website templa
 Copy the prompt from this page or run npx vibefather add musician-website, replace [ARTIST], [GENRE], [HOMETOWN] and [RELEASE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Musician Website demo?
-The Ambient soul producer case was built by GLM-5.3 in ZCode; the Folk band site case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Folk band site case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Ambient soul producer case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Musician Website template use?
 Musician Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

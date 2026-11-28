@@ -2,7 +2,7 @@
 
 > An elegant deep-green golf club site with SVG hole cards, a tee-time grid and membership tiers.
 
-<a href="https://vibefather.ai/templates/golf-club-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/golf-club-website/63935f1c-ada6-494a-9453-52e3bcbbe792/webp.e629119c5d.webp" width="100%" alt="Golf Club Website — Golf Club with Course Tour built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/golf-club-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/golf-club-website/584bba1f-5129-4c43-8734-58e41b88e4b2/webp.6f231f80f3.webp" width="100%" alt="Golf Club Website — Golf Club with Course Tour built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/golf-club-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page site for a golf club with the manners of a members' notebook: deep
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page site for a golf club with the manners of a members' notebook: deep
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/golf-club-website?case=63935f1c-ada6-494a-9453-52e3bcbbe792&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/golf-club-website/63935f1c-ada6-494a-9453-52e3bcbbe792/shot_desktop.6acc5fd006.webp" width="100%" alt="Golf Club Website — Golf club, built by GLM-5.3 in ZCode"></a><br>
-<b>Golf club</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/golf-club-website?case=63935f1c-ada6-494a-9453-52e3bcbbe792&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/golf-club-website?case=584bba1f-5129-4c43-8734-58e41b88e4b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/golf-club-website/584bba1f-5129-4c43-8734-58e41b88e4b2/shot_desktop.afc7e87c76.webp" width="100%" alt="Golf Club Website — Links golf club, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Links golf club</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/golf-club-website?case=584bba1f-5129-4c43-8734-58e41b88e4b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/golf-club-website?case=63935f1c-ada6-494a-9453-52e3bcbbe792&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/golf-club-website/63935f1c-ada6-494a-9453-52e3bcbbe792/shot_desktop.6acc5fd006.webp" width="100%" alt="Golf Club Website — Golf club, built by GLM-5.3 in ZCode"></a><br>
+<b>Golf club</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/golf-club-website?case=63935f1c-ada6-494a-9453-52e3bcbbe792&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Golf Club Website template ships with six generated photographs in one consi
 Copy the prompt from this page or run npx vibefather add golf-club-website, replace [BRAND], [REGION], [HOLES] and [GREEN_FEE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Golf Club Website demo?
-The Golf club case was built by GLM-5.3 in ZCode; the Links golf club case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Links golf club case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Golf club case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Golf Club Website template use?
 Golf Club Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > Clean eyewear shop with live filters, a frame-finder quiz, swatches and local exam booking.
 
-<a href="https://vibefather.ai/templates/eyewear-store-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/eyewear-store-website/524accc2-1c40-41a6-a24f-7af7b92419f2/webp.6bfc1630f9.webp" width="100%" alt="Eyewear Store Website — Eyewear Shop with Frame Finder built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/eyewear-store-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/eyewear-store-website/15331f25-45e2-4b17-8fb9-f11582e56437/webp.71321a6804.webp" width="100%" alt="Eyewear Store Website — Eyewear Shop with Frame Finder built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/eyewear-store-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ This template builds a clean, fashion-forward storefront for an independent eyew
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ This template builds a clean, fashion-forward storefront for an independent eyew
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/eyewear-store-website?case=524accc2-1c40-41a6-a24f-7af7b92419f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/eyewear-store-website/524accc2-1c40-41a6-a24f-7af7b92419f2/shot_desktop.d145d9c1e8.webp" width="100%" alt="Eyewear Store Website — Boutique optical shop, built by GLM-5.3 in ZCode"></a><br>
-<b>Boutique optical shop</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/eyewear-store-website?case=524accc2-1c40-41a6-a24f-7af7b92419f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/eyewear-store-website?case=15331f25-45e2-4b17-8fb9-f11582e56437&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/eyewear-store-website/15331f25-45e2-4b17-8fb9-f11582e56437/shot_desktop.e448b15b39.webp" width="100%" alt="Eyewear Store Website — Coastal sunglasses shop, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Coastal sunglasses shop</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/eyewear-store-website?case=15331f25-45e2-4b17-8fb9-f11582e56437&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/eyewear-store-website?case=524accc2-1c40-41a6-a24f-7af7b92419f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/eyewear-store-website/524accc2-1c40-41a6-a24f-7af7b92419f2/shot_desktop.d145d9c1e8.webp" width="100%" alt="Eyewear Store Website — Boutique optical shop, built by GLM-5.3 in ZCode"></a><br>
+<b>Boutique optical shop</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/eyewear-store-website?case=524accc2-1c40-41a6-a24f-7af7b92419f2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the four variables and the copy in the content file, since the defaul
 Copy the prompt from this page or run npx vibefather add eyewear-store-website, replace [BRAND], [CITY], [ACCENT] and [EXAM_FEE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Eyewear Store Website demo?
-The Boutique optical shop case was built by GLM-5.3 in ZCode; the Coastal sunglasses shop case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Coastal sunglasses shop case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Boutique optical shop case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Eyewear Store Website template use?
 Eyewear Store Website is a 2-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

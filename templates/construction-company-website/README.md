@@ -2,7 +2,7 @@
 
 > Single-page construction site with a categorized project gallery, safety credentials, a five-step process and a quote form.
 
-<a href="https://vibefather.ai/templates/construction-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/construction-company-website/72872f7b-1d19-45fa-964c-b43971ae8bd8/webp.271371e6ca.webp" width="100%" alt="Construction Company Website — Construction Site with Quote Form built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/construction-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/construction-company-website/a1b7de35-3efb-442e-bffe-9404acfbe548/webp.45794c88a7.webp" width="100%" alt="Construction Company Website — Construction Site with Quote Form built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/construction-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page website for a construction and renovation company: the firm's prom
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page website for a construction and renovation company: the firm's prom
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/construction-company-website?case=72872f7b-1d19-45fa-964c-b43971ae8bd8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/construction-company-website/72872f7b-1d19-45fa-964c-b43971ae8bd8/shot_desktop.ff5462445b.webp" width="100%" alt="Construction Company Website — Family renovation firm, built by GLM-5.3 in ZCode"></a><br>
-<b>Family renovation firm</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/construction-company-website?case=72872f7b-1d19-45fa-964c-b43971ae8bd8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/construction-company-website?case=a1b7de35-3efb-442e-bffe-9404acfbe548&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/construction-company-website/a1b7de35-3efb-442e-bffe-9404acfbe548/shot_desktop.b736ef3f42.webp" width="100%" alt="Construction Company Website — Commercial contractor, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Commercial contractor</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/construction-company-website?case=a1b7de35-3efb-442e-bffe-9404acfbe548&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/construction-company-website?case=72872f7b-1d19-45fa-964c-b43971ae8bd8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/construction-company-website/72872f7b-1d19-45fa-964c-b43971ae8bd8/shot_desktop.ff5462445b.webp" width="100%" alt="Construction Company Website — Family renovation firm, built by GLM-5.3 in ZCode"></a><br>
+<b>Family renovation firm</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/construction-company-website?case=72872f7b-1d19-45fa-964c-b43971ae8bd8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the four variables (COMPANY, CITY, TRADE, YEARS), then replace the si
 Copy the prompt from this page or run npx vibefather add construction-company-website, replace [COMPANY], [CITY], [TRADE] and [YEARS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Construction Company Website demo?
-The Family renovation firm case was built by GLM-5.3 in ZCode; the Commercial contractor case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Commercial contractor case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Family renovation firm case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Construction Company Website template use?
 Construction Company Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

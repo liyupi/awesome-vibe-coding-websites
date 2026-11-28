@@ -2,7 +2,7 @@
 
 > A crisp drone-services site with full-bleed aerial photography and a draggable before/after mapping slider.
 
-<a href="https://vibefather.ai/templates/drone-services-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/drone-services-company-website/6ef97bed-5043-4da4-89da-33af55ce2f35/webp.1290c1d649.webp" width="100%" alt="Drone Services Company Website — Drone Services Site with Map Slider built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/drone-services-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/drone-services-company-website/2b6afae9-21d4-4402-82a4-4ef03a8c3fc9/webp.2fedc1d79c.webp" width="100%" alt="Drone Services Company Website — Drone Services Site with Map Slider built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/drone-services-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -20,7 +20,7 @@ To adapt it, change the brand, the service region, the audience and the day rate
 | Effects | Drag & Physics, Parallax |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -28,14 +28,14 @@ To adapt it, change the brand, the service region, the audience and the day rate
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/drone-services-company-website/6ef97bed-5043-4da4-89da-33af55ce2f35/shot_desktop.45a4d961b2.webp" width="100%" alt="Drone Services Company Website — Aerial survey company, built by GLM-5.3 in ZCode"></a><br>
-<b>Aerial survey company</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/drone-services-company-website?case=2b6afae9-21d4-4402-82a4-4ef03a8c3fc9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/drone-services-company-website/2b6afae9-21d4-4402-82a4-4ef03a8c3fc9/shot_desktop.8c91e743d0.webp" width="100%" alt="Drone Services Company Website — Mountain West surveyor, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Mountain West surveyor</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/drone-services-company-website?case=2b6afae9-21d4-4402-82a4-4ef03a8c3fc9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/drone-services-company-website/6ef97bed-5043-4da4-89da-33af55ce2f35/shot_desktop.45a4d961b2.webp" width="100%" alt="Drone Services Company Website — Aerial survey company, built by GLM-5.3 in ZCode"></a><br>
+<b>Aerial survey company</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/drone-services-company-website?case=6ef97bed-5043-4da4-89da-33af55ce2f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -85,7 +85,7 @@ The quote form on the Drone Services Company Website template is client-side onl
 Copy the prompt from this page or run npx vibefather add drone-services-company-website, replace [BRAND], [SERVICE_REGION], [AUDIENCE] and [DAY_RATE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Drone Services Company Website demo?
-The Aerial survey company case was built by GLM-5.3 in ZCode; the Mountain West surveyor case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Mountain West surveyor case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Aerial survey company case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Drone Services Company Website template use?
 Drone Services Company Website is a single-page site built with Motion, React and Tailwind CSS, with drag & physics and parallax. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

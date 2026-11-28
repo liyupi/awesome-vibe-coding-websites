@@ -86,21 +86,21 @@
 <sub>Tropical bass weekend · Claude Code · <a href="https://vibefather.ai/templates/music-festival-website?case=a0e2ad30-e1dd-4963-a051-0f24e9543ff7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/generative-art-studio-website?case=e117b707-74cc-413a-95cd-e47f396f7eae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5 in Cursor"></a><br>
-<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
-<sub>Imaginary terrain maps · Cursor · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=e117b707-74cc-413a-95cd-e47f396f7eae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=0f9133ad-e1bd-4bf7-9ab6-57813f009509&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/physics-playground-landing-page/0f9133ad-e1bd-4bf7-9ab6-57813f009509/shot_desktop.bb67d69864.webp" width="100%" alt="Physics Playground Landing Page built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b><br>
 <sub>Beat-making app · Cursor · <a href="https://vibefather.ai/templates/physics-playground-landing-page?case=0f9133ad-e1bd-4bf7-9ab6-57813f009509&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/boutique-hotel-website?case=b5845f86-1106-4039-b50c-5a82815cd67c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/tidestone/b5845f86-1106-4039-b50c-5a82815cd67c/shot_desktop.3328b4e17b.webp" width="100%" alt="Boutique Hotel Website built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> <sup>PRO</sup><br>
 <sub>Island sauna retreat · Cursor · <a href="https://vibefather.ai/templates/boutique-hotel-website?case=b5845f86-1106-4039-b50c-5a82815cd67c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/generative-art-studio-website?case=e117b707-74cc-413a-95cd-e47f396f7eae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5 in Cursor"></a><br>
+<b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b><br>
+<sub>Imaginary terrain maps · Cursor · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=e117b707-74cc-413a-95cd-e47f396f7eae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>
@@ -122,33 +122,33 @@
 <sub>Finance close agents · Claude Code · <a href="https://vibefather.ai/templates/ai-agent-startup-landing-page?case=2e6396f1-38a0-49a9-b648-8ccc1197f2f5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=52f411f9-da8c-475b-b65b-45ce35470384&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/52f411f9-da8c-475b-b65b-45ce35470384/shot_desktop.85379ff973.webp" width="100%" alt="How the Internet Works Explainer built by Claude Sonnet 5.5 in Cursor"></a><br>
+<b><a href="../templates/how-the-internet-works-explainer">How the Internet Works Explainer</a></b><br>
+<sub>School computing lesson · Cursor · <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=52f411f9-da8c-475b-b65b-45ce35470384&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=76f85520-c654-47a3-aeec-90c064767b20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/76f85520-c654-47a3-aeec-90c064767b20/shot_desktop.abf37cd30b.webp" width="100%" alt="Sorting Algorithms Visualizer built by Claude Sonnet 5.5 in Claude Code"></a><br>
 <b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b><br>
 <sub>School library shelf · Claude Code · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?case=76f85520-c654-47a3-aeec-90c064767b20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/podcast-episode-companion-page?case=cb84d95f-c999-4c60-9896-a4f434efa1ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/fieldnotes/cb84d95f-c999-4c60-9896-a4f434efa1ca/shot_desktop.1e510e4c89.webp" width="100%" alt="Podcast Episode Companion Page built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b><a href="../templates/podcast-episode-companion-page">Podcast Episode Companion Page</a></b><br>
 <sub>Street lighting history · Cursor · <a href="https://vibefather.ai/templates/podcast-episode-companion-page?case=cb84d95f-c999-4c60-9896-a4f434efa1ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-the-human-heart-works?case=65ef426f-9f72-4f45-8338-84b4b54c9fec&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/how-the-human-heart-works/65ef426f-9f72-4f45-8338-84b4b54c9fec/shot_desktop.dfe6c2fa94.webp" width="100%" alt="How the Human Heart Works built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b><a href="../templates/how-the-human-heart-works">How the Human Heart Works</a></b><br>
 <sub>Four-stroke car engine · Cursor · <a href="https://vibefather.ai/templates/how-the-human-heart-works?case=65ef426f-9f72-4f45-8338-84b4b54c9fec&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/music-theory-interactive-lesson?case=38377d38-e8ed-461d-be34-647da90d5d68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/38377d38-e8ed-461d-be34-647da90d5d68/shot_desktop.793ad02847.webp" width="100%" alt="Music Theory Interactive Lesson built by Claude Sonnet 5.5 in Cursor"></a><br>
-<b><a href="../templates/music-theory-interactive-lesson">Music Theory Interactive Lesson</a></b><br>
-<sub>Seventh chords for beatmakers · Cursor · <a href="https://vibefather.ai/templates/music-theory-interactive-lesson?case=38377d38-e8ed-461d-be34-647da90d5d68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=52f411f9-da8c-475b-b65b-45ce35470384&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/52f411f9-da8c-475b-b65b-45ce35470384/shot_desktop.85379ff973.webp" width="100%" alt="How the Internet Works Explainer built by Claude Sonnet 5.5 in Cursor"></a><br>
-<b><a href="../templates/how-the-internet-works-explainer">How the Internet Works Explainer</a></b><br>
-<sub>School computing lesson · Cursor · <a href="https://vibefather.ai/templates/how-the-internet-works-explainer?case=52f411f9-da8c-475b-b65b-45ce35470384&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+<a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=11e95ed0-caa5-4cbe-b4ad-a7fe998423cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/startup-pitch-deck-website/11e95ed0-caa5-4cbe-b4ad-a7fe998423cf/shot_desktop.d01455156e.webp" width="100%" alt="Startup Pitch Deck Website built by Claude Sonnet 5.5 in Claude Code"></a><br>
+<b><a href="../templates/startup-pitch-deck-website">Startup Pitch Deck Website</a></b> <sup>PRO</sup><br>
+<sub>Vineyard irrigation startup · Claude Code · <a href="https://vibefather.ai/templates/startup-pitch-deck-website?case=11e95ed0-caa5-4cbe-b4ad-a7fe998423cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -157,13 +157,13 @@
 
 | Template | Content | Tool | |
 |---|---|---|---|
-| [Startup Pitch Deck Website](../templates/startup-pitch-deck-website) | Vineyard irrigation startup | Claude Code | [Live demo](https://vibefather.ai/templates/startup-pitch-deck-website?case=11e95ed0-caa5-4cbe-b4ad-a7fe998423cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Music Theory Interactive Lesson](../templates/music-theory-interactive-lesson) | Seventh chords for beatmakers | Cursor | [Live demo](https://vibefather.ai/templates/music-theory-interactive-lesson?case=38377d38-e8ed-461d-be34-647da90d5d68&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Interactive Synth Web Toy](../templates/interactive-synth-web-toy) | Classroom music lab | Cursor | [Live demo](https://vibefather.ai/templates/interactive-synth-web-toy?case=4a782699-beb9-44f3-9eea-f63df852fa40&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Family Winery and Vineyard Website](../templates/family-winery-and-vineyard-website) | Sierra foothills Zinfandel estate | Cursor | [Live demo](https://vibefather.ai/templates/family-winery-and-vineyard-website?case=7ed042d7-bfef-403f-b9d5-11389086041a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Product Launch Keynote Slides](../templates/product-launch-keynote-slides) | Whole-room air purifier | Claude Code | [Live demo](https://vibefather.ai/templates/product-launch-keynote-slides?case=c50393d5-08e3-4844-99f6-641d92df7981&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
+| [Annual Report Data Story](../templates/annual-report-data-story) | Clean water nonprofit | Claude Code | [Live demo](https://vibefather.ai/templates/annual-report-data-story?case=53661be3-9259-42a3-a6e2-f280aa2c5f20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Compound Interest Interactive Explainer](../templates/compound-interest-interactive-explainer) | Classroom money lab | Claude Code | [Live demo](https://vibefather.ai/templates/compound-interest-interactive-explainer?case=3b638669-26ee-49d6-85fd-1d49e9af5c2e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [How Large Language Models Work](../templates/how-large-language-models-work) | Code completion | Claude Code | [Live demo](https://vibefather.ai/templates/how-large-language-models-work?case=a9e9d1f1-f3ec-483c-9d84-aadf37fce515&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
-| [Annual Report Data Story](../templates/annual-report-data-story) | Clean water nonprofit | Claude Code | [Live demo](https://vibefather.ai/templates/annual-report-data-story?case=53661be3-9259-42a3-a6e2-f280aa2c5f20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Editorial Law Firm Website](../templates/editorial-law-firm-website) | Immigration & family practice | Cursor | [Live demo](https://vibefather.ai/templates/editorial-law-firm-website?case=0f3b0c66-62c5-417b-8e5a-b292c751e382&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Dark Developer Tool Launch Page](../templates/dark-developer-tool-launch-page) | Infrastructure config linter | Claude Code | [Live demo](https://vibefather.ai/templates/dark-developer-tool-launch-page?case=be70c703-2792-4e81-a0df-b051e17b21c9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |
 | [Coastal Real Estate Agency Website](../templates/coastal-real-estate-agency-website) | Lakeside village agency | Cursor | [Live demo](https://vibefather.ai/templates/coastal-real-estate-agency-website?case=e90efbec-5653-479d-9e99-8708929ea181&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model) |

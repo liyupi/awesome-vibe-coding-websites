@@ -2,7 +2,7 @@
 
 > A deep-blue aquarium site with drifting caustic light, zone exhibits, a feeding schedule and timed tickets.
 
-<a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/a3c685dd-942c-441a-8b0a-e40f60119f35/webp.632ac8be26.webp" width="100%" alt="Aquarium Exhibits and Tickets Website — Deep-Blue Aquarium with Timed Tickets built by GLM-5.3, DeepSeek V4.1 Flash and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/6daee0bb-3e30-46a2-b6af-73c69965aa0b/webp.6b87614b5d.webp" width="100%" alt="Aquarium Exhibits and Tickets Website — Deep-Blue Aquarium with Timed Tickets built by GLM-5.4, DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ This template builds a one-page website for a city aquarium, run on a dark, deep
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,9 +24,9 @@ This template builds a one-page website for a city aquarium, run on a dark, deep
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=a3c685dd-942c-441a-8b0a-e40f60119f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/a3c685dd-942c-441a-8b0a-e40f60119f35/shot_desktop.09eae3cdfd.webp" width="100%" alt="Aquarium Exhibits and Tickets Website — Lumen Bay Aquarium, built by GLM-5.3 in ZCode"></a><br>
+<a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=6daee0bb-3e30-46a2-b6af-73c69965aa0b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/6daee0bb-3e30-46a2-b6af-73c69965aa0b/shot_desktop.f12221e3c4.webp" width="100%" alt="Aquarium Exhibits and Tickets Website — Lumen Bay Aquarium, built by GLM-5.4 in ZCode"></a><br>
 <b>Lumen Bay Aquarium</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=a3c685dd-942c-441a-8b0a-e40f60119f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=6daee0bb-3e30-46a2-b6af-73c69965aa0b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=db4224ba-c0c5-4847-bfc0-512b94c9ee23&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/db4224ba-c0c5-4847-bfc0-512b94c9ee23/shot_desktop.cd4855ded9.webp" width="100%" alt="Aquarium Exhibits and Tickets Website — Butterfly conservatory, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
@@ -36,9 +36,9 @@ This template builds a one-page website for a city aquarium, run on a dark, deep
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=6daee0bb-3e30-46a2-b6af-73c69965aa0b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/6daee0bb-3e30-46a2-b6af-73c69965aa0b/shot_desktop.f12221e3c4.webp" width="100%" alt="Aquarium Exhibits and Tickets Website — Lumen Bay Aquarium, built by GLM-5.4 in ZCode"></a><br>
+<a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=a3c685dd-942c-441a-8b0a-e40f60119f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/a3c685dd-942c-441a-8b0a-e40f60119f35/shot_desktop.09eae3cdfd.webp" width="100%" alt="Aquarium Exhibits and Tickets Website — Lumen Bay Aquarium, built by GLM-5.3 in ZCode"></a><br>
 <b>Lumen Bay Aquarium</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=6daee0bb-3e30-46a2-b6af-73c69965aa0b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?case=a3c685dd-942c-441a-8b0a-e40f60119f35&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -88,7 +88,7 @@ The Aquarium Exhibits and Tickets Website template is a free template: its promp
 Copy the prompt from this page or run npx vibefather add aquarium-exhibits-and-tickets-website, replace [BRAND], [CITY], [HERO_ANIMAL] and [TICKET_PRICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Aquarium Exhibits and Tickets Website demo?
-The Lumen Bay Aquarium case was built by GLM-5.3 in ZCode; the Butterfly conservatory case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Lumen Bay Aquarium case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Lumen Bay Aquarium case was built by GLM-5.4 in ZCode; the Butterfly conservatory case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Lumen Bay Aquarium case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Aquarium Exhibits and Tickets Website template use?
 Aquarium Exhibits and Tickets Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

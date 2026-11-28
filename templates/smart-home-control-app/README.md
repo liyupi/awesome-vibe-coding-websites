@@ -2,7 +2,7 @@
 
 > Dark frosted connected-home PWA with live lighting sliders, circular thermostat dial, and scenes.
 
-<a href="https://vibefather.ai/templates/smart-home-control-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/smart-home-control-app/ce8adbe3-08d5-491b-a87c-0d63812d7638/webp.9073cb8b79.webp" width="100%" alt="Smart Home Control App — Dark Connected Smart Home Control PWA built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/smart-home-control-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/smart-home-control-app/ca93c67d-0aff-4829-8ddc-fd85de297421/webp.eb8536f46f.webp" width="100%" alt="Smart Home Control App — Dark Connected Smart Home Control PWA built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/smart-home-control-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,13 +16,18 @@ Smart Home Control App is a tactile, dark-slate connected home controller PWA en
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/smart-home-control-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/smart-home-control-app?case=ca93c67d-0aff-4829-8ddc-fd85de297421&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/smart-home-control-app/ca93c67d-0aff-4829-8ddc-fd85de297421/shot_desktop.be62ee32bb.webp" width="100%" alt="Smart Home Control App — Coastal timber cabin home automation, built by GLM-5.4 in ZCode"></a><br>
+<b>Coastal timber cabin home automation</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/smart-home-control-app?case=ca93c67d-0aff-4829-8ddc-fd85de297421&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/smart-home-control-app?case=ce8adbe3-08d5-491b-a87c-0d63812d7638&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/smart-home-control-app/ce8adbe3-08d5-491b-a87c-0d63812d7638/shot_desktop.e21a44f987.webp" width="100%" alt="Smart Home Control App — Connected loft smart home controller, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Connected loft smart home controller</b><br>
@@ -51,33 +56,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- An IoT hardware startup: set the brand and home name to your product, then rework the room cards to show your own device types and sensor readouts.
-- A smart-home installer: rename the residence to the client's home, keep the Scenes for their routines and adjust the Energy view to their tariff.
-- A property manager: use the residence name for each unit, swap rooms for the building's zones and link the lock controls to your access process.
-- A connected-home design portfolio: keep the dark frosted dashboard, change the greeting to your studio name and show the Scene cascades as interaction studies.
+- A smart-lighting brand: set BRAND to your product line and HOME_NAME to a showroom, then relabel the four rooms to match your fixture zones and keep the brightness and color-temperature sliders.
+- An IoT design studio: use the Smart Home Control App as a client prototype, rename the Scenes to real routines and replace the hourly Energy data with your device telemetry.
+- A property manager for serviced apartments: set HOME_NAME to each unit, swap the resident greeting and use the lock and blinds toggles to demo guest access control.
+- A home-automation installer: change the rooms to the rooms you fit most and set DEFAULT_TEMP and AIR_QUALITY to your typical readings so the dashboard feels like the customer's home.
 
 ## FAQ
 
-### How do I change the brand name, home name and resident greeting in the Smart Home Control App?
-The Smart Home Control App template keeps its copy in one content file, so you edit the brand name (default LumaNest), the residence name (default Alder Ridge Loft) and the resident greeting (default Marcus Vance) in a single place rather than hunting through components. The same file holds the thermostat setpoint, the air quality badge and every headline, so swap those values and the header, climate card and dashboard text follow.
+### How do I change the home name, resident greeting and thermostat default in the Smart Home Control App?
+The Smart Home Control App template keeps its editable values in one content file: set BRAND to your connected-home app name, HOME_NAME to the residence shown in the header and climate card, RESIDENT_NAME to the greeting name, DEFAULT_TEMP to the starting thermostat setpoint and AIR_QUALITY to your indoor air badge. If your values differ from the defaults, rewrite the surrounding copy to match.
 
-### Can the Smart Home Control App template be used for a client project or a real product?
-The Smart Home Control App template is a Pro template. Commercial and client use needs Pro, and Pro members get the full prompt plus the demo source code. Free templates' prompts and every DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0, but this one is Pro, so treat it as a paid starting point for a real connected-home product or a client build.
+### How do the lighting sliders and thermostat dial work in the Smart Home Control App?
+The Smart Home Control App template gives each room card brightness and color-temperature sliders that shift a live glow from warm amber to cool cyan as you drag. The circular SVG thermostat dial can be dragged or stepped through Eco, Heat and Cool modes with arc feedback, and every light, lock, blind and climate change is saved in localStorage so the state survives a reload.
 
-### What do the lighting sliders and thermostat dial actually do in the demo?
-In the Smart Home Control App demo, brightness and color-temperature sliders emit live warm-amber to cool-cyan glow feedback on each room card, and the circular SVG thermostat dial can be dragged or stepped to set a target temperature across Eco, Heat and Cool modes. Room devices, locks, blinds and the four Scenes all update on screen, and every toggle persists in localStorage so a reload keeps your state.
+### Can I use the Smart Home Control App template for a client project or a real product prototype?
+The Smart Home Control App template is a Pro template, so commercial and client use requires Pro. Pro members see the full prompt and get the demo source code, while free visitors can read the brief, stack and variables. The demo is a front-end prototype with no backend or external APIs, so connect your own device data before shipping it to a client.
 
-### How do the Scenes and the Energy view work in the Smart Home Control App?
-The Smart Home Control App template ships four one-tap Scenes (Morning, Focus, Cinema and Sleep) that cascade coordinated changes across lights, smart locks, motorized blinds and climate at once. The Energy view shows an interactive SVG area chart of hourly kilowatt draw with a per-room load breakdown. Scene state and device toggles persist in localStorage, so the demo behaves like a controller rather than a static mockup.
+### What do the Scenes and Energy views include in the Smart Home Control App?
+The Smart Home Control App template ships with four one-tap Scenes named Morning, Focus, Cinema and Sleep, each cascading coordinated changes across lights, smart locks, motorized blinds and climate at once. The Energy view pairs an interactive SVG area chart of hourly kilowatt draw with a per-room load breakdown, so the dashboard reads like a working home rather than a static mockup.
 
-### How do I add the Smart Home Control App to my project with the VibeFather command?
-Run npx vibefather add smart-home-control-app to pull the Smart Home Control App template into your project. It is built with Vite, React, TypeScript and Tailwind CSS and produces static files with no backend or external APIs, so you can host the built output anywhere that serves static files. Pro membership is required, and the demo was built by Gemini 4 Neon with Antigravity.
+### How do I build a smart home control app with AI using this prompt?
+Run the Smart Home Control App prompt in an AI coding agent such as Claude Code, Codex, Cursor or Gemini CLI, or add the template with npx vibefather add smart-home-control-app. The prompt asks for a Vite, React, TypeScript and Tailwind build with four rooms, device state in localStorage and true breakpoint layouts, so the agent produces a working controller instead of a phone mockup.
 
 ### How do I build a smart home control app with AI?
-Copy the full prompt (Pro) from this page or run npx vibefather add smart-home-control-app, replace [BRAND], [HOME_NAME], [RESIDENT_NAME] and [DEFAULT_TEMP] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the full prompt (Pro) from this page or run npx vibefather add smart-home-control-app, replace [BRAND], [HOME_NAME], [RESIDENT_NAME] and [DEFAULT_TEMP] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Smart Home Control App demo?
-The Connected loft smart home controller case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Coastal timber cabin home automation case was built by GLM-5.4 in ZCode; the Connected loft smart home controller case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Smart Home Control App template use?
 Smart Home Control App is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

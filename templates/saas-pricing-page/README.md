@@ -2,7 +2,7 @@
 
 > Standalone SaaS pricing page with a monthly/annual toggle, a live seat calculator and a sticky-header comparison table.
 
-<a href="https://vibefather.ai/templates/saas-pricing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/saas-pricing-page/966f4b78-ec1c-4594-9253-f958e677c9c4/webp.02f85ee3ea.webp" width="100%" alt="SaaS Pricing Page — SaaS Pricing Page with Seat Slider built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/saas-pricing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/saas-pricing-page/3418259b-9e95-473f-83fd-a9b0da043007/webp.8f6cde16f6.webp" width="100%" alt="SaaS Pricing Page — SaaS Pricing Page with Seat Slider built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/saas-pricing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page SaaS pricing page: three tier cards under a monthly/annual toggle 
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page SaaS pricing page: three tier cards under a monthly/annual toggle 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/saas-pricing-page?case=966f4b78-ec1c-4594-9253-f958e677c9c4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-pricing-page/966f4b78-ec1c-4594-9253-f958e677c9c4/shot_desktop.c425a1eb4b.webp" width="100%" alt="SaaS Pricing Page — Scheduling SaaS pricing, built by GLM-5.3 in ZCode"></a><br>
-<b>Scheduling SaaS pricing</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/saas-pricing-page?case=966f4b78-ec1c-4594-9253-f958e677c9c4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/saas-pricing-page?case=3418259b-9e95-473f-83fd-a9b0da043007&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-pricing-page/3418259b-9e95-473f-83fd-a9b0da043007/shot_desktop.2651c58658.webp" width="100%" alt="SaaS Pricing Page — Field service SaaS pricing, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Field service SaaS pricing</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/saas-pricing-page?case=3418259b-9e95-473f-83fd-a9b0da043007&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/saas-pricing-page?case=966f4b78-ec1c-4594-9253-f958e677c9c4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-pricing-page/966f4b78-ec1c-4594-9253-f958e677c9c4/shot_desktop.c425a1eb4b.webp" width="100%" alt="SaaS Pricing Page — Scheduling SaaS pricing, built by GLM-5.3 in ZCode"></a><br>
+<b>Scheduling SaaS pricing</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/saas-pricing-page?case=966f4b78-ec1c-4594-9253-f958e677c9c4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the content file: set BRAND, PRODUCT, BASE_PRICE and SEAT_DEFAULT, th
 Copy the prompt from this page or run npx vibefather add saas-pricing-page, replace [BRAND], [PRODUCT], [BASE_PRICE] and [SEAT_DEFAULT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the SaaS Pricing Page demo?
-The Scheduling SaaS pricing case was built by GLM-5.3 in ZCode; the Field service SaaS pricing case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Field service SaaS pricing case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Scheduling SaaS pricing case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the SaaS Pricing Page template use?
 SaaS Pricing Page is a single-page site built with Motion, React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

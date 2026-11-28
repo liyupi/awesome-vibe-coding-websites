@@ -2,7 +2,7 @@
 
 > Serene Pomodoro focus timer PWA with Web Audio ambient mixer, micro-habits, and reflection log.
 
-<a href="https://vibefather.ai/templates/focus-timer-habit-companion-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/focus-timer-habit-companion-app/1f151bac-11c0-473c-9a15-0aee5262c14e/webp.7abc4e601b.webp" width="100%" alt="Focus Timer &amp; Habit Companion App — Serene Pomodoro &amp; Habit Companion PWA built by Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/focus-timer-habit-companion-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/focus-timer-habit-companion-app/44cf8afc-1049-4a22-bd4e-8e38452baae1/webp.682519a0bd.webp" width="100%" alt="Focus Timer &amp; Habit Companion App — Serene Pomodoro &amp; Habit Companion PWA built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/focus-timer-habit-companion-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,13 +16,18 @@ Focus Timer & Habit Companion App is a calm, warm-stone Pomodoro timer and daily
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
 
 <table>
 <tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/focus-timer-habit-companion-app?case=44cf8afc-1049-4a22-bd4e-8e38452baae1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/focus-timer-habit-companion-app/44cf8afc-1049-4a22-bd4e-8e38452baae1/shot_desktop.326a52450e.webp" width="100%" alt="Focus Timer &amp; Habit Companion App — Writer studio sprint &amp; reading habits, built by GLM-5.4 in ZCode"></a><br>
+<b>Writer studio sprint &amp; reading habits</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/focus-timer-habit-companion-app?case=44cf8afc-1049-4a22-bd4e-8e38452baae1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/focus-timer-habit-companion-app?case=1f151bac-11c0-473c-9a15-0aee5262c14e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/focus-timer-habit-companion-app/1f151bac-11c0-473c-9a15-0aee5262c14e/shot_desktop.bfc5c5eaa8.webp" width="100%" alt="Focus Timer &amp; Habit Companion App — Calm Pomodoro &amp; daily micro-habits, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Calm Pomodoro &amp; daily micro-habits</b><br>
@@ -51,33 +56,33 @@ Replace these in the prompt with your own values; everything else stays as writt
 
 ## Make it yours
 
-- A study coach for exam students: set [BRAND] to your program name, [DAILY_FOCUS_GOAL] to a realistic revision target and swap the default task for today's subject.
-- A freelance writer's personal desk: keep [USER_NAME] as your own, rename the task chips to client projects and let the Journal collect one-line notes after each draft.
-- A wellness creator's habit kit: replace the six micro-habits with your own morning and evening routines and point [CALM_MOTTO] at your program's tone.
-- A small team's deep-work tracker: set [BRAND] to the studio name, raise [DAILY_FOCUS_GOAL] and use the Stats view's weekly bar chart and 28-day heatmap as a shared focus habit.
+- A writing coach: set BRAND to the studio name and DEFAULT_TASK to the current manuscript, then rename the six micro-habits to daily writing prompts.
+- A study group: set USER_NAME per student, lower DAILY_FOCUS_GOAL to a realistic revision target, and swap the habits for subject-specific revision blocks.
+- A wellness studio: change CALM_MOTTO to the studio line, relabel the break modes as breathing pauses, and use the journal as a short check-in log.
+- A solo maker tracking client sprints: set DEFAULT_TASK to the active project, and rename the task chips to your real client or project names.
 
 ## FAQ
 
-### How do I change the app name, user name and daily focus goal in the Focus Timer & Habit Companion App?
-The Focus Timer & Habit Companion App keeps its copy in one content file, so you set the brand name, the greeting name, the daily focus target and the default task label there and the header, side rail, stats and task selector all update. The defaults are HearthPace, Mina Sato, 100 min and Deep Architecture Spec. If you change them, rewrite the surrounding headlines and labels to match.
+### How do I add a wine club signup to a winery website built with AI?
+The Focus Timer & Habit Companion App template is a Pomodoro timer and micro-habit tracker, not a winery site, so it has no wine club form to extend. For a winery, start from a hospitality or membership template on VibeFather, then ask your AI agent to add a signup card that collects name and email and posts to your mailing list provider. This template's habit list and journal form show how a simple capture form is structured if you want a reference.
 
-### Where do the ambient sounds and the completion bell come from in this focus timer?
-The Focus Timer & Habit Companion App synthesizes every sound in code with the Web Audio API, so Soft Rain, Warm Brown Noise, Gentle Café Hum and the Completion Bell load with no audio files and no external streams. Each ambient channel has its own slider and mute toggle, and a Test Bell button plays the chime. Nothing is downloaded from a CDN.
+### What can I customize in the Focus Timer & Habit Companion App before using it?
+The Focus Timer & Habit Companion App template exposes five variables: BRAND for the app name, USER_NAME for the greeting, CALM_MOTTO for the header tagline, DEFAULT_TASK for the starting sprint label, and DAILY_FOCUS_GOAL for the daily target shown on the side rail and stats. Set them in the single content file, then rewrite the sample habits, task chips and journal entries to match the person or team the app is for.
 
-### Does the Focus Timer & Habit Companion App save my habits, streaks and journal reflections?
-The Focus Timer & Habit Companion App stores daily habit check-offs, live streak counts, one-line journal reflections, focus history minutes and the dark mode preference in the browser's localStorage. Everything stays on the device it was entered on, with no backend and no account. Clearing browser data removes the saved habits, streaks and reflections.
+### Does the Focus Timer & Habit Companion App play real audio files or generate sound in the browser?
+The Focus Timer & Habit Companion App synthesizes all of its audio in the browser with the Web Audio API. Soft Rain, Warm Brown Noise, Gentle Café Hum and the Completion Bell are generated in code, so the template ships with no MP3 files, no CDN audio streams and no external requests. The ambient mixer gives each channel its own slider and mute toggle, and a Test Bell button previews the chime.
 
-### Can I add my own habits and custom timer lengths to the Focus Timer & Habit Companion App?
-The Focus Timer & Habit Companion App ships with six daily micro-habits and lets you add custom ones through an input on the Habits tab, each with a completion toggle and a streak badge. The timer offers 25m Focus, 5m Short Break and 15m Long Break presets plus plus and minus 5m controls for custom lengths, alongside a task label selector for the current sprint.
+### Where does the Focus Timer & Habit Companion App save habits, streaks and focus minutes?
+The Focus Timer & Habit Companion App stores habits, streak counts, journal reflections, focus history and the dark mode preference in the browser's localStorage. Everything stays on the device, so the template needs no backend, database or login. Clearing browser data resets the streaks and focus minutes, and two devices will not share the same history unless you add a sync service yourself.
 
-### Is the Focus Timer & Habit Companion App template free to use?
-The Focus Timer & Habit Companion App is a free template: its prompt and the DESIGN.md are free for personal, non-commercial use under CC BY-NC 4.0. Commercial use, client work and the source code of the demo require a VibeFather Pro license. You can add the template to a project with the VibeFather command line, and a live demo built with Gemini 4 Neon in Antigravity is on the page.
+### Can I run the Focus Timer & Habit Companion App on a phone as an installable app?
+The Focus Timer & Habit Companion App is built as a static PWA-friendly site: the build outputs plain files, and under 768px it shows a fixed four-tab bar for Focus, Habits, Journal and Stats with no fake phone frame. You can host the built files on any static host and add it to a phone home screen. The template does not include a service worker or offline caching, so add those if you need full offline use.
 
 ### How do I build a focus timer & habit companion app with AI?
-Copy the prompt from this page or run npx vibefather add focus-timer-habit-companion-app, replace [BRAND], [USER_NAME], [DAILY_FOCUS_GOAL] and [DEFAULT_TASK] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demo was built from exactly that text.
+Copy the prompt from this page or run npx vibefather add focus-timer-habit-companion-app, replace [BRAND], [USER_NAME], [DAILY_FOCUS_GOAL] and [DEFAULT_TASK] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Focus Timer & Habit Companion App demo?
-The Calm Pomodoro & daily micro-habits case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added.
+The Writer studio sprint & reading habits case was built by GLM-5.4 in ZCode; the Calm Pomodoro & daily micro-habits case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Focus Timer & Habit Companion App template use?
 Focus Timer & Habit Companion App is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

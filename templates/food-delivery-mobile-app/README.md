@@ -2,7 +2,7 @@
 
 > A responsive mobile-first food delivery PWA with dish photos, customization sheet, promo cart, and live map tracker.
 
-<a href="https://vibefather.ai/templates/food-delivery-mobile-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/food-delivery-mobile-app/d012f85a-0c20-4d9e-bd35-1f5f86b250cf/webp.7dd513d7d7.webp" width="100%" alt="Food Delivery Mobile App — Mobile-First Food Delivery Ordering PWA built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/food-delivery-mobile-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/food-delivery-mobile-app/374b709b-6792-446b-9373-3b40ffd129d1/webp.b58db431b9.webp" width="100%" alt="Food Delivery Mobile App — Mobile-First Food Delivery Ordering PWA built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/food-delivery-mobile-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Designed as a true three-breakpoint responsive neighborhood food delivery PWA wi
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/food-delivery-mobile-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Designed as a true three-breakpoint responsive neighborhood food delivery PWA wi
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/food-delivery-mobile-app?case=d012f85a-0c20-4d9e-bd35-1f5f86b250cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/food-delivery-mobile-app/d012f85a-0c20-4d9e-bd35-1f5f86b250cf/shot_desktop.aecd43d788.webp" width="100%" alt="Food Delivery Mobile App — Neighborhood kitchen food delivery, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Neighborhood kitchen food delivery</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/food-delivery-mobile-app?case=d012f85a-0c20-4d9e-bd35-1f5f86b250cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/food-delivery-mobile-app?case=374b709b-6792-446b-9373-3b40ffd129d1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/food-delivery-mobile-app/374b709b-6792-446b-9373-3b40ffd129d1/shot_desktop.321839c33c.webp" width="100%" alt="Food Delivery Mobile App — Harbor district takeout marketplace, built by GLM-5.4 in ZCode"></a><br>
 <b>Harbor district takeout marketplace</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/food-delivery-mobile-app?case=374b709b-6792-446b-9373-3b40ffd129d1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/food-delivery-mobile-app?case=d012f85a-0c20-4d9e-bd35-1f5f86b250cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/food-delivery-mobile-app/d012f85a-0c20-4d9e-bd35-1f5f86b250cf/shot_desktop.aecd43d788.webp" width="100%" alt="Food Delivery Mobile App — Neighborhood kitchen food delivery, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Neighborhood kitchen food delivery</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/food-delivery-mobile-app?case=d012f85a-0c20-4d9e-bd35-1f5f86b250cf&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The two live demos on the Food Delivery Mobile App page were built by Gemini 4 N
 Copy the full prompt (Pro) from this page or run npx vibefather add food-delivery-mobile-app, replace [BRAND], [NEIGHBORHOOD], [PROMO_CODE] and [USER_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Food Delivery Mobile App demo?
-The Neighborhood kitchen food delivery case was built by Gemini 4 Neon in Antigravity; the Harbor district takeout marketplace case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Harbor district takeout marketplace case was built by GLM-5.4 in ZCode; the Neighborhood kitchen food delivery case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Food Delivery Mobile App template use?
 Food Delivery Mobile App is a single-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

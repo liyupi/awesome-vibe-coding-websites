@@ -2,7 +2,7 @@
 
 > A working analytics app with onboarding, account tables, team settings, keys, and local billing flows.
 
-<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/webp.9c92615049.webp" width="100%" alt="SaaS App Dashboard Starter — Cobalt Analytics Dashboard and App Shell built by GPT-6 Astra and Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/a64a33a3-7965-4275-a61a-ca072cb99b5c/webp.7a697be339.webp" width="100%" alt="SaaS App Dashboard Starter — Cobalt Analytics Dashboard and App Shell built by Gemini 4 Neon and GPT-6 Astra"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -24,7 +24,7 @@ Change the brand, workspace, audience, measurement focus, and owner to make anot
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 11 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/saas-app-dashboard-starter?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -32,14 +32,14 @@ Change the brand, workspace, audience, measurement focus, and owner to make anot
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter — Subscription product analytics, built by GPT-6 Astra in Codex"></a><br>
-<b>Subscription product analytics</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=a64a33a3-7965-4275-a61a-ca072cb99b5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/a64a33a3-7965-4275-a61a-ca072cb99b5c/shot_desktop.0c1e1249dd.webp" width="100%" alt="SaaS App Dashboard Starter — Commerce operations analytics, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Commerce operations analytics</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=a64a33a3-7965-4275-a61a-ca072cb99b5c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/saas-app-dashboard-starter/aa4ad3fa-4a25-4da0-b2db-41b21e198663/shot_desktop.749b8fb899.webp" width="100%" alt="SaaS App Dashboard Starter — Subscription product analytics, built by GPT-6 Astra in Codex"></a><br>
+<b>Subscription product analytics</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/saas-app-dashboard-starter?case=aa4ad3fa-4a25-4da0-b2db-41b21e198663&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -90,7 +90,7 @@ Set AUDIENCE and FOCUS to the new sector and measurement, then rewrite the seede
 Copy the full prompt (Pro) from this page or run npx vibefather add saas-app-dashboard-starter, replace [BRAND], [WORKSPACE], [AUDIENCE] and [FOCUS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the SaaS App Dashboard Starter demo?
-The Subscription product analytics case was built by GPT-6 Astra in Codex; the Commerce operations analytics case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Commerce operations analytics case was built by Gemini 4 Neon in Antigravity; the Subscription product analytics case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the SaaS App Dashboard Starter template use?
 SaaS App Dashboard Starter is a 11-page site built with React, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

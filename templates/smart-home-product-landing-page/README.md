@@ -2,7 +2,7 @@
 
 > A warm, code-drawn smart home landing page with a clickable cutaway house showing devices and automations.
 
-<a href="https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/5c94e6b7-19e6-4f67-b5e6-48f138178ef7/webp.94b497e62a.webp" width="100%" alt="Smart Home Product Landing Page — Smart Home Landing with Cutaway House built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/86f6fd4f-08c9-4192-91b3-bd2918cd13e8/webp.caa3acfd43.webp" width="100%" alt="Smart Home Product Landing Page — Smart Home Landing with Cutaway House built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -20,7 +20,7 @@ To adapt it, change the brand, the product, the audience and the name of the sig
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/smart-home-product-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -28,14 +28,14 @@ To adapt it, change the brand, the product, the audience and the name of the sig
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/smart-home-product-landing-page?case=5c94e6b7-19e6-4f67-b5e6-48f138178ef7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/5c94e6b7-19e6-4f67-b5e6-48f138178ef7/shot_desktop.e44386de84.webp" width="100%" alt="Smart Home Product Landing Page — Smart home starter kit, built by GLM-5.3 in ZCode"></a><br>
-<b>Smart home starter kit</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/smart-home-product-landing-page?case=5c94e6b7-19e6-4f67-b5e6-48f138178ef7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/smart-home-product-landing-page?case=86f6fd4f-08c9-4192-91b3-bd2918cd13e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/86f6fd4f-08c9-4192-91b3-bd2918cd13e8/shot_desktop.e163910aec.webp" width="100%" alt="Smart Home Product Landing Page — Renters security kit, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Renters security kit</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/smart-home-product-landing-page?case=86f6fd4f-08c9-4192-91b3-bd2918cd13e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/smart-home-product-landing-page?case=5c94e6b7-19e6-4f67-b5e6-48f138178ef7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/smart-home-product-landing-page/5c94e6b7-19e6-4f67-b5e6-48f138178ef7/shot_desktop.e44386de84.webp" width="100%" alt="Smart Home Product Landing Page — Smart home starter kit, built by GLM-5.3 in ZCode"></a><br>
+<b>Smart home starter kit</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/smart-home-product-landing-page?case=5c94e6b7-19e6-4f67-b5e6-48f138178ef7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -85,7 +85,7 @@ The Smart Home Product Landing Page contains no photographs. Every visual is dra
 Copy the full prompt (Pro) from this page or run npx vibefather add smart-home-product-landing-page, replace [BRAND], [PRODUCT], [AUDIENCE] and [SIGNATURE_SCENE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Smart Home Product Landing Page demo?
-The Smart home starter kit case was built by GLM-5.3 in ZCode; the Renters security kit case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Renters security kit case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Smart home starter kit case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Smart Home Product Landing Page template use?
 Smart Home Product Landing Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

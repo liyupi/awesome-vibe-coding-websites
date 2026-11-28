@@ -2,7 +2,7 @@
 
 > A block-based team wiki with slash commands, nested pages, table/board/calendar database views, and Markdown export.
 
-<a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/webp.dd45f7c492.webp" width="100%" alt="Team Wiki Workspace App — Block-Based Team Wiki &amp; Multi-View Database App built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/9ee0b215-064a-4b97-b2a5-2400dc6d215e/webp.75519b242f.webp" width="100%" alt="Team Wiki Workspace App — Block-Based Team Wiki &amp; Multi-View Database App built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Team Wiki Workspace App is a self-contained collaborative notes, documentation, 
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/team-wiki-workspace-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Team Wiki Workspace App is a self-contained collaborative notes, documentation, 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=11521a73-a8f7-4733-ae37-58b525b38fb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/shot_desktop.6da87800ea.webp" width="100%" alt="Team Wiki Workspace App — Design studio product wiki, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Design studio product wiki</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=11521a73-a8f7-4733-ae37-58b525b38fb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=9ee0b215-064a-4b97-b2a5-2400dc6d215e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/9ee0b215-064a-4b97-b2a5-2400dc6d215e/shot_desktop.a54a060521.webp" width="100%" alt="Team Wiki Workspace App — Robotics lab engineering wiki, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Robotics lab engineering wiki</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=9ee0b215-064a-4b97-b2a5-2400dc6d215e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=11521a73-a8f7-4733-ae37-58b525b38fb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/team-wiki-workspace-app/11521a73-a8f7-4733-ae37-58b525b38fb8/shot_desktop.6da87800ea.webp" width="100%" alt="Team Wiki Workspace App — Design studio product wiki, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Design studio product wiki</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/team-wiki-workspace-app?case=11521a73-a8f7-4733-ae37-58b525b38fb8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Team Wiki Workspace App persists workspace state in browser localStorage, in
 Copy the full prompt (Pro) from this page or run npx vibefather add team-wiki-workspace-app, replace [BRAND], [STUDIO_NAME], [LEAD_NAME] and [CYCLE_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Team Wiki Workspace App demo?
-The Design studio product wiki case was built by Gemini 4 Neon in Antigravity; the Robotics lab engineering wiki case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Robotics lab engineering wiki case was built by GPT-6.2 Sol in Codex; the Design studio product wiki case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Team Wiki Workspace App template use?
 Team Wiki Workspace App is a single-page site built with React and Tailwind CSS, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

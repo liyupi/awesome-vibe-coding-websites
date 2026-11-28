@@ -2,7 +2,7 @@
 
 > Edit your experience beside the printed page, check its reading order, and save a copy to take with you.
 
-<a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/webp.f57c8a46e5.webp" width="100%" alt="Resume Builder Web App — Live Resume Editor with Print Preview built by GPT-6 Astra and Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/resume-builder-web-app/3b5a0820-594d-48f7-bc52-d273200581dc/webp.3ddc219e7c.webp" width="100%" alt="Resume Builder Web App — Live Resume Editor with Print Preview built by Gemini 4 Neon and GPT-6 Astra"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/resume-builder-web-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -20,7 +20,7 @@ Career coaches can replace the sample with a recent graduate’s coursework and 
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Vanilla CSS |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -28,14 +28,14 @@ Career coaches can replace the sample with a recent graduate’s coursework and 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/resume-builder-web-app?case=8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/shot_desktop.161ce28382.webp" width="100%" alt="Resume Builder Web App — Museum exhibit designer, built by GPT-6 Astra in Codex"></a><br>
-<b>Museum exhibit designer</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/resume-builder-web-app?case=8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/resume-builder-web-app?case=3b5a0820-594d-48f7-bc52-d273200581dc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/resume-builder-web-app/3b5a0820-594d-48f7-bc52-d273200581dc/shot_desktop.2b334e68af.webp" width="100%" alt="Resume Builder Web App — Food program coordinator, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Food program coordinator</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/resume-builder-web-app?case=3b5a0820-594d-48f7-bc52-d273200581dc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/resume-builder-web-app?case=8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/resume-builder-web-app/8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4/shot_desktop.161ce28382.webp" width="100%" alt="Resume Builder Web App — Museum exhibit designer, built by GPT-6 Astra in Codex"></a><br>
+<b>Museum exhibit designer</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/resume-builder-web-app?case=8aa9cb28-cf3b-4f29-b071-e107bc0ca7d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -85,7 +85,7 @@ The plain-text view shows every visible section in sequence, so you can read the
 Copy the prompt from this page or run npx vibefather add resume-builder-web-app, replace [BRAND], [CANDIDATE], [PROFESSION] and [CAREER_FOCUS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Resume Builder Web App demo?
-The Museum exhibit designer case was built by GPT-6 Astra in Codex; the Food program coordinator case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Food program coordinator case was built by Gemini 4 Neon in Antigravity; the Museum exhibit designer case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Resume Builder Web App template use?
 Resume Builder Web App is a single-page site built with React, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

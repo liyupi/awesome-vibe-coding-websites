@@ -2,7 +2,7 @@
 
 > Architecture practice site with studio photographs, a filterable project index, project pages with drawn SVG plans, awards and contact.
 
-<a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/webp.821e2fbbd4.webp" width="100%" alt="Architecture Firm Portfolio — Architecture Portfolio with Plans built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/67943fdd-a9ae-4fcf-a72b-b152158ac07a/webp.13e9cc6524.webp" width="100%" alt="Architecture Firm Portfolio — Architecture Portfolio with Plans built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A four-page website for an architecture practice: a home page with one large her
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 4 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/architecture-firm-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A four-page website for an architecture practice: a home page with one large her
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio — Seven-person architecture practice, built by GLM-5.3 in ZCode"></a><br>
-<b>Seven-person architecture practice</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=67943fdd-a9ae-4fcf-a72b-b152158ac07a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/67943fdd-a9ae-4fcf-a72b-b152158ac07a/shot_desktop.4697621ec9.webp" width="100%" alt="Architecture Firm Portfolio — Landscape architecture practice, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Landscape architecture practice</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=67943fdd-a9ae-4fcf-a72b-b152158ac07a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/architecture-firm-portfolio/c1a00070-1046-476e-83b6-0ffe310ea343/shot_desktop.514934600e.webp" width="100%" alt="Architecture Firm Portfolio — Seven-person architecture practice, built by GLM-5.3 in ZCode"></a><br>
+<b>Seven-person architecture practice</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/architecture-firm-portfolio?case=c1a00070-1046-476e-83b6-0ffe310ea343&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Architecture Firm Portfolio template suits any architecture, interior or lan
 Copy the full prompt (Pro) from this page or run npx vibefather add architecture-firm-portfolio, replace [PRACTICE], [CITY], [APPROACH] and [TYPOLOGIES] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Architecture Firm Portfolio demo?
-The Seven-person architecture practice case was built by GLM-5.3 in ZCode; the Landscape architecture practice case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Landscape architecture practice case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Seven-person architecture practice case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Architecture Firm Portfolio template use?
 Architecture Firm Portfolio is a 4-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

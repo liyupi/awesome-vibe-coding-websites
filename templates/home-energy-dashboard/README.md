@@ -2,7 +2,7 @@
 
 > A dark home-energy dashboard with hand-built SVG charts, a range switcher and live device toggles.
 
-<a href="https://vibefather.ai/templates/home-energy-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/wattline/6e35690e-e3cd-4434-8a4e-7434040f1990/webp.aeb15e6e6e.webp" width="100%" alt="Home Energy Dashboard — Dark Energy Monitoring Dashboard with Animated SVG Charts built by Claude Opus 5.5 and Gemini 4 Carbon"></a>
+<a href="https://vibefather.ai/templates/home-energy-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/home-energy-dashboard/8582df9a-5a8e-42b4-adad-913ec0b7c6a0/webp.efa9003889.webp" width="100%" alt="Home Energy Dashboard — Dark Energy Monitoring Dashboard with Animated SVG Charts built by Gemini 4 Carbon and Claude Opus 5.5"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/home-energy-dashboard?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ To adapt it, change the five variables for brand, site, operator, currency and f
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,21 +30,21 @@ To adapt it, change the five variables for brand, site, operator, currency and f
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/home-energy-dashboard?case=8582df9a-5a8e-42b4-adad-913ec0b7c6a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/home-energy-dashboard/8582df9a-5a8e-42b4-adad-913ec0b7c6a0/shot_desktop.c7f4210221.webp" width="100%" alt="Home Energy Dashboard — Household energy monitor, built by Gemini 4 Carbon in Cursor"></a><br>
+<b>Household energy monitor</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=8582df9a-5a8e-42b4-adad-913ec0b7c6a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/home-energy-dashboard?case=6e35690e-e3cd-4434-8a4e-7434040f1990&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/wattline/6e35690e-e3cd-4434-8a4e-7434040f1990/shot_desktop.ba18b931cb.webp" width="100%" alt="Home Energy Dashboard — Home energy monitor, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Home energy monitor</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=6e35690e-e3cd-4434-8a4e-7434040f1990&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/home-energy-dashboard?case=7e8de294-a31b-4fe9-8bf0-886ea034b66b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/wattline/7e8de294-a31b-4fe9-8bf0-886ea034b66b/shot_desktop.f524f31d74.webp" width="100%" alt="Home Energy Dashboard — Bakery kitchen energy, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Bakery kitchen energy</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=7e8de294-a31b-4fe9-8bf0-886ea034b66b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/home-energy-dashboard?case=8582df9a-5a8e-42b4-adad-913ec0b7c6a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/home-energy-dashboard/8582df9a-5a8e-42b4-adad-913ec0b7c6a0/shot_desktop.c7f4210221.webp" width="100%" alt="Home Energy Dashboard — Household energy monitor, built by Gemini 4 Carbon in Cursor"></a><br>
-<b>Household energy monitor</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/home-energy-dashboard?case=8582df9a-5a8e-42b4-adad-913ec0b7c6a0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -95,7 +95,7 @@ Add the Home Energy Dashboard template with npx vibefather add home-energy-dashb
 Copy the prompt from this page or run npx vibefather add home-energy-dashboard, replace [BRAND], [SITE_NAME], [OPERATOR_NAME] and [CURRENCY_SYMBOL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Home Energy Dashboard demo?
-The Home energy monitor case was built by Claude Opus 5.5 in Cursor; the Bakery kitchen energy case was built by Claude Opus 5.5 in Cursor; the Household energy monitor case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Household energy monitor case was built by Gemini 4 Carbon in Cursor; the Home energy monitor case was built by Claude Opus 5.5 in Cursor; the Bakery kitchen energy case was built by Claude Opus 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Home Energy Dashboard template use?
 Home Energy Dashboard is a single-page site built with React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

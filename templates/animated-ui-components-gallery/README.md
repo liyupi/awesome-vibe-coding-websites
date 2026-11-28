@@ -2,7 +2,7 @@
 
 > 30 original animated React & Tailwind UI components with live props sliders, Light/Dark previews, code snippets, Copy as Prompt, and ⌘K.
 
-<a href="https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/9ee24e01-d08e-4735-a4eb-b25fb5a74537/webp.6cf796dcb0.webp" width="100%" alt="Animated UI Components Gallery — 30 Live Animated React &amp; Tailwind UI Demos built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/70945929-420e-48dc-9370-27648869eb4b/webp.adf8784196.webp" width="100%" alt="Animated UI Components Gallery — 30 Live Animated React &amp; Tailwind UI Demos built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A precision dark gallery of 30 original animated UI components engineered for la
 | Effects | Text Animation, Cursor Effects, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/animated-ui-components-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A precision dark gallery of 30 original animated UI components engineered for la
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=9ee24e01-d08e-4735-a4eb-b25fb5a74537&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/9ee24e01-d08e-4735-a4eb-b25fb5a74537/shot_desktop.f39de8d5d8.webp" width="100%" alt="Animated UI Components Gallery — KineticKit (Electric Violet #7C5CFF), built by Gemini 4 Neon in Antigravity"></a><br>
-<b>KineticKit (Electric Violet #7C5CFF)</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=9ee24e01-d08e-4735-a4eb-b25fb5a74537&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=70945929-420e-48dc-9370-27648869eb4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/70945929-420e-48dc-9370-27648869eb4b/shot_desktop.cc50497c70.webp" width="100%" alt="Animated UI Components Gallery — MotionForge (Cyber Cyan #00D4FF), built by GPT-6.2 Sol in Codex"></a><br>
 <b>MotionForge (Cyber Cyan #00D4FF)</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=70945929-420e-48dc-9370-27648869eb4b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=9ee24e01-d08e-4735-a4eb-b25fb5a74537&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animated-ui-components-gallery/9ee24e01-d08e-4735-a4eb-b25fb5a74537/shot_desktop.f39de8d5d8.webp" width="100%" alt="Animated UI Components Gallery — KineticKit (Electric Violet #7C5CFF), built by Gemini 4 Neon in Antigravity"></a><br>
+<b>KineticKit (Electric Violet #7C5CFF)</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/animated-ui-components-gallery?case=9ee24e01-d08e-4735-a4eb-b25fb5a74537&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ Run npx vibefather add animated-ui-components-gallery to pull it into your proje
 Copy the full prompt (Pro) from this page or run npx vibefather add animated-ui-components-gallery, replace [BRAND], [TAGLINE] and [DEFAULT_ACCENT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Animated UI Components Gallery demo?
-The KineticKit (Electric Violet #7C5CFF) case was built by Gemini 4 Neon in Antigravity; the MotionForge (Cyber Cyan #00D4FF) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The MotionForge (Cyber Cyan #00D4FF) case was built by GPT-6.2 Sol in Codex; the KineticKit (Electric Violet #7C5CFF) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Animated UI Components Gallery template use?
 Animated UI Components Gallery is a single-page site built with React and Tailwind CSS, with text animation, cursor effects and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

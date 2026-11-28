@@ -2,7 +2,7 @@
 
 > Riso-poster record label site with generative sleeves, a tour feed, and a local vinyl variant shop.
 
-<a href="https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/indie-record-label-website/9e1665bf-5972-4167-83d1-8065aa0d01bb/webp.d0dda0aeaa.webp" width="100%" alt="Indie Record Label Website — Record Label with Vinyl Shop built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/indie-record-label-website/9cc06e66-5b1b-4824-93cb-48d5e4915589/webp.7526ee6d9b.webp" width="100%" alt="Indie Record Label Website — Record Label with Vinyl Shop built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/indie-record-label-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ Everything visual — sleeves, vinyl, stamps, grain, the misregistered type — 
 | Effects | Generative / Canvas, Marquee, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 3 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,14 +30,14 @@ Everything visual — sleeves, vinyl, stamps, grain, the misregistered type — 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/indie-record-label-website?case=9e1665bf-5972-4167-83d1-8065aa0d01bb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/indie-record-label-website/9e1665bf-5972-4167-83d1-8065aa0d01bb/shot_desktop.c1da66a7b5.webp" width="100%" alt="Indie Record Label Website — Static Bloom Records, built by GLM-5.3 in ZCode"></a><br>
-<b>Static Bloom Records</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/indie-record-label-website?case=9e1665bf-5972-4167-83d1-8065aa0d01bb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/indie-record-label-website?case=9cc06e66-5b1b-4824-93cb-48d5e4915589&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/indie-record-label-website/9cc06e66-5b1b-4824-93cb-48d5e4915589/shot_desktop.51d76f6580.webp" width="100%" alt="Indie Record Label Website — Modern jazz label, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Modern jazz label</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/indie-record-label-website?case=9cc06e66-5b1b-4824-93cb-48d5e4915589&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/indie-record-label-website?case=9e1665bf-5972-4167-83d1-8065aa0d01bb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/indie-record-label-website/9e1665bf-5972-4167-83d1-8065aa0d01bb/shot_desktop.c1da66a7b5.webp" width="100%" alt="Indie Record Label Website — Static Bloom Records, built by GLM-5.3 in ZCode"></a><br>
+<b>Static Bloom Records</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/indie-record-label-website?case=9e1665bf-5972-4167-83d1-8065aa0d01bb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -87,7 +87,7 @@ The Indie Record Label Website template is a free template. Its prompt and the D
 Copy the prompt from this page or run npx vibefather add indie-record-label-website, replace [BRAND], [GENRE], [CITY] and [PRESS_LINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Indie Record Label Website demo?
-The Static Bloom Records case was built by GLM-5.3 in ZCode; the Modern jazz label case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Modern jazz label case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Static Bloom Records case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Indie Record Label Website template use?
 Indie Record Label Website is a 3-page site built with Motion, React and Tailwind CSS, with generative / canvas, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

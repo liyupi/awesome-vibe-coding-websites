@@ -2,7 +2,7 @@
 
 > Single-page church site with service times, events, a filterable sermon archive, groups, giving and plan-your-visit.
 
-<a href="https://vibefather.ai/templates/church-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/church-community-website/026bf48b-a9ed-44ad-83fc-d32b079489e7/webp.d1b49e82f2.webp" width="100%" alt="Church Community Website — Church Site with Sermon Archive built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/church-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/church-community-website/f8e2cd04-f774-448b-8548-4f28a084acc9/webp.f522e48da4.webp" width="100%" alt="Church Community Website — Church Site with Sermon Archive built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/church-community-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page website for a local church community: a sanctuary-in-morning-light
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page website for a local church community: a sanctuary-in-morning-light
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/church-community-website?case=026bf48b-a9ed-44ad-83fc-d32b079489e7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/church-community-website/026bf48b-a9ed-44ad-83fc-d32b079489e7/shot_desktop.444e559b27.webp" width="100%" alt="Church Community Website — Neighborhood community church, built by GLM-5.3 in ZCode"></a><br>
-<b>Neighborhood community church</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/church-community-website?case=026bf48b-a9ed-44ad-83fc-d32b079489e7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/church-community-website?case=f8e2cd04-f774-448b-8548-4f28a084acc9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/church-community-website/f8e2cd04-f774-448b-8548-4f28a084acc9/shot_desktop.b12a763480.webp" width="100%" alt="Church Community Website — City center church, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>City center church</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/church-community-website?case=f8e2cd04-f774-448b-8548-4f28a084acc9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/church-community-website?case=026bf48b-a9ed-44ad-83fc-d32b079489e7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/church-community-website/026bf48b-a9ed-44ad-83fc-d32b079489e7/shot_desktop.444e559b27.webp" width="100%" alt="Church Community Website — Neighborhood community church, built by GLM-5.3 in ZCode"></a><br>
+<b>Neighborhood community church</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/church-community-website?case=026bf48b-a9ed-44ad-83fc-d32b079489e7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Church Community Website template has no wine club, but it does have a givin
 Copy the prompt from this page or run npx vibefather add church-community-website, replace [CHURCH], [CITY], [PASTOR] and [VIBE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Church Community Website demo?
-The Neighborhood community church case was built by GLM-5.3 in ZCode; the City center church case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The City center church case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Neighborhood community church case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Church Community Website template use?
 Church Community Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

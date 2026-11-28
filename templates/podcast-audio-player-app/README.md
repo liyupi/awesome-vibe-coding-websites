@@ -2,7 +2,7 @@
 
 > Midnight plum responsive podcast PWA with Web Audio playback, chapters, and drag queue.
 
-<a href="https://vibefather.ai/templates/podcast-audio-player-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/podcast-audio-player-app/2779ba9b-a795-4625-9ea9-9ba42d66f46c/webp.86adba4a07.webp" width="100%" alt="Podcast &amp; Audio Player App — Dark Mobile-First Podcast Player PWA built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/podcast-audio-player-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/podcast-audio-player-app/b5d82b80-cb7a-41b3-9cb4-85cfc6ca36ae/webp.eb2e2eb65b.webp" width="100%" alt="Podcast &amp; Audio Player App — Dark Mobile-First Podcast Player PWA built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/podcast-audio-player-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Podcast & Audio Player App is a responsive mobile-first audio listening PWA craf
 | Effects | Drag & Physics, Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/podcast-audio-player-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Podcast & Audio Player App is a responsive mobile-first audio listening PWA craf
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/podcast-audio-player-app?case=2779ba9b-a795-4625-9ea9-9ba42d66f46c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/podcast-audio-player-app/2779ba9b-a795-4625-9ea9-9ba42d66f46c/shot_desktop.f5b3cf10a3.webp" width="100%" alt="Podcast &amp; Audio Player App — Indie design &amp; tech podcast network, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Indie design &amp; tech podcast network</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/podcast-audio-player-app?case=2779ba9b-a795-4625-9ea9-9ba42d66f46c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/podcast-audio-player-app?case=b5d82b80-cb7a-41b3-9cb4-85cfc6ca36ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/podcast-audio-player-app/b5d82b80-cb7a-41b3-9cb4-85cfc6ca36ae/shot_desktop.32b9396cad.webp" width="100%" alt="Podcast &amp; Audio Player App — Nocturne soundscapes &amp; audio essays, built by GLM-5.4 in ZCode"></a><br>
 <b>Nocturne soundscapes &amp; audio essays</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/podcast-audio-player-app?case=b5d82b80-cb7a-41b3-9cb4-85cfc6ca36ae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/podcast-audio-player-app?case=2779ba9b-a795-4625-9ea9-9ba42d66f46c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/podcast-audio-player-app/2779ba9b-a795-4625-9ea9-9ba42d66f46c/shot_desktop.f5b3cf10a3.webp" width="100%" alt="Podcast &amp; Audio Player App — Indie design &amp; tech podcast network, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Indie design &amp; tech podcast network</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/podcast-audio-player-app?case=2779ba9b-a795-4625-9ea9-9ba42d66f46c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The published prompt has been used to build live demos of the Podcast & Audio Pl
 Copy the full prompt (Pro) from this page or run npx vibefather add podcast-audio-player-app, replace [BRAND], [LISTENER_NAME], [FEATURED_SHOW] and [DEFAULT_SPEED] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Podcast & Audio Player App demo?
-The Indie design & tech podcast network case was built by Gemini 4 Neon in Antigravity; the Nocturne soundscapes & audio essays case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Nocturne soundscapes & audio essays case was built by GLM-5.4 in ZCode; the Indie design & tech podcast network case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Podcast & Audio Player App template use?
 Podcast & Audio Player App is a single-page site built with React and Tailwind CSS, with drag & physics, page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > A dark responsive mobile-first gym workout logger PWA with set tracking, rest countdown timer, PR toasts, and SVG form guides.
 
-<a href="https://vibefather.ai/templates/workout-gym-logger-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/workout-gym-logger-app/2a76ef42-c99a-49ea-a287-91a58cbd5379/webp.a7fcc6cb3b.webp" width="100%" alt="Workout &amp; Gym Logger App — Dark Mobile-First Gym Workout Logger PWA built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/workout-gym-logger-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/workout-gym-logger-app/813a8542-a26e-4a99-ae47-56862443178f/webp.293d1830b2.webp" width="100%" alt="Workout &amp; Gym Logger App — Dark Mobile-First Gym Workout Logger PWA built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/workout-gym-logger-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Engineered as a true three-breakpoint responsive mobile-first strength training 
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/workout-gym-logger-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Engineered as a true three-breakpoint responsive mobile-first strength training 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/workout-gym-logger-app?case=2a76ef42-c99a-49ea-a287-91a58cbd5379&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/workout-gym-logger-app/2a76ef42-c99a-49ea-a287-91a58cbd5379/shot_desktop.fdee9ea493.webp" width="100%" alt="Workout &amp; Gym Logger App — Push pull legs strength logger, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Push pull legs strength logger</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/workout-gym-logger-app?case=2a76ef42-c99a-49ea-a287-91a58cbd5379&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/workout-gym-logger-app?case=813a8542-a26e-4a99-ae47-56862443178f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/workout-gym-logger-app/813a8542-a26e-4a99-ae47-56862443178f/shot_desktop.04800f74e3.webp" width="100%" alt="Workout &amp; Gym Logger App — Kettlebell &amp; bodyweight tracker, built by GLM-5.4 in ZCode"></a><br>
 <b>Kettlebell &amp; bodyweight tracker</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/workout-gym-logger-app?case=813a8542-a26e-4a99-ae47-56862443178f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/workout-gym-logger-app?case=2a76ef42-c99a-49ea-a287-91a58cbd5379&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/workout-gym-logger-app/2a76ef42-c99a-49ea-a287-91a58cbd5379/shot_desktop.fdee9ea493.webp" width="100%" alt="Workout &amp; Gym Logger App — Push pull legs strength logger, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Push pull legs strength logger</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/workout-gym-logger-app?case=2a76ef42-c99a-49ea-a287-91a58cbd5379&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Progress view in the Workout & Gym Logger App tracks weekly lifting volume a
 Copy the full prompt (Pro) from this page or run npx vibefather add workout-gym-logger-app, replace [BRAND], [ATHLETE_NAME], [PROGRAM_NAME] and [UNIT_LABEL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Workout & Gym Logger App demo?
-The Push pull legs strength logger case was built by Gemini 4 Neon in Antigravity; the Kettlebell & bodyweight tracker case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Kettlebell & bodyweight tracker case was built by GLM-5.4 in ZCode; the Push pull legs strength logger case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Workout & Gym Logger App template use?
 Workout & Gym Logger App is a single-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

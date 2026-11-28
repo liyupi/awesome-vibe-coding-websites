@@ -2,7 +2,7 @@
 
 > Course platform opening mid-course on a learner dashboard with animated visual lessons, captions, notes, quizzes, and certificates.
 
-<a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/online-learning-platform/4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f/webp.30c3225120.webp" width="100%" alt="Online Learning Platform — Interactive Online Learning &amp; Course Platform built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/online-learning-platform/a5e7a3a5-6a9e-46de-af89-7272eb249e8a/webp.351abae725.webp" width="100%" alt="Online Learning Platform — Interactive Online Learning &amp; Course Platform built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A focused online learning workspace opening immediately on a learner's active mi
 | Effects | Interactive Canvas, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 5 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/online-learning-platform?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A focused online learning workspace opening immediately on a learner's active mi
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/online-learning-platform?case=4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/online-learning-platform/4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f/shot_desktop.efbbd23f9e.webp" width="100%" alt="Online Learning Platform — Brightleaf Academy, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Brightleaf Academy</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/online-learning-platform?case=4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/online-learning-platform?case=a5e7a3a5-6a9e-46de-af89-7272eb249e8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/online-learning-platform/a5e7a3a5-6a9e-46de-af89-7272eb249e8a/shot_desktop.9578aa52b0.webp" width="100%" alt="Online Learning Platform — Northstar Guild, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Northstar Guild</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/online-learning-platform?case=a5e7a3a5-6a9e-46de-af89-7272eb249e8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/online-learning-platform?case=4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/online-learning-platform/4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f/shot_desktop.efbbd23f9e.webp" width="100%" alt="Online Learning Platform — Brightleaf Academy, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Brightleaf Academy</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/online-learning-platform?case=4c1e66db-4d1e-4bdf-a699-9fe0a0679e2f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ Start by replacing the three seeded courses with your own curriculum, then rewri
 Copy the full prompt (Pro) from this page or run npx vibefather add online-learning-platform, replace [PLATFORM_NAME], [LEARNER_NAME] and [STREAK_DAYS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Online Learning Platform demo?
-The Brightleaf Academy case was built by Gemini 4 Neon in Antigravity; the Northstar Guild case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Northstar Guild case was built by GPT-6.2 Sol in Codex; the Brightleaf Academy case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Online Learning Platform template use?
 Online Learning Platform is a 5-page site built with React, Tailwind CSS and Typescript, with interactive canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

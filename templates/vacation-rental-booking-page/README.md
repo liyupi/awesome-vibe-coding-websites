@@ -2,7 +2,7 @@
 
 > Single-property cabin rental page with a price calendar, live price breakdown, area guide and a booking request form.
 
-<a href="https://vibefather.ai/templates/vacation-rental-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/vacation-rental-booking-page/b9852515-6c37-4f2d-b416-19ea62ce047e/webp.d97d9b98f0.webp" width="100%" alt="Vacation Rental Booking Page — Cabin Rental Page with Calendar built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/vacation-rental-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/vacation-rental-booking-page/96fe5090-cf70-41e3-ab86-52f4467b8cc8/webp.6926dec5d6.webp" width="100%" alt="Vacation Rental Booking Page — Cabin Rental Page with Calendar built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/vacation-rental-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page website for one vacation rental: a dusk hero of the cabin with the
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page website for one vacation rental: a dusk hero of the cabin with the
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=b9852515-6c37-4f2d-b416-19ea62ce047e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/vacation-rental-booking-page/b9852515-6c37-4f2d-b416-19ea62ce047e/shot_desktop.72ca70a964.webp" width="100%" alt="Vacation Rental Booking Page — Cabin in the Catskills, built by GLM-5.3 in ZCode"></a><br>
-<b>Cabin in the Catskills</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=b9852515-6c37-4f2d-b416-19ea62ce047e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=96fe5090-cf70-41e3-ab86-52f4467b8cc8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/vacation-rental-booking-page/96fe5090-cf70-41e3-ab86-52f4467b8cc8/shot_desktop.02f84e8a7e.webp" width="100%" alt="Vacation Rental Booking Page — House in the Blue Ridge, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>House in the Blue Ridge</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=96fe5090-cf70-41e3-ab86-52f4467b8cc8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=b9852515-6c37-4f2d-b416-19ea62ce047e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/vacation-rental-booking-page/b9852515-6c37-4f2d-b416-19ea62ce047e/shot_desktop.72ca70a964.webp" width="100%" alt="Vacation Rental Booking Page — Cabin in the Catskills, built by GLM-5.3 in ZCode"></a><br>
+<b>Cabin in the Catskills</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/vacation-rental-booking-page?case=b9852515-6c37-4f2d-b416-19ea62ce047e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Vacation Rental Booking Page template is a free single-page site with a dusk
 Copy the prompt from this page or run npx vibefather add vacation-rental-booking-page, replace [BRAND], [REGION], [SLEEPS] and [NIGHTLY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Vacation Rental Booking Page demo?
-The Cabin in the Catskills case was built by GLM-5.3 in ZCode; the House in the Blue Ridge case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The House in the Blue Ridge case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Cabin in the Catskills case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Vacation Rental Booking Page template use?
 Vacation Rental Booking Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > Fresh linen responsive weekly meal planner PWA with dynamic servings scaler and aisle grocery list.
 
-<a href="https://vibefather.ai/templates/meal-planner-grocery-list-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/meal-planner-grocery-list-app/ad6d859f-7df8-4edf-acdf-5b9fa5c5af8c/webp.bc7f52f2f8.webp" width="100%" alt="Meal Planner &amp; Grocery List App — Weekly Meal Planner &amp; Grocery List PWA built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/meal-planner-grocery-list-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/meal-planner-grocery-list-app/4969345a-5b36-490d-80ab-c05cd63fd317/webp.eee61cb5a5.webp" width="100%" alt="Meal Planner &amp; Grocery List App — Weekly Meal Planner &amp; Grocery List PWA built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/meal-planner-grocery-list-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Meal Planner & Grocery List App is a sunlit, kitchen-friendly responsive weekly 
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Meal Planner & Grocery List App is a sunlit, kitchen-friendly responsive weekly 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/meal-planner-grocery-list-app?case=ad6d859f-7df8-4edf-acdf-5b9fa5c5af8c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/meal-planner-grocery-list-app/ad6d859f-7df8-4edf-acdf-5b9fa5c5af8c/shot_desktop.3b27e18998.webp" width="100%" alt="Meal Planner &amp; Grocery List App — Home kitchen weekly meal planner, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Home kitchen weekly meal planner</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/meal-planner-grocery-list-app?case=ad6d859f-7df8-4edf-acdf-5b9fa5c5af8c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/meal-planner-grocery-list-app?case=4969345a-5b36-490d-80ab-c05cd63fd317&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/meal-planner-grocery-list-app/4969345a-5b36-490d-80ab-c05cd63fd317/shot_desktop.f195793cc6.webp" width="100%" alt="Meal Planner &amp; Grocery List App — Mediterranean family dinner planner, built by GLM-5.4 in ZCode"></a><br>
 <b>Mediterranean family dinner planner</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/meal-planner-grocery-list-app?case=4969345a-5b36-490d-80ab-c05cd63fd317&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/meal-planner-grocery-list-app?case=ad6d859f-7df8-4edf-acdf-5b9fa5c5af8c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/meal-planner-grocery-list-app/ad6d859f-7df8-4edf-acdf-5b9fa5c5af8c/shot_desktop.3b27e18998.webp" width="100%" alt="Meal Planner &amp; Grocery List App — Home kitchen weekly meal planner, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Home kitchen weekly meal planner</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/meal-planner-grocery-list-app?case=ad6d859f-7df8-4edf-acdf-5b9fa5c5af8c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Add the Meal Planner & Grocery List App template to a project with the VibeFathe
 Copy the prompt from this page or run npx vibefather add meal-planner-grocery-list-app, replace [BRAND], [HOUSEHOLD_NAME], [DEFAULT_SERVINGS] and [WEEK_LABEL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Meal Planner & Grocery List App demo?
-The Home kitchen weekly meal planner case was built by Gemini 4 Neon in Antigravity; the Mediterranean family dinner planner case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Mediterranean family dinner planner case was built by GLM-5.4 in ZCode; the Home kitchen weekly meal planner case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Meal Planner & Grocery List App template use?
 Meal Planner & Grocery List App is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

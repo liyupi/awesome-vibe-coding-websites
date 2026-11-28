@@ -2,7 +2,7 @@
 
 > A warm AI workspace with streaming replies, useful history, editable profiles, and local attachments.
 
-<a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/webp.e709e34afd.webp" width="100%" alt="AI Chat App Interface — AI Chat UI with Local History built by GPT-6 Astra and Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/5fa4a07a-03b0-4879-b4eb-c4b5e9549927/webp.eabea1f1af.webp" width="100%" alt="AI Chat App Interface — AI Chat UI with Local History built by Gemini 4 Neon and GPT-6 Astra"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ Use the default fictional product studio or replace the app name, workspace, mem
 | Effects | Text Animation, Micro-interactions |
 | Stack | Vite + React + TypeScript + Tailwind CSS 4 + CSS variables + @tailwindcss/vite + react-markdown + remark-gfm |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/ai-chat-app-interface?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,14 +30,14 @@ Use the default fictional product studio or replace the app name, workspace, mem
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface — Product studio assistant, built by GPT-6 Astra in Codex"></a><br>
-<b>Product studio assistant</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=5fa4a07a-03b0-4879-b4eb-c4b5e9549927&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/5fa4a07a-03b0-4879-b4eb-c4b5e9549927/shot_desktop.d558e3e743.webp" width="100%" alt="AI Chat App Interface — Community learning assistant, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Community learning assistant</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=5fa4a07a-03b0-4879-b4eb-c4b5e9549927&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-chat-app-interface/6cdb20c1-747e-447d-a561-fcb45ab185ff/shot_desktop.be7f4cf469.webp" width="100%" alt="AI Chat App Interface — Product studio assistant, built by GPT-6 Astra in Codex"></a><br>
+<b>Product studio assistant</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/ai-chat-app-interface?case=6cdb20c1-747e-447d-a561-fcb45ab185ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -89,7 +89,7 @@ The AI Chat App Interface is a Pro template, so commercial and client use needs 
 Copy the full prompt (Pro) from this page or run npx vibefather add ai-chat-app-interface, replace [BRAND], [WORKSPACE], [USER_NAME] and [ASSISTANT_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the AI Chat App Interface demo?
-The Product studio assistant case was built by GPT-6 Astra in Codex; the Community learning assistant case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Community learning assistant case was built by Gemini 4 Neon in Antigravity; the Product studio assistant case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the AI Chat App Interface template use?
 AI Chat App Interface is a single-page site built with React and Tailwind CSS, with text animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

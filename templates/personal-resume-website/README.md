@@ -2,7 +2,7 @@
 
 > One-page resume site with a professional portrait, timeline, leveled skills and a print stylesheet for a designed A4 PDF.
 
-<a href="https://vibefather.ai/templates/personal-resume-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-resume-website/45bc3866-5fe3-47bd-b9fd-7eae07434fb6/webp.eb867febac.webp" width="100%" alt="Personal Resume Website — One-Page Resume Site with PDF built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/personal-resume-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-resume-website/a25cff32-5889-4ec4-942b-8e5af032e403/webp.4aa786f8ff.webp" width="100%" alt="Personal Resume Website — One-Page Resume Site with PDF built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/personal-resume-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page resume site: a masthead with the name, title, contact links and a 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page resume site: a masthead with the name, title, contact links and a 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-resume-website?case=45bc3866-5fe3-47bd-b9fd-7eae07434fb6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-resume-website/45bc3866-5fe3-47bd-b9fd-7eae07434fb6/shot_desktop.f0fd67e96d.webp" width="100%" alt="Personal Resume Website — Backend engineer resume, built by GLM-5.3 in ZCode"></a><br>
-<b>Backend engineer resume</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/personal-resume-website?case=45bc3866-5fe3-47bd-b9fd-7eae07434fb6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-resume-website?case=a25cff32-5889-4ec4-942b-8e5af032e403&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-resume-website/a25cff32-5889-4ec4-942b-8e5af032e403/shot_desktop.7ddc6e122c.webp" width="100%" alt="Personal Resume Website — Product designer resume, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Product designer resume</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/personal-resume-website?case=a25cff32-5889-4ec4-942b-8e5af032e403&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personal-resume-website?case=45bc3866-5fe3-47bd-b9fd-7eae07434fb6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-resume-website/45bc3866-5fe3-47bd-b9fd-7eae07434fb6/shot_desktop.f0fd67e96d.webp" width="100%" alt="Personal Resume Website — Backend engineer resume, built by GLM-5.3 in ZCode"></a><br>
+<b>Backend engineer resume</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/personal-resume-website?case=45bc3866-5fe3-47bd-b9fd-7eae07434fb6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Personal Resume Website builds to static files with no backend, no server co
 Copy the prompt from this page or run npx vibefather add personal-resume-website, replace [NAME], [ROLE], [FIELD] and [BASE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Personal Resume Website demo?
-The Backend engineer resume case was built by GLM-5.3 in ZCode; the Product designer resume case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Product designer resume case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Backend engineer resume case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Personal Resume Website template use?
 Personal Resume Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

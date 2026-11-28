@@ -27,7 +27,7 @@ Use the first option that works:
 2. `npx vibefather add <slug>` — writes `vibefather/<slug>/prompt.md` and `DESIGN.md`.
 3. Fetch `https://vibefather.ai/templates/<slug>.md`.
 
-**Pro templates:** the public prompt stops after the Variables section. Tell the user the full prompt is available to VibeFather Pro members on the template page, and offer a free template or "apply DESIGN.md only" instead. Never guess the missing parts.
+**Pro templates:** the public prompt stops after the Variables section. If the user is a VibeFather Pro member, they can create a Pro API token at `https://vibefather.ai/account` and authenticate via `npx vibefather login <token>` or pass `Authorization: Bearer <token>` to the MCP server to unlock full Pro prompts and `get_source` / `npx vibefather source <slug>`. Otherwise, offer a free template or "apply DESIGN.md only" instead. Never guess the missing parts.
 
 ## 3. Ask for the variables — once
 

@@ -2,7 +2,7 @@
 
 > A lime-and-lilac directory with 64 fictional tools, live filters, saved picks and useful comparisons.
 
-<a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/webp.f960c508e6.webp" width="100%" alt="AI Tools Directory Website — Dark AI Directory with Search and Compare built by GPT-6 Astra and Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/255fe86b-8d61-4894-9e62-1c7ca48842d8/webp.12b163f128.webp" width="100%" alt="AI Tools Directory Website — Dark AI Directory with Search and Compare built by Gemini 4 Neon and GPT-6 Astra"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/ai-tools-directory-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ The template suits indie makers, small editorial teams and founders planning a f
 | Effects | Micro-interactions |
 | Stack | Vite + React + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 8 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,14 +30,14 @@ The template suits indie makers, small editorial teams and founders planning a f
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/ai-tools-directory-website?case=83a6661d-9e30-4bee-b47a-ebeea56efd3b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp" width="100%" alt="AI Tools Directory Website — Independent AI tools, built by GPT-6 Astra in Codex"></a><br>
-<b>Independent AI tools</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=83a6661d-9e30-4bee-b47a-ebeea56efd3b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=255fe86b-8d61-4894-9e62-1c7ca48842d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/255fe86b-8d61-4894-9e62-1c7ca48842d8/shot_desktop.772c8fff54.webp" width="100%" alt="AI Tools Directory Website — Creative studio tools, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Creative studio tools</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=255fe86b-8d61-4894-9e62-1c7ca48842d8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/ai-tools-directory-website?case=83a6661d-9e30-4bee-b47a-ebeea56efd3b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/ai-tools-directory-website/83a6661d-9e30-4bee-b47a-ebeea56efd3b/shot_desktop.e0d3337848.webp" width="100%" alt="AI Tools Directory Website — Independent AI tools, built by GPT-6 Astra in Codex"></a><br>
+<b>Independent AI tools</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/ai-tools-directory-website?case=83a6661d-9e30-4bee-b47a-ebeea56efd3b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -88,7 +88,7 @@ The AI Tools Directory Website template includes a three-step submission flow th
 Copy the prompt from this page or run npx vibefather add ai-tools-directory-website, replace [BRAND], [DIRECTORY_FOCUS], [AUDIENCE] and [NEWSLETTER_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the AI Tools Directory Website demo?
-The Independent AI tools case was built by GPT-6 Astra in Codex; the Creative studio tools case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Creative studio tools case was built by Gemini 4 Neon in Antigravity; the Independent AI tools case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the AI Tools Directory Website template use?
 AI Tools Directory Website is a 8-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

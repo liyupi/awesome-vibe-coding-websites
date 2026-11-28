@@ -2,7 +2,7 @@
 
 > A monochrome fashion lookbook with vertical-scroll horizontal chapters and spec-card look overlays.
 
-<a href="https://vibefather.ai/templates/fashion-lookbook-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/fashion-lookbook-website/e60182a8-a6f3-4e88-bce0-c2e786c40b56/webp.a7c0207270.webp" width="100%" alt="Fashion Lookbook Website — Fashion Lookbook with Chapters built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/fashion-lookbook-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/fashion-lookbook-website/7c33a0b1-4c7f-4b6a-8ed9-286cd914db49/webp.3e0cc4210f.webp" width="100%" alt="Fashion Lookbook Website — Fashion Lookbook with Chapters built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/fashion-lookbook-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A lookbook for an invented fashion label, built like a printed issue: near-monoc
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/fashion-lookbook-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A lookbook for an invented fashion label, built like a printed issue: near-monoc
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/fashion-lookbook-website?case=e60182a8-a6f3-4e88-bce0-c2e786c40b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fashion-lookbook-website/e60182a8-a6f3-4e88-bce0-c2e786c40b56/shot_desktop.727c6439aa.webp" width="100%" alt="Fashion Lookbook Website — Fashion lookbook, built by GLM-5.3 in ZCode"></a><br>
-<b>Fashion lookbook</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/fashion-lookbook-website?case=e60182a8-a6f3-4e88-bce0-c2e786c40b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fashion-lookbook-website?case=7c33a0b1-4c7f-4b6a-8ed9-286cd914db49&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fashion-lookbook-website/7c33a0b1-4c7f-4b6a-8ed9-286cd914db49/shot_desktop.c8cbb8fa44.webp" width="100%" alt="Fashion Lookbook Website — Tailoring capsule label, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Tailoring capsule label</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/fashion-lookbook-website?case=7c33a0b1-4c7f-4b6a-8ed9-286cd914db49&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/fashion-lookbook-website?case=e60182a8-a6f3-4e88-bce0-c2e786c40b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fashion-lookbook-website/e60182a8-a6f3-4e88-bce0-c2e786c40b56/shot_desktop.727c6439aa.webp" width="100%" alt="Fashion Lookbook Website — Fashion lookbook, built by GLM-5.3 in ZCode"></a><br>
+<b>Fashion lookbook</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/fashion-lookbook-website?case=e60182a8-a6f3-4e88-bce0-c2e786c40b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Clicking any look on the Fashion Lookbook Website opens a full-screen overlay: t
 Copy the full prompt (Pro) from this page or run npx vibefather add fashion-lookbook-website, replace [BRAND], [COLLECTION], [SEASON] and [ACCENT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Fashion Lookbook Website demo?
-The Fashion lookbook case was built by GLM-5.3 in ZCode; the Tailoring capsule label case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Tailoring capsule label case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Fashion lookbook case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Fashion Lookbook Website template use?
 Fashion Lookbook Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

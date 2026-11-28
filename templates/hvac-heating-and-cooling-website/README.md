@@ -2,7 +2,7 @@
 
 > A hot-and-cold duotone HVAC site with a sizing helper that recommends a system in plain language.
 
-<a href="https://vibefather.ai/templates/hvac-heating-and-cooling-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/hvac-heating-and-cooling-website/7c31323f-d723-4e1d-be7e-ea694c775619/webp.c5dc053de0.webp" width="100%" alt="HVAC Heating and Cooling Website — HVAC Site with System Sizing Helper built by GLM-5.3 and Kimi K3.1 Pro"></a>
+<a href="https://vibefather.ai/templates/hvac-heating-and-cooling-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/hvac-heating-and-cooling-website/a4d64cc8-e73d-45c7-b497-e5e209f78185/webp.dd427524d6.webp" width="100%" alt="HVAC Heating and Cooling Website — HVAC Site with System Sizing Helper built by Kimi K3.1 Pro and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/hvac-heating-and-cooling-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ HVAC Heating and Cooling Website is a single-page site for a residential heating
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ HVAC Heating and Cooling Website is a single-page site for a residential heating
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/hvac-heating-and-cooling-website?case=7c31323f-d723-4e1d-be7e-ea694c775619&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hvac-heating-and-cooling-website/7c31323f-d723-4e1d-be7e-ea694c775619/shot_desktop.2255b231dd.webp" width="100%" alt="HVAC Heating and Cooling Website — Residential HVAC, Rookfield, built by GLM-5.3 in ZCode"></a><br>
-<b>Residential HVAC, Rookfield</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/hvac-heating-and-cooling-website?case=7c31323f-d723-4e1d-be7e-ea694c775619&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/hvac-heating-and-cooling-website?case=a4d64cc8-e73d-45c7-b497-e5e209f78185&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hvac-heating-and-cooling-website/a4d64cc8-e73d-45c7-b497-e5e209f78185/shot_desktop.b096d814be.webp" width="100%" alt="HVAC Heating and Cooling Website — Commercial HVAC, Lakeshore Heights, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Commercial HVAC, Lakeshore Heights</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/hvac-heating-and-cooling-website?case=a4d64cc8-e73d-45c7-b497-e5e209f78185&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/hvac-heating-and-cooling-website?case=7c31323f-d723-4e1d-be7e-ea694c775619&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/hvac-heating-and-cooling-website/7c31323f-d723-4e1d-be7e-ea694c775619/shot_desktop.2255b231dd.webp" width="100%" alt="HVAC Heating and Cooling Website — Residential HVAC, Rookfield, built by GLM-5.3 in ZCode"></a><br>
+<b>Residential HVAC, Rookfield</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/hvac-heating-and-cooling-website?case=7c31323f-d723-4e1d-be7e-ea694c775619&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Before publishing the HVAC Heating and Cooling Website template, replace the fiv
 Copy the prompt from this page or run npx vibefather add hvac-heating-and-cooling-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the HVAC Heating and Cooling Website demo?
-The Residential HVAC, Rookfield case was built by GLM-5.3 in ZCode; the Commercial HVAC, Lakeshore Heights case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Commercial HVAC, Lakeshore Heights case was built by Kimi K3.1 Pro in Kimi Code; the Residential HVAC, Rookfield case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the HVAC Heating and Cooling Website template use?
 HVAC Heating and Cooling Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

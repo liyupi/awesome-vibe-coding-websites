@@ -2,7 +2,7 @@
 
 > Neon night-market page with a filterable vendor map, two-stage schedule, and token ticket tiers.
 
-<a href="https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/night-market-food-festival/41a9fe20-4116-4101-afb8-1377e94718e4/webp.4e5ca81385.webp" width="100%" alt="Night Market Food Festival — Night Market with Vendor Map built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/night-market-food-festival/8718dc13-d6ec-42cb-b2bf-a894c6a1525c/webp.9022dedcac.webp" width="100%" alt="Night Market Food Festival — Night Market with Vendor Map built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/night-market-food-festival?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ This template suits night markets, food-truck rallies, lantern festivals, and cu
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,14 +30,14 @@ This template suits night markets, food-truck rallies, lantern festivals, and cu
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/night-market-food-festival?case=41a9fe20-4116-4101-afb8-1377e94718e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/night-market-food-festival/41a9fe20-4116-4101-afb8-1377e94718e4/shot_desktop.2eeb9a4e11.webp" width="100%" alt="Night Market Food Festival — Lantern Row Night Market, built by GLM-5.3 in ZCode"></a><br>
-<b>Lantern Row Night Market</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/night-market-food-festival?case=41a9fe20-4116-4101-afb8-1377e94718e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/night-market-food-festival?case=8718dc13-d6ec-42cb-b2bf-a894c6a1525c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/night-market-food-festival/8718dc13-d6ec-42cb-b2bf-a894c6a1525c/shot_desktop.369bbb05fc.webp" width="100%" alt="Night Market Food Festival — Winter street-food market, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Winter street-food market</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/night-market-food-festival?case=8718dc13-d6ec-42cb-b2bf-a894c6a1525c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/night-market-food-festival?case=41a9fe20-4116-4101-afb8-1377e94718e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/night-market-food-festival/41a9fe20-4116-4101-afb8-1377e94718e4/shot_desktop.2eeb9a4e11.webp" width="100%" alt="Night Market Food Festival — Lantern Row Night Market, built by GLM-5.3 in ZCode"></a><br>
+<b>Lantern Row Night Market</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/night-market-food-festival?case=41a9fe20-4116-4101-afb8-1377e94718e4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -87,7 +87,7 @@ The Night Market Food Festival template is free, and its prompt and DESIGN.md ar
 Copy the prompt from this page or run npx vibefather add night-market-food-festival, replace [BRAND], [CITY], [VENUE] and [HOURS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Night Market Food Festival demo?
-The Lantern Row Night Market case was built by GLM-5.3 in ZCode; the Winter street-food market case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Winter street-food market case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Lantern Row Night Market case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Night Market Food Festival template use?
 Night Market Food Festival is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

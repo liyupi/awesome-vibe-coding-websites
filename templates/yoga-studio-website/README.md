@@ -2,7 +2,7 @@
 
 > Calm two-page yoga site with teacher portraits, a filterable weekly schedule, membership tiers and a booking modal.
 
-<a href="https://vibefather.ai/templates/yoga-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/yoga-studio-website/79fd69b8-6438-4026-aef5-4872c68a7b8f/webp.f0d1a5b334.webp" width="100%" alt="Yoga Studio Website — Calm Yoga Studio Site built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/yoga-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/yoga-studio-website/bb062395-d5bd-4c4c-ac71-7ca1530df14a/webp.fcceed2812.webp" width="100%" alt="Yoga Studio Website — Calm Yoga Studio Site built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/yoga-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A two-page website for a neighborhood yoga studio: a home page with the practice
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A two-page website for a neighborhood yoga studio: a home page with the practice
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/yoga-studio-website?case=79fd69b8-6438-4026-aef5-4872c68a7b8f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/yoga-studio-website/79fd69b8-6438-4026-aef5-4872c68a7b8f/shot_desktop.7df7928071.webp" width="100%" alt="Yoga Studio Website — Neighborhood yoga in Boulder, built by GLM-5.3 in ZCode"></a><br>
-<b>Neighborhood yoga in Boulder</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/yoga-studio-website?case=79fd69b8-6438-4026-aef5-4872c68a7b8f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/yoga-studio-website?case=bb062395-d5bd-4c4c-ac71-7ca1530df14a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/yoga-studio-website/bb062395-d5bd-4c4c-ac71-7ca1530df14a/shot_desktop.c3bbdc6e70.webp" width="100%" alt="Yoga Studio Website — Boutique yoga in Savannah, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Boutique yoga in Savannah</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/yoga-studio-website?case=bb062395-d5bd-4c4c-ac71-7ca1530df14a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/yoga-studio-website?case=79fd69b8-6438-4026-aef5-4872c68a7b8f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/yoga-studio-website/79fd69b8-6438-4026-aef5-4872c68a7b8f/shot_desktop.7df7928071.webp" width="100%" alt="Yoga Studio Website — Neighborhood yoga in Boulder, built by GLM-5.3 in ZCode"></a><br>
+<b>Neighborhood yoga in Boulder</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/yoga-studio-website?case=79fd69b8-6438-4026-aef5-4872c68a7b8f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Yoga Studio Website template is free. Its prompt and every DESIGN.md are fre
 Copy the prompt from this page or run npx vibefather add yoga-studio-website, replace [BRAND], [CITY], [STREET] and [PRACTICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Yoga Studio Website demo?
-The Neighborhood yoga in Boulder case was built by GLM-5.3 in ZCode; the Boutique yoga in Savannah case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Boutique yoga in Savannah case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Neighborhood yoga in Boulder case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Yoga Studio Website template use?
 Yoga Studio Website is a 2-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

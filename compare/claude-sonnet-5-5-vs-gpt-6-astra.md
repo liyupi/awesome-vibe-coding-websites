@@ -20,18 +20,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp" width="100%" alt="Liquid Glass Product Page built by GPT-6 Astra"></a><br><sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra · Codex</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c/shot_desktop.1d23e419e9.webp" width="100%" alt="Generative Art Studio Website built by GPT-6 Astra"></a><br><sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra · Codex</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> — <sub>A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/tidestone/b5845f86-1106-4039-b50c-5a82815cd67c/shot_desktop.3328b4e17b.webp" width="100%" alt="Boutique Hotel Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boutique-hotel-website/dda42e68-7c76-4f0a-9c76-cb41698e20e4/shot_desktop.76a7a80d1b.webp" width="100%" alt="Boutique Hotel Website built by GPT-6 Astra"></a><br><sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra · Codex</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-sonnet-5-5-vs-gpt-6-astra?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c/shot_desktop.1d23e419e9.webp" width="100%" alt="Generative Art Studio Website built by GPT-6 Astra"></a><br><sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra · Codex</sub></td>
 </tr>
 </table>
 

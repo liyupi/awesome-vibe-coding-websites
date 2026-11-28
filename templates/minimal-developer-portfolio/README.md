@@ -2,7 +2,7 @@
 
 > Minimal one-page developer portfolio with a portrait, a night-desk shot, projects, writing and open source — light and dark.
 
-<a href="https://vibefather.ai/templates/minimal-developer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/webp.06a63df210.webp" width="100%" alt="Minimal Developer Portfolio — Minimal Developer Portfolio built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/minimal-developer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/3409412e-3611-41e2-8584-a66e6901e5d4/webp.9a8e6162ee.webp" width="100%" alt="Minimal Developer Portfolio — Minimal Developer Portfolio built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/minimal-developer-portfolio?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page portfolio for a developer: an intro with name, role, a two-sentenc
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page portfolio for a developer: an intro with name, role, a two-sentenc
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio — Backend developer portfolio, built by GLM-5.3 in ZCode"></a><br>
-<b>Backend developer portfolio</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=3409412e-3611-41e2-8584-a66e6901e5d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/3409412e-3611-41e2-8584-a66e6901e5d4/shot_desktop.54a249b474.webp" width="100%" alt="Minimal Developer Portfolio — Frontend developer portfolio, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Frontend developer portfolio</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=3409412e-3611-41e2-8584-a66e6901e5d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/minimal-developer-portfolio/72edddbc-bb3f-4ba6-866f-e5c2cd78e606/shot_desktop.82491e27fc.webp" width="100%" alt="Minimal Developer Portfolio — Backend developer portfolio, built by GLM-5.3 in ZCode"></a><br>
+<b>Backend developer portfolio</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/minimal-developer-portfolio?case=72edddbc-bb3f-4ba6-866f-e5c2cd78e606&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Minimal Developer Portfolio template builds to plain static files with no ba
 Copy the prompt from this page or run npx vibefather add minimal-developer-portfolio, replace [NAME], [ROLE], [FOCUS] and [LOCATION] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Minimal Developer Portfolio demo?
-The Backend developer portfolio case was built by GLM-5.3 in ZCode; the Frontend developer portfolio case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Frontend developer portfolio case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Backend developer portfolio case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Minimal Developer Portfolio template use?
 Minimal Developer Portfolio is a single-page site built with Motion, React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

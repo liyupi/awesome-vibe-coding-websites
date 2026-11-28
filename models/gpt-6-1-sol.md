@@ -98,21 +98,21 @@
 <sub>Video music sketchpad · Codex · <a href="https://vibefather.ai/templates/ai-music-generator-landing-page?case=15acfef5-dfae-4eae-846f-b3f9fd1188b5&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page built by GPT-6.1 Sol in Codex"></a><br>
-<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
-<sub>Everyday road runner · Codex · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/9eeebc23-a058-4546-a448-b29ab1146a1e/shot_desktop.07dfe4cc49.webp" width="100%" alt="Sea Salt Brand Website built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/sea-salt-brand-website">Sea Salt Brand Website</a></b> <sup>PRO</sup><br>
 <sub>Alder Reach salt · Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=9eeebc23-a058-4546-a448-b29ab1146a1e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/sea-salt-brand-website/67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61/shot_desktop.07962048f1.webp" width="100%" alt="Sea Salt Brand Website built by GPT-6.1 Sol in Codex"></a><br>
 <b><a href="../templates/sea-salt-brand-website">Sea Salt Brand Website</a></b> <sup>PRO</sup><br>
 <sub>Bracken Inlet salt · Codex · <a href="https://vibefather.ai/templates/sea-salt-brand-website?case=67c490d9-d1f9-41ab-b1b3-cbf43fc1cc61&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model"><img src="https://media.vibefather.ai/t/running-shoe-product-launch-page/be5f8e32-5111-453d-9325-31aaa273d41c/shot_desktop.b70ad4a721.webp" width="100%" alt="Running Shoe Product Launch Page built by GPT-6.1 Sol in Codex"></a><br>
+<b><a href="../templates/running-shoe-product-launch-page">Running Shoe Product Launch Page</a></b> <sup>PRO</sup><br>
+<sub>Everyday road runner · Codex · <a href="https://vibefather.ai/templates/running-shoe-product-launch-page?case=be5f8e32-5111-453d-9325-31aaa273d41c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=model">Live demo</a></sub>
 </td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 > Interactive risograph 3D animal cell cutaway in Three.js with organelle fly-ins, live animations, and protein pathway.
 
-<a href="https://vibefather.ai/templates/3d-animal-cell-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/3d-animal-cell-explainer/9d298af3-2b58-4b68-b434-5f5074094893/webp.0fd6baf2ff.webp" width="100%" alt="3D Animal Cell Explainer — Interactive 3D Animal Cell Biology Guide built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/3d-animal-cell-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/3d-animal-cell-explainer/c5bdc96b-152b-4890-853c-db383fd155e9/webp.0800ae0ae4.webp" width="100%" alt="3D Animal Cell Explainer — Interactive 3D Animal Cell Biology Guide built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/3d-animal-cell-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A tactile, classroom-inspired biology explainer featuring a complete cutaway 3D 
 | Effects | 3d Model, Scroll Camera, Interactive Diagram |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A tactile, classroom-inspired biology explainer featuring a complete cutaway 3D 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=9d298af3-2b58-4b68-b434-5f5074094893&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-animal-cell-explainer/9d298af3-2b58-4b68-b434-5f5074094893/shot_desktop.974a33040b.webp" width="100%" alt="3D Animal Cell Explainer — Cellfolio Press · Inside the Animal Cell, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Cellfolio Press · Inside the Animal Cell</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=9d298af3-2b58-4b68-b434-5f5074094893&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=c5bdc96b-152b-4890-853c-db383fd155e9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-animal-cell-explainer/c5bdc96b-152b-4890-853c-db383fd155e9/shot_desktop.decac333b9.webp" width="100%" alt="3D Animal Cell Explainer — Biofield Studio · The Living Cell Cutaway, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Biofield Studio · The Living Cell Cutaway</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=c5bdc96b-152b-4890-853c-db383fd155e9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=9d298af3-2b58-4b68-b434-5f5074094893&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-animal-cell-explainer/9d298af3-2b58-4b68-b434-5f5074094893/shot_desktop.974a33040b.webp" width="100%" alt="3D Animal Cell Explainer — Cellfolio Press · Inside the Animal Cell, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Cellfolio Press · Inside the Animal Cell</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/3d-animal-cell-explainer?case=9d298af3-2b58-4b68-b434-5f5074094893&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Yes. The 3D Animal Cell Explainer keeps all organelle captions, scale metrics, p
 Copy the prompt from this page or run npx vibefather add 3d-animal-cell-explainer, replace [BRAND], [TITLE], [SUBTITLE] and [COURSE_TAG] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the 3D Animal Cell Explainer demo?
-The Cellfolio Press · Inside the Animal Cell case was built by Gemini 4 Neon in Antigravity; the Biofield Studio · The Living Cell Cutaway case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Biofield Studio · The Living Cell Cutaway case was built by GPT-6.2 Sol in Codex; the Cellfolio Press · Inside the Animal Cell case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Animal Cell Explainer template use?
 3D Animal Cell Explainer is a single-page site built with React, Three.js and Vite, with 3d model, scroll camera and interactive diagram. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -48,13 +48,6 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-festival-website/7d2fa76f-4f83-4c69-aba1-386bcbe506eb/shot_desktop.9d1e0fa7b3.webp" width="100%" alt="Music Festival Website built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b> — <sub>Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/bento-grid-saas-landing-page">Bento Grid SaaS Landing Page</a></b> — <sub>A warm cream bento SaaS homepage with live tiles, a working command palette and a yearly pricing switch.</sub></td>
 </tr>
 <tr>
@@ -62,11 +55,11 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/bento-grid-saas-landing-page/83055d14-8919-423e-a3c8-8dbca3b1f008/shot_desktop.7cdfe15e49.webp" width="100%" alt="Bento Grid SaaS Landing Page built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
+<td colspan="2"><b><a href="../templates/carbon-cycle-scroll-explainer">Carbon Cycle Scroll Explainer</a></b> — <sub>Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/shot_desktop.3e5ee4bbb1.webp" width="100%" alt="Generative Art Studio Website built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp" width="100%" alt="Carbon Cycle Scroll Explainer built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/boutique-hotel-website">Boutique Hotel Website</a></b> — <sub>A three-page boutique hotel site with real coastal photos, a rooms catalogue and a working booking widget.</sub></td>
@@ -74,6 +67,13 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boutique-hotel-website/00d2a3dd-1494-4691-af41-5459b63ac59f/shot_desktop.be357e04f8.webp" width="100%" alt="Boutique Hotel Website built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boutique-hotel-website/96ff3519-3cba-442f-8288-f2c6b6d50631/shot_desktop.ceffab4f15.webp" width="100%" alt="Boutique Hotel Website built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/shot_desktop.3e5ee4bbb1.webp" width="100%" alt="Generative Art Studio Website built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website built by Gemini 4 Carbon"></a><br><sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/3d-product-launch-page">3D Product Launch Page</a></b> — <sub>A dark, cinematic launch page where a code-built 3D lamp tilts and changes color as you scroll.</sub></td>

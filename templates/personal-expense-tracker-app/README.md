@@ -2,7 +2,7 @@
 
 > A true responsive mobile-first personal expense tracker PWA with keypad bottom sheet, SVG spending charts, budgets, and CSV export.
 
-<a href="https://vibefather.ai/templates/personal-expense-tracker-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-expense-tracker-app/409a061e-99ad-4031-adfc-a24eac7c8d01/webp.0ceae4b438.webp" width="100%" alt="Personal Expense Tracker App — Mobile-First Personal Expense Tracker PWA built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/personal-expense-tracker-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-expense-tracker-app/b948c723-1871-4a62-a50f-7f5a246d7e17/webp.4beeb227d8.webp" width="100%" alt="Personal Expense Tracker App — Mobile-First Personal Expense Tracker PWA built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/personal-expense-tracker-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Built as a genuinely responsive mobile-first web application rather than a stati
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Built as a genuinely responsive mobile-first web application rather than a stati
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-expense-tracker-app?case=409a061e-99ad-4031-adfc-a24eac7c8d01&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-expense-tracker-app/409a061e-99ad-4031-adfc-a24eac7c8d01/shot_desktop.389d621198.webp" width="100%" alt="Personal Expense Tracker App — Personal monthly budget tracker, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Personal monthly budget tracker</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/personal-expense-tracker-app?case=409a061e-99ad-4031-adfc-a24eac7c8d01&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-expense-tracker-app?case=b948c723-1871-4a62-a50f-7f5a246d7e17&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-expense-tracker-app/b948c723-1871-4a62-a50f-7f5a246d7e17/shot_desktop.16b05398f3.webp" width="100%" alt="Personal Expense Tracker App — Freelance studio cashflow tracker, built by GLM-5.4 in ZCode"></a><br>
 <b>Freelance studio cashflow tracker</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/personal-expense-tracker-app?case=b948c723-1871-4a62-a50f-7f5a246d7e17&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personal-expense-tracker-app?case=409a061e-99ad-4031-adfc-a24eac7c8d01&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-expense-tracker-app/409a061e-99ad-4031-adfc-a24eac7c8d01/shot_desktop.389d621198.webp" width="100%" alt="Personal Expense Tracker App — Personal monthly budget tracker, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Personal monthly budget tracker</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/personal-expense-tracker-app?case=409a061e-99ad-4031-adfc-a24eac7c8d01&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Start with the seeded data: replace the fictional transactions, recurring bills 
 Copy the prompt from this page or run npx vibefather add personal-expense-tracker-app, replace [BRAND], [USER_NAME], [MONTHLY_BUDGET] and [CURRENCY_SYMBOL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Personal Expense Tracker App demo?
-The Personal monthly budget tracker case was built by Gemini 4 Neon in Antigravity; the Freelance studio cashflow tracker case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Freelance studio cashflow tracker case was built by GLM-5.4 in ZCode; the Personal monthly budget tracker case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Personal Expense Tracker App template use?
 Personal Expense Tracker App is a single-page site built with React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

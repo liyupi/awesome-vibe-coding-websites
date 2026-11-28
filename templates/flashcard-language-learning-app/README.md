@@ -2,7 +2,7 @@
 
 > Spaced-repetition flashcard PWA with 3D flip cards, pronunciation, quiz mode, and streak stats.
 
-<a href="https://vibefather.ai/templates/flashcard-language-learning-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/flashcard-language-learning-app/798ac9db-8445-49c1-b5fc-d56c91a1d46b/webp.437e782b73.webp" width="100%" alt="Flashcard Language Learning App — Spaced-Repetition Flashcard Study PWA built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/flashcard-language-learning-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/flashcard-language-learning-app/e50ad1d4-89e7-4a35-8244-aa4cfbd5f746/webp.fc9a1f0a59.webp" width="100%" alt="Flashcard Language Learning App — Spaced-Repetition Flashcard Study PWA built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/flashcard-language-learning-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Flashcard Language Learning App is a warm, tactile spaced-repetition study PWA d
 | Effects | Page Transitions, 3D / WebGL, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Flashcard Language Learning App is a warm, tactile spaced-repetition study PWA d
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/flashcard-language-learning-app?case=798ac9db-8445-49c1-b5fc-d56c91a1d46b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/flashcard-language-learning-app/798ac9db-8445-49c1-b5fc-d56c91a1d46b/shot_desktop.e8b1470087.webp" width="100%" alt="Flashcard Language Learning App — Multilingual travel &amp; design flashcards, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Multilingual travel &amp; design flashcards</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/flashcard-language-learning-app?case=798ac9db-8445-49c1-b5fc-d56c91a1d46b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/flashcard-language-learning-app?case=e50ad1d4-89e7-4a35-8244-aa4cfbd5f746&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/flashcard-language-learning-app/e50ad1d4-89e7-4a35-8244-aa4cfbd5f746/shot_desktop.4ca19a9700.webp" width="100%" alt="Flashcard Language Learning App — Medical &amp; biology exam flashcards, built by GLM-5.4 in ZCode"></a><br>
 <b>Medical &amp; biology exam flashcards</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/flashcard-language-learning-app?case=e50ad1d4-89e7-4a35-8244-aa4cfbd5f746&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/flashcard-language-learning-app?case=798ac9db-8445-49c1-b5fc-d56c91a1d46b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/flashcard-language-learning-app/798ac9db-8445-49c1-b5fc-d56c91a1d46b/shot_desktop.e8b1470087.webp" width="100%" alt="Flashcard Language Learning App — Multilingual travel &amp; design flashcards, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Multilingual travel &amp; design flashcards</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/flashcard-language-learning-app?case=798ac9db-8445-49c1-b5fc-d56c91a1d46b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Start with the five variables: set BRAND to your study app name, LEARNER_NAME to
 Copy the prompt from this page or run npx vibefather add flashcard-language-learning-app, replace [BRAND], [LEARNER_NAME], [DAILY_GOAL] and [PRIMARY_DECK] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Flashcard Language Learning App demo?
-The Multilingual travel & design flashcards case was built by Gemini 4 Neon in Antigravity; the Medical & biology exam flashcards case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Medical & biology exam flashcards case was built by GLM-5.4 in ZCode; the Multilingual travel & design flashcards case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Flashcard Language Learning App template use?
 Flashcard Language Learning App is a single-page site built with React and Tailwind CSS, with page transitions, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > Independent advisor site with a sample retirement calculator, plain-words fee table, credentials and intro-call booking.
 
-<a href="https://vibefather.ai/templates/financial-advisor-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/financial-advisor-website/9e891b67-b342-4934-9551-2c48b7ddd7e8/webp.ce1761f8a6.webp" width="100%" alt="Financial Advisor Website — Financial Advisor with Calculator built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/financial-advisor-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/financial-advisor-website/18f66f24-5cae-4904-a153-f2da8269bff1/webp.f4caf9151e.webp" width="100%" alt="Financial Advisor Website — Financial Advisor with Calculator built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/financial-advisor-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page website for an independent financial advisor: the advisor's plain 
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/financial-advisor-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page website for an independent financial advisor: the advisor's plain 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/financial-advisor-website?case=9e891b67-b342-4934-9551-2c48b7ddd7e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/financial-advisor-website/9e891b67-b342-4934-9551-2c48b7ddd7e8/shot_desktop.cff7d75e06.webp" width="100%" alt="Financial Advisor Website — Fee-only independent advisor, built by GLM-5.3 in ZCode"></a><br>
-<b>Fee-only independent advisor</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/financial-advisor-website?case=9e891b67-b342-4934-9551-2c48b7ddd7e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/financial-advisor-website?case=18f66f24-5cae-4904-a153-f2da8269bff1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/financial-advisor-website/18f66f24-5cae-4904-a153-f2da8269bff1/shot_desktop.479be46f88.webp" width="100%" alt="Financial Advisor Website — Tax-focused advisor, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Tax-focused advisor</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/financial-advisor-website?case=18f66f24-5cae-4904-a153-f2da8269bff1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/financial-advisor-website?case=9e891b67-b342-4934-9551-2c48b7ddd7e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/financial-advisor-website/9e891b67-b342-4934-9551-2c48b7ddd7e8/shot_desktop.cff7d75e06.webp" width="100%" alt="Financial Advisor Website — Fee-only independent advisor, built by GLM-5.3 in ZCode"></a><br>
+<b>Fee-only independent advisor</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/financial-advisor-website?case=9e891b67-b342-4934-9551-2c48b7ddd7e8&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Financial Advisor Website template has a fee-transparency table written in p
 Copy the full prompt (Pro) from this page or run npx vibefather add financial-advisor-website, replace [ADVISOR], [CITY], [FOCUS] and [HOURLY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Financial Advisor Website demo?
-The Fee-only independent advisor case was built by GLM-5.3 in ZCode; the Tax-focused advisor case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Tax-focused advisor case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Fee-only independent advisor case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Financial Advisor Website template use?
 Financial Advisor Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

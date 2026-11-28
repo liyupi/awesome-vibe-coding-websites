@@ -2,7 +2,7 @@
 
 > Illustrated scroll story of the carbon cycle with live particle flows and an emissions scenario slider.
 
-<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/webp.642a39c89e.webp" width="100%" alt="Carbon Cycle Scroll Explainer — Illustrated Carbon Cycle Scroll Explainer built by Claude Opus 5.5 and Gemini 4 Carbon"></a>
+<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/webp.bf834c3bb5.webp" width="100%" alt="Carbon Cycle Scroll Explainer — Illustrated Carbon Cycle Scroll Explainer built by Gemini 4 Carbon and Claude Opus 5.5"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Carbon Cycle Scroll Explainer is a single-page science story built around one il
 | Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + vanilla TypeScript + Vanilla CSS + gsap + lucide |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Carbon Cycle Scroll Explainer is a single-page science story built around one il
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb01a183-6ea2-49da-b6d8-8cb5a4f948aa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer — The carbon cycle, built by Claude Opus 5.5 in Claude Code"></a><br>
-<b>The carbon cycle</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb01a183-6ea2-49da-b6d8-8cb5a4f948aa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb6c14f8-67fa-4e26-849e-2457046d9d6c/shot_desktop.2c6fb4deb9.webp" width="100%" alt="Carbon Cycle Scroll Explainer — The water cycle, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>The water cycle</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb6c14f8-67fa-4e26-849e-2457046d9d6c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb01a183-6ea2-49da-b6d8-8cb5a4f948aa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/shot_desktop.d6851d9e4d.webp" width="100%" alt="Carbon Cycle Scroll Explainer — The carbon cycle, built by Claude Opus 5.5 in Claude Code"></a><br>
+<b>The carbon cycle</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?case=eb01a183-6ea2-49da-b6d8-8cb5a4f948aa&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -83,7 +83,7 @@ Motion in the Carbon Cycle Scroll Explainer is gated on the reader's reduced-mot
 Copy the prompt from this page or run npx vibefather add carbon-cycle-scroll-explainer, replace [BRAND], [TOPIC], [RESERVOIRS] and [FLOWS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Carbon Cycle Scroll Explainer demo?
-The The carbon cycle case was built by Claude Opus 5.5 in Claude Code; the The water cycle case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The The water cycle case was built by Gemini 4 Carbon in Cursor; the The carbon cycle case was built by Claude Opus 5.5 in Claude Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Carbon Cycle Scroll Explainer template use?
 Carbon Cycle Scroll Explainer is a single-page site built with GSAP and Plain HTML, with scroll animation, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

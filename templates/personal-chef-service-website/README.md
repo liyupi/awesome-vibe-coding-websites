@@ -2,7 +2,7 @@
 
 > Moody personal-chef site with tasting-menu cards and a per-guest pricing calculator built in.
 
-<a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/webp.74bd8cbf25.webp" width="100%" alt="Personal Chef Service Website — Personal Chef with Price Calculator built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-chef-service-website/bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f/webp.78363c27a5.webp" width="100%" alt="Personal Chef Service Website — Personal Chef with Price Calculator built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/personal-chef-service-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ Swap the chef, city, cuisine, and promise to tune the voice; menus, tiers, steps
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,14 +30,14 @@ Swap the chef, city, cuisine, and promise to tune the voice; menus, tiers, steps
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website — Mediterranean private chef (Maren Holt), built by GLM-5.3 in ZCode"></a><br>
-<b>Mediterranean private chef (Maren Holt)</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-chef-service-website?case=bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-chef-service-website/bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f/shot_desktop.6c45ba7f69.webp" width="100%" alt="Personal Chef Service Website — Kaiseki-style private chef, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Kaiseki-style private chef</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/personal-chef-service-website?case=bd5566ab-41a5-42a2-b9bd-7e9ceb2fc98f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-chef-service-website/b7ed0257-5d53-471e-a005-b1f5113f128b/shot_desktop.ffcc9a839c.webp" width="100%" alt="Personal Chef Service Website — Mediterranean private chef (Maren Holt), built by GLM-5.3 in ZCode"></a><br>
+<b>Mediterranean private chef (Maren Holt)</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/personal-chef-service-website?case=b7ed0257-5d53-471e-a005-b1f5113f128b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -87,7 +87,7 @@ The Personal Chef Service Website template is a one-page site with a candlelit h
 Copy the prompt from this page or run npx vibefather add personal-chef-service-website, replace [BRAND], [CITY], [CUISINE] and [PROMISE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Personal Chef Service Website demo?
-The Mediterranean private chef (Maren Holt) case was built by GLM-5.3 in ZCode; the Kaiseki-style private chef case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Kaiseki-style private chef case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Mediterranean private chef (Maren Holt) case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Personal Chef Service Website template use?
 Personal Chef Service Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

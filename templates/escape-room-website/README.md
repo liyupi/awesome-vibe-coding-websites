@@ -2,7 +2,7 @@
 
 > Cinematic escape room site with room cards, slot booking and team packages — all client-side.
 
-<a href="https://vibefather.ai/templates/escape-room-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/escape-room-website/0dca018b-154d-45ee-b2a6-d84549f501f9/webp.9801e098f4.webp" width="100%" alt="Escape Room Website — Escape Rooms with Slot Booking built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/escape-room-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/escape-room-website/79e666fc-c903-4680-8325-c132a4026339/webp.71b758d941.webp" width="100%" alt="Escape Room Website — Escape Rooms with Slot Booking built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/escape-room-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ This template builds a cinematic, single-page site for an escape room venue: nea
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ This template builds a cinematic, single-page site for an escape room venue: nea
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/escape-room-website?case=0dca018b-154d-45ee-b2a6-d84549f501f9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/escape-room-website/0dca018b-154d-45ee-b2a6-d84549f501f9/shot_desktop.2982d6e0eb.webp" width="100%" alt="Escape Room Website — Downtown escape rooms, built by GLM-5.3 in ZCode"></a><br>
-<b>Downtown escape rooms</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/escape-room-website?case=0dca018b-154d-45ee-b2a6-d84549f501f9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/escape-room-website?case=79e666fc-c903-4680-8325-c132a4026339&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/escape-room-website/79e666fc-c903-4680-8325-c132a4026339/shot_desktop.1ecc6e6ce4.webp" width="100%" alt="Escape Room Website — Ghost tour company, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Ghost tour company</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/escape-room-website?case=79e666fc-c903-4680-8325-c132a4026339&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/escape-room-website?case=0dca018b-154d-45ee-b2a6-d84549f501f9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/escape-room-website/0dca018b-154d-45ee-b2a6-d84549f501f9/shot_desktop.2982d6e0eb.webp" width="100%" alt="Escape Room Website — Downtown escape rooms, built by GLM-5.3 in ZCode"></a><br>
+<b>Downtown escape rooms</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/escape-room-website?case=0dca018b-154d-45ee-b2a6-d84549f501f9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Escape Room Website template is free. Its prompt and DESIGN.md are free for 
 Copy the prompt from this page or run npx vibefather add escape-room-website, replace [BRAND], [CITY], [SIGNATURE_ROOM] and [RATE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Escape Room Website demo?
-The Downtown escape rooms case was built by GLM-5.3 in ZCode; the Ghost tour company case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Ghost tour company case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Downtown escape rooms case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Escape Room Website template use?
 Escape Room Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -27,10 +27,10 @@
 <sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol · <a href="https://vibefather.ai/templates/3d-wooden-fish-tapping-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/3d-wooden-fish-tapping-toy/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/6f8f2e7e-c9ee-4b0f-8880-a75fd678bb0d/shot_desktop.66cfbdba8d.webp" width="100%" alt="Browser Flight Simulator Game website template — live demo built by Gemini 4 Neon, GPT-6.2 Sol and GLM-5.4"></a><br>
+<a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/browser-flight-simulator-game/7d56e1cc-5ba7-408f-91f4-4c3fe212eccd/shot_desktop.25bb054c41.webp" width="100%" alt="Browser Flight Simulator Game website template — live demo built by GLM-5.4, GPT-6.2 Sol and Gemini 4 Neon"></a><br>
 <b><a href="../templates/browser-flight-simulator-game">Browser Flight Simulator Game</a></b><br>
 <sub>An instant-play low-poly Three.js island flight game with ring courses, mail drops, scored landings, and ghost replay.</sub><br>
-<sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/browser-flight-simulator-game/prompt.md">Prompt</a></sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <a href="https://vibefather.ai/templates/browser-flight-simulator-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/browser-flight-simulator-game/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -49,10 +49,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/1c82ecb7-bd14-4672-a263-176864e35bc3/shot_desktop.2b43e074e1.webp" width="100%" alt="Voxel Sandbox Building Game website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
+<a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/voxel-sandbox-building-game/65902339-2b8a-4984-96c7-5ba3cba8bbc4/shot_desktop.b58eedda83.webp" width="100%" alt="Voxel Sandbox Building Game website template — live demo built by GPT-6.2 Sol and Gemini 4 Neon"></a><br>
 <b><a href="../templates/voxel-sandbox-building-game">Voxel Sandbox Building Game</a></b><br>
 <sub>An original pastel-candy Three.js voxel sandbox opening on a sunset lakeside village with 12 materials and region copy-paste.</sub><br>
-<sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/voxel-sandbox-building-game/prompt.md">Prompt</a></sub>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <a href="https://vibefather.ai/templates/voxel-sandbox-building-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/voxel-sandbox-building-game/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/spinning-hexagon-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/spinning-hexagon-physics-toy/ed16549f-37fa-48ef-96b9-ff891fae0504/shot_desktop.6cc044608d.webp" width="100%" alt="Spinning Hexagon Physics Toy website template — live demo built by GPT-6.1 Sol and GLM-5.3"></a><br>
@@ -63,10 +63,10 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/f6c7f3cf-3fe4-46b6-ad4c-66ea6694496b/shot_desktop.4ffd6302fd.webp" width="100%" alt="Sorting Algorithms Visualizer website template — live demo built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a><br>
+<a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/sorting-algorithms-visualizer/40ef5a2a-8c8c-4fa4-b215-cc9ea14eec89/shot_desktop.bd391f09f9.webp" width="100%" alt="Sorting Algorithms Visualizer website template — live demo built by Gemini 4 Carbon, Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
 <b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b><br>
 <sub>Step through five sorting algorithms on a live bar stage, then race any two on the same array.</sub><br>
-<sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sorting-algorithms-visualizer/prompt.md">Prompt</a></sub>
+<sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon · <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/sorting-algorithms-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/sorting-algorithms-visualizer/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/virtual-pet-companion?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/virtual-pet-companion/a2c27a78-f8c4-45bc-b368-d5668767ab28/shot_desktop.6c453759a7.webp" width="100%" alt="Virtual Pet Companion website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
@@ -77,58 +77,30 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/interactive-synth-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-synth-web-toy/58b0d596-64c6-4ab4-8213-d577a8fe4c23/shot_desktop.06115fd807.webp" width="100%" alt="Interactive Synth Web Toy website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
-<b><a href="../templates/interactive-synth-web-toy">Interactive Synth Web Toy</a></b><br>
-<sub>A playable neon browser synth with a 16-step sequencer, live scope and patterns that share as a link.</sub><br>
-<sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/interactive-synth-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-synth-web-toy/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fireworks-show-maker?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/fireworks-show-maker/dc008a9a-7ae1-4a33-ae48-819de7e743e8/shot_desktop.39d36b7dc2.webp" width="100%" alt="Fireworks Show Maker website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/fireworks-show-maker">Fireworks Show Maker</a></b><br>
 <sub>Compose, preview, and share a luminous fireworks show above an original city skyline.</sub><br>
 <sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/fireworks-show-maker?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/fireworks-show-maker/prompt.md">Prompt</a></sub>
 </td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/interactive-synth-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-synth-web-toy/58b0d596-64c6-4ab4-8213-d577a8fe4c23/shot_desktop.06115fd807.webp" width="100%" alt="Interactive Synth Web Toy website template — live demo built by Claude Opus 5.5 and Claude Sonnet 5.5"></a><br>
+<b><a href="../templates/interactive-synth-web-toy">Interactive Synth Web Toy</a></b><br>
+<sub>A playable neon browser synth with a 16-step sequencer, live scope and patterns that share as a link.</sub><br>
+<sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/interactive-synth-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-synth-web-toy/prompt.md">Prompt</a></sub>
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/music-audio-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/music-audio-visualizer/815af05d-90d7-46d6-86c8-24c1b04f88de/shot_desktop.ad4bf2a8b9.webp" width="100%" alt="Music Audio Visualizer website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/music-audio-visualizer">Music Audio Visualizer</a></b><br>
-<sub>Reactive Three.js 3D audio visualizer with built-in Web Audio synth track, mic input, 5 beat-reactive scenes, band mixer, and PNG capture.</sub><br>
-<sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <a href="https://vibefather.ai/templates/music-audio-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/music-audio-visualizer/prompt.md">Prompt</a></sub>
-</td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/jelly-squish-physics-toy/670172d8-dc9f-4e27-83f7-7045f2a9caf1/shot_desktop.6b708df451.webp" width="100%" alt="Jelly Squish Physics Toy website template — live demo built by GPT-6.1 Sol"></a><br>
 <b><a href="../templates/jelly-squish-physics-toy">Jelly Squish Physics Toy</a></b><br>
 <sub>Poke, pull, and drop a glossy jelly with springy physics and a soft little squelch.</sub><br>
 <sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.1 Sol · <a href="https://vibefather.ai/templates/jelly-squish-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/jelly-squish-physics-toy/prompt.md">Prompt</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/falling-sand-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/falling-sand-physics-toy/93f06f81-788b-471b-85e8-d1570cc16500/shot_desktop.9c21c18818.webp" width="100%" alt="Falling Sand Physics Toy website template — live demo built by Gemini 4 Neon and GPT-6.2 Sol"></a><br>
-<b><a href="../templates/falling-sand-physics-toy">Falling Sand Physics Toy</a></b><br>
-<sub>Paint with 16 interacting elements at 60fps: lava, water, fire, plants, acid, ice, cloners, thermal heatmap view, and shareable scenes.</sub><br>
-<sub><img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <a href="https://vibefather.ai/templates/falling-sand-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/falling-sand-physics-toy/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/constellation-story-map/474c16c5-a9cf-4409-9d3e-befcbae59603/shot_desktop.69d41d47e7.webp" width="100%" alt="Constellation Story Map website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/constellation-story-map">Constellation Story Map</a></b><br>
-<sub>Drag through an illustrated night, trace old myths, and connect a constellation of your own.</sub><br>
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/constellation-story-map/prompt.md">Prompt</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/live-shopping-stream-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/live-shopping-stream-page/26790cec-6201-43f3-9135-9713d6cd85ec/shot_desktop.5c8627191f.webp" width="100%" alt="Live Shopping Stream Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/live-shopping-stream-page">Live Shopping Stream Page</a></b><br>
-<sub>A cinematic live-shopping simulation with timed products, audience chat, coupons and a working cart.</sub><br>
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/live-shopping-stream-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/live-shopping-stream-page/prompt.md">Prompt</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/anime-character-run-cycle-showcase/86bdf988-a1d2-4948-9876-e05d189ef61d/shot_desktop.badaff9ae8.webp" width="100%" alt="Anime Character Run Cycle Showcase website template — live demo built by Grok 4.7"></a><br>
-<b><a href="../templates/anime-character-run-cycle-showcase">Anime Character Run Cycle Showcase</a></b><br>
-<sub>A toon-shaded runner loops one stride on a stage you can pause, scrub and orbit.</sub><br>
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 · <a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/anime-character-run-cycle-showcase/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/music-audio-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/music-audio-visualizer/6b44b8bd-118d-4a64-8bb3-681074957785/shot_desktop.1fdc846c12.webp" width="100%" alt="Music Audio Visualizer website template — live demo built by GPT-6.2 Sol and Gemini 4 Neon"></a><br>
+<b><a href="../templates/music-audio-visualizer">Music Audio Visualizer</a></b><br>
+<sub>Reactive Three.js 3D audio visualizer with built-in Web Audio synth track, mic input, 5 beat-reactive scenes, band mixer, and PNG capture.</sub><br>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <a href="https://vibefather.ai/templates/music-audio-visualizer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/music-audio-visualizer/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
@@ -139,24 +111,52 @@
 <sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · <a href="https://vibefather.ai/templates/koi-pond-web-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/koi-pond-web-toy/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/lo-fi-room-ambience-mixer/7dc34230-9e80-4337-96e3-88603926f8bf/shot_desktop.a1f2d94a10.webp" width="100%" alt="Lo-fi Room Ambience Mixer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/lo-fi-room-ambience-mixer">Lo-fi Room Ambience Mixer</a></b><br>
-<sub>Mix rain, fire, café murmur, vinyl, and birds in a cozy room that responds to every slider.</sub><br>
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/lo-fi-room-ambience-mixer/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/constellation-story-map/474c16c5-a9cf-4409-9d3e-befcbae59603/shot_desktop.69d41d47e7.webp" width="100%" alt="Constellation Story Map website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/constellation-story-map">Constellation Story Map</a></b><br>
+<sub>Drag through an illustrated night, trace old myths, and connect a constellation of your own.</sub><br>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/constellation-story-map?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/constellation-story-map/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personality-quiz-funnel-page/fb03588a-8416-40f4-bf26-f74ef03467b2/shot_desktop.e8d5202413.webp" width="100%" alt="Personality Quiz Funnel Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
-<b><a href="../templates/personality-quiz-funnel-page">Personality Quiz Funnel Page</a></b><br>
-<sub>An editorial eight-question quiz with personal results and an email-gated report finale.</sub><br>
-<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personality-quiz-funnel-page/prompt.md">Prompt</a></sub>
+<a href="https://vibefather.ai/templates/falling-sand-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/falling-sand-physics-toy/4c30de54-9132-4e54-b496-75065373cd98/shot_desktop.8b03353567.webp" width="100%" alt="Falling Sand Physics Toy website template — live demo built by GPT-6.2 Sol and Gemini 4 Neon"></a><br>
+<b><a href="../templates/falling-sand-physics-toy">Falling Sand Physics Toy</a></b><br>
+<sub>Paint with 16 interacting elements at 60fps: lava, water, fire, plants, acid, ice, cloners, thermal heatmap view, and shareable scenes.</sub><br>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol · <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon · <a href="https://vibefather.ai/templates/falling-sand-physics-toy?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/falling-sand-physics-toy/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/live-shopping-stream-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/live-shopping-stream-page/26790cec-6201-43f3-9135-9713d6cd85ec/shot_desktop.5c8627191f.webp" width="100%" alt="Live Shopping Stream Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/live-shopping-stream-page">Live Shopping Stream Page</a></b><br>
+<sub>A cinematic live-shopping simulation with timed products, audience chat, coupons and a working cart.</sub><br>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/live-shopping-stream-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/live-shopping-stream-page/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/anime-character-run-cycle-showcase/86bdf988-a1d2-4948-9876-e05d189ef61d/shot_desktop.badaff9ae8.webp" width="100%" alt="Anime Character Run Cycle Showcase website template — live demo built by Grok 4.7"></a><br>
+<b><a href="../templates/anime-character-run-cycle-showcase">Anime Character Run Cycle Showcase</a></b><br>
+<sub>A toon-shaded runner loops one stride on a stage you can pause, scrub and orbit.</sub><br>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/grok.svg"><img src="https://vibefather.ai/icons/tools/grok.svg" width="12" height="12" alt=""></picture>&nbsp;Grok 4.7 · <a href="https://vibefather.ai/templates/anime-character-run-cycle-showcase?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/anime-character-run-cycle-showcase/prompt.md">Prompt</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/interactive-3d-stream-diorama/90bc9ccc-83e1-4d5b-8a38-5a5a30a7103f/shot_desktop.fe90e1314d.webp" width="100%" alt="Interactive 3D Stream Diorama website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
 <b><a href="../templates/interactive-3d-stream-diorama">Interactive 3D Stream Diorama</a></b><br>
 <sub>Orbit a living stream, shape its ripples, and shift the light from day to night.</sub><br>
 <sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-3d-stream-diorama?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/interactive-3d-stream-diorama/prompt.md">Prompt</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/lo-fi-room-ambience-mixer/7dc34230-9e80-4337-96e3-88603926f8bf/shot_desktop.a1f2d94a10.webp" width="100%" alt="Lo-fi Room Ambience Mixer website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/lo-fi-room-ambience-mixer">Lo-fi Room Ambience Mixer</a></b><br>
+<sub>Mix rain, fire, café murmur, vinyl, and birds in a cozy room that responds to every slider.</sub><br>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/lo-fi-room-ambience-mixer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/lo-fi-room-ambience-mixer/prompt.md">Prompt</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types"><img src="https://media.vibefather.ai/t/personality-quiz-funnel-page/fb03588a-8416-40f4-bf26-f74ef03467b2/shot_desktop.e8d5202413.webp" width="100%" alt="Personality Quiz Funnel Page website template — live demo built by Kimi K3.1 Pro and DeepSeek V4.1 Flash"></a><br>
+<b><a href="../templates/personality-quiz-funnel-page">Personality Quiz Funnel Page</a></b><br>
+<sub>An editorial eight-question quiz with personal results and an email-gated report finale.</sub><br>
+<sub><picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro · <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/personality-quiz-funnel-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=types">Live demo</a> · <a href="../templates/personality-quiz-funnel-page/prompt.md">Prompt</a></sub>
 </td>
 </tr>
 <tr>

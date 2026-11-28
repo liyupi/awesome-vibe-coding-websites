@@ -2,7 +2,7 @@
 
 > A warm plum-and-brass music school site with a lesson finder that matches teachers, and a practice tracker that sticks.
 
-<a href="https://vibefather.ai/templates/music-lessons-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/music-lessons-school-website/aa2e31cb-14b9-4c73-bf9e-58f055853b56/webp.e329a128d2.webp" width="100%" alt="Music Lessons School Website — Music School Site with Lesson Finder built by GLM-5.3 and Kimi K3.1 Pro"></a>
+<a href="https://vibefather.ai/templates/music-lessons-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/music-lessons-school-website/65401d9a-cd56-45d1-a20f-66a2857ba154/webp.2205c74e79.webp" width="100%" alt="Music Lessons School Website — Music School Site with Lesson Finder built by Kimi K3.1 Pro and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/music-lessons-school-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Music Lessons School Website is a single-page site for a neighborhood music scho
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Music Lessons School Website is a single-page site for a neighborhood music scho
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/music-lessons-school-website?case=aa2e31cb-14b9-4c73-bf9e-58f055853b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-lessons-school-website/aa2e31cb-14b9-4c73-bf9e-58f055853b56/shot_desktop.468a769b5c.webp" width="100%" alt="Music Lessons School Website — Music school, Birchwood, built by GLM-5.3 in ZCode"></a><br>
-<b>Music school, Birchwood</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/music-lessons-school-website?case=aa2e31cb-14b9-4c73-bf9e-58f055853b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/music-lessons-school-website?case=65401d9a-cd56-45d1-a20f-66a2857ba154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-lessons-school-website/65401d9a-cd56-45d1-a20f-66a2857ba154/shot_desktop.a3cbd38306.webp" width="100%" alt="Music Lessons School Website — Music academy, Foxhollow, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Music academy, Foxhollow</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/music-lessons-school-website?case=65401d9a-cd56-45d1-a20f-66a2857ba154&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/music-lessons-school-website?case=aa2e31cb-14b9-4c73-bf9e-58f055853b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/music-lessons-school-website/aa2e31cb-14b9-4c73-bf9e-58f055853b56/shot_desktop.468a769b5c.webp" width="100%" alt="Music Lessons School Website — Music school, Birchwood, built by GLM-5.3 in ZCode"></a><br>
+<b>Music school, Birchwood</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/music-lessons-school-website?case=aa2e31cb-14b9-4c73-bf9e-58f055853b56&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Music Lessons School Website template suits any small teaching business that
 Copy the prompt from this page or run npx vibefather add music-lessons-school-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Music Lessons School Website demo?
-The Music school, Birchwood case was built by GLM-5.3 in ZCode; the Music academy, Foxhollow case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Music academy, Foxhollow case was built by Kimi K3.1 Pro in Kimi Code; the Music school, Birchwood case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Music Lessons School Website template use?
 Music Lessons School Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

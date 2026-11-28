@@ -2,7 +2,7 @@
 
 > Interactive racing driver site with a draggable 3D helmet morphing across 3 season liveries, globe calendar, and live lap telemetry.
 
-<a href="https://vibefather.ai/templates/racing-driver-personal-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/racing-driver-personal-website/6152aaa5-b528-4309-b8fd-a7f3b97f9041/webp.97e75531c4.webp" width="100%" alt="Racing Driver Personal Website — Interactive 3D Helmet Racing Driver Site built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/racing-driver-personal-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/racing-driver-personal-website/0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d/webp.63a3d7e060.webp" width="100%" alt="Racing Driver Personal Website — Interactive 3D Helmet Racing Driver Site built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/racing-driver-personal-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ An editorial, gesture-driven personal brand website for a fictional young racing
 | Effects | 3D / WebGL, Scroll Scrub |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/racing-driver-personal-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ An editorial, gesture-driven personal brand website for a fictional young racing
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/racing-driver-personal-website?case=6152aaa5-b528-4309-b8fd-a7f3b97f9041&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/racing-driver-personal-website/6152aaa5-b528-4309-b8fd-a7f3b97f9041/shot_desktop.7c5e9a1ded.webp" width="100%" alt="Racing Driver Personal Website — Kaelen Vance #47 (Voltara Motorsport), built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Kaelen Vance #47 (Voltara Motorsport)</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=6152aaa5-b528-4309-b8fd-a7f3b97f9041&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/racing-driver-personal-website/0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d/shot_desktop.4882954d65.webp" width="100%" alt="Racing Driver Personal Website — Tomasz Lind #19 (Nordring Racing), built by GPT-6.2 Sol in Codex"></a><br>
 <b>Tomasz Lind #19 (Nordring Racing)</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=0b4f34d2-c75f-4aaf-bef6-5e4a04f3c94d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/racing-driver-personal-website?case=6152aaa5-b528-4309-b8fd-a7f3b97f9041&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/racing-driver-personal-website/6152aaa5-b528-4309-b8fd-a7f3b97f9041/shot_desktop.7c5e9a1ded.webp" width="100%" alt="Racing Driver Personal Website — Kaelen Vance #47 (Voltara Motorsport), built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Kaelen Vance #47 (Voltara Motorsport)</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/racing-driver-personal-website?case=6152aaa5-b528-4309-b8fd-a7f3b97f9041&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Racing Driver Personal Website template includes a Replica Helmet and Merch 
 Copy the full prompt (Pro) from this page or run npx vibefather add racing-driver-personal-website, replace [DRIVER_NAME], [CAR_NUMBER], [TEAM_NAME] and [SERIES_NAME] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Racing Driver Personal Website demo?
-The Kaelen Vance #47 (Voltara Motorsport) case was built by Gemini 4 Neon in Antigravity; the Tomasz Lind #19 (Nordring Racing) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Tomasz Lind #19 (Nordring Racing) case was built by GPT-6.2 Sol in Codex; the Kaelen Vance #47 (Voltara Motorsport) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Racing Driver Personal Website template use?
 Racing Driver Personal Website is a single-page site built with React, Three.js, Vite and Webgl, with 3d / webgl and scroll scrub. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

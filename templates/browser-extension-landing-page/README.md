@@ -2,7 +2,7 @@
 
 > Workshop-dark extension page with an animated code-drawn browser mockup, feature trio, privacy manifesto and drawn install buttons.
 
-<a href="https://vibefather.ai/templates/browser-extension-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/browser-extension-landing-page/40135812-f117-4a8b-8bea-6a9a5c2bc587/webp.d501050bad.webp" width="100%" alt="Browser Extension Landing Page — Extension Page with Browser Mockup built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/browser-extension-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/browser-extension-landing-page/6b408dfc-8074-4044-a6d6-ad77fbf9bb45/webp.aa2eb8d049.webp" width="100%" alt="Browser Extension Landing Page — Extension Page with Browser Mockup built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/browser-extension-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page site that launches one browser extension: a hero anchored by a CSS
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page site that launches one browser extension: a hero anchored by a CSS
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/browser-extension-landing-page?case=40135812-f117-4a8b-8bea-6a9a5c2bc587&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/browser-extension-landing-page/40135812-f117-4a8b-8bea-6a9a5c2bc587/shot_desktop.73511c738f.webp" width="100%" alt="Browser Extension Landing Page — Reading-mode extension, built by GLM-5.3 in ZCode"></a><br>
-<b>Reading-mode extension</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/browser-extension-landing-page?case=40135812-f117-4a8b-8bea-6a9a5c2bc587&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/browser-extension-landing-page?case=6b408dfc-8074-4044-a6d6-ad77fbf9bb45&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/browser-extension-landing-page/6b408dfc-8074-4044-a6d6-ad77fbf9bb45/shot_desktop.617726b68c.webp" width="100%" alt="Browser Extension Landing Page — Tab manager extension, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Tab manager extension</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/browser-extension-landing-page?case=6b408dfc-8074-4044-a6d6-ad77fbf9bb45&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/browser-extension-landing-page?case=40135812-f117-4a8b-8bea-6a9a5c2bc587&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/browser-extension-landing-page/40135812-f117-4a8b-8bea-6a9a5c2bc587/shot_desktop.73511c738f.webp" width="100%" alt="Browser Extension Landing Page — Reading-mode extension, built by GLM-5.3 in ZCode"></a><br>
+<b>Reading-mode extension</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/browser-extension-landing-page?case=40135812-f117-4a8b-8bea-6a9a5c2bc587&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ Start with the content file: set BRAND, JOB and SHORTCUT, then rewrite the H1, t
 Copy the prompt from this page or run npx vibefather add browser-extension-landing-page, replace [BRAND], [JOB] and [SHORTCUT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Browser Extension Landing Page demo?
-The Reading-mode extension case was built by GLM-5.3 in ZCode; the Tab manager extension case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Tab manager extension case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Reading-mode extension case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Browser Extension Landing Page template use?
 Browser Extension Landing Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

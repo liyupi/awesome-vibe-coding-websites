@@ -90,13 +90,6 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-festival-website/a0e2ad30-e1dd-4963-a051-0f24e9543ff7/shot_desktop.bbf4782939.webp" width="100%" alt="Music Festival Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Claude Code</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/shot_desktop.3e5ee4bbb1.webp" width="100%" alt="Generative Art Studio Website built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/physics-playground-landing-page">Physics Playground Landing Page</a></b> — <sub>A design tool landing page whose headline letters and UI chips fall, stack and fly when you grab them.</sub></td>
 </tr>
 <tr>
@@ -109,6 +102,13 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/boutique-hotel-website/00d2a3dd-1494-4691-af41-5459b63ac59f/shot_desktop.be357e04f8.webp" width="100%" alt="Boutique Hotel Website built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Cursor</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/tidestone/b5845f86-1106-4039-b50c-5a82815cd67c/shot_desktop.3328b4e17b.webp" width="100%" alt="Boutique Hotel Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/generative-art-studio-website">Generative Art Studio Website</a></b> — <sub>A studio site where every background is seeded code, with a live gallery and a framed print shop.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/shot_desktop.3e5ee4bbb1.webp" width="100%" alt="Generative Art Studio Website built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/infinite-canvas-moodboard">Infinite Canvas Moodboard</a></b> — <sub>A studio table you can pan, zoom and rearrange: boards, notes and swatches that move like real paper.</sub></td>
@@ -132,6 +132,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/ai-agent-startup-landing-page/2e6396f1-38a0-49a9-b648-8ccc1197f2f5/shot_desktop.4c0ac456ba.webp" width="100%" alt="AI Agent Startup Landing Page built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Claude Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/how-the-internet-works-explainer">How the Internet Works Explainer</a></b> — <sub>Follow one web request from laptop to server and back in seven scroll scenes, each with a hands-on control.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/21de6634-1fcc-4e2b-afdc-737b5e339799/shot_desktop.2bb06ac656.webp" width="100%" alt="How the Internet Works Explainer built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/52f411f9-da8c-475b-b65b-45ce35470384/shot_desktop.85379ff973.webp" width="100%" alt="How the Internet Works Explainer built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/sorting-algorithms-visualizer">Sorting Algorithms Visualizer</a></b> — <sub>Step through five sorting algorithms on a live bar stage, then race any two on the same array.</sub></td>
 </tr>
 <tr>
@@ -153,25 +160,18 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-human-heart-works/65ef426f-9f72-4f45-8338-84b4b54c9fec/shot_desktop.dfe6c2fa94.webp" width="100%" alt="How the Human Heart Works built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
 </tr>
 <tr>
-<td colspan="2"><b><a href="../templates/music-theory-interactive-lesson">Music Theory Interactive Lesson</a></b> — <sub>Press a key, hear the interval, watch the theory light up: a playable lesson on one long page.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/af0603c9-6944-49b1-a393-b071ab0ea5ca/shot_desktop.28b8e07783.webp" width="100%" alt="Music Theory Interactive Lesson built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/38377d38-e8ed-461d-be34-647da90d5d68/shot_desktop.793ad02847.webp" width="100%" alt="Music Theory Interactive Lesson built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/how-the-internet-works-explainer">How the Internet Works Explainer</a></b> — <sub>Follow one web request from laptop to server and back in seven scroll scenes, each with a hands-on control.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/21de6634-1fcc-4e2b-afdc-737b5e339799/shot_desktop.2bb06ac656.webp" width="100%" alt="How the Internet Works Explainer built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-the-internet-works-explainer/52f411f9-da8c-475b-b65b-45ce35470384/shot_desktop.85379ff973.webp" width="100%" alt="How the Internet Works Explainer built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
-</tr>
-<tr>
 <td colspan="2"><b><a href="../templates/startup-pitch-deck-website">Startup Pitch Deck Website</a></b> — <sub>A 12-slide investor deck as a website: keyboard and swipe slides, live charts, presenter notes, PDF print.</sub></td>
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/startup-pitch-deck-website/71004dcd-1792-4e38-b493-83be9a119b89/shot_desktop.ac1bb15bce.webp" width="100%" alt="Startup Pitch Deck Website built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/startup-pitch-deck-website/11e95ed0-caa5-4cbe-b4ad-a7fe998423cf/shot_desktop.d01455156e.webp" width="100%" alt="Startup Pitch Deck Website built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Claude Code</sub></td>
+</tr>
+<tr>
+<td colspan="2"><b><a href="../templates/music-theory-interactive-lesson">Music Theory Interactive Lesson</a></b> — <sub>Press a key, hear the interval, watch the theory light up: a playable lesson on one long page.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/af0603c9-6944-49b1-a393-b071ab0ea5ca/shot_desktop.28b8e07783.webp" width="100%" alt="Music Theory Interactive Lesson built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/music-theory-interactive-lesson/38377d38-e8ed-461d-be34-647da90d5d68/shot_desktop.793ad02847.webp" width="100%" alt="Music Theory Interactive Lesson built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Cursor</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/interactive-synth-web-toy">Interactive Synth Web Toy</a></b> — <sub>A playable neon browser synth with a 16-step sequencer, live scope and patterns that share as a link.</sub></td>
@@ -195,6 +195,13 @@
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/product-launch-keynote-slides/c50393d5-08e3-4844-99f6-641d92df7981/shot_desktop.23e337081e.webp" width="100%" alt="Product Launch Keynote Slides built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Claude Code</sub></td>
 </tr>
 <tr>
+<td colspan="2"><b><a href="../templates/annual-report-data-story">Annual Report Data Story</a></b> — <sub>A scrolling annual report with count-up numbers, charts that draw themselves and a dot-grid office map.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/358dff4a-4625-4046-8601-4e6d1fe10b5e/shot_desktop.e88877d996.webp" width="100%" alt="Annual Report Data Story built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
+<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/53661be3-9259-42a3-a6e2-f280aa2c5f20/shot_desktop.11f7c3fd05.webp" width="100%" alt="Annual Report Data Story built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Claude Code</sub></td>
+</tr>
+<tr>
 <td colspan="2"><b><a href="../templates/compound-interest-interactive-explainer">Compound Interest Interactive Explainer</a></b> — <sub>A calm, scroll-driven explainer where three sliders redraw a live chart of deposits versus compound interest.</sub></td>
 </tr>
 <tr>
@@ -207,13 +214,6 @@
 <tr>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/06ce9f05-3be3-4785-9d7d-b3f828de0d42/shot_desktop.a2582aaa21.webp" width="100%" alt="How Large Language Models Work built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
 <td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/how-large-language-models-work/a9e9d1f1-f3ec-483c-9d84-aadf37fce515/shot_desktop.961761ed90.webp" width="100%" alt="How Large Language Models Work built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Claude Code</sub></td>
-</tr>
-<tr>
-<td colspan="2"><b><a href="../templates/annual-report-data-story">Annual Report Data Story</a></b> — <sub>A scrolling annual report with count-up numbers, charts that draw themselves and a dot-grid office map.</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/358dff4a-4625-4046-8601-4e6d1fe10b5e/shot_desktop.e88877d996.webp" width="100%" alt="Annual Report Data Story built by Claude Opus 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 · Claude Code</sub></td>
-<td width="50%" valign="top"><a href="https://vibefather.ai/compare/claude-opus-5-5-vs-claude-sonnet-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=compare"><img src="https://media.vibefather.ai/t/annual-report-data-story/53661be3-9259-42a3-a6e2-f280aa2c5f20/shot_desktop.11f7c3fd05.webp" width="100%" alt="Annual Report Data Story built by Claude Sonnet 5.5"></a><br><sub><img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 · Claude Code</sub></td>
 </tr>
 <tr>
 <td colspan="2"><b><a href="../templates/editorial-law-firm-website">Editorial Law Firm Website</a></b> — <sub>Editorial two-page law firm site: big serif type, case results in figures and a multi-step intake form.</sub></td>

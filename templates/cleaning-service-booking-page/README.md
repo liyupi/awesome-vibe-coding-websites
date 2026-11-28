@@ -2,7 +2,7 @@
 
 > Home cleaning booking page with a live price calculator (rooms, frequency, add-ons), checklist, date picker and client-side booking.
 
-<a href="https://vibefather.ai/templates/cleaning-service-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/cleaning-service-booking-page/558aa9e8-f7a4-4f02-baa2-6fe98feb2d66/webp.809bed58a8.webp" width="100%" alt="Cleaning Service Booking Page — Cleaning Page with Price Calculator built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/cleaning-service-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/cleaning-service-booking-page/c38f583c-1425-4fdb-a433-122a51a6a5b2/webp.2ed4a0be27.webp" width="100%" alt="Cleaning Service Booking Page — Cleaning Page with Price Calculator built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/cleaning-service-booking-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page booking site for a home cleaning service: the calculator is the ce
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page booking site for a home cleaning service: the calculator is the ce
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=558aa9e8-f7a4-4f02-baa2-6fe98feb2d66&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cleaning-service-booking-page/558aa9e8-f7a4-4f02-baa2-6fe98feb2d66/shot_desktop.1ce3ff4711.webp" width="100%" alt="Cleaning Service Booking Page — Home cleaning crew, built by GLM-5.3 in ZCode"></a><br>
-<b>Home cleaning crew</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=558aa9e8-f7a4-4f02-baa2-6fe98feb2d66&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=c38f583c-1425-4fdb-a433-122a51a6a5b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cleaning-service-booking-page/c38f583c-1425-4fdb-a433-122a51a6a5b2/shot_desktop.a29c70f6a7.webp" width="100%" alt="Cleaning Service Booking Page — Office cleaning crew, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Office cleaning crew</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=c38f583c-1425-4fdb-a433-122a51a6a5b2&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=558aa9e8-f7a4-4f02-baa2-6fe98feb2d66&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/cleaning-service-booking-page/558aa9e8-f7a4-4f02-baa2-6fe98feb2d66/shot_desktop.1ce3ff4711.webp" width="100%" alt="Cleaning Service Booking Page — Home cleaning crew, built by GLM-5.3 in ZCode"></a><br>
+<b>Home cleaning crew</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/cleaning-service-booking-page?case=558aa9e8-f7a4-4f02-baa2-6fe98feb2d66&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Cleaning Service Booking Page pattern suits any per-visit home service. The 
 Copy the prompt from this page or run npx vibefather add cleaning-service-booking-page, replace [BRAND], [CITY], [BASE] and [FOCUS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Cleaning Service Booking Page demo?
-The Home cleaning crew case was built by GLM-5.3 in ZCode; the Office cleaning crew case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Office cleaning crew case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Home cleaning crew case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Cleaning Service Booking Page template use?
 Cleaning Service Booking Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

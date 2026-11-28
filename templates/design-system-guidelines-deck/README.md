@@ -2,7 +2,7 @@
 
 > Swiss 12-slide design system deck with click-to-copy color tokens, live type scale, and motion curves.
 
-<a href="https://vibefather.ai/templates/design-system-guidelines-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/design-system-guidelines-deck/6857661f-2409-4d03-b4ef-32d95d34467c/webp.5d62201d31.webp" width="100%" alt="Design System Guidelines Deck — Swiss Interactive Design System Slide Deck built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/design-system-guidelines-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/design-system-guidelines-deck/f81b34a3-6050-4b8b-a34c-6f161f877603/webp.83f5916901.webp" width="100%" alt="Design System Guidelines Deck — Swiss Interactive Design System Slide Deck built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/design-system-guidelines-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Design System Guidelines Deck is an architectural Swiss-grid 12-slide 16:9 web p
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/design-system-guidelines-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Design System Guidelines Deck is an architectural Swiss-grid 12-slide 16:9 web p
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/design-system-guidelines-deck?case=6857661f-2409-4d03-b4ef-32d95d34467c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/design-system-guidelines-deck/6857661f-2409-4d03-b4ef-32d95d34467c/shot_desktop.cc92029d95.webp" width="100%" alt="Design System Guidelines Deck — Swiss UI design system handbook, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Swiss UI design system handbook</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/design-system-guidelines-deck?case=6857661f-2409-4d03-b4ef-32d95d34467c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/design-system-guidelines-deck?case=f81b34a3-6050-4b8b-a34c-6f161f877603&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/design-system-guidelines-deck/f81b34a3-6050-4b8b-a34c-6f161f877603/shot_desktop.4e1ef2eb2d.webp" width="100%" alt="Design System Guidelines Deck — Industrial hardware brand guidelines, built by GLM-5.4 in ZCode"></a><br>
 <b>Industrial hardware brand guidelines</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/design-system-guidelines-deck?case=f81b34a3-6050-4b8b-a34c-6f161f877603&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/design-system-guidelines-deck?case=6857661f-2409-4d03-b4ef-32d95d34467c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/design-system-guidelines-deck/6857661f-2409-4d03-b4ef-32d95d34467c/shot_desktop.cc92029d95.webp" width="100%" alt="Design System Guidelines Deck — Swiss UI design system handbook, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Swiss UI design system handbook</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/design-system-guidelines-deck?case=6857661f-2409-4d03-b4ef-32d95d34467c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ Two live demos of the Design System Guidelines Deck were built from the same pub
 Copy the full prompt (Pro) from this page or run npx vibefather add design-system-guidelines-deck, replace [BRAND], [SYSTEM_VERSION], [LEAD_AUTHOR] and [MANIFESTO] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Design System Guidelines Deck demo?
-The Swiss UI design system handbook case was built by Gemini 4 Neon in Antigravity; the Industrial hardware brand guidelines case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Industrial hardware brand guidelines case was built by GLM-5.4 in ZCode; the Swiss UI design system handbook case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Design System Guidelines Deck template use?
 Design System Guidelines Deck is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

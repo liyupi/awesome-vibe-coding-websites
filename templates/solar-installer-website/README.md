@@ -2,7 +2,7 @@
 
 > Solar installer site with a live savings calculator, financing options, project gallery and a free assessment form.
 
-<a href="https://vibefather.ai/templates/solar-installer-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/solar-installer-website/ee5e4442-edc9-45db-a261-d437dd3a7339/webp.a638b36074.webp" width="100%" alt="Solar Installer Website — Solar Site with Savings Calculator built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/solar-installer-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/solar-installer-website/62a2662f-f945-4233-b6e8-c463cf756b93/webp.061f44d48d.webp" width="100%" alt="Solar Installer Website — Solar Site with Savings Calculator built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/solar-installer-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page website for a residential solar installer: the promise over sunlit
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page website for a residential solar installer: the promise over sunlit
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/solar-installer-website?case=ee5e4442-edc9-45db-a261-d437dd3a7339&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/solar-installer-website/ee5e4442-edc9-45db-a261-d437dd3a7339/shot_desktop.c1a886fe39.webp" width="100%" alt="Solar Installer Website — Residential solar installer, built by GLM-5.3 in ZCode"></a><br>
-<b>Residential solar installer</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/solar-installer-website?case=ee5e4442-edc9-45db-a261-d437dd3a7339&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/solar-installer-website?case=62a2662f-f945-4233-b6e8-c463cf756b93&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/solar-installer-website/62a2662f-f945-4233-b6e8-c463cf756b93/shot_desktop.7305c0e1fd.webp" width="100%" alt="Solar Installer Website — Commercial solar installer, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Commercial solar installer</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/solar-installer-website?case=62a2662f-f945-4233-b6e8-c463cf756b93&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/solar-installer-website?case=ee5e4442-edc9-45db-a261-d437dd3a7339&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/solar-installer-website/ee5e4442-edc9-45db-a261-d437dd3a7339/shot_desktop.c1a886fe39.webp" width="100%" alt="Solar Installer Website — Residential solar installer, built by GLM-5.3 in ZCode"></a><br>
+<b>Residential solar installer</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/solar-installer-website?case=ee5e4442-edc9-45db-a261-d437dd3a7339&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the four variables: COMPANY, CITY, RATE and SEGMENT. Then rewrite the
 Copy the prompt from this page or run npx vibefather add solar-installer-website, replace [COMPANY], [CITY], [RATE] and [SEGMENT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Solar Installer Website demo?
-The Residential solar installer case was built by GLM-5.3 in ZCode; the Commercial solar installer case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Commercial solar installer case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Residential solar installer case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Solar Installer Website template use?
 Solar Installer Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

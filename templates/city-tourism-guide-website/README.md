@@ -2,7 +2,7 @@
 
 > A sun-bright city guide with color-block categories, day itineraries, and a browser-saved trip shortlist.
 
-<a href="https://vibefather.ai/templates/city-tourism-guide-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/city-tourism-guide-website/75d52f3e-f439-466d-8b12-bbcb66b90e20/webp.acda313b63.webp" width="100%" alt="City Tourism Guide Website — City Guide with Trip Planner built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/city-tourism-guide-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/city-tourism-guide-website/2d52b8ce-7c52-4b72-95d7-d1840e01eba3/webp.857c7d11fe.webp" width="100%" alt="City Tourism Guide Website — City Guide with Trip Planner built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/city-tourism-guide-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ City Tourism Guide Website is a magazine-bright destination guide for a fictiona
 | Effects | Scroll Animation, Marquee, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ City Tourism Guide Website is a magazine-bright destination guide for a fictiona
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/city-tourism-guide-website?case=75d52f3e-f439-466d-8b12-bbcb66b90e20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/city-tourism-guide-website/75d52f3e-f439-466d-8b12-bbcb66b90e20/shot_desktop.38eba24f3e.webp" width="100%" alt="City Tourism Guide Website — Coastal city guide, built by GLM-5.3 in ZCode"></a><br>
-<b>Coastal city guide</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/city-tourism-guide-website?case=75d52f3e-f439-466d-8b12-bbcb66b90e20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/city-tourism-guide-website?case=2d52b8ce-7c52-4b72-95d7-d1840e01eba3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/city-tourism-guide-website/2d52b8ce-7c52-4b72-95d7-d1840e01eba3/shot_desktop.7cc033c94a.webp" width="100%" alt="City Tourism Guide Website — Surf-town city guide, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Surf-town city guide</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/city-tourism-guide-website?case=2d52b8ce-7c52-4b72-95d7-d1840e01eba3&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/city-tourism-guide-website?case=75d52f3e-f439-466d-8b12-bbcb66b90e20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/city-tourism-guide-website/75d52f3e-f439-466d-8b12-bbcb66b90e20/shot_desktop.38eba24f3e.webp" width="100%" alt="City Tourism Guide Website — Coastal city guide, built by GLM-5.3 in ZCode"></a><br>
+<b>Coastal city guide</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/city-tourism-guide-website?case=75d52f3e-f439-466d-8b12-bbcb66b90e20&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the four variables and the content file, since every headline, stop, 
 Copy the prompt from this page or run npx vibefather add city-tourism-guide-website, replace [BRAND], [KNOWN_FOR], [AUDIENCE] and [SIGNATURE_EVENT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the City Tourism Guide Website demo?
-The Coastal city guide case was built by GLM-5.3 in ZCode; the Surf-town city guide case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Surf-town city guide case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Coastal city guide case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the City Tourism Guide Website template use?
 City Tourism Guide Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, marquee and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

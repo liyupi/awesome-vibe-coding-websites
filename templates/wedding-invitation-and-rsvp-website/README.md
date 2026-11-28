@@ -2,7 +2,7 @@
 
 > Single-page wedding invite with a live countdown, story timeline, day schedule, guest logistics and a client-side RSVP.
 
-<a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/wedding-invitation-and-rsvp-website/492cbcfb-25b1-46b8-b13b-8d333717a4f0/webp.bcde51bbf0.webp" width="100%" alt="Wedding Invitation and RSVP Website — Wedding Invite Site with RSVP built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/wedding-invitation-and-rsvp-website/7825d3e3-24ac-46a4-b68f-8efec5cb4629/webp.97a62e5317.webp" width="100%" alt="Wedding Invitation and RSVP Website — Wedding Invite Site with RSVP built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page wedding invitation site: the couple's names in an elegant serif ov
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page wedding invitation site: the couple's names in an elegant serif ov
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?case=492cbcfb-25b1-46b8-b13b-8d333717a4f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/wedding-invitation-and-rsvp-website/492cbcfb-25b1-46b8-b13b-8d333717a4f0/shot_desktop.7c506955a3.webp" width="100%" alt="Wedding Invitation and RSVP Website — Elena and Marcus in Hudson, built by GLM-5.3 in ZCode"></a><br>
-<b>Elena and Marcus in Hudson</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?case=492cbcfb-25b1-46b8-b13b-8d333717a4f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?case=7825d3e3-24ac-46a4-b68f-8efec5cb4629&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/wedding-invitation-and-rsvp-website/7825d3e3-24ac-46a4-b68f-8efec5cb4629/shot_desktop.b8dab4deb9.webp" width="100%" alt="Wedding Invitation and RSVP Website — Priya and James in Asheville, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Priya and James in Asheville</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?case=7825d3e3-24ac-46a4-b68f-8efec5cb4629&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?case=492cbcfb-25b1-46b8-b13b-8d333717a4f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/wedding-invitation-and-rsvp-website/492cbcfb-25b1-46b8-b13b-8d333717a4f0/shot_desktop.7c506955a3.webp" width="100%" alt="Wedding Invitation and RSVP Website — Elena and Marcus in Hudson, built by GLM-5.3 in ZCode"></a><br>
+<b>Elena and Marcus in Hudson</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/wedding-invitation-and-rsvp-website?case=492cbcfb-25b1-46b8-b13b-8d333717a4f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Wedding Invitation and RSVP Website template builds to static files in a dis
 Copy the prompt from this page or run npx vibefather add wedding-invitation-and-rsvp-website, replace [BRAND], [VENUE], [CITY] and [DATE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Wedding Invitation and RSVP Website demo?
-The Elena and Marcus in Hudson case was built by GLM-5.3 in ZCode; the Priya and James in Asheville case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Priya and James in Asheville case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Elena and Marcus in Hudson case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Wedding Invitation and RSVP Website template use?
 Wedding Invitation and RSVP Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

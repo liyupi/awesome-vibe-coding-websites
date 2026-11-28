@@ -2,7 +2,7 @@
 
 > Interactive editorial explainer with 8 procedural Three.js 3D horology figures you can orbit, scrub, explode, section-cut, and wind.
 
-<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/d7bac8fa-9340-483d-977a-dbcee0b06a21/webp.faaecf20d0.webp" width="100%" alt="How a Mechanical Watch Works — Interactive 3D Mechanical Watch Explainer built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/32916f21-39c4-49cf-8683-b5cefc549371/webp.228a1e51f3.webp" width="100%" alt="How a Mechanical Watch Works — Interactive 3D Mechanical Watch Explainer built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/how-a-mechanical-watch-works?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ An archival editorial long-read demystifying how a battery-free mechanical watch
 | Effects | Scroll Animation, 3D / WebGL, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ An archival editorial long-read demystifying how a battery-free mechanical watch
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=d7bac8fa-9340-483d-977a-dbcee0b06a21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/d7bac8fa-9340-483d-977a-dbcee0b06a21/shot_desktop.cc978f83c8.webp" width="100%" alt="How a Mechanical Watch Works — Caliber Monograph (Caliber V-08), built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Caliber Monograph (Caliber V-08)</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=d7bac8fa-9340-483d-977a-dbcee0b06a21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=32916f21-39c4-49cf-8683-b5cefc549371&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/32916f21-39c4-49cf-8683-b5cefc549371/shot_desktop.545d48c6d6.webp" width="100%" alt="How a Mechanical Watch Works — Horology Atlas (Caliber M-12), built by GPT-6.2 Sol in Codex"></a><br>
 <b>Horology Atlas (Caliber M-12)</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=32916f21-39c4-49cf-8683-b5cefc549371&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=d7bac8fa-9340-483d-977a-dbcee0b06a21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/how-a-mechanical-watch-works/d7bac8fa-9340-483d-977a-dbcee0b06a21/shot_desktop.cc978f83c8.webp" width="100%" alt="How a Mechanical Watch Works — Caliber Monograph (Caliber V-08), built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Caliber Monograph (Caliber V-08)</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/how-a-mechanical-watch-works?case=d7bac8fa-9340-483d-977a-dbcee0b06a21&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Yes. The How a Mechanical Watch Works template is an editorial explainer with 8 
 Copy the prompt from this page or run npx vibefather add how-a-mechanical-watch-works, replace [BRAND], [CALIBER_NAME], [FREQUENCY_LABEL] and [POWER_RESERVE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the How a Mechanical Watch Works demo?
-The Caliber Monograph (Caliber V-08) case was built by Gemini 4 Neon in Antigravity; the Horology Atlas (Caliber M-12) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Horology Atlas (Caliber M-12) case was built by GPT-6.2 Sol in Codex; the Caliber Monograph (Caliber V-08) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the How a Mechanical Watch Works template use?
 How a Mechanical Watch Works is a single-page site built with React, Three.js and Tailwind CSS, with scroll animation, 3d / webgl and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

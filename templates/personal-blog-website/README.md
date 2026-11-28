@@ -2,7 +2,7 @@
 
 > A typography-first Markdown personal blog with reading themes, auto TOC, footnotes, pull quotes, and 12 seeded essays.
 
-<a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-blog-website/5cf741d3-443c-4b19-85b8-a2351d79e9f0/webp.71e215a002.webp" width="100%" alt="Personal Blog Website — Typography-First Personal Markdown Blog Site built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/personal-blog-website/20aab8fd-b9ef-4201-af69-0f086f3dfe42/webp.f18a4d5428.webp" width="100%" alt="Personal Blog Website — Typography-First Personal Markdown Blog Site built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/personal-blog-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Personal Blog Website is a calm, reader-first literary journal and developer not
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 6 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Personal Blog Website is a calm, reader-first literary journal and developer not
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/personal-blog-website?case=5cf741d3-443c-4b19-85b8-a2351d79e9f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-blog-website/5cf741d3-443c-4b19-85b8-a2351d79e9f0/shot_desktop.b22e916e7a.webp" width="100%" alt="Personal Blog Website — Craft &amp; small-software journal, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Craft &amp; small-software journal</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/personal-blog-website?case=5cf741d3-443c-4b19-85b8-a2351d79e9f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/personal-blog-website?case=20aab8fd-b9ef-4201-af69-0f086f3dfe42&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-blog-website/20aab8fd-b9ef-4201-af69-0f086f3dfe42/shot_desktop.d20042b4b9.webp" width="100%" alt="Personal Blog Website — Type &amp; cycling notebook, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Type &amp; cycling notebook</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/personal-blog-website?case=20aab8fd-b9ef-4201-af69-0f086f3dfe42&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/personal-blog-website?case=5cf741d3-443c-4b19-85b8-a2351d79e9f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/personal-blog-website/5cf741d3-443c-4b19-85b8-a2351d79e9f0/shot_desktop.b22e916e7a.webp" width="100%" alt="Personal Blog Website — Craft &amp; small-software journal, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Craft &amp; small-software journal</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/personal-blog-website?case=5cf741d3-443c-4b19-85b8-a2351d79e9f0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Personal Blog Website prompt uses four variables: BRAND for the masthead tit
 Copy the prompt from this page or run npx vibefather add personal-blog-website, replace [BRAND], [AUTHOR_NAME], [LOCATION] and [BIO_LINE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Personal Blog Website demo?
-The Craft & small-software journal case was built by Gemini 4 Neon in Antigravity; the Type & cycling notebook case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Type & cycling notebook case was built by GPT-6.2 Sol in Codex; the Craft & small-software journal case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Personal Blog Website template use?
 Personal Blog Website is a 6-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

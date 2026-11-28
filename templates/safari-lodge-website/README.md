@@ -2,7 +2,7 @@
 
 > A golden-hour safari lodge site with suites gallery, day timeline and seasonal rates.
 
-<a href="https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/safari-lodge-website/14085ac1-2add-4057-b03b-83a7c24e18ca/webp.097dbe18fd.webp" width="100%" alt="Safari Lodge Website — Golden-Hour Safari Lodge with Suites Gallery built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/safari-lodge-website/c4beddcc-e093-4ae4-98f0-25fddc28572e/webp.888cfd9c4d.webp" width="100%" alt="Safari Lodge Website — Golden-Hour Safari Lodge with Suites Gallery built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page site for a high-end safari lodge, built like a film: charcoal grou
 | Effects | Scroll Animation, Parallax, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/safari-lodge-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page site for a high-end safari lodge, built like a film: charcoal grou
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/safari-lodge-website?case=14085ac1-2add-4057-b03b-83a7c24e18ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/safari-lodge-website/14085ac1-2add-4057-b03b-83a7c24e18ca/shot_desktop.84dab84837.webp" width="100%" alt="Safari Lodge Website — Safari lodge, built by GLM-5.3 in ZCode"></a><br>
-<b>Safari lodge</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/safari-lodge-website?case=14085ac1-2add-4057-b03b-83a7c24e18ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/safari-lodge-website?case=c4beddcc-e093-4ae4-98f0-25fddc28572e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/safari-lodge-website/c4beddcc-e093-4ae4-98f0-25fddc28572e/shot_desktop.8f65261e8c.webp" width="100%" alt="Safari Lodge Website — Photo safari lodge, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Photo safari lodge</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/safari-lodge-website?case=c4beddcc-e093-4ae4-98f0-25fddc28572e&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/safari-lodge-website?case=14085ac1-2add-4057-b03b-83a7c24e18ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/safari-lodge-website/14085ac1-2add-4057-b03b-83a7c24e18ca/shot_desktop.84dab84837.webp" width="100%" alt="Safari Lodge Website — Safari lodge, built by GLM-5.3 in ZCode"></a><br>
+<b>Safari lodge</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/safari-lodge-website?case=14085ac1-2add-4057-b03b-83a7c24e18ca&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the four variables: set BRAND, REGION, SUITES and RATE_FROM, then swa
 Copy the full prompt (Pro) from this page or run npx vibefather add safari-lodge-website, replace [BRAND], [REGION], [SUITES] and [RATE_FROM] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Safari Lodge Website demo?
-The Safari lodge case was built by GLM-5.3 in ZCode; the Photo safari lodge case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Photo safari lodge case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Safari lodge case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Safari Lodge Website template use?
 Safari Lodge Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, parallax and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

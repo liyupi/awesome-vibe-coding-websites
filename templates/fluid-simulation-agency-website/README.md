@@ -2,7 +2,7 @@
 
 > Interactive creative studio homepage with a live WebGL fluid hero, cutout wordmark mask, and scroll-reactive electric palettes.
 
-<a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/ff274814-e036-4323-af67-05a7fd27311b/webp.5b8c99cfb5.webp" width="100%" alt="Fluid Simulation Agency Website — Creative Agency Site with WebGL Fluid Hero built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f/webp.22a1860971.webp" width="100%" alt="Fluid Simulation Agency Website — Creative Agency Site with WebGL Fluid Hero built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A kinetic creative agency website driven by a full-viewport real-time WebGL Navi
 | Effects | Webgl Fluid, Scroll Color Shift, Cursor Reactive |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/fluid-simulation-agency-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A kinetic creative agency website driven by a full-viewport real-time WebGL Navi
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=ff274814-e036-4323-af67-05a7fd27311b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/ff274814-e036-4323-af67-05a7fd27311b/shot_desktop.a37a72775c.webp" width="100%" alt="Fluid Simulation Agency Website — KINETIK LAB (Creative Tech Studio), built by Gemini 4 Neon in Antigravity"></a><br>
-<b>KINETIK LAB (Creative Tech Studio)</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=ff274814-e036-4323-af67-05a7fd27311b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f/shot_desktop.dff1230feb.webp" width="100%" alt="Fluid Simulation Agency Website — SOLSTICE MOTION (Kinetic Brand &amp; Audio Lab), built by GPT-6.2 Sol in Codex"></a><br>
 <b>SOLSTICE MOTION (Kinetic Brand &amp; Audio Lab)</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=7ad0e959-1dd8-4918-b6c1-7de2aba2ca7f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=ff274814-e036-4323-af67-05a7fd27311b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/fluid-simulation-agency-website/ff274814-e036-4323-af67-05a7fd27311b/shot_desktop.a37a72775c.webp" width="100%" alt="Fluid Simulation Agency Website — KINETIK LAB (Creative Tech Studio), built by Gemini 4 Neon in Antigravity"></a><br>
+<b>KINETIK LAB (Creative Tech Studio)</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/fluid-simulation-agency-website?case=ff274814-e036-4323-af67-05a7fd27311b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Fluid Simulation Agency Website keeps all studio copy and project data in on
 Copy the full prompt (Pro) from this page or run npx vibefather add fluid-simulation-agency-website, replace [BRAND], [CITY], [STUDIO_TAGLINE] and [CONTACT_EMAIL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Fluid Simulation Agency Website demo?
-The KINETIK LAB (Creative Tech Studio) case was built by Gemini 4 Neon in Antigravity; the SOLSTICE MOTION (Kinetic Brand & Audio Lab) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The SOLSTICE MOTION (Kinetic Brand & Audio Lab) case was built by GPT-6.2 Sol in Codex; the KINETIK LAB (Creative Tech Studio) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Fluid Simulation Agency Website template use?
 Fluid Simulation Agency Website is a single-page site built with React, Vite and Webgl, with webgl fluid, scroll color shift and cursor reactive. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

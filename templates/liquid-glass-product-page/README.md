@@ -2,7 +2,7 @@
 
 > A liquid-glass preorder page for premium hardware: refractive panels over product photos, specs and editions.
 
-<a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/webp.e1c9a712d7.webp" width="100%" alt="Liquid Glass Product Page — Liquid Glass Product Landing Page built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon, GPT-6 Astra and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/39e4619c-9ed0-4e4a-a60e-ca611f8032ff/webp.32ea6990ac.webp" width="100%" alt="Liquid Glass Product Page — Liquid Glass Product Landing Page built by GLM-5.4, Gemini 4 Carbon, Claude Opus 5.5, GPT-6 Astra and Claude Sonnet 5.5"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ To adapt it, change the brand, product name, what the product is, the starting p
 | Effects | Scroll Animation, Cursor Effects, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/liquid-glass-product-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -30,21 +30,21 @@ To adapt it, change the brand, product name, what the product is, the starting p
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/liquid-glass-product-page?case=3eb3df01-6006-4d7c-81d6-a8a840642a3f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/shot_desktop.c241f4a425.webp" width="100%" alt="Liquid Glass Product Page — Glass room speaker, built by Claude Opus 5.5 in Cursor"></a><br>
+<a href="https://vibefather.ai/templates/liquid-glass-product-page?case=39e4619c-9ed0-4e4a-a60e-ca611f8032ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/39e4619c-9ed0-4e4a-a60e-ca611f8032ff/shot_desktop.274353f5b5.webp" width="100%" alt="Liquid Glass Product Page — Glass room speaker, built by GLM-5.4 in ZCode"></a><br>
 <b>Glass room speaker</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=3eb3df01-6006-4d7c-81d6-a8a840642a3f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=39e4619c-9ed0-4e4a-a60e-ca611f8032ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/liquid-glass-product-page?case=2f932c79-1b6f-4009-9a5a-53ef75e7eb86&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/2f932c79-1b6f-4009-9a5a-53ef75e7eb86/shot_desktop.dd92aa998d.webp" width="100%" alt="Liquid Glass Product Page — Cold brew tower, built by Claude Sonnet 5.5 in Cursor"></a><br>
-<b>Cold brew tower</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=2f932c79-1b6f-4009-9a5a-53ef75e7eb86&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=89dc8bdc-f96b-411d-a68c-a0e7a4d82a34&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/89dc8bdc-f96b-411d-a68c-a0e7a4d82a34/shot_desktop.597a69b55f.webp" width="100%" alt="Liquid Glass Product Page — Glass room speaker, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Glass room speaker</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=89dc8bdc-f96b-411d-a68c-a0e7a4d82a34&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/liquid-glass-product-page?case=3eb3df01-6006-4d7c-81d6-a8a840642a3f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/meniscus/3eb3df01-6006-4d7c-81d6-a8a840642a3f/shot_desktop.c241f4a425.webp" width="100%" alt="Liquid Glass Product Page — Glass room speaker, built by Claude Opus 5.5 in Cursor"></a><br>
+<b>Glass room speaker</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=3eb3df01-6006-4d7c-81d6-a8a840642a3f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=cc1b4850-ba96-4073-aa05-ec1ebefa21fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/cc1b4850-ba96-4073-aa05-ec1ebefa21fe/shot_desktop.2c4a46e842.webp" width="100%" alt="Liquid Glass Product Page — Glass room speaker, built by GPT-6 Astra in Codex"></a><br>
@@ -54,9 +54,9 @@ To adapt it, change the brand, product name, what the product is, the starting p
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/liquid-glass-product-page?case=39e4619c-9ed0-4e4a-a60e-ca611f8032ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/39e4619c-9ed0-4e4a-a60e-ca611f8032ff/shot_desktop.274353f5b5.webp" width="100%" alt="Liquid Glass Product Page — Glass room speaker, built by GLM-5.4 in ZCode"></a><br>
-<b>Glass room speaker</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=39e4619c-9ed0-4e4a-a60e-ca611f8032ff&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<a href="https://vibefather.ai/templates/liquid-glass-product-page?case=2f932c79-1b6f-4009-9a5a-53ef75e7eb86&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/liquid-glass-product-page/2f932c79-1b6f-4009-9a5a-53ef75e7eb86/shot_desktop.dd92aa998d.webp" width="100%" alt="Liquid Glass Product Page — Cold brew tower, built by Claude Sonnet 5.5 in Cursor"></a><br>
+<b>Cold brew tower</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/liquid-glass-product-page?case=2f932c79-1b6f-4009-9a5a-53ef75e7eb86&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -107,7 +107,7 @@ Start with the five variables in the content file: BRAND, PRODUCT, PRODUCT_KIND,
 Copy the full prompt (Pro) from this page or run npx vibefather add liquid-glass-product-page, replace [BRAND], [PRODUCT], [PRODUCT_KIND] and [PRICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Liquid Glass Product Page demo?
-The Glass room speaker case was built by Claude Opus 5.5 in Cursor; the Cold brew tower case was built by Claude Sonnet 5.5 in Cursor; the Glass room speaker case was built by Gemini 4 Carbon in Cursor; the Glass room speaker case was built by GPT-6 Astra in Codex; the Glass room speaker case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Glass room speaker case was built by GLM-5.4 in ZCode; the Glass room speaker case was built by Gemini 4 Carbon in Cursor; the Glass room speaker case was built by Claude Opus 5.5 in Cursor; the Glass room speaker case was built by GPT-6 Astra in Codex; the Cold brew tower case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Liquid Glass Product Page template use?
 Liquid Glass Product Page is a single-page site built with Motion, React and Tailwind CSS, with scroll animation, cursor effects and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

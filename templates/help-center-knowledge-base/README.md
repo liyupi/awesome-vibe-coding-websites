@@ -2,7 +2,7 @@
 
 > Calm help center with instant search, six category cards, article pages with TOC rails, helpfulness voting and a contact form.
 
-<a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/webp.3f54feb68c.webp" width="100%" alt="Help Center Knowledge Base — Help Center with Instant Search built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/d79479be-ecb3-43a9-8424-01806374c8e1/webp.9b73fd8aa2.webp" width="100%" alt="Help Center Knowledge Base — Help Center with Instant Search built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/help-center-knowledge-base?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A three-page help center for a fictional product: a search-first home (one large
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 3 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A three-page help center for a fictional product: a search-first home (one large
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/help-center-knowledge-base?case=e69c36f8-df66-4b0a-92a4-dde1f7ed2216&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/shot_desktop.9487c64b4e.webp" width="100%" alt="Help Center Knowledge Base — Scheduling tool help center, built by GLM-5.3 in ZCode"></a><br>
-<b>Scheduling tool help center</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/help-center-knowledge-base?case=e69c36f8-df66-4b0a-92a4-dde1f7ed2216&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/help-center-knowledge-base?case=d79479be-ecb3-43a9-8424-01806374c8e1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/d79479be-ecb3-43a9-8424-01806374c8e1/shot_desktop.cba29e4f26.webp" width="100%" alt="Help Center Knowledge Base — Invoicing tool help center, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Invoicing tool help center</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/help-center-knowledge-base?case=d79479be-ecb3-43a9-8424-01806374c8e1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/help-center-knowledge-base?case=e69c36f8-df66-4b0a-92a4-dde1f7ed2216&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/help-center-knowledge-base/e69c36f8-df66-4b0a-92a4-dde1f7ed2216/shot_desktop.9487c64b4e.webp" width="100%" alt="Help Center Knowledge Base — Scheduling tool help center, built by GLM-5.3 in ZCode"></a><br>
+<b>Scheduling tool help center</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/help-center-knowledge-base?case=e69c36f8-df66-4b0a-92a4-dde1f7ed2216&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -79,7 +79,7 @@ The Help Center Knowledge Base template is built as static files with no backend
 Copy the prompt from this page or run npx vibefather add help-center-knowledge-base, replace [BRAND] and [PRODUCT] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Help Center Knowledge Base demo?
-The Scheduling tool help center case was built by GLM-5.3 in ZCode; the Invoicing tool help center case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Invoicing tool help center case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Scheduling tool help center case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Help Center Knowledge Base template use?
 Help Center Knowledge Base is a 3-page site built with Motion, React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

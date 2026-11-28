@@ -2,7 +2,7 @@
 
 > Two-page auto repair site with price-ranged services, a booking form that captures the vehicle, warranties and a what's-that-noise FAQ.
 
-<a href="https://vibefather.ai/templates/auto-repair-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/auto-repair-shop-website/499951e1-acc3-4498-bde6-f142d45eb874/webp.0468a3553e.webp" width="100%" alt="Auto Repair Shop Website — Auto Repair with Price Ranges built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/auto-repair-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/auto-repair-shop-website/0b3d870b-a89b-4586-b298-ca42c2b95f2c/webp.cfcada28a4.webp" width="100%" alt="Auto Repair Shop Website — Auto Repair with Price Ranges built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/auto-repair-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A two-page website for an independent auto repair shop: a home page with the sho
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A two-page website for an independent auto repair shop: a home page with the sho
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/auto-repair-shop-website?case=499951e1-acc3-4498-bde6-f142d45eb874&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/auto-repair-shop-website/499951e1-acc3-4498-bde6-f142d45eb874/shot_desktop.877dabcb11.webp" width="100%" alt="Auto Repair Shop Website — Three-bay family garage, built by GLM-5.3 in ZCode"></a><br>
-<b>Three-bay family garage</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/auto-repair-shop-website?case=499951e1-acc3-4498-bde6-f142d45eb874&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/auto-repair-shop-website?case=0b3d870b-a89b-4586-b298-ca42c2b95f2c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/auto-repair-shop-website/0b3d870b-a89b-4586-b298-ca42c2b95f2c/shot_desktop.20393b523a.webp" width="100%" alt="Auto Repair Shop Website — Mobile mechanic service, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Mobile mechanic service</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/auto-repair-shop-website?case=0b3d870b-a89b-4586-b298-ca42c2b95f2c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/auto-repair-shop-website?case=499951e1-acc3-4498-bde6-f142d45eb874&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/auto-repair-shop-website/499951e1-acc3-4498-bde6-f142d45eb874/shot_desktop.877dabcb11.webp" width="100%" alt="Auto Repair Shop Website — Three-bay family garage, built by GLM-5.3 in ZCode"></a><br>
+<b>Three-bay family garage</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/auto-repair-shop-website?case=499951e1-acc3-4498-bde6-f142d45eb874&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Auto Repair Shop Website template is a free template. Its prompt and DESIGN.
 Copy the prompt from this page or run npx vibefather add auto-repair-shop-website, replace [SHOP], [CITY], [PHONE] and [SPECIALTY] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Auto Repair Shop Website demo?
-The Three-bay family garage case was built by GLM-5.3 in ZCode; the Mobile mechanic service case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Mobile mechanic service case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Three-bay family garage case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Auto Repair Shop Website template use?
 Auto Repair Shop Website is a 2-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

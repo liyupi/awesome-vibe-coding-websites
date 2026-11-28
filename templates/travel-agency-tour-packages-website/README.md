@@ -2,7 +2,7 @@
 
 > Three-page tour operator site with filterable packages, day-by-day itineraries, drawn route maps and booking requests.
 
-<a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/0bb729a5-85a9-4861-8f86-26b62ca59552/webp.bbe1902d95.webp" width="100%" alt="Travel Agency Tour Packages Website — Tour Operator Site with Itineraries built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/28519468-e7f7-4ae9-b373-0113902ab56a/webp.b7229e04fd.webp" width="100%" alt="Travel Agency Tour Packages Website — Tour Operator Site with Itineraries built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/travel-agency-tour-packages-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A three-page website for a small-group tour operator: a home page with the promi
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 3 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/travel-agency-tour-packages-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A three-page website for a small-group tour operator: a home page with the promi
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=0bb729a5-85a9-4861-8f86-26b62ca59552&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/0bb729a5-85a9-4861-8f86-26b62ca59552/shot_desktop.6ed0ac2903.webp" width="100%" alt="Travel Agency Tour Packages Website — Nordic and Highland tours, built by GLM-5.3 in ZCode"></a><br>
-<b>Nordic and Highland tours</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=0bb729a5-85a9-4861-8f86-26b62ca59552&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=28519468-e7f7-4ae9-b373-0113902ab56a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/28519468-e7f7-4ae9-b373-0113902ab56a/shot_desktop.3f7f52d082.webp" width="100%" alt="Travel Agency Tour Packages Website — Iberian and Moroccan tours, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Iberian and Moroccan tours</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=28519468-e7f7-4ae9-b373-0113902ab56a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=0bb729a5-85a9-4861-8f86-26b62ca59552&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/travel-agency-tour-packages-website/0bb729a5-85a9-4861-8f86-26b62ca59552/shot_desktop.6ed0ac2903.webp" width="100%" alt="Travel Agency Tour Packages Website — Nordic and Highland tours, built by GLM-5.3 in ZCode"></a><br>
+<b>Nordic and Highland tours</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/travel-agency-tour-packages-website?case=0bb729a5-85a9-4861-8f86-26b62ca59552&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Commercial and client use of the Travel Agency Tour Packages Website template ne
 Copy the full prompt (Pro) from this page or run npx vibefather add travel-agency-tour-packages-website, replace [BRAND], [DESTINATIONS], [FOUNDED] and [GROUP_MAX] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Travel Agency Tour Packages Website demo?
-The Nordic and Highland tours case was built by GLM-5.3 in ZCode; the Iberian and Moroccan tours case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Iberian and Moroccan tours case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Nordic and Highland tours case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Travel Agency Tour Packages Website template use?
 Travel Agency Tour Packages Website is a 3-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

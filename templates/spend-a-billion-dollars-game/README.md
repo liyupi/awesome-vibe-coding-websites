@@ -2,7 +2,7 @@
 
 > Inherit $100B from a fictional eccentric aunt, shop 60 sticker items, print a shareable receipt, and feel the scale of $1M vs $1B vs $1T.
 
-<a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/spend-a-billion-dollars-game/0cd76f3c-3194-4834-b9b3-8eb205f5b4c0/webp.b35230ac71.webp" width="100%" alt="Spend a Billion Dollars Game — Interactive $100B Spending &amp; Scale Game built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/spend-a-billion-dollars-game/b93489a8-ce71-43bb-9a95-59cb23ad35eb/webp.85df461bd2.webp" width="100%" alt="Spend a Billion Dollars Game — Interactive $100B Spending &amp; Scale Game built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/spend-a-billion-dollars-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Make unfathomable wealth tangible in a playful browser game. Inherit $100,000,00
 | Effects | Number Counter, Canvas Export, Interactive Scale |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + lucide-react |
 | Pages | 2 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Make unfathomable wealth tangible in a playful browser game. Inherit $100,000,00
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?case=0cd76f3c-3194-4834-b9b3-8eb205f5b4c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/spend-a-billion-dollars-game/0cd76f3c-3194-4834-b9b3-8eb205f5b4c0/shot_desktop.d1efee5d27.webp" width="100%" alt="Spend a Billion Dollars Game — Aunt Margo's Vault ($100B Inheritance), built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Aunt Margo's Vault ($100B Inheritance)</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?case=0cd76f3c-3194-4834-b9b3-8eb205f5b4c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?case=b93489a8-ce71-43bb-9a95-59cb23ad35eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/spend-a-billion-dollars-game/b93489a8-ce71-43bb-9a95-59cb23ad35eb/shot_desktop.f370261e93.webp" width="100%" alt="Spend a Billion Dollars Game — Uncle Otto's Windfall ($100B Estate), built by GPT-6.2 Sol in Codex"></a><br>
 <b>Uncle Otto's Windfall ($100B Estate)</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?case=b93489a8-ce71-43bb-9a95-59cb23ad35eb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?case=0cd76f3c-3194-4834-b9b3-8eb205f5b4c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/spend-a-billion-dollars-game/0cd76f3c-3194-4834-b9b3-8eb205f5b4c0/shot_desktop.d1efee5d27.webp" width="100%" alt="Spend a Billion Dollars Game — Aunt Margo's Vault ($100B Inheritance), built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Aunt Margo's Vault ($100B Inheritance)</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/spend-a-billion-dollars-game?case=0cd76f3c-3194-4834-b9b3-8eb205f5b4c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ The Spend a Billion Dollars Game template renders the live receipt as serrated t
 Copy the prompt from this page or run npx vibefather add spend-a-billion-dollars-game, replace [BRAND], [BENEFACTOR] and [LEDGER_LABEL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Spend a Billion Dollars Game demo?
-The Aunt Margo's Vault ($100B Inheritance) case was built by Gemini 4 Neon in Antigravity; the Uncle Otto's Windfall ($100B Estate) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Uncle Otto's Windfall ($100B Estate) case was built by GPT-6.2 Sol in Codex; the Aunt Margo's Vault ($100B Inheritance) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Spend a Billion Dollars Game template use?
 Spend a Billion Dollars Game is a 2-page site built with React, Vite and Canvas, with number counter, canvas export and interactive scale. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

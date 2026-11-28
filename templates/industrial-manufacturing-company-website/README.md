@@ -2,7 +2,7 @@
 
 > A precision machine-shop site with spec-sheet capabilities, an equipment table and an RFQ flow that estimates lead time.
 
-<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/16080d09-ae32-4fdc-846e-ad95636eb935/webp.5fcf70574f.webp" width="100%" alt="Industrial Manufacturing Company Website — Precision Machine Shop Site with RFQ Tool built by GLM-5.3, Kimi K3.1 Pro and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/4d629633-6003-45d0-aef8-33f0bef7eb6d/webp.5a4f899d16.webp" width="100%" alt="Industrial Manufacturing Company Website — Precision Machine Shop Site with RFQ Tool built by GLM-5.4, Kimi K3.1 Pro and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Industrial Manufacturing Company Website is a single-page B2B site for a CNC mac
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/industrial-manufacturing-company-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,9 +24,9 @@ Industrial Manufacturing Company Website is a single-page B2B site for a CNC mac
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/16080d09-ae32-4fdc-846e-ad95636eb935/shot_desktop.5d6f995d8e.webp" width="100%" alt="Industrial Manufacturing Company Website — CNC machine shop, Halbrook, built by GLM-5.3 in ZCode"></a><br>
+<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/4d629633-6003-45d0-aef8-33f0bef7eb6d/shot_desktop.57670a297e.webp" width="100%" alt="Industrial Manufacturing Company Website — CNC machine shop, Halbrook, built by GLM-5.4 in ZCode"></a><br>
 <b>CNC machine shop, Halbrook</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=f20265aa-e228-4b03-baed-1be140e39a8a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/f20265aa-e228-4b03-baed-1be140e39a8a/shot_desktop.c23c241173.webp" width="100%" alt="Industrial Manufacturing Company Website — Fabrication shop, Ridgeway, built by Kimi K3.1 Pro in Kimi Code"></a><br>
@@ -36,9 +36,9 @@ Industrial Manufacturing Company Website is a single-page B2B site for a CNC mac
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/4d629633-6003-45d0-aef8-33f0bef7eb6d/shot_desktop.57670a297e.webp" width="100%" alt="Industrial Manufacturing Company Website — CNC machine shop, Halbrook, built by GLM-5.4 in ZCode"></a><br>
+<a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/industrial-manufacturing-company-website/16080d09-ae32-4fdc-846e-ad95636eb935/shot_desktop.5d6f995d8e.webp" width="100%" alt="Industrial Manufacturing Company Website — CNC machine shop, Halbrook, built by GLM-5.3 in ZCode"></a><br>
 <b>CNC machine shop, Halbrook</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=4d629633-6003-45d0-aef8-33f0bef7eb6d&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/industrial-manufacturing-company-website?case=16080d09-ae32-4fdc-846e-ad95636eb935&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -89,7 +89,7 @@ The single page carries capabilities with tolerances, surface finishes and mater
 Copy the full prompt (Pro) from this page or run npx vibefather add industrial-manufacturing-company-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Industrial Manufacturing Company Website demo?
-The CNC machine shop, Halbrook case was built by GLM-5.3 in ZCode; the Fabrication shop, Ridgeway case was built by Kimi K3.1 Pro in Kimi Code; the CNC machine shop, Halbrook case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The CNC machine shop, Halbrook case was built by GLM-5.4 in ZCode; the Fabrication shop, Ridgeway case was built by Kimi K3.1 Pro in Kimi Code; the CNC machine shop, Halbrook case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Industrial Manufacturing Company Website template use?
 Industrial Manufacturing Company Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

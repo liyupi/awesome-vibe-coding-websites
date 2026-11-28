@@ -2,7 +2,7 @@
 
 > Two-page shelter site with a filterable adoptable-pets grid, pet stories, an adoption application and donate/volunteer sections.
 
-<a href="https://vibefather.ai/templates/animal-shelter-adoption-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/animal-shelter-adoption-website/bc973b02-01c5-424f-9fca-29ab7fb8f54b/webp.5de29e9926.webp" width="100%" alt="Animal Shelter Adoption Website — Animal Shelter with Pet Grid built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/animal-shelter-adoption-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/animal-shelter-adoption-website/3cffce88-073c-469e-9e30-933bbd9f251a/webp.278ba9d87a.webp" width="100%" alt="Animal Shelter Adoption Website — Animal Shelter with Pet Grid built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/animal-shelter-adoption-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A two-page website for an animal shelter: a home page with the mission over a su
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A two-page website for an animal shelter: a home page with the mission over a su
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=bc973b02-01c5-424f-9fca-29ab7fb8f54b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animal-shelter-adoption-website/bc973b02-01c5-424f-9fca-29ab7fb8f54b/shot_desktop.dd33bdcdf4.webp" width="100%" alt="Animal Shelter Adoption Website — No-kill shelter adoption, built by GLM-5.3 in ZCode"></a><br>
-<b>No-kill shelter adoption</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=bc973b02-01c5-424f-9fca-29ab7fb8f54b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=3cffce88-073c-469e-9e30-933bbd9f251a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animal-shelter-adoption-website/3cffce88-073c-469e-9e30-933bbd9f251a/shot_desktop.fa45e86a38.webp" width="100%" alt="Animal Shelter Adoption Website — Cat rescue adoption, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Cat rescue adoption</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=3cffce88-073c-469e-9e30-933bbd9f251a&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=bc973b02-01c5-424f-9fca-29ab7fb8f54b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/animal-shelter-adoption-website/bc973b02-01c5-424f-9fca-29ab7fb8f54b/shot_desktop.dd33bdcdf4.webp" width="100%" alt="Animal Shelter Adoption Website — No-kill shelter adoption, built by GLM-5.3 in ZCode"></a><br>
+<b>No-kill shelter adoption</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/animal-shelter-adoption-website?case=bc973b02-01c5-424f-9fca-29ab7fb8f54b&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Animal Shelter Adoption Website is a free template. Its prompt and the DESIG
 Copy the prompt from this page or run npx vibefather add animal-shelter-adoption-website, replace [SHELTER], [CITY], [PETS] and [FOCUS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Animal Shelter Adoption Website demo?
-The No-kill shelter adoption case was built by GLM-5.3 in ZCode; the Cat rescue adoption case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Cat rescue adoption case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the No-kill shelter adoption case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Animal Shelter Adoption Website template use?
 Animal Shelter Adoption Website is a 2-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

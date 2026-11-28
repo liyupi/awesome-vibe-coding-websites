@@ -2,7 +2,7 @@
 
 > A studio site where every background is seeded code, with a live gallery and a framed print shop.
 
-<a href="https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/webp.b0573e73a0.webp" width="100%" alt="Generative Art Studio Website — Seeded Generative Art Studio with Print Shop built by Claude Opus 5.5, Claude Sonnet 5.5, Gemini 4 Carbon, GPT-6 Astra and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/generative-art-studio-website/d631edcf-3aa2-4f7e-8f19-fcd427ae2a11/webp.e68635b4db.webp" width="100%" alt="Generative Art Studio Website — Seeded Generative Art Studio with Print Shop built by GLM-5.4, Gemini 4 Carbon, Claude Opus 5.5, GPT-6 Astra and Claude Sonnet 5.5"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/generative-art-studio-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -22,7 +22,7 @@ To adapt it, change the brand, artist, city, practice and product, then edit one
 | Effects | Scroll Animation, Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Plain CSS + react, + simplex-noise + lucide-react |
 | Pages | 3 |
-| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Claude Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -30,21 +30,21 @@ To adapt it, change the brand, artist, city, practice and product, then edit one
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/generative-art-studio-website?case=c62e2ed1-320b-4330-9f53-58767ac3e94f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/shot_desktop.3e5ee4bbb1.webp" width="100%" alt="Generative Art Studio Website — Generative print studio, built by Claude Opus 5.5 in Claude Code"></a><br>
+<a href="https://vibefather.ai/templates/generative-art-studio-website?case=d631edcf-3aa2-4f7e-8f19-fcd427ae2a11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/generative-art-studio-website/d631edcf-3aa2-4f7e-8f19-fcd427ae2a11/shot_desktop.84e4a19b3c.webp" width="100%" alt="Generative Art Studio Website — Generative print studio, built by GLM-5.4 in ZCode"></a><br>
 <b>Generative print studio</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=c62e2ed1-320b-4330-9f53-58767ac3e94f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=d631edcf-3aa2-4f7e-8f19-fcd427ae2a11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/generative-art-studio-website?case=e117b707-74cc-413a-95cd-e47f396f7eae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website — Imaginary terrain maps, built by Claude Sonnet 5.5 in Cursor"></a><br>
-<b>Imaginary terrain maps</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=e117b707-74cc-413a-95cd-e47f396f7eae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/generative-art-studio-website/77e9fef4-713f-4300-bba7-1aabddee72a1/shot_desktop.a401f75c10.webp" width="100%" alt="Generative Art Studio Website — Generative print studio, built by Gemini 4 Carbon in Cursor"></a><br>
 <b>Generative print studio</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=77e9fef4-713f-4300-bba7-1aabddee72a1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/generative-art-studio-website?case=c62e2ed1-320b-4330-9f53-58767ac3e94f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/generative-art-studio-website/c62e2ed1-320b-4330-9f53-58767ac3e94f/shot_desktop.3e5ee4bbb1.webp" width="100%" alt="Generative Art Studio Website — Generative print studio, built by Claude Opus 5.5 in Claude Code"></a><br>
+<b>Generative print studio</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Claude Code · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=c62e2ed1-320b-4330-9f53-58767ac3e94f&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/generative-art-studio-website?case=83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/generative-art-studio-website/83a8bf8a-4fe1-43c8-95c9-8e0cf0bc697c/shot_desktop.1d23e419e9.webp" width="100%" alt="Generative Art Studio Website — Generative print studio, built by GPT-6 Astra in Codex"></a><br>
@@ -54,9 +54,9 @@ To adapt it, change the brand, artist, city, practice and product, then edit one
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/generative-art-studio-website?case=d631edcf-3aa2-4f7e-8f19-fcd427ae2a11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/generative-art-studio-website/d631edcf-3aa2-4f7e-8f19-fcd427ae2a11/shot_desktop.84e4a19b3c.webp" width="100%" alt="Generative Art Studio Website — Generative print studio, built by GLM-5.4 in ZCode"></a><br>
-<b>Generative print studio</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=d631edcf-3aa2-4f7e-8f19-fcd427ae2a11&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+<a href="https://vibefather.ai/templates/generative-art-studio-website?case=e117b707-74cc-413a-95cd-e47f396f7eae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/generative-art-studio-website/e117b707-74cc-413a-95cd-e47f396f7eae/shot_desktop.3514950824.webp" width="100%" alt="Generative Art Studio Website — Imaginary terrain maps, built by Claude Sonnet 5.5 in Cursor"></a><br>
+<b>Imaginary terrain maps</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/generative-art-studio-website?case=e117b707-74cc-413a-95cd-e47f396f7eae&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -107,7 +107,7 @@ The live demos of the Generative Art Studio Website were built by Claude Opus 5.
 Copy the prompt from this page or run npx vibefather add generative-art-studio-website, replace [BRAND], [ARTIST], [CITY] and [PRACTICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Generative Art Studio Website demo?
-The Generative print studio case was built by Claude Opus 5.5 in Claude Code; the Imaginary terrain maps case was built by Claude Sonnet 5.5 in Cursor; the Generative print studio case was built by Gemini 4 Carbon in Cursor; the Generative print studio case was built by GPT-6 Astra in Codex; the Generative print studio case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Generative print studio case was built by GLM-5.4 in ZCode; the Generative print studio case was built by Gemini 4 Carbon in Cursor; the Generative print studio case was built by Claude Opus 5.5 in Claude Code; the Generative print studio case was built by GPT-6 Astra in Codex; the Imaginary terrain maps case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Generative Art Studio Website template use?
 Generative Art Studio Website is a 3-page site built with React, with scroll animation, generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

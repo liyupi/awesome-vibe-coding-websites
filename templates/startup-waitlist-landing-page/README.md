@@ -2,7 +2,7 @@
 
 > Minimal waitlist page with an email capture, a queue-position counter, a referral mock and a short FAQ.
 
-<a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/startup-waitlist-landing-page/04a22c24-520c-4205-a49d-3da0206f5a85/webp.908ebaa468.webp" width="100%" alt="Startup Waitlist Landing Page — Waitlist Page with Referral Counter built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/startup-waitlist-landing-page/25bc60c6-da2f-46f8-a17b-df524aba8514/webp.d35d1df752.webp" width="100%" alt="Startup Waitlist Landing Page — Waitlist Page with Referral Counter built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/startup-waitlist-landing-page?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page waitlist for a product about to launch: an oversized headline over
 | Effects | Generative / Canvas, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page waitlist for a product about to launch: an oversized headline over
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/startup-waitlist-landing-page?case=04a22c24-520c-4205-a49d-3da0206f5a85&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/startup-waitlist-landing-page/04a22c24-520c-4205-a49d-3da0206f5a85/shot_desktop.ceec09c9c5.webp" width="100%" alt="Startup Waitlist Landing Page — Dev pairing tool waitlist, built by GLM-5.3 in ZCode"></a><br>
-<b>Dev pairing tool waitlist</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?case=04a22c24-520c-4205-a49d-3da0206f5a85&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?case=25bc60c6-da2f-46f8-a17b-df524aba8514&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/startup-waitlist-landing-page/25bc60c6-da2f-46f8-a17b-df524aba8514/shot_desktop.75cd790a66.webp" width="100%" alt="Startup Waitlist Landing Page — Code review tool waitlist, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Code review tool waitlist</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?case=25bc60c6-da2f-46f8-a17b-df524aba8514&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/startup-waitlist-landing-page?case=04a22c24-520c-4205-a49d-3da0206f5a85&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/startup-waitlist-landing-page/04a22c24-520c-4205-a49d-3da0206f5a85/shot_desktop.ceec09c9c5.webp" width="100%" alt="Startup Waitlist Landing Page — Dev pairing tool waitlist, built by GLM-5.3 in ZCode"></a><br>
+<b>Dev pairing tool waitlist</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/startup-waitlist-landing-page?case=04a22c24-520c-4205-a49d-3da0206f5a85&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Startup Waitlist Landing Page is a free template: its prompt and DESIGN.md a
 Copy the prompt from this page or run npx vibefather add startup-waitlist-landing-page, replace [BRAND], [WHAT], [LAUNCH] and [WAITLIST] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Startup Waitlist Landing Page demo?
-The Dev pairing tool waitlist case was built by GLM-5.3 in ZCode; the Code review tool waitlist case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Code review tool waitlist case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Dev pairing tool waitlist case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Startup Waitlist Landing Page template use?
 Startup Waitlist Landing Page is a single-page site built with Motion, React and Tailwind CSS, with generative / canvas and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

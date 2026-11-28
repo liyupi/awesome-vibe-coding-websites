@@ -2,7 +2,7 @@
 
 > A gentle, dignified funeral home site with transparent pricing, a pre-planning checklist and a local guestbook.
 
-<a href="https://vibefather.ai/templates/funeral-home-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/funeral-home-website/3db516b3-9735-4218-be9d-5c5e36108cf7/webp.006b1a8c76.webp" width="100%" alt="Funeral Home Website — Funeral Home Site with Price List built by GLM-5.3 and Kimi K3.1 Pro"></a>
+<a href="https://vibefather.ai/templates/funeral-home-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/funeral-home-website/6ed6358e-3795-434b-b8bb-a478baf153d7/webp.52bce370f6.webp" width="100%" alt="Funeral Home Website — Funeral Home Site with Price List built by Kimi K3.1 Pro and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/funeral-home-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Funeral Home Website is a single-page site for a family funeral home, in soft sa
 | Effects | Micro-interactions |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="13" height="13" alt=""></picture> [Kimi K3.1 Pro](../../models/kimi-k3-1-pro.md) in Kimi Code, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Funeral Home Website is a single-page site for a family funeral home, in soft sa
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/funeral-home-website?case=3db516b3-9735-4218-be9d-5c5e36108cf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/funeral-home-website/3db516b3-9735-4218-be9d-5c5e36108cf7/shot_desktop.947bd932b2.webp" width="100%" alt="Funeral Home Website — Funeral home, Ashton Mill, built by GLM-5.3 in ZCode"></a><br>
-<b>Funeral home, Ashton Mill</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/funeral-home-website?case=3db516b3-9735-4218-be9d-5c5e36108cf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/funeral-home-website?case=6ed6358e-3795-434b-b8bb-a478baf153d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/funeral-home-website/6ed6358e-3795-434b-b8bb-a478baf153d7/shot_desktop.aa1642cd74.webp" width="100%" alt="Funeral Home Website — Memorial chapel, Elmgate, built by Kimi K3.1 Pro in Kimi Code"></a><br>
 <b>Memorial chapel, Elmgate</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/kimi.svg"><img src="https://vibefather.ai/icons/tools/kimi.svg" width="12" height="12" alt=""></picture>&nbsp;Kimi K3.1 Pro in Kimi Code · <a href="https://vibefather.ai/templates/funeral-home-website?case=6ed6358e-3795-434b-b8bb-a478baf153d7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/funeral-home-website?case=3db516b3-9735-4218-be9d-5c5e36108cf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/funeral-home-website/3db516b3-9735-4218-be9d-5c5e36108cf7/shot_desktop.947bd932b2.webp" width="100%" alt="Funeral Home Website — Funeral home, Ashton Mill, built by GLM-5.3 in ZCode"></a><br>
+<b>Funeral home, Ashton Mill</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/funeral-home-website?case=3db516b3-9735-4218-be9d-5c5e36108cf7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Funeral Home Website template is free: its prompt and the DESIGN.md are free
 Copy the prompt from this page or run npx vibefather add funeral-home-website, replace [BRAND], [CITY], [FOUNDER] and [PHONE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Funeral Home Website demo?
-The Funeral home, Ashton Mill case was built by GLM-5.3 in ZCode; the Memorial chapel, Elmgate case was built by Kimi K3.1 Pro in Kimi Code. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Memorial chapel, Elmgate case was built by Kimi K3.1 Pro in Kimi Code; the Funeral home, Ashton Mill case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Funeral Home Website template use?
 Funeral Home Website is a single-page site built with Motion, React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

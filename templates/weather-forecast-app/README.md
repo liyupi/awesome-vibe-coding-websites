@@ -2,7 +2,7 @@
 
 > Atmospheric weather app with live animated Canvas sky scenes, 10-day bars, AQI, wind compass, radar timeline, and 6 cities.
 
-<a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/webp.cd1ce1a36e.webp" width="100%" alt="Weather Forecast App — Animated Atmospheric Weather Dashboard App built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/weather-forecast-app/dde3ed94-1f57-47db-ba84-1b321162e232/webp.f24fb1d446.webp" width="100%" alt="Weather Forecast App — Animated Atmospheric Weather Dashboard App built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/weather-forecast-app?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A vivid atmospheric weather forecast web app powered by a real-time HTML5 Canvas
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 2 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A vivid atmospheric weather forecast web app powered by a real-time HTML5 Canvas
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/weather-forecast-app?case=37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/shot_desktop.c2cd3bca47.webp" width="100%" alt="Weather Forecast App — Skyloom Weather, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Skyloom Weather</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/weather-forecast-app?case=37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/weather-forecast-app?case=dde3ed94-1f57-47db-ba84-1b321162e232&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/weather-forecast-app/dde3ed94-1f57-47db-ba84-1b321162e232/shot_desktop.15e702e7c7.webp" width="100%" alt="Weather Forecast App — Cirrus Forecast, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Cirrus Forecast</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/weather-forecast-app?case=dde3ed94-1f57-47db-ba84-1b321162e232&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/weather-forecast-app?case=37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/weather-forecast-app/37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7/shot_desktop.c2cd3bca47.webp" width="100%" alt="Weather Forecast App — Skyloom Weather, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Skyloom Weather</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/weather-forecast-app?case=37f386ec-a4a0-4e2d-bed9-c44e8c8f6fc7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Weather Forecast App keeps saved cities and your Celsius or Fahrenheit prefe
 Copy the prompt from this page or run npx vibefather add weather-forecast-app, replace [BRAND], [TAGLINE], [DEFAULT_CITY] and [ADAPTER_LABEL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Weather Forecast App demo?
-The Skyloom Weather case was built by Gemini 4 Neon in Antigravity; the Cirrus Forecast case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Cirrus Forecast case was built by GPT-6.2 Sol in Codex; the Skyloom Weather case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Weather Forecast App template use?
 Weather Forecast App is a 2-page site built with React, Tailwind CSS, Vite and Canvas, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

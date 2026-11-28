@@ -2,7 +2,7 @@
 
 > Calm tea shop with flavor notes, brewing guides, a working steep timer and sampler sets.
 
-<a href="https://vibefather.ai/templates/tea-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/tea-shop-website/36b73c96-be02-4765-9444-89323d6302cd/webp.04f7b2660b.webp" width="100%" alt="Tea Shop Website — Tea Shop with Steep Timer built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/tea-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/tea-shop-website/7177c224-de13-48e2-a3de-39a82660d9d4/webp.099d84bd4c.webp" width="100%" alt="Tea Shop Website — Tea Shop with Steep Timer built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/tea-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ This template builds a calm, earthy shop for a loose-leaf tea seller: warm paper
 | Effects | Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ This template builds a calm, earthy shop for a loose-leaf tea seller: warm paper
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/tea-shop-website?case=36b73c96-be02-4765-9444-89323d6302cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/tea-shop-website/36b73c96-be02-4765-9444-89323d6302cd/shot_desktop.62de41ca72.webp" width="100%" alt="Tea Shop Website — Loose-leaf tea shop, built by GLM-5.3 in ZCode"></a><br>
-<b>Loose-leaf tea shop</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/tea-shop-website?case=36b73c96-be02-4765-9444-89323d6302cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/tea-shop-website?case=7177c224-de13-48e2-a3de-39a82660d9d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/tea-shop-website/7177c224-de13-48e2-a3de-39a82660d9d4/shot_desktop.03b2366b26.webp" width="100%" alt="Tea Shop Website — Craft coffee roaster, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Craft coffee roaster</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/tea-shop-website?case=7177c224-de13-48e2-a3de-39a82660d9d4&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/tea-shop-website?case=36b73c96-be02-4765-9444-89323d6302cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/tea-shop-website/36b73c96-be02-4765-9444-89323d6302cd/shot_desktop.62de41ca72.webp" width="100%" alt="Tea Shop Website — Loose-leaf tea shop, built by GLM-5.3 in ZCode"></a><br>
+<b>Loose-leaf tea shop</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/tea-shop-website?case=36b73c96-be02-4765-9444-89323d6302cd&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Tea Shop Website template gives each visitor a local shelf: a Bookmark butto
 Copy the prompt from this page or run npx vibefather add tea-shop-website, replace [BRAND], [CITY], [SPECIALTY] and [SUB_PRICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Tea Shop Website demo?
-The Loose-leaf tea shop case was built by GLM-5.3 in ZCode; the Craft coffee roaster case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Craft coffee roaster case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Loose-leaf tea shop case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Tea Shop Website template use?
 Tea Shop Website is a 2-page site built with Motion, React and Tailwind CSS, with micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

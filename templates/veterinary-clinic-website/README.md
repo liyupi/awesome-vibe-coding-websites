@@ -2,7 +2,7 @@
 
 > Friendly two-page vet clinic site with the vets' working portraits, services, emergency info, care tips and a client-side new-patient form.
 
-<a href="https://vibefather.ai/templates/veterinary-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/veterinary-clinic-website/d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc/webp.13c785c66f.webp" width="100%" alt="Veterinary Clinic Website — Vet Clinic Site with Booking built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/veterinary-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/veterinary-clinic-website/8e84fd01-4c76-4650-81e2-ad27314a0c60/webp.236097f3dd.webp" width="100%" alt="Veterinary Clinic Website — Vet Clinic Site with Booking built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/veterinary-clinic-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A two-page website for a veterinary clinic: a home page with warm animal photogr
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A two-page website for a veterinary clinic: a home page with warm animal photogr
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/veterinary-clinic-website?case=d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/veterinary-clinic-website/d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc/shot_desktop.291d03c3c0.webp" width="100%" alt="Veterinary Clinic Website — Small animal clinic, built by GLM-5.3 in ZCode"></a><br>
-<b>Small animal clinic</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=8e84fd01-4c76-4650-81e2-ad27314a0c60&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/veterinary-clinic-website/8e84fd01-4c76-4650-81e2-ad27314a0c60/shot_desktop.46d75a9aaf.webp" width="100%" alt="Veterinary Clinic Website — Animal hospital in Savannah, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Animal hospital in Savannah</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=8e84fd01-4c76-4650-81e2-ad27314a0c60&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/veterinary-clinic-website?case=d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/veterinary-clinic-website/d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc/shot_desktop.291d03c3c0.webp" width="100%" alt="Veterinary Clinic Website — Small animal clinic, built by GLM-5.3 in ZCode"></a><br>
+<b>Small animal clinic</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/veterinary-clinic-website?case=d9fc7b2d-538b-4d0f-ae87-ece8aebd9ddc&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Veterinary Clinic Website template is free, and its prompt and DESIGN.md are
 Copy the prompt from this page or run npx vibefather add veterinary-clinic-website, replace [BRAND], [CITY], [PHONE] and [FOUNDED] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Veterinary Clinic Website demo?
-The Small animal clinic case was built by GLM-5.3 in ZCode; the Animal hospital in Savannah case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Animal hospital in Savannah case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Small animal clinic case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Veterinary Clinic Website template use?
 Veterinary Clinic Website is a 2-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

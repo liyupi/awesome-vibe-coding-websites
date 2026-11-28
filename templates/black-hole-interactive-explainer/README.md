@@ -2,7 +2,7 @@
 
 > Orbit a real-time ray-marched black hole with gravitational lensing, then explore event horizons, time dilation clocks, and cosmic scales.
 
-<a href="https://vibefather.ai/templates/black-hole-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/657b7b02-ca74-479b-8ab5-00258c366622/webp.e99bed650b.webp" width="100%" alt="Black Hole Interactive Explainer — Interactive Ray-Marched Black Hole Explainer built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/black-hole-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/e08ad67c-5e56-4f03-b4a3-5cd6879e1641/webp.4c5100d742.webp" width="100%" alt="Black Hole Interactive Explainer — Interactive Ray-Marched Black Hole Explainer built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/black-hole-interactive-explainer?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ An interactive astrophysics explainer opening immediately on a real-time GLSL ra
 | Effects | Scroll Animation, 3D / WebGL |
 | Stack | Vite 6 + React 18 + TypeScript + Tailwind CSS 4 + three + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ An interactive astrophysics explainer opening immediately on a real-time GLSL ra
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=657b7b02-ca74-479b-8ab5-00258c366622&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/657b7b02-ca74-479b-8ab5-00258c366622/shot_desktop.0d84d6ec7f.webp" width="100%" alt="Black Hole Interactive Explainer — Event Horizon Atlas (Aurelia-X1), built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Event Horizon Atlas (Aurelia-X1)</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=657b7b02-ca74-479b-8ab5-00258c366622&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=e08ad67c-5e56-4f03-b4a3-5cd6879e1641&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/e08ad67c-5e56-4f03-b4a3-5cd6879e1641/shot_desktop.aa4a468a59.webp" width="100%" alt="Black Hole Interactive Explainer — Singularity Field Notes (Cygnus-Core 9), built by GPT-6.2 Sol in Codex"></a><br>
 <b>Singularity Field Notes (Cygnus-Core 9)</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=e08ad67c-5e56-4f03-b4a3-5cd6879e1641&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=657b7b02-ca74-479b-8ab5-00258c366622&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/black-hole-interactive-explainer/657b7b02-ca74-479b-8ab5-00258c366622/shot_desktop.0d84d6ec7f.webp" width="100%" alt="Black Hole Interactive Explainer — Event Horizon Atlas (Aurelia-X1), built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Event Horizon Atlas (Aurelia-X1)</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/black-hole-interactive-explainer?case=657b7b02-ca74-479b-8ab5-00258c366622&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Yes. The Black Hole Interactive Explainer keeps all six relativity chapters and 
 Copy the prompt from this page or run npx vibefather add black-hole-interactive-explainer, replace [OBSERVATORY_NAME], [OBJECT_NAME], [MASS_LABEL] and [DISTANCE_LABEL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Black Hole Interactive Explainer demo?
-The Event Horizon Atlas (Aurelia-X1) case was built by Gemini 4 Neon in Antigravity; the Singularity Field Notes (Cygnus-Core 9) case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Singularity Field Notes (Cygnus-Core 9) case was built by GPT-6.2 Sol in Codex; the Event Horizon Atlas (Aurelia-X1) case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Black Hole Interactive Explainer template use?
 Black Hole Interactive Explainer is a single-page site built with React, Three.js, Tailwind CSS and Webgl, with scroll animation and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

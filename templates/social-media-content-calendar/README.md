@@ -2,7 +2,7 @@
 
 > Plan four weeks of posts, try four formats, and move a draft from its first idea to the calendar.
 
-<a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/webp.46c368918b.webp" width="100%" alt="Social Media Content Calendar — Colorful Post Planner with Live Previews built by GPT-6 Astra and Gemini 4 Neon"></a>
+<a href="https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/social-media-content-calendar/7725b3b7-da97-4330-8a17-2b987cfbc1b7/webp.5ec9b0caa8.webp" width="100%" alt="Social Media Content Calendar — Colorful Post Planner with Live Previews built by Gemini 4 Neon and GPT-6 Astra"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -20,7 +20,7 @@ A media contact sheet shows which posts use each photograph. The sample insights
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite + React + TypeScript + Vanilla CSS + lucide-react |
 | Pages | 4 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6 Astra](../../models/gpt-6-astra.md) in Codex |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/social-media-content-calendar?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -28,14 +28,14 @@ A media contact sheet shows which posts use each photograph. The sample insights
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/social-media-content-calendar?case=dfb54b60-e32d-4c1d-9b67-961bc3d635fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/shot_desktop.b83af4015f.webp" width="100%" alt="Social Media Content Calendar — Home desk launch, built by GPT-6 Astra in Codex"></a><br>
-<b>Home desk launch</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/social-media-content-calendar?case=dfb54b60-e32d-4c1d-9b67-961bc3d635fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/social-media-content-calendar?case=7725b3b7-da97-4330-8a17-2b987cfbc1b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/social-media-content-calendar/7725b3b7-da97-4330-8a17-2b987cfbc1b7/shot_desktop.48b8055100.webp" width="100%" alt="Social Media Content Calendar — Wholesale stationery previews, built by Gemini 4 Neon in Antigravity"></a><br>
 <b>Wholesale stationery previews</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/social-media-content-calendar?case=7725b3b7-da97-4330-8a17-2b987cfbc1b7&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/social-media-content-calendar?case=dfb54b60-e32d-4c1d-9b67-961bc3d635fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/social-media-content-calendar/dfb54b60-e32d-4c1d-9b67-961bc3d635fe/shot_desktop.b83af4015f.webp" width="100%" alt="Social Media Content Calendar — Home desk launch, built by GPT-6 Astra in Codex"></a><br>
+<b>Home desk launch</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6 Astra in Codex · <a href="https://vibefather.ai/templates/social-media-content-calendar?case=dfb54b60-e32d-4c1d-9b67-961bc3d635fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -85,7 +85,7 @@ The Social Media Content Calendar template saves your edited captions, moved pos
 Copy the full prompt (Pro) from this page or run npx vibefather add social-media-content-calendar, replace [BRAND], [CYCLE_NAME], [AUDIENCE] and [CAMPAIGNS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Social Media Content Calendar demo?
-The Home desk launch case was built by GPT-6 Astra in Codex; the Wholesale stationery previews case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Wholesale stationery previews case was built by Gemini 4 Neon in Antigravity; the Home desk launch case was built by GPT-6 Astra in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Social Media Content Calendar template use?
 Social Media Content Calendar is a 4-page site built with React, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

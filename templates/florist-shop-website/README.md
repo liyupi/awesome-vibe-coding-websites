@@ -2,7 +2,7 @@
 
 > Florist shop with a bouquet catalogue, size and vase options, delivery date picker, gift message and a client-side cart.
 
-<a href="https://vibefather.ai/templates/florist-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/florist-shop-website/9cbd696e-ca93-4710-b68d-7909f55c1db1/webp.4447190aec.webp" width="100%" alt="Florist Shop Website — Florist Shop with Delivery built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/florist-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/florist-shop-website/84118317-eafd-457e-8748-a6a30085afd9/webp.d3949a6579.webp" width="100%" alt="Florist Shop Website — Florist Shop with Delivery built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/florist-shop-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A single-page flower shop: a hero with the shop's promise beside a bucket-of-ste
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A single-page flower shop: a hero with the shop's promise beside a bucket-of-ste
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/florist-shop-website?case=9cbd696e-ca93-4710-b68d-7909f55c1db1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/florist-shop-website/9cbd696e-ca93-4710-b68d-7909f55c1db1/shot_desktop.c562120f77.webp" width="100%" alt="Florist Shop Website — Neighborhood corner florist, built by GLM-5.3 in ZCode"></a><br>
-<b>Neighborhood corner florist</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/florist-shop-website?case=9cbd696e-ca93-4710-b68d-7909f55c1db1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/florist-shop-website?case=84118317-eafd-457e-8748-a6a30085afd9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/florist-shop-website/84118317-eafd-457e-8748-a6a30085afd9/shot_desktop.239e67cd64.webp" width="100%" alt="Florist Shop Website — Studio florist in Brooklyn, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Studio florist in Brooklyn</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/florist-shop-website?case=84118317-eafd-457e-8748-a6a30085afd9&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/florist-shop-website?case=9cbd696e-ca93-4710-b68d-7909f55c1db1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/florist-shop-website/9cbd696e-ca93-4710-b68d-7909f55c1db1/shot_desktop.c562120f77.webp" width="100%" alt="Florist Shop Website — Neighborhood corner florist, built by GLM-5.3 in ZCode"></a><br>
+<b>Neighborhood corner florist</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/florist-shop-website?case=9cbd696e-ca93-4710-b68d-7909f55c1db1&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the four variables: SHOP for the wordmark, title, footer and email; C
 Copy the prompt from this page or run npx vibefather add florist-shop-website, replace [SHOP], [CITY], [CUTOFF] and [BASE_PRICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Florist Shop Website demo?
-The Neighborhood corner florist case was built by GLM-5.3 in ZCode; the Studio florist in Brooklyn case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Studio florist in Brooklyn case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Neighborhood corner florist case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Florist Shop Website template use?
 Florist Shop Website is a single-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

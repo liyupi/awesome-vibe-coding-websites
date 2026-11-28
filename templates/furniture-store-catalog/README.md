@@ -2,7 +2,7 @@
 
 > Warm showroom furniture catalogue with room navigation, materials filter, SVG dimension diagrams and a bag drawer.
 
-<a href="https://vibefather.ai/templates/furniture-store-catalog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/furniture-store-catalog/8d96cd18-64c6-4938-a6a4-a9d9756491c0/webp.33a917d1aa.webp" width="100%" alt="Furniture Store Catalog — Furniture Catalog with Swatches built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/furniture-store-catalog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/furniture-store-catalog/5abe36fb-5306-497a-8b07-e021bedfc121/webp.f151eff274.webp" width="100%" alt="Furniture Store Catalog — Furniture Catalog with Swatches built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/furniture-store-catalog?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A two-page catalogue for a furniture store: a styled living-room hero with the b
 | Effects | Scroll Animation, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 2 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A two-page catalogue for a furniture store: a styled living-room hero with the b
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/furniture-store-catalog?case=8d96cd18-64c6-4938-a6a4-a9d9756491c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/furniture-store-catalog/8d96cd18-64c6-4938-a6a4-a9d9756491c0/shot_desktop.12484d9b6c.webp" width="100%" alt="Furniture Store Catalog — Workshop furniture brand, built by GLM-5.3 in ZCode"></a><br>
-<b>Workshop furniture brand</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/furniture-store-catalog?case=8d96cd18-64c6-4938-a6a4-a9d9756491c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/furniture-store-catalog?case=5abe36fb-5306-497a-8b07-e021bedfc121&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/furniture-store-catalog/5abe36fb-5306-497a-8b07-e021bedfc121/shot_desktop.93382f1320.webp" width="100%" alt="Furniture Store Catalog — Scandinavian furniture store, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Scandinavian furniture store</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/furniture-store-catalog?case=5abe36fb-5306-497a-8b07-e021bedfc121&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/furniture-store-catalog?case=8d96cd18-64c6-4938-a6a4-a9d9756491c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/furniture-store-catalog/8d96cd18-64c6-4938-a6a4-a9d9756491c0/shot_desktop.12484d9b6c.webp" width="100%" alt="Furniture Store Catalog — Workshop furniture brand, built by GLM-5.3 in ZCode"></a><br>
+<b>Workshop furniture brand</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/furniture-store-catalog?case=8d96cd18-64c6-4938-a6a4-a9d9756491c0&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Start with the four variables: STORE, CITY, CRAFT_NOTE and DELIVERY_NOTE, which 
 Copy the prompt from this page or run npx vibefather add furniture-store-catalog, replace [STORE], [CITY], [CRAFT_NOTE] and [DELIVERY_NOTE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Furniture Store Catalog demo?
-The Workshop furniture brand case was built by GLM-5.3 in ZCode; the Scandinavian furniture store case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Scandinavian furniture store case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Workshop furniture brand case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Furniture Store Catalog template use?
 Furniture Store Catalog is a 2-page site built with Motion, React and Tailwind CSS, with scroll animation and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

@@ -2,7 +2,7 @@
 
 > A gallery-white exhibition site with an oversized serif, zoomable object photography and timed tickets.
 
-<a href="https://vibefather.ai/templates/museum-exhibition-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/museum-exhibition-website/ce571849-a3db-4422-9146-7a5cb24b01f6/webp.7c7ceeca68.webp" width="100%" alt="Museum Exhibition Website — Gallery-White Museum with Object Zoom built by GLM-5.3 and DeepSeek V4.1 Flash"></a>
+<a href="https://vibefather.ai/templates/museum-exhibition-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/museum-exhibition-website/9f199789-f2cc-472f-8764-d8f4bf9fa9fe/webp.4d158a50bc.webp" width="100%" alt="Museum Exhibition Website — Gallery-White Museum with Object Zoom built by DeepSeek V4.1 Flash and GLM-5.3"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/museum-exhibition-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ This template builds a gallery-white exhibition website for a museum show: one s
 | Effects | Drag & Physics, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + motion + lucide-react |
 | Pages | 1 |
-| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode, <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness |
+| Built with | <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="13" height="13" alt=""> [DeepSeek V4.1 Flash](../../models/deepseek-v4-1-flash.md) in DeepSeek Harness, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.3](../../models/glm-5-3.md) in ZCode |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ This template builds a gallery-white exhibition website for a museum show: one s
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/museum-exhibition-website?case=ce571849-a3db-4422-9146-7a5cb24b01f6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/museum-exhibition-website/ce571849-a3db-4422-9146-7a5cb24b01f6/shot_desktop.740c383d8b.webp" width="100%" alt="Museum Exhibition Website — Measure of Days, built by GLM-5.3 in ZCode"></a><br>
-<b>Measure of Days</b><br>
-<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/museum-exhibition-website?case=ce571849-a3db-4422-9146-7a5cb24b01f6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/museum-exhibition-website?case=9f199789-f2cc-472f-8764-d8f4bf9fa9fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/museum-exhibition-website/9f199789-f2cc-472f-8764-d8f4bf9fa9fe/shot_desktop.46e0edb2fd.webp" width="100%" alt="Museum Exhibition Website — Quiet horology museum, built by DeepSeek V4.1 Flash in DeepSeek Harness"></a><br>
 <b>Quiet horology museum</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/deepseek.svg" width="12" height="12" alt="">&nbsp;DeepSeek V4.1 Flash in DeepSeek Harness · <a href="https://vibefather.ai/templates/museum-exhibition-website?case=9f199789-f2cc-472f-8764-d8f4bf9fa9fe&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/museum-exhibition-website?case=ce571849-a3db-4422-9146-7a5cb24b01f6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/museum-exhibition-website/ce571849-a3db-4422-9146-7a5cb24b01f6/shot_desktop.740c383d8b.webp" width="100%" alt="Museum Exhibition Website — Measure of Days, built by GLM-5.3 in ZCode"></a><br>
+<b>Measure of Days</b><br>
+<sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.3 in ZCode · <a href="https://vibefather.ai/templates/museum-exhibition-website?case=ce571849-a3db-4422-9146-7a5cb24b01f6&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ Yes. The Museum Exhibition Website template is built for any venue that sells ti
 Copy the prompt from this page or run npx vibefather add museum-exhibition-website, replace [BRAND], [CITY], [SHOW_NAME] and [TICKET_PRICE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Museum Exhibition Website demo?
-The Measure of Days case was built by GLM-5.3 in ZCode; the Quiet horology museum case was built by DeepSeek V4.1 Flash in DeepSeek Harness. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Quiet horology museum case was built by DeepSeek V4.1 Flash in DeepSeek Harness; the Measure of Days case was built by GLM-5.3 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Museum Exhibition Website template use?
 Museum Exhibition Website is a single-page site built with Motion, React and Tailwind CSS, with drag & physics and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

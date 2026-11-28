@@ -2,7 +2,7 @@
 
 > An endless 3D corridor of framed photographs you walk through, with rooms, a lightbox and full credits.
 
-<a href="https://vibefather.ai/templates/3d-photo-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/3d-photo-gallery/bb1823f3-6052-4734-9df0-39a226355199/webp.3135fe0a9c.webp" width="100%" alt="3D Photo Gallery — Infinite 3D Photo Gallery with Lightbox built by Claude Opus 5.5, Claude Sonnet 5.5 and Gemini 4 Carbon"></a>
+<a href="https://vibefather.ai/templates/3d-photo-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/3d-photo-gallery/dc09a434-d7f5-413a-b789-1f40dd8a8342/webp.0d8448df86.webp" width="100%" alt="3D Photo Gallery — Infinite 3D Photo Gallery with Lightbox built by Gemini 4 Carbon, Claude Opus 5.5 and Claude Sonnet 5.5"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/3d-photo-gallery?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Endless Hall is a one-page online exhibition built with three.js. Twenty-four fr
 | Effects | Drag & Physics, Cursor Effects, 3D / WebGL |
 | Stack | Vite 5 + TypeScript + three.js + Plain CSS, custom properties + three |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor |
+| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Carbon](../../models/gemini-4-carbon.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Opus 5.5](../../models/claude-opus-5-5.md) in Cursor, <img src="https://vibefather.ai/icons/tools/claude.svg" width="13" height="13" alt=""> [Claude Sonnet 5.5](../../models/claude-sonnet-5-5.md) in Cursor |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,21 +24,21 @@ Endless Hall is a one-page online exhibition built with three.js. Twenty-four fr
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/3d-photo-gallery?case=dc09a434-d7f5-413a-b789-1f40dd8a8342&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-photo-gallery/dc09a434-d7f5-413a-b789-1f40dd8a8342/shot_desktop.7e114b16c7.webp" width="100%" alt="3D Photo Gallery — Photography archive exhibition, built by Gemini 4 Carbon in Cursor"></a><br>
+<b>Photography archive exhibition</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=dc09a434-d7f5-413a-b789-1f40dd8a8342&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-photo-gallery?case=bb1823f3-6052-4734-9df0-39a226355199&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-photo-gallery/bb1823f3-6052-4734-9df0-39a226355199/shot_desktop.353744dcc5.webp" width="100%" alt="3D Photo Gallery — Photography archive exhibition, built by Claude Opus 5.5 in Cursor"></a><br>
 <b>Photography archive exhibition</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Opus 5.5 in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=bb1823f3-6052-4734-9df0-39a226355199&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/3d-photo-gallery?case=3acaa987-5182-4c2f-aa45-ceb89403a5de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-photo-gallery/3acaa987-5182-4c2f-aa45-ceb89403a5de/shot_desktop.025b5c2cd1.webp" width="100%" alt="3D Photo Gallery — Landscape print shop, built by Claude Sonnet 5.5 in Cursor"></a><br>
 <b>Landscape print shop</b><br>
 <sub>Built by <img src="https://vibefather.ai/icons/tools/claude.svg" width="12" height="12" alt="">&nbsp;Claude Sonnet 5.5 in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=3acaa987-5182-4c2f-aa45-ceb89403a5de&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/3d-photo-gallery?case=dc09a434-d7f5-413a-b789-1f40dd8a8342&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/3d-photo-gallery/dc09a434-d7f5-413a-b789-1f40dd8a8342/shot_desktop.7e114b16c7.webp" width="100%" alt="3D Photo Gallery — Photography archive exhibition, built by Gemini 4 Carbon in Cursor"></a><br>
-<b>Photography archive exhibition</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Carbon in Cursor · <a href="https://vibefather.ai/templates/3d-photo-gallery?case=dc09a434-d7f5-413a-b789-1f40dd8a8342&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -89,7 +89,7 @@ Start with BRAND and EXHIBITION so the loader, wordmark and page title carry you
 Copy the prompt from this page or run npx vibefather add 3d-photo-gallery, replace [BRAND], [EXHIBITION], [COLLECTION_NOTE] and [ROOMS] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the 3D Photo Gallery demo?
-The Photography archive exhibition case was built by Claude Opus 5.5 in Cursor; the Landscape print shop case was built by Claude Sonnet 5.5 in Cursor; the Photography archive exhibition case was built by Gemini 4 Carbon in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Photography archive exhibition case was built by Gemini 4 Carbon in Cursor; the Photography archive exhibition case was built by Claude Opus 5.5 in Cursor; the Landscape print shop case was built by Claude Sonnet 5.5 in Cursor. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the 3D Photo Gallery template use?
 3D Photo Gallery is a single-page site built with Plain HTML and Three.js, with drag & physics, cursor effects and 3d / webgl. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

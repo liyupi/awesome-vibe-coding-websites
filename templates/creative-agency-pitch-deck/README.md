@@ -2,7 +2,7 @@
 
 > An editorial 12-slide creative studio credentials and hospitality rebrand pitch deck with before/after art direction.
 
-<a href="https://vibefather.ai/templates/creative-agency-pitch-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/creative-agency-pitch-deck/50d32f78-f05c-448c-8629-881e56813f44/webp.2b8f124c78.webp" width="100%" alt="Creative Agency Pitch Deck — Editorial 12-Slide Creative Agency Pitch Deck built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/creative-agency-pitch-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/creative-agency-pitch-deck/38e5d237-652f-4c46-a534-6638eb57da46/webp.558b2bcb10.webp" width="100%" alt="Creative Agency Pitch Deck — Editorial 12-Slide Creative Agency Pitch Deck built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/creative-agency-pitch-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Built for independent brand studios, creative directors, and design consultancie
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/creative-agency-pitch-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Built for independent brand studios, creative directors, and design consultancie
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/creative-agency-pitch-deck?case=50d32f78-f05c-448c-8629-881e56813f44&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/creative-agency-pitch-deck/50d32f78-f05c-448c-8629-881e56813f44/shot_desktop.a90ea07bc7.webp" width="100%" alt="Creative Agency Pitch Deck — Hospitality rebrand studio pitch, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Hospitality rebrand studio pitch</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/creative-agency-pitch-deck?case=50d32f78-f05c-448c-8629-881e56813f44&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/creative-agency-pitch-deck?case=38e5d237-652f-4c46-a534-6638eb57da46&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/creative-agency-pitch-deck/38e5d237-652f-4c46-a534-6638eb57da46/shot_desktop.3e62e254e6.webp" width="100%" alt="Creative Agency Pitch Deck — Boutique desert resort rebrand pitch, built by GLM-5.4 in ZCode"></a><br>
 <b>Boutique desert resort rebrand pitch</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/creative-agency-pitch-deck?case=38e5d237-652f-4c46-a534-6638eb57da46&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/creative-agency-pitch-deck?case=50d32f78-f05c-448c-8629-881e56813f44&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/creative-agency-pitch-deck/50d32f78-f05c-448c-8629-881e56813f44/shot_desktop.a90ea07bc7.webp" width="100%" alt="Creative Agency Pitch Deck — Hospitality rebrand studio pitch, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Hospitality rebrand studio pitch</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/creative-agency-pitch-deck?case=50d32f78-f05c-448c-8629-881e56813f44&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Creative Agency Pitch Deck has 12 slides: an editorial cover, full-bleed cam
 Copy the full prompt (Pro) from this page or run npx vibefather add creative-agency-pitch-deck, replace [BRAND], [CLIENT_NAME], [LOCATION] and [INVESTMENT_ANCHOR] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Creative Agency Pitch Deck demo?
-The Hospitality rebrand studio pitch case was built by Gemini 4 Neon in Antigravity; the Boutique desert resort rebrand pitch case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Boutique desert resort rebrand pitch case was built by GLM-5.4 in ZCode; the Hospitality rebrand studio pitch case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Creative Agency Pitch Deck template use?
 Creative Agency Pitch Deck is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

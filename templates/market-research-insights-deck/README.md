@@ -2,7 +2,7 @@
 
 > A magazine-grade 12-slide climate-tech and clean-mobility market research deck with interactive SVG multi-series charts.
 
-<a href="https://vibefather.ai/templates/market-research-insights-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/market-research-insights-deck/88f6b0c8-1259-40db-beb9-edc9c00490fb/webp.15b6b0241b.webp" width="100%" alt="Market Research Insights Deck — Editorial 12-Slide Market Research Report Deck built by Gemini 4 Neon and GLM-5.4"></a>
+<a href="https://vibefather.ai/templates/market-research-insights-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/market-research-insights-deck/aa04ffc4-121f-4c80-9020-3b17210a7f4c/webp.ae0bfeb205.webp" width="100%" alt="Market Research Insights Deck — Editorial 12-Slide Market Research Report Deck built by GLM-5.4 and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/market-research-insights-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ Designed for industry research institutes, policy think tanks, and strategy anal
 | Effects | Page Transitions, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 1 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="13" height="13" alt=""></picture> [GLM-5.4](../../models/glm-5-4.md) in ZCode, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Pro — brief, stack and variables are public; [full prompt with VibeFather Pro](https://vibefather.ai/templates/market-research-insights-deck?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-access) |
 
 ## Live demos
@@ -24,14 +24,14 @@ Designed for industry research institutes, policy think tanks, and strategy anal
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/market-research-insights-deck?case=88f6b0c8-1259-40db-beb9-edc9c00490fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/market-research-insights-deck/88f6b0c8-1259-40db-beb9-edc9c00490fb/shot_desktop.d6e83153af.webp" width="100%" alt="Market Research Insights Deck — Clean mobility annual research, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>Clean mobility annual research</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/market-research-insights-deck?case=88f6b0c8-1259-40db-beb9-edc9c00490fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/market-research-insights-deck?case=aa04ffc4-121f-4c80-9020-3b17210a7f4c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/market-research-insights-deck/aa04ffc4-121f-4c80-9020-3b17210a7f4c/shot_desktop.747cf05831.webp" width="100%" alt="Market Research Insights Deck — Grid storage global report, built by GLM-5.4 in ZCode"></a><br>
 <b>Grid storage global report</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/zcode.svg"><img src="https://vibefather.ai/icons/tools/zcode.svg" width="12" height="12" alt=""></picture>&nbsp;GLM-5.4 in ZCode · <a href="https://vibefather.ai/templates/market-research-insights-deck?case=aa04ffc4-121f-4c80-9020-3b17210a7f4c&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/market-research-insights-deck?case=88f6b0c8-1259-40db-beb9-edc9c00490fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/market-research-insights-deck/88f6b0c8-1259-40db-beb9-edc9c00490fb/shot_desktop.d6e83153af.webp" width="100%" alt="Market Research Insights Deck — Clean mobility annual research, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>Clean mobility annual research</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/market-research-insights-deck?case=88f6b0c8-1259-40db-beb9-edc9c00490fb&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -82,7 +82,7 @@ The Market Research Insights Deck template is a Pro template, so commercial and 
 Copy the full prompt (Pro) from this page or run npx vibefather add market-research-insights-deck, replace [BRAND], [REPORT_TITLE], [HERO_STAT] and [SAMPLE_SCOPE] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Market Research Insights Deck demo?
-The Clean mobility annual research case was built by Gemini 4 Neon in Antigravity; the Grid storage global report case was built by GLM-5.4 in ZCode. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Grid storage global report case was built by GLM-5.4 in ZCode; the Clean mobility annual research case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Market Research Insights Deck template use?
 Market Research Insights Deck is a single-page site built with React and Tailwind CSS, with page transitions and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.

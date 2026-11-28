@@ -2,7 +2,7 @@
 
 > 15 working browser-local developer utilities with Cmd+K jumper, favorites, history, and dark mode.
 
-<a href="https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/f065f39a-f6c4-48bb-ad25-b54f90c55e18/webp.36d9218742.webp" width="100%" alt="Developer Utilities Toolbox — Local Developer Utilities &amp; Converters Suite built by Gemini 4 Neon and GPT-6.2 Sol"></a>
+<a href="https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-cover"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/1d175a60-c7f8-4a4b-a287-ea49b16d69ee/webp.725d6310d1.webp" width="100%" alt="Developer Utilities Toolbox — Local Developer Utilities &amp; Converters Suite built by GPT-6.2 Sol and Gemini 4 Neon"></a>
 
 **[▶ Live demo on VibeFather](https://vibefather.ai/templates/developer-utilities-toolbox?utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-top)** · [prompt.md](prompt.md) · [中文译文](prompt.zh-CN.md) · [DESIGN.md](DESIGN.md)
 
@@ -16,7 +16,7 @@ A fast, offline-first developer utilities web app featuring 15 genuinely functio
 | Effects | Dark Mode, Micro-interactions |
 | Stack | Vite 5 + React 18 + TypeScript + Tailwind CSS 3.4 + lucide-react |
 | Pages | 16 |
-| Built with | <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity, <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex |
+| Built with | <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="13" height="13" alt=""></picture> [GPT-6.2 Sol](../../models/gpt-6-2-sol.md) in Codex, <img src="https://vibefather.ai/icons/tools/gemini.svg" width="13" height="13" alt=""> [Gemini 4 Neon](../../models/gemini-4-neon.md) in Antigravity |
 | Access | Free for personal and non-commercial use (CC BY-NC 4.0) |
 
 ## Live demos
@@ -24,14 +24,14 @@ A fast, offline-first developer utilities web app featuring 15 genuinely functio
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=f065f39a-f6c4-48bb-ad25-b54f90c55e18&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/f065f39a-f6c4-48bb-ad25-b54f90c55e18/shot_desktop.0efaa6a220.webp" width="100%" alt="Developer Utilities Toolbox — BenchKit, built by Gemini 4 Neon in Antigravity"></a><br>
-<b>BenchKit</b><br>
-<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=f065f39a-f6c4-48bb-ad25-b54f90c55e18&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
-</td>
-<td width="50%" valign="top">
 <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=1d175a60-c7f8-4a4b-a287-ea49b16d69ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/1d175a60-c7f8-4a4b-a287-ea49b16d69ee/shot_desktop.f9478fbd40.webp" width="100%" alt="Developer Utilities Toolbox — Kestrel Tools, built by GPT-6.2 Sol in Codex"></a><br>
 <b>Kestrel Tools</b><br>
 <sub>Built by <picture><source media="(prefers-color-scheme: dark)" srcset="https://vibefather.ai/icons/tools-dark/chatgpt.svg"><img src="https://vibefather.ai/icons/tools/chatgpt.svg" width="12" height="12" alt=""></picture>&nbsp;GPT-6.2 Sol in Codex · <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=1d175a60-c7f8-4a4b-a287-ea49b16d69ee&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=f065f39a-f6c4-48bb-ad25-b54f90c55e18&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case"><img src="https://media.vibefather.ai/t/developer-utilities-toolbox/f065f39a-f6c4-48bb-ad25-b54f90c55e18/shot_desktop.0efaa6a220.webp" width="100%" alt="Developer Utilities Toolbox — BenchKit, built by Gemini 4 Neon in Antigravity"></a><br>
+<b>BenchKit</b><br>
+<sub>Built by <img src="https://vibefather.ai/icons/tools/gemini.svg" width="12" height="12" alt="">&nbsp;Gemini 4 Neon in Antigravity · <a href="https://vibefather.ai/templates/developer-utilities-toolbox?case=f065f39a-f6c4-48bb-ad25-b54f90c55e18&utm_source=github&utm_medium=readme&utm_campaign=awesome-vibe-coding-websites&utm_content=template-case">Open live demo</a></sub>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ The Developer Utilities Toolbox template opens a command palette with Cmd+K or C
 Copy the prompt from this page or run npx vibefather add developer-utilities-toolbox, replace [BRAND], [TAGLINE], [DOMAIN_HINT] and [SUPPORT_EMAIL] with your own content, and paste it into Claude Code, Codex, Cursor or another AI coding agent. The live demos were built from exactly that text.
 
 ### Which AI model built the Developer Utilities Toolbox demo?
-The BenchKit case was built by Gemini 4 Neon in Antigravity; the Kestrel Tools case was built by GPT-6.2 Sol in Codex. Each build used the published prompt with nothing added, so you can compare the models side by side.
+The Kestrel Tools case was built by GPT-6.2 Sol in Codex; the BenchKit case was built by Gemini 4 Neon in Antigravity. Each build used the published prompt with nothing added, so you can compare the models side by side.
 
 ### What tech stack and pages does the Developer Utilities Toolbox template use?
 Developer Utilities Toolbox is a 16-page site built with React, Tailwind CSS and Vite, with dark mode and micro-interactions. The prompt fixes the stack so every AI tool builds the same kind of project, and the result runs as a static site you can host anywhere.
